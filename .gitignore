@@ -1,0 +1,7 @@
+kaam/
+*.mp4
+*.mp3
+*.webm
+*.m4a
+cookies.txt
+__pycache__/
