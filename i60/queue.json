@@ -39,14 +39,16 @@
  {
   "slug": "s006-dishwasher",
   "topic": "Dishwasher",
-  "status": "doing",
-  "publish_at": "2026-11-27T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-11-27T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/65d0b83263a5e4c131739e4cb1d08f60b083f135/i60/up/s006-dishwasher.mp4"
  },
  {
   "slug": "s007-air-conditioner",
   "topic": "Air conditioner",
-  "status": "doing",
-  "publish_at": "2026-11-28T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-11-28T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/95e9041a0df0e0a031f4980e2a52010800a49026/i60/up/s007-air-conditioner.mp4"
  },
  {
   "slug": "s008-vacuum-cleaner",
