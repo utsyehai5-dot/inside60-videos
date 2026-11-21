@@ -1,0 +1,14 @@
+{
+ "title": "How a Washing Machine Works in 60 Seconds 🧺🌀 #shorts",
+ "description": "A washing machine is a spinning drum, a motor, a pump and a few valves working together. Water and detergent fill the tub, paddles lift and drop your clothes to scrub out dirt, a pump drains and rinses, and a final spin of up to 1,200 rpm flings the water out through tiny holes. Fill, tumble, rinse, spin. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#washingmachine #howitworks #shorts",
+ "tags": ["washing machine", "how a washing machine works", "front loader", "spin cycle", "laundry", "how it works", "physics", "engineering", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Drum", "text": "Your washing machine's drum can spin over *a thousand* times a minute."},
+  {"label": "Fill", "text": "First, a *valve* opens and water fills the tub, mixing with the detergent."},
+  {"label": "Tumble", "text": "Paddles inside the drum *lift* your clothes and drop them, again and again, knocking out dirt."},
+  {"label": "The Motor", "text": "An electric *motor* drives the drum, turning it one way, then the other."},
+  {"label": "Drain & Rinse", "text": "A *pump* drains the dirty water. Then fresh water rinses out the soap."},
+  {"label": "Spin", "text": "Finally the drum *spins* up to 1,200 times a minute, flinging water out through tiny holes.", "stat": "1,200", "statsub": "RPM"},
+  {"label": "Recap", "text": "Fill, tumble, rinse, *spin*. Follow Inside 60 for more."}
+ ]
+}
