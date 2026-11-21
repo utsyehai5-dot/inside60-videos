@@ -1,0 +1,36 @@
+# Inside 60 — Shorts production runbook (for Claude)
+
+Channel: Inside 60 (@Inside60HQ). Vertical 3D "how it works in 60 seconds" Shorts, English, Andrew voice.
+Owner talks Roman Urdu. Look: see shorts/s001-toaster (three.js scene + kit/template.html overlay:
+INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-word captions).
+
+## Rules
+- Facts must be checked with a quick web search in this run (2–4 searches per short). No guessing numbers.
+- 30–55 seconds total (render.py refuses > 59.5 s). 5–7 steps. Each step 1–2 short sentences.
+  Step 1 = hook (surprising fact). Last step = 3–4 word recap + "Follow Inside 60 for more."
+  Mark 1–2 keywords per step with *asterisks* (highlighted yellow in captions). Optional "stat"/"statsub".
+- 3D only from code (three.js primitives, RoundedBoxGeometry, Tube, Lathe, Extrude...). Bright readable
+  materials, emissive glow for energy/heat/flow, camera glides to a new shot each step (see toaster scene.js).
+  Keep the subject in the middle band of the frame (y 400–1300 px) — top has the pill/stat, bottom has captions.
+- No logos, no real brands, no people's faces.
+
+## One run
+1. `cd i60 && python3 -c "import json;q=json.load(open('queue.json'));print(next((i for i in q if i['status']=='todo'),'EMPTY'))"`
+   Take the first "todo" item (and the next ones, as many as fit — about 3 per run). Set them "doing", commit + push
+   immediately (git pull --rebase first) so a parallel run doesn't take them.
+2. For each: write `shorts/<slug>/short.json` (title "How a X Works in 60 Seconds <2 emojis> #shorts",
+   description 2–4 sentences + "Follow Inside 60 for a new \"how it works\" explained in 60 seconds." + 3 hashtags,
+   tags list, steps) and `shorts/<slug>/scene.js` (export async function setup({THREE, scene, camera}) → {update(t, si, lt, sd)}).
+3. Setup once per run: `cd i60/kit && npm i` (three + font), `pip install edge-tts --break-system-packages`.
+   Render: `cd i60 && python3 kit/render.py shorts/<slug>` (~10–15 min each, run in background and poll;
+   the shell tool times out at 10 min). Check out/check0..3.jpg with the Read tool. Fix and re-render if the
+   subject is cut off, hidden behind UI, or a shot shows nothing.
+4. Upload via Zapier YouTube "Upload Video" (selected_api YouTubeV4CLIAPI, tool youtube_upload_video),
+   connection_id `021daa39-8c3c-859c-8b0f-225fcc754083` (= Inside 60 channel — NOT the other one).
+   Host first: copy mp4 to `i60/up/<slug>.mp4`, `git add -f`, commit, push, URL
+   https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/main/i60/up/<slug>.mp4
+   Params: title, description, tags, privacy_status "private", publish_at (queue value), made_for_kids false,
+   category_id "28", default_language "en", default_audio_language "en". (2 Zapier tasks per upload.)
+5. After upload: `git rm` the file in i60/up/, set item status "done" + "video_id", commit only short.json,
+   scene.js, queue.json (never out/), push.
+6. If something fails (TTS, render, Zapier), set the item back to "todo" with a "last_error" note and push.

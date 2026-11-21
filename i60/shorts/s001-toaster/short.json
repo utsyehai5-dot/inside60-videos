@@ -1,0 +1,13 @@
+{
+ "title": "How a Toaster Works in 60 Seconds 🍞🔥 #shorts",
+ "description": "There's no fire inside your toaster. Thin nichrome wires glow orange hot, an electromagnet holds your bread down, infrared heat browns it through the Maillard reaction, and a spring pops it up when the timer cuts the power. Glow, hold, brown, pop. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#toaster #howitworks #shorts",
+ "tags": ["toaster", "how a toaster works", "how it works", "nichrome", "maillard reaction", "engineering", "science", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Toaster", "text": "There is no fire inside your toaster. Just *wire*, glowing orange hot."},
+  {"label": "Nichrome Wire", "text": "Push the lever, and electricity rushes into thin *nichrome* wires. They resist the current so strongly that they heat up and glow.", "stat": "~1000 W", "statsub": "OF HEAT"},
+  {"label": "The Magnet", "text": "Why does the lever stay down? A small *electromagnet* grabs it and holds your bread in place."},
+  {"label": "Browning", "text": "The glowing wires blast *infrared* heat at the bread. Above about 140 degrees, sugars and proteins turn *brown*.", "stat": "140°C", "statsub": "BROWNING STARTS"},
+  {"label": "The Timer", "text": "A little *timer* circuit counts down. When time is up, it cuts power to the magnet."},
+  {"label": "Pop!", "text": "Let go, and a *spring* launches your toast. Glow, hold, brown, pop. Follow Inside 60 for more."}
+ ]
+}

@@ -10,3 +10,6 @@ mmf/episodes/*/vid/
 mmf/episodes/*/out/
 mmf/episodes/*/music.wav
 *.png
+node_modules/
+i60/shorts/*/out/
+i60/shorts/*/timeline.json
