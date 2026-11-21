@@ -1,0 +1,14 @@
+{
+ "title": "How an Electric Motor Works in 60 Seconds ⚡🔄 #shorts",
+ "description": "Electric motors use around 45% of all the world's electricity. Inside, a copper coil becomes an electromagnet, magnets push and pull it around, and a commutator flips the current every half turn so it never stops spinning. Push, pull, flip, spin. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#electricmotor #howitworks #shorts",
+ "tags": ["electric motor", "how an electric motor works", "dc motor", "commutator", "electromagnet", "how it works", "physics", "engineering", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Motor", "text": "Electric motors use almost *half* of all the electricity on Earth.", "stat": "~45%", "statsub": "OF WORLD ELECTRICITY"},
+  {"label": "Coil & Magnets", "text": "Inside a simple motor, a *copper* coil sits between two strong magnets."},
+  {"label": "Electromagnet", "text": "Send current through the coil, and it becomes an *electromagnet*, with its own north and south pole."},
+  {"label": "Push & Pull", "text": "Like poles push, opposite poles pull. So the coil *twists* toward the magnets."},
+  {"label": "Commutator", "text": "Just as it lines up, a split ring called the *commutator* flips the current. The poles swap, and it keeps turning."},
+  {"label": "Spin", "text": "Bigger motors flip the current with *electronics*, spinning fans, trains and electric cars."},
+  {"label": "Recap", "text": "Push, pull, flip, *spin*. Follow Inside 60 for more."}
+ ]
+}
