@@ -5,3 +5,8 @@ kaam/
 *.m4a
 cookies.txt
 __pycache__/
+mmf/episodes/*/audio/
+mmf/episodes/*/vid/
+mmf/episodes/*/out/
+mmf/episodes/*/music.wav
+*.png

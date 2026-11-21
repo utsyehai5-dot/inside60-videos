@@ -1,0 +1,145 @@
+[
+ {
+  "slug": "ep01-ikea",
+  "company": "IKEA",
+  "status": "done",
+  "long_id": "fKnOnDDbk10",
+  "publish_at": "2026-11-21T17:00:00Z",
+  "shorts": [
+   {
+    "id": "MYaOcAnvdF0",
+    "publish_at": "2026-11-24T17:00:00Z"
+   }
+  ]
+ },
+ {
+  "slug": "ep02-mcdonalds",
+  "company": "McDonald's",
+  "status": "todo",
+  "publish_at": "2026-11-28T17:00:00Z",
+  "short_dates": [
+   "2026-12-01T17:00:00Z",
+   "2026-12-03T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep03-costco",
+  "company": "Costco",
+  "status": "todo",
+  "publish_at": "2026-12-05T17:00:00Z",
+  "short_dates": [
+   "2026-12-08T17:00:00Z",
+   "2026-12-10T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep04-lego",
+  "company": "LEGO",
+  "status": "todo",
+  "publish_at": "2026-12-12T17:00:00Z",
+  "short_dates": [
+   "2026-12-15T17:00:00Z",
+   "2026-12-17T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep05-apple",
+  "company": "Apple",
+  "status": "todo",
+  "publish_at": "2026-12-19T17:00:00Z",
+  "short_dates": [
+   "2026-12-22T17:00:00Z",
+   "2026-12-24T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep06-netflix",
+  "company": "Netflix",
+  "status": "todo",
+  "publish_at": "2026-12-26T17:00:00Z",
+  "short_dates": [
+   "2026-12-29T17:00:00Z",
+   "2026-12-31T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep07-nike",
+  "company": "Nike",
+  "status": "todo",
+  "publish_at": "2027-01-02T17:00:00Z",
+  "short_dates": [
+   "2027-01-05T17:00:00Z",
+   "2027-01-07T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep08-zara",
+  "company": "Zara (Inditex)",
+  "status": "todo",
+  "publish_at": "2027-01-09T17:00:00Z",
+  "short_dates": [
+   "2027-01-12T17:00:00Z",
+   "2027-01-14T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep09-rolex",
+  "company": "Rolex",
+  "status": "todo",
+  "publish_at": "2027-01-16T17:00:00Z",
+  "short_dates": [
+   "2027-01-19T17:00:00Z",
+   "2027-01-21T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep10-red",
+  "company": "Red Bull",
+  "status": "todo",
+  "publish_at": "2027-01-23T17:00:00Z",
+  "short_dates": [
+   "2027-01-26T17:00:00Z",
+   "2027-01-28T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep11-spotify",
+  "company": "Spotify",
+  "status": "todo",
+  "publish_at": "2027-01-30T17:00:00Z",
+  "short_dates": [
+   "2027-02-02T17:00:00Z",
+   "2027-02-04T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep12-nintendo",
+  "company": "Nintendo",
+  "status": "todo",
+  "publish_at": "2027-02-06T17:00:00Z",
+  "short_dates": [
+   "2027-02-09T17:00:00Z",
+   "2027-02-11T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep13-toyota",
+  "company": "Toyota",
+  "status": "todo",
+  "publish_at": "2027-02-13T17:00:00Z",
+  "short_dates": [
+   "2027-02-16T17:00:00Z",
+   "2027-02-18T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep14-starbucks",
+  "company": "Starbucks",
+  "status": "todo",
+  "publish_at": "2027-02-20T17:00:00Z",
+  "short_dates": [
+   "2027-02-23T17:00:00Z",
+   "2027-02-25T17:00:00Z"
+  ]
+ }
+]
