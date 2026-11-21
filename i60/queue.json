@@ -2,25 +2,23 @@
  {
   "slug": "s001-toaster",
   "topic": "Toaster",
-  "status": "todo",
+  "status": "ready",
   "publish_at": "2026-11-22T17:05:00Z",
   "note": "scene.js and short.json exist; timer shot was fixed after the sample, so re-render then upload",
-  "last_error": "2026-11-21 20:47 UTC (4th run): uploaded existing s001 mp4 (commit 0e89c77) directly, Zapier YouTube again 'throttled without retry' (4th time today). Zapier tasks fine (146/1000). Stopped; s002/s003 not rendered. Owner should check Zapier/YouTube throttle.",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0e89c77fb6532fb25cb4d8fe95c6c9a760103c40/i60/up/s001-toaster.mp4"
+  "last_error": "2026-11-21 20:47 UTC (4th run): uploaded existing s001 mp4 (commit 0e89c77) directly, Zapier YouTube again 'throttled without retry' (4th time today). Zapier tasks fine (146/1000). Stopped; s002/s003 not rendered. Owner should check Zapier/YouTube throttle. | set to ready by main chat: upload this file, no re-render needed",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0e89c77/i60/up/s001-toaster.mp4"
  },
  {
   "slug": "s002-car-engine",
   "topic": "Car engine",
   "status": "todo",
-  "publish_at": "2026-11-23T17:05:00Z",
-  "last_error": "2026-11-21 20:47 UTC (4th run): uploaded existing s001 mp4 (commit 0e89c77) directly, Zapier YouTube again 'throttled without retry' (4th time today). Zapier tasks fine (146/1000). Stopped; s002/s003 not rendered. Owner should check Zapier/YouTube throttle."
+  "publish_at": "2026-11-23T17:05:00Z"
  },
  {
   "slug": "s003-electric-motor",
   "topic": "Electric motor",
   "status": "todo",
-  "publish_at": "2026-11-24T17:05:00Z",
-  "last_error": "2026-11-21 20:47 UTC (4th run): uploaded existing s001 mp4 (commit 0e89c77) directly, Zapier YouTube again 'throttled without retry' (4th time today). Zapier tasks fine (146/1000). Stopped; s002/s003 not rendered. Owner should check Zapier/YouTube throttle."
+  "publish_at": "2026-11-24T17:05:00Z"
  },
  {
   "slug": "s004-smartphone-touchscreen",
