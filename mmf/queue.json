@@ -36,12 +36,13 @@
  {
   "slug": "ep03-costco",
   "company": "Costco",
-  "status": "doing",
+  "status": "todo",
   "publish_at": "2026-12-05T17:00:00Z",
   "short_dates": [
    "2026-12-08T17:00:00Z",
    "2026-12-10T17:00:00Z"
-  ]
+  ],
+  "last_error": "2026-11-21: Zapier YouTube upload throttled ('throttled without retry') on long video; nothing uploaded. scenes.py + meta.json are ready & checked; next run: rebuild and upload only."
  },
  {
   "slug": "ep04-lego",
