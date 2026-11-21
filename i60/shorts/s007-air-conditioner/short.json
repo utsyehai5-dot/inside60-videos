@@ -1,0 +1,14 @@
+{
+ "title": "How an Air Conditioner Works in 60 Seconds ❄️🏠 #shorts",
+ "description": "An air conditioner doesn't create cold. It moves heat. A refrigerant evaporates in the indoor coil and soaks up heat from your room, a compressor squeezes it hot, the outdoor coil dumps that heat outside, and an expansion valve chills it again. Absorb, squeeze, release, repeat. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#airconditioner #howitworks #shorts",
+ "tags": ["air conditioner", "how an air conditioner works", "refrigeration cycle", "refrigerant", "compressor", "hvac", "how it works", "physics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "An air conditioner doesn't make cold. It *moves heat* from inside your home to the outside."},
+  {"label": "Evaporator", "text": "Indoors, cold *refrigerant* flows through a coil. It soaks up heat from your room and turns into a gas."},
+  {"label": "Compressor", "text": "Outside, a *compressor* squeezes that gas, making it very hot and high pressure."},
+  {"label": "Condenser", "text": "A fan blows across the outdoor coil, dumping the *heat* outside. The gas turns back into liquid."},
+  {"label": "Expansion Valve", "text": "A tiny *valve* drops the pressure, and the refrigerant becomes ice cold again."},
+  {"label": "Dripping Water", "text": "The cold coil also pulls *moisture* from the air. That's why AC units drip."},
+  {"label": "Recap", "text": "Absorb, squeeze, release, *repeat*. Follow Inside 60 for more."}
+ ]
+}
