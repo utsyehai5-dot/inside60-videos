@@ -4,9 +4,9 @@ Channel: Inside 60 (@Inside60HQ). Vertical 3D "how it works in 60 seconds" Short
 Owner talks Roman Urdu. Look: see shorts/s001-toaster (three.js scene + kit/template.html overlay:
 INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-word captions).
 
-## FIRST STEP OF EVERY RUN — upload throttle check (cheap exit)
-- Read /throttle.json (repo root). If now (UTC) < blocked_until: do NOTHING else (no rendering, no Zapier), report
-  "upload limit — paused until <time Stockholm>" in one line and stop. This saves the owner's Claude usage.
+## FIRST STEP OF EVERY RUN — upload throttle check
+- Read /throttle.json (repo root). If now (UTC) < blocked_until: make NO Zapier upload calls in this run, but still
+  make and store new "ready" items (the owner wants everything made and stored, uploaded later).
 - If any Zapier YouTube upload returns "throttled" (any wording with throttle / quota / rate limit): do NOT retry it
   in this run. Set throttle.json blocked_until = the next 08:15 UTC, commit + push, keep your work (see "ready" below), stop.
 
