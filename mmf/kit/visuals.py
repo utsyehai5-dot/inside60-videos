@@ -282,14 +282,14 @@ def v_compare(d, t, lt, ll, rt, rl):
             d.text((x0 + 110, 430 + i * 105), ln, font=ff, fill=A(WHITE, b), anchor="lm")
 
 
-def v_flow(d, t, title, nodes, labels):
+def v_flow(d, t, title, nodes, labels, note="Money flows back the other way →  you pay the store, the store pays Inter IKEA", hi="Inter"):
     a = seg(t, 0)
     d.text((960, 220), title, font=F(FB, 66), fill=A(WHITE, a), anchor="mm")
     n = len(nodes)
     xs = [260 + i * (1400 / (n - 1)) for i in range(n)]
     for i, (x, name) in enumerate(zip(xs, nodes)):
         b = seg(t, i * .8)
-        col = GOLD if name.startswith("Inter") else BLUE if name == "Stores" else GREY
+        col = GOLD if name.startswith(hi) else BLUE if name == "Stores" else GREY
         d.rounded_rectangle([x - 150, 470, x + 150, 610], radius=26, fill=A(CARD, b), outline=A(col, b), width=5)
         f = fit(name, FB, 44, 260, d)
         d.text((x, 540), name, font=f, fill=A(WHITE, b), anchor="mm")
@@ -301,7 +301,7 @@ def v_flow(d, t, title, nodes, labels):
             d.polygon([(x2 - 4, 522), (x2 + 14, 540), (x2 - 4, 558)], fill=A(GOLD, c))
             d.text(((x1 + x2) / 2, 500), labels[i], font=F(FR, 28), fill=A(GOLD2, c), anchor="mm")
     e = seg(t, n * .8)
-    d.text((960, 760), "Money flows back the other way →  you pay the store, the store pays Inter IKEA", font=F(FR, 36), fill=A(GREY, e), anchor="mm")
+    d.text((960, 760), note, font=F(FR, 36), fill=A(GREY, e), anchor="mm")
 
 
 def v_bars(d, t, title, rows):
