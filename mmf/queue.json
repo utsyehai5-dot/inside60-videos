@@ -36,12 +36,13 @@
  {
   "slug": "ep03-costco",
   "company": "Costco",
-  "status": "doing",
+  "status": "todo",
   "publish_at": "2026-12-05T17:00:00Z",
   "short_dates": [
    "2026-12-08T17:00:00Z",
    "2026-12-10T17:00:00Z"
-  ]
+  ],
+  "last_error": "2026-11-21 20:5xZ (3rd run): Zapier YouTube upload throttled again ('throttled without retry') on long video, connection 023660ab; nothing uploaded. Build OK (8.3 min, shorts 45s/46s). Task usage fine (146/1000) - so it's a rate/flood limit, likely from many upload attempts today (Inside 60 routine also throttled). Retry tomorrow."
  },
  {
   "slug": "ep04-lego",
