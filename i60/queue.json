@@ -2,24 +2,24 @@
  {
   "slug": "s001-toaster",
   "topic": "Toaster",
-  "status": "doing",
+  "status": "todo",
   "publish_at": "2026-11-22T17:05:00Z",
   "note": "scene.js and short.json exist; timer shot was fixed after the sample, so re-render then upload",
-  "last_error": "2026-11-21: rendered OK (scene.js/short.json ready, toaster camera fixed) but Zapier YouTube upload was throttled 3x, then blocked; just re-render + upload"
+  "last_error": "2026-11-21 (2nd run): s001 re-rendered OK, but Zapier YouTube upload returned 'throttled without retry' on first attempt; stopped, no more retries. Zapier task limit/throttle needs checking."
  },
  {
   "slug": "s002-car-engine",
   "topic": "Car engine",
-  "status": "doing",
+  "status": "todo",
   "publish_at": "2026-11-23T17:05:00Z",
-  "last_error": "2026-11-21: rendered OK (scene.js/short.json ready, toaster camera fixed) but Zapier YouTube upload was throttled 3x, then blocked; just re-render + upload"
+  "last_error": "2026-11-21 (2nd run): s001 re-rendered OK, but Zapier YouTube upload returned 'throttled without retry' on first attempt; stopped, no more retries. Zapier task limit/throttle needs checking."
  },
  {
   "slug": "s003-electric-motor",
   "topic": "Electric motor",
-  "status": "doing",
+  "status": "todo",
   "publish_at": "2026-11-24T17:05:00Z",
-  "last_error": "2026-11-21: rendered OK (scene.js/short.json ready, toaster camera fixed) but Zapier YouTube upload was throttled 3x, then blocked; just re-render + upload"
+  "last_error": "2026-11-21 (2nd run): s001 re-rendered OK, but Zapier YouTube upload returned 'throttled without retry' on first attempt; stopped, no more retries. Zapier task limit/throttle needs checking."
  },
  {
   "slug": "s004-smartphone-touchscreen",
