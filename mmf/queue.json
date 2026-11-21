@@ -271,5 +271,145 @@
    "2027-05-25T17:00:00Z",
    "2027-05-27T17:00:00Z"
   ]
+ },
+ {
+  "slug": "ep28-nvidia",
+  "company": "Nvidia",
+  "status": "todo",
+  "publish_at": "2027-05-29T17:00:00Z",
+  "short_dates": [
+   "2027-06-01T17:00:00Z",
+   "2027-06-03T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep29-meta-facebook",
+  "company": "Meta (Facebook)",
+  "status": "todo",
+  "publish_at": "2027-06-05T17:00:00Z",
+  "short_dates": [
+   "2027-06-08T17:00:00Z",
+   "2027-06-10T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep30-youtube",
+  "company": "YouTube",
+  "status": "todo",
+  "publish_at": "2027-06-12T17:00:00Z",
+  "short_dates": [
+   "2027-06-15T17:00:00Z",
+   "2027-06-17T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep31-tiktok",
+  "company": "TikTok",
+  "status": "todo",
+  "publish_at": "2027-06-19T17:00:00Z",
+  "short_dates": [
+   "2027-06-22T17:00:00Z",
+   "2027-06-24T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep32-shein",
+  "company": "Shein",
+  "status": "todo",
+  "publish_at": "2027-06-26T17:00:00Z",
+  "short_dates": [
+   "2027-06-29T17:00:00Z",
+   "2027-07-01T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep33-temu",
+  "company": "Temu",
+  "status": "todo",
+  "publish_at": "2027-07-03T17:00:00Z",
+  "short_dates": [
+   "2027-07-06T17:00:00Z",
+   "2027-07-08T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep34-ryanair",
+  "company": "Ryanair",
+  "status": "todo",
+  "publish_at": "2027-07-10T17:00:00Z",
+  "short_dates": [
+   "2027-07-13T17:00:00Z",
+   "2027-07-15T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep35-volvo",
+  "company": "Volvo",
+  "status": "todo",
+  "publish_at": "2027-07-17T17:00:00Z",
+  "short_dates": [
+   "2027-07-20T17:00:00Z",
+   "2027-07-22T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep36-peloton",
+  "company": "Peloton",
+  "status": "todo",
+  "publish_at": "2027-07-24T17:00:00Z",
+  "short_dates": [
+   "2027-07-27T17:00:00Z",
+   "2027-07-29T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep37-mercedes-benz",
+  "company": "Mercedes-Benz",
+  "status": "todo",
+  "publish_at": "2027-07-31T17:00:00Z",
+  "short_dates": [
+   "2027-08-03T17:00:00Z",
+   "2027-08-05T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep38-canon",
+  "company": "Canon",
+  "status": "todo",
+  "publish_at": "2027-08-07T17:00:00Z",
+  "short_dates": [
+   "2027-08-10T17:00:00Z",
+   "2027-08-12T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep39-dyson",
+  "company": "Dyson",
+  "status": "todo",
+  "publish_at": "2027-08-14T17:00:00Z",
+  "short_dates": [
+   "2027-08-17T17:00:00Z",
+   "2027-08-19T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep40-garmin",
+  "company": "Garmin",
+  "status": "todo",
+  "publish_at": "2027-08-21T17:00:00Z",
+  "short_dates": [
+   "2027-08-24T17:00:00Z",
+   "2027-08-26T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep41-logitech",
+  "company": "Logitech",
+  "status": "todo",
+  "publish_at": "2027-08-28T17:00:00Z",
+  "short_dates": [
+   "2027-08-31T17:00:00Z",
+   "2027-09-02T17:00:00Z"
+  ]
  }
 ]
