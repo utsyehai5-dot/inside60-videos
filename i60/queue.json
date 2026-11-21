@@ -25,8 +25,9 @@
  {
   "slug": "s004-smartphone-touchscreen",
   "topic": "Smartphone touchscreen",
-  "status": "doing",
-  "publish_at": "2026-11-25T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-11-25T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/43bc6fab3d38e2a85b07b87c462a4ea2dec4da32/i60/up/s004-smartphone-touchscreen.mp4"
  },
  {
   "slug": "s005-washing-machine",
