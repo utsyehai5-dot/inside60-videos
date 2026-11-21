@@ -42,3 +42,9 @@ INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-w
    (raw links by commit SHA keep working after the file is removed). Then `git rm` the file in i60/up/, set item status "done" + "video_id", commit only short.json,
    scene.js, queue.json (never out/), push.
 6. If something fails (TTS, render, Zapier), set the item back to "todo" with a "last_error" note and push.
+
+## Anti-spam rule (YouTube)
+- At most 12 uploads per channel per calendar day (UTC). Before uploading, count queue items with status "done"
+  and an "uploaded_on" equal to today's UTC date; if 12 or more, put your items back to "todo" and stop.
+  Always set "uploaded_on": "<YYYY-MM-DD UTC>" on items you upload. Publish dates stay 1 per day (Inside 60) /
+  Sat + Tue + Thu (Money Machine Files), so viewers only ever see the normal rhythm.

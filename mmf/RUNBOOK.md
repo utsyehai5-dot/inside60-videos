@@ -46,3 +46,9 @@ Owner talks Roman Urdu; videos are English.
 
 ## Schedule
 Long videos: Saturdays 18:00 Stockholm (17:00Z). Shorts: Tuesday and Thursday after that Saturday, 18:00.
+
+## Anti-spam rule (YouTube)
+- At most 12 uploads per channel per calendar day (UTC). Before uploading, count queue items with status "done"
+  and an "uploaded_on" equal to today's UTC date; if 12 or more, put your items back to "todo" and stop.
+  Always set "uploaded_on": "<YYYY-MM-DD UTC>" on items you upload. Publish dates stay 1 per day (Inside 60) /
+  Sat + Tue + Thu (Money Machine Files), so viewers only ever see the normal rhythm.
