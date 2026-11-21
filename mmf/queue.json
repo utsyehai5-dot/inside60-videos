@@ -42,7 +42,7 @@
    "2026-12-08T17:00:00Z",
    "2026-12-10T17:00:00Z"
   ],
-  "last_error": "2026-11-21 20:5xZ (3rd run): Zapier YouTube upload throttled again ('throttled without retry') on long video, connection 023660ab; nothing uploaded. Build OK (8.3 min, shorts 45s/46s). Task usage fine (146/1000) - so it's a rate/flood limit, likely from many upload attempts today (Inside 60 routine also throttled). Retry tomorrow. | set to ready by main chat: files hosted at commit 168e1b1, meta.json in episodes/ep03-costco \u2014 just upload",
+  "last_error": "2026-11-21 20:5xZ (3rd run): Zapier YouTube upload throttled again ('throttled without retry') on long video, connection 023660ab; nothing uploaded. Build OK (8.3 min, shorts 45s/46s). Task usage fine (146/1000) - so it's a rate/flood limit, likely from many upload attempts today (Inside 60 routine also throttled). Retry tomorrow. | set to ready by main chat: files hosted at commit 168e1b1, meta.json in episodes/ep03-costco — just upload",
   "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco.mp4",
   "short_urls": [
    "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_short0.mp4",
@@ -53,7 +53,7 @@
  {
   "slug": "ep04-lego",
   "company": "LEGO",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2026-12-12T17:00:00Z",
   "short_dates": [
    "2026-12-15T17:00:00Z",
