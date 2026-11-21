@@ -18,8 +18,9 @@
  {
   "slug": "s003-electric-motor",
   "topic": "Electric motor",
-  "status": "doing",
-  "publish_at": "2026-11-24T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-11-24T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/13a71ad773c3aefbae5152b38d4154a58a012905/i60/up/s003-electric-motor.mp4"
  },
  {
   "slug": "s004-smartphone-touchscreen",
