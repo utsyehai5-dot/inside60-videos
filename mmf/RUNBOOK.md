@@ -16,7 +16,10 @@ Owner talks Roman Urdu; videos are English.
 - Order of work in every run: (1) upload "ready" items, earliest publish_at first; (2) only then make new items.
 - Total YouTube uploads (both channels together) per UTC day: at most 6. Count items with "uploaded_on" = today in
   BOTH queues (mmf/queue.json + i60/queue.json; an MMF episode counts 3). At the cap: just make/ready new items, don't upload.
-- Don't build more than 10 "ready" items ahead per channel (saves Claude usage); if 10 are ready and you can't upload, stop.
+- Keep making new items even when you can't upload (owner wants everything made and stored). Make items in
+  publish_at order.
+- FROM 2026-12-02 (Zapier free plan): production runs NEVER upload. They only make "ready" items. Uploading is done
+  by the separate daily task "Daily uploader" (1 day before each publish date).
 - Remove a file from */up/ only after its upload succeeded (the SHA link keeps working for Instagram).
 
 ## Hard rules
