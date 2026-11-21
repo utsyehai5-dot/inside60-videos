@@ -1,0 +1,107 @@
+# Money Machine Files — Ep 4: How LEGO Really Makes Money
+# Each scene: narration text + visual spec
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "DKK 83.5 BILLION", "LEGO's revenue in 2025 — about $12 billion"),
+      t="In 2025, the LEGO Group brought in eighty-three point five billion Danish kroner. That is roughly twelve billion US dollars, from little plastic bricks."),
+ dict(v=("quote", "How does a box of plastic bricks become one of the most profitable toys on Earth?", ""),
+      t="Twenty years earlier, the same company was losing money so fast that people wondered if it would survive at all. Today, about a quarter of every kroner it takes in ends up as operating profit. So how does a box of plastic bricks become a money machine?"),
+ dict(v=("brand", "FILE #004  ·  LEGO"),
+      t="This is the money machine behind LEGO. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "A Carpenter in Billund"),
+      t="Chapter one. A carpenter in Billund."),
+ dict(v=("timeline", "1932", "Ole Kirk Kristiansen starts making wooden toys"),
+      t="The story begins in a small Danish village called Billund. In 1932, in the middle of the Great Depression, a master carpenter named Ole Kirk Kristiansen started making wooden toys to keep his workshop alive."),
+ dict(v=("list", "What the workshop sold", ["Wooden cars and aeroplanes", "Yo-yos", "Ladders", "Ironing boards"]),
+      t="It was not glamorous. Alongside wooden cars, aeroplanes and yo-yos, the little workshop also sold ladders and ironing boards. Anything that would pay the bills."),
+ dict(v=("timeline", "1936", "LEG GODT  →  LEGO"),
+      t="In the mid-1930s he gave the business a new name. He took two Danish words, leg godt, which mean play well, and squeezed them into one. LEGO. By a happy accident, the word also means something like I gather, or I put together, in Latin."),
+ dict(v=("timeline", "1942", "The factory burns down — and is rebuilt"),
+      t="Then disaster. On a night in March 1942, the woodworking factory burned to the ground. Ole rebuilt it. By the next year, the company had around forty employees."),
+ dict(v=("timeline", "1958", "The stud-and-tube brick is patented"),
+      t="After the war, LEGO bought a plastic moulding machine and started making plastic bricks. But the early bricks were hollow underneath, and models kept falling apart. The fix came on the twenty-eighth of January 1958, when the company filed a patent at one fifty-eight in the afternoon, for a brick with studs on top and tubes underneath."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "The Brick Is a System"),
+      t="Chapter two. The brick is a system."),
+ dict(v=("stat", "915,103,765", "ways to combine six 2×4 bricks", "Same colour, according to LEGO"),
+      t="That stud and tube gave LEGO what fans call clutch power. Bricks snap together, stay together, and pull apart again. LEGO says six of its classic two-by-four bricks, all the same colour, can be combined in more than nine hundred and fifteen million ways."),
+ dict(v=("stat", "1/200 mm", "moulding accuracy from 1963", "When LEGO switched to ABS plastic"),
+      t="To make that work, every brick has to be almost perfect. In 1963 LEGO switched to a tougher plastic called ABS, and moulded its bricks to an accuracy of one two-hundredth of a millimetre. Its motto was simple. Only the best is good enough."),
+ dict(v=("quote", "LEGO doesn't sell toys. It sells a system that never ends.", ""),
+      t="Here is the first secret of the machine. A LEGO set is not a finished toy. It is one more piece of a system. Every new box works with the bricks you already own. So every set you buy makes the next one more useful."),
+ dict(v=("flow", "The LEGO loop", ["Buy a set", "Build & play", "Bigger collection", "Buy more sets"], ["then", "grows", "wants"],
+         "Every new box fits every old brick  →  the collection keeps calling", "Buy"),
+      t="And that creates a loop. You buy a set and build it. Your pile of bricks grows. A bigger collection makes the next set even more fun. So you buy another. Round and round, sometimes for a lifetime."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "The Near Collapse"),
+      t="Chapter three. The near collapse."),
+ dict(v=("list", "What went wrong", ["Too many new ideas, too fast", "Parts jumped from 6,000 to 12,000+", "Costs nobody fully understood", "Theme parks, video games and more"]),
+      t="By the early 2000s, LEGO had lost its way. It chased video games, theme parks and new toy lines. The number of different parts it made doubled, from about six thousand to more than twelve thousand. According to people inside the company, managers did not even know what many products cost to make."),
+ dict(v=("stat", "−25%", "LEGO's sales drop in 2003", "Pre-tax loss: about DKK 1.5 billion"),
+      t="In 2003 it all came crashing down. Global sales fell by a quarter in a single year, and LEGO lost about one and a half billion kroner before tax."),
+ dict(v=("timeline", "2004", "Jørgen Vig Knudstorp becomes CEO"),
+      t="In 2004 the family handed the company to a former McKinsey consultant named Jørgen Vig Knudstorp. His job was to stop the bleeding."),
+ dict(v=("list", "The rescue plan", ["Cut parts back to about 6,000", "Closed the video game unit", "Cut costs by about 20%", "Sold the LEGOLAND parks"]),
+      t="He went back to the brick. He cut the number of parts back to around six thousand. He shut the loss-making computer games business. Costs were cut by about a fifth. And the theme parks had to go."),
+ dict(v=("compare", "SOLD (2005)", ["LEGOLAND parks to Blackstone", "Price: €375 million", "Cash to cut debt", "Focus back on the brick"],
+         "KEPT", ["A 30% stake in the new group", "Which joined Merlin attractions", "LEGO name on every park", "A share of the upside"]),
+      t="In 2005, LEGO sold its LEGOLAND parks to the investment firm Blackstone for three hundred and seventy-five million euros. But it was clever about it. It kept a thirty percent stake in the new group, which was combined with Merlin Entertainments. The parks kept the LEGO name, and LEGO kept a slice of the profits."),
+
+ # ---------- CH 4 ----------
+ dict(v=("quote", "The lesson: protect the core, and say no to almost everything else.", ""),
+      t="The cuts worked quickly. In 2004 sales were still falling, but before one-off costs, LEGO was already back to a small operating profit, compared with a loss of more than a billion kroner the year before. The lesson stuck. From then on, every new idea had to answer one question. Does it help sell more bricks?"),
+ dict(v=("chapter", "4", "Borrowed Heroes"),
+      t="Chapter four. Borrowed heroes."),
+ dict(v=("timeline", "1999", "First licensed theme: LEGO Star Wars"),
+      t="One idea from the bad years turned out to be gold. In 1999, LEGO launched its first ever licensed sets, based on Star Wars. Some inside the company believe Star Wars and its own Bionicle line helped keep LEGO alive through the crisis."),
+ dict(v=("list", "Some of LEGO's partners today", ["Star Wars", "Formula 1", "Minecraft & Super Mario", "K-pop Demon Hunters", "FIFA World Cup 2026"]),
+      t="Today the list of partners is long. Star Wars is still one of its biggest themes. Formula One sets reached shops in 2025. There are Minecraft and Super Mario sets, K-pop Demon Hunters sets, and in 2026, sets tied to the FIFA World Cup."),
+ dict(v=("quote", "Every film, game and race becomes a reason to buy a new box.", ""),
+      t="This is the second secret. LEGO doesn't need to invent every hero itself. It borrows the most popular stories in the world, and turns each one into a new reason to buy bricks. When a new film or season comes out, LEGO gets the excitement almost for free."),
+ dict(v=("stat", "860+", "products in LEGO's 2025 range", "Around half of them were new that year"),
+      t="And it never stops refreshing the shelf. In 2025 LEGO sold more than eight hundred and sixty products, and around half of them were new that year. The bricks stay the same. The boxes keep changing."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "Grown-Ups Welcome"),
+      t="Chapter five. Grown-ups welcome."),
+ dict(v=("timeline", "2020", "LEGO launches its 18+ range for adults"),
+      t="For a long time LEGO was seen as a toy for children. Then, in 2020, it started labelling a range of sets eighteen plus, made specially for adults."),
+ dict(v=("list", "What adults buy", ["Huge display models", "Flowers & plants (Botanicals)", "Famous cars and ships", "Sets costing hundreds of dollars"]),
+      t="These are not quick builds. They are huge display models, flowers and plants, famous cars and ships, and some sets cost hundreds of dollars. Adults have more money than children, and they are happy to spend it on something calm to do with their hands."),
+ dict(v=("pie", "28%", "of toy sales went to buyers aged 12+ (2022)"),
+      t="The whole toy industry has noticed. According to the research firm Circana, buyers aged twelve and over, often called kidults, made up about twenty-eight percent of toy sales in 2022, up from about twenty-three percent in 2019. LEGO was ready for them."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Numbers Today"),
+      t="Chapter six. The numbers today."),
+ dict(v=("bars", "LEGO Group, 2025 (DKK)", [("Revenue", 83.5, "83.5 bn"), ("Operating profit", 22.0, "22.0 bn"), ("Net profit", 16.7, "16.7 bn")]),
+      t="So what does the machine produce? In 2025, revenue grew twelve percent to eighty-three point five billion kroner. Operating profit rose eighteen percent to twenty-two billion. Net profit was sixteen point seven billion, up twenty-one percent."),
+ dict(v=("stat", "≈26%", "operating profit margin, 2025", "DKK 22.0 bn out of DKK 83.5 bn revenue"),
+      t="Do the maths, and about twenty-six kroner of every hundred in revenue became operating profit. For a company that sells toys in cardboard boxes, that is a remarkable number. And while the wider toy market grew about seven percent, LEGO's sales to shoppers grew sixteen percent."),
+ dict(v=("stat", "+21%", "revenue growth, first half of 2026", "DKK 41.9 bn · net profit up 32%"),
+      t="And 2026 started even faster. In the first six months, revenue jumped twenty-one percent to forty-one point nine billion kroner, and net profit rose thirty-two percent. LEGO pointed to its Formula One, World Cup and K-pop Demon Hunters sets."),
+ dict(v=("list", "Where the profit goes", ["DKK 9.2 bn invested in 2025", "New factory in Vietnam", "Building in Virginia, USA", "Expanding Hungary, Mexico, China"]),
+      t="A lot of that money goes straight back in. In 2025 LEGO invested about nine point two billion kroner, mostly in factories. A new one opened in Vietnam, another is being built in Virginia in the United States, and plants in Hungary, Mexico and China are growing. Making bricks close to its customers keeps shipping costs and delivery times down."),
+ dict(v=("stat", "120+", "countries where LEGO sets are sold", "52% of brick material was renewable or recycled in 2025"),
+      t="Those factories feed shops in more than one hundred and twenty countries. And LEGO is slowly changing what the bricks are made of. In 2025, fifty-two percent of the material it bought for bricks came from renewable or recycled sources, up from thirty-three percent the year before. It has to change the plastic without losing a single bit of clutch power."),
+ dict(v=("compare", "KIRKBI", ["75% of LEGO", "Kirk Kristiansen family", "Third & fourth generation", "No stock market listing"],
+         "LEGO FOUNDATION", ["25% of LEGO", "A charitable foundation", "Funds learning through play", "Shares in the profits"]),
+      t="And who owns all this? Not the stock market. Three quarters of LEGO belongs to KIRKBI, the holding company of the Kirk Kristiansen family, now in its third and fourth generation. The other quarter belongs to the LEGO Foundation, which supports learning through play. That lets LEGO think in decades, not quarters."),
+ dict(v=("timeline", "2026", "LEGO buys back 29 Discovery Centres"),
+      t="And here is a twist. In 2026, LEGO paid about one point nine billion kroner to buy twenty-nine LEGO and LEGOLAND Discovery Centres from Merlin. Twenty years after selling its parks to survive, it is now rich enough to buy attractions back."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The LEGO money machine", ["One brick, patented in 1958", "Every set fits every set", "Borrowed heroes sell new boxes", "Adults pay premium prices", "Family owners reinvest for decades"]),
+      t="One brilliant brick, perfected in 1958. A system where every new set fits every old one. Borrowed heroes from films, games and sport that sell fresh boxes every year. Adults paying premium prices. And family owners who put the profits back into factories, for the long run."),
+ dict(v=("quote", "The box is the toy. The brick is the business.", ""),
+      t="LEGO nearly broke itself trying to be everything. It came back by remembering what it really was: a small plastic brick that clicks into place, and into the next one, and the next."),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind LEGO. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
