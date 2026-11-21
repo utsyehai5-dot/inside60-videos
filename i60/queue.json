@@ -2,7 +2,7 @@
  {
   "slug": "s001-toaster",
   "topic": "Toaster",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2026-11-22T17:05:00Z",
   "note": "scene.js and short.json exist; timer shot was fixed after the sample, so re-render then upload",
   "last_error": "2026-11-21: rendered OK (scene.js/short.json ready, toaster camera fixed) but Zapier YouTube upload was throttled 3x, then blocked; just re-render + upload"
@@ -10,14 +10,14 @@
  {
   "slug": "s002-car-engine",
   "topic": "Car engine",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2026-11-23T17:05:00Z",
   "last_error": "2026-11-21: rendered OK (scene.js/short.json ready, toaster camera fixed) but Zapier YouTube upload was throttled 3x, then blocked; just re-render + upload"
  },
  {
   "slug": "s003-electric-motor",
   "topic": "Electric motor",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2026-11-24T17:05:00Z",
   "last_error": "2026-11-21: rendered OK (scene.js/short.json ready, toaster camera fixed) but Zapier YouTube upload was throttled 3x, then blocked; just re-render + upload"
  },
