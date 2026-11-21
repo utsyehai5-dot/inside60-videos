@@ -407,11 +407,15 @@ def v_end(d, t, *_):
     d.text((960, 890), "Which company should we open next? Tell us in the comments.", font=F(FR, 40), fill=A(GREY, c), anchor="mm")
 
 
-FUNCS = dict(title=v_title, quote=v_quote, brand=v_brand, chapter=v_chapter, timeline=v_timeline,
+def v_none(d, t, *_):
+    pass
+
+
+FUNCS = dict(none=v_none, title=v_title, quote=v_quote, brand=v_brand, chapter=v_chapter, timeline=v_timeline,
              acronym=v_acronym, boycott=v_boycott, flatpack=v_flatpack, list=v_list, stat=v_stat,
              maze=v_maze, compare=v_compare, flow=v_flow, bars=v_bars, pie=v_pie, ownership=v_ownership,
              split=v_split, machine=v_machine, end=v_end)
-ANIM = dict(title=1.5, quote=1.7, brand=2, chapter=1.3, timeline=1.6, acronym=3.5, boycott=3, flatpack=3,
+ANIM = dict(none=0, title=1.5, quote=1.7, brand=2, chapter=1.3, timeline=1.6, acronym=3.5, boycott=3, flatpack=3,
             list=4.5, stat=1.6, maze=4.9, compare=4, flow=4.5, bars=3, pie=2, ownership=5, split=2.8,
             machine=99, end=99)  # 99 = always animated (rotating gear)
 

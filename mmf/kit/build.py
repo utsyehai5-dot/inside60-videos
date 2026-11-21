@@ -11,6 +11,7 @@ sys.path.insert(0, KIT)
 sys.path.insert(0, os.getcwd())
 from PIL import Image, ImageDraw
 from visuals import overlay, background, ANIM, W, H, F, FB, FR, FS, gear_pts, GOLD, GOLD2, WHITE, GREY, NAVY
+import photos, re
 from scenes import SCENES
 
 FPS, PAD = 30, 0.6
@@ -40,7 +41,17 @@ def voice():
             return
         for k in range(10):
             try:
-                await edge_tts.Communicate(text, "en-US-AndrewNeural", rate="+6%").save(out + ".tmp.mp3")
+                com = edge_tts.Communicate(text, "en-US-AndrewNeural", rate="+6%", boundary="WordBoundary")
+                audio, words = bytearray(), []
+                async for ch in com.stream():
+                    if ch["type"] == "audio":
+                        audio += ch["data"]
+                    elif ch["type"] == "WordBoundary":
+                        words.append([ch["offset"] / 1e7, (ch["offset"] + ch["duration"]) / 1e7, ch["text"]])
+                if not audio:
+                    raise RuntimeError("no audio")
+                open(out + ".tmp.mp3", "wb").write(audio)
+                json.dump(words, open(out + ".words.json", "w"))
                 os.rename(out + ".tmp.mp3", out); return
             except Exception as e:
                 print("tts retry", i, e, flush=True); await asyncio.sleep(6)
@@ -48,7 +59,7 @@ def voice():
 
     async def main():
         for i, s in enumerate(SCENES):
-            await one(i, s["t"])
+            await one(i, s["t"].replace("*", ""))
     asyncio.run(main())
     durs = [dur(f"audio/s{i:02d}.mp3") for i in range(len(SCENES))]
     json.dump(durs, open("audio/durs.json", "w"))
@@ -71,18 +82,88 @@ def labels():
     return out
 
 
+_USED = set()
+
+
+def scene_photo(i):
+    q = SCENES[i].get("photo")
+    if not q:
+        return None, None
+    return photos.get(q, _USED)
+
+
+def kenburns(img, k, i):
+    """k = 0..1 progress. Slow zoom 1.0 -> 1.12, direction alternates per scene."""
+    z = 1.0 + 0.12 * (k if i % 2 == 0 else 1 - k)
+    cw, ch = W / z, H / z
+    sx = max(0, img.width - cw); sy = max(0, img.height - ch)
+    dx = [0.5, 0.2, 0.8, 0.5][i % 4]; x = sx * (dx + (0.5 - dx) * k); y = sy * 0.45
+    if img.height < ch:  # very wide photo: scale up first
+        img = img.resize((int(img.width * ch / img.height) + 2, int(ch) + 2))
+        sx = max(0, img.width - cw); x = sx * 0.5; y = 0
+    fr = img.crop((int(x), int(y), int(x + cw), int(y + ch))).resize((W, H), Image.BILINEAR)
+    return fr
+
+
+_SHADE = None
+
+
+def shade():
+    global _SHADE
+    if _SHADE is None:
+        g = Image.new("L", (1, H))
+        for y in range(H):
+            k = y / H
+            g.putpixel((0, y), int(255 * (0.55 + 0.35 * max(0, k - 0.6) / 0.4 + 0.15 * max(0, 0.2 - k) / 0.2)))
+        _SHADE = Image.merge("RGBA", [Image.new("L", (W, H), 0)] * 3 + [g.resize((W, H))])
+    return _SHADE
+
+
+def caption_groups(i):
+    wf = f"audio/s{i:02d}.mp3.words.json"
+    if not os.path.exists(wf):
+        return []
+    words = json.load(open(wf))
+    keys = {w.strip(".,!?").lower() for w in re.findall(r"\*([^*]+)\*", SCENES[i]["t"]) for w in w.split()}
+    out, chunk = [], []
+    for j, (a, b, w) in enumerate(words):
+        chunk.append((a, w))
+        if len(chunk) == 3 or w.endswith((".", ",", "?", "!")) or j == len(words) - 1:
+            e = words[j + 1][0] if j + 1 < len(words) else b + 0.4
+            out.append((chunk[0][0], e, [(x, x.strip(".,!?").lower() in keys or bool(re.search(r"\d", x))) for _, x in chunk]))
+            chunk = []
+    return out
+
+
+def draw_caption(fr, groups, t):
+    for a, e, ws in groups:
+        if a <= t < e:
+            d = ImageDraw.Draw(fr); f = F(FB, 50)
+            txt = " ".join(w for w, _ in ws); tw = d.textlength(txt, font=f); x = W / 2 - tw / 2
+            for w, hi in ws:
+                d.text((x, 990), w, font=f, fill=GOLD if hi else WHITE, anchor="lm", stroke_width=4, stroke_fill=(0, 0, 0))
+                x += d.textlength(w + " ", font=f)
+            return
+
+
 def render_scene(args):
     i, D, start, label = args
     out = f"vid/s{i:02d}.mp4"
     if os.path.exists(out):
         return i
     n = int(round(D * FPS)); spec = SCENES[i]["v"]; anim = ANIM[spec[0]]; cached = None
+    photo, credit = scene_photo(i); groups = caption_groups(i)
     tmp = out + ".tmp.mp4"
     p = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                           "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", "-r", str(FPS), tmp], stdin=subprocess.PIPE)
     for f in range(n):
         t = f / FPS
-        bg = background(start + t)
+        if photo is not None:
+            bg = kenburns(photo, f / max(1, n - 1), i).convert("RGBA")
+            bg = Image.alpha_composite(bg, shade()).convert("RGB")
+            ImageDraw.Draw(bg).text((W - 40, H - 22), credit, font=F(FR, 16), fill=(200, 205, 215), anchor="rs")
+        else:
+            bg = background(start + t)
         if t < anim:
             ov = overlay(spec, t, label)
         else:
@@ -90,6 +171,7 @@ def render_scene(args):
                 cached = overlay(spec, anim, label)
             ov = cached
         fr = Image.alpha_composite(bg.convert("RGBA"), ov).convert("RGB")
+        draw_caption(fr, groups, t)
         k = (D - t) / 0.3
         if k < 1:
             fr = Image.blend(bg, fr, max(0, k))

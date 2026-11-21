@@ -13,3 +13,4 @@ mmf/episodes/*/music.wav
 node_modules/
 i60/shorts/*/out/
 i60/shorts/*/timeline.json
+mmf/episodes/*/photos/
