@@ -2,24 +2,25 @@
  {
   "slug": "s001-toaster",
   "topic": "Toaster",
-  "status": "doing",
+  "status": "todo",
   "publish_at": "2026-11-22T17:05:00Z",
   "note": "scene.js and short.json exist; timer shot was fixed after the sample, so re-render then upload",
-  "last_error": "2026-11-21 19:58 UTC (3rd run): s001 re-rendered OK, Zapier YouTube upload again 'throttled without retry' (3rd time today). Stopped; s002/s003 not rendered. Zapier throttle/limit needs owner check."
+  "last_error": "2026-11-21 20:47 UTC (4th run): uploaded existing s001 mp4 (commit 0e89c77) directly, Zapier YouTube again 'throttled without retry' (4th time today). Zapier tasks fine (146/1000). Stopped; s002/s003 not rendered. Owner should check Zapier/YouTube throttle.",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0e89c77fb6532fb25cb4d8fe95c6c9a760103c40/i60/up/s001-toaster.mp4"
  },
  {
   "slug": "s002-car-engine",
   "topic": "Car engine",
-  "status": "doing",
+  "status": "todo",
   "publish_at": "2026-11-23T17:05:00Z",
-  "last_error": "2026-11-21 19:58 UTC (3rd run): s001 re-rendered OK, Zapier YouTube upload again 'throttled without retry' (3rd time today). Stopped; s002/s003 not rendered. Zapier throttle/limit needs owner check."
+  "last_error": "2026-11-21 20:47 UTC (4th run): uploaded existing s001 mp4 (commit 0e89c77) directly, Zapier YouTube again 'throttled without retry' (4th time today). Zapier tasks fine (146/1000). Stopped; s002/s003 not rendered. Owner should check Zapier/YouTube throttle."
  },
  {
   "slug": "s003-electric-motor",
   "topic": "Electric motor",
-  "status": "doing",
+  "status": "todo",
   "publish_at": "2026-11-24T17:05:00Z",
-  "last_error": "2026-11-21 19:58 UTC (3rd run): s001 re-rendered OK, Zapier YouTube upload again 'throttled without retry' (3rd time today). Stopped; s002/s003 not rendered. Zapier throttle/limit needs owner check."
+  "last_error": "2026-11-21 20:47 UTC (4th run): uploaded existing s001 mp4 (commit 0e89c77) directly, Zapier YouTube again 'throttled without retry' (4th time today). Zapier tasks fine (146/1000). Stopped; s002/s003 not rendered. Owner should check Zapier/YouTube throttle."
  },
  {
   "slug": "s004-smartphone-touchscreen",
