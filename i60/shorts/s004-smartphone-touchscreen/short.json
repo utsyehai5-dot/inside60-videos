@@ -1,0 +1,14 @@
+{
+ "title": "How a Smartphone Touchscreen Works in 60 Seconds 📱👆 #shorts",
+ "description": "Your phone's screen can feel your finger without being pressed. Under the glass sits an invisible grid of transparent electrodes; your finger pulls a little electric charge away from the spot you touch, and a controller scans the grid over a hundred times a second to find it. Grid, touch, scan, pinpoint. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#touchscreen #howitworks #shorts",
+ "tags": ["touchscreen", "how a touchscreen works", "capacitive touchscreen", "smartphone", "how it works", "capacitance", "physics", "engineering", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Screen", "text": "Your phone screen can feel your finger, without you *pressing* at all."},
+  {"label": "Hidden Grid", "text": "Under the glass sits an invisible *grid* of see-through electrodes, in rows and columns."},
+  {"label": "Electric Field", "text": "Each crossing holds a tiny *electric field*, like millions of little capacitors."},
+  {"label": "Your Finger", "text": "Your body conducts electricity. A touch pulls away a bit of *charge* right at that spot."},
+  {"label": "The Scan", "text": "A controller *scans* every row and column, over a hundred times a second, and finds the dip.", "stat": "120+/s", "statsub": "SCANS"},
+  {"label": "Gloves", "text": "That's why normal *gloves* don't work. They block your finger's charge."},
+  {"label": "Recap", "text": "Grid, touch, scan, *pinpoint*. Follow Inside 60 for more."}
+ ]
+}
