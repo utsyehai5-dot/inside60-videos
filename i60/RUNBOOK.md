@@ -13,6 +13,11 @@ INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-w
   materials, emissive glow for energy/heat/flow, camera glides to a new shot each step (see toaster scene.js).
   Keep the subject in the middle band of the frame (y 400–1300 px) — top has the pill/stat, bottom has captions.
 - No logos, no real brands, no people's faces.
+- SPEED: use MeshPhongMaterial (+ a small canvas CubeTexture envMap if you want shine), not MeshStandardMaterial —
+  Standard/PBR is ~5x slower in SwiftShader. Keep shadows off or one small shadow map.
+- The separate daily task "Inside 60 daily Short" only posts the day's Short to Instagram/Facebook using file_url;
+  it no longer makes or uploads YouTube videos. Don't make topics that are already on the channel
+  (Jet engine, Refrigerator, Microwave oven are done).
 
 ## One run
 1. `cd i60 && python3 -c "import json;q=json.load(open('queue.json'));print(next((i for i in q if i['status']=='todo'),'EMPTY'))"`
@@ -31,6 +36,9 @@ INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-w
    https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/main/i60/up/<slug>.mp4
    Params: title, description, tags, privacy_status "private", publish_at (queue value), made_for_kids false,
    category_id "28", default_language "en", default_audio_language "en". (2 Zapier tasks per upload.)
-5. After upload: `git rm` the file in i60/up/, set item status "done" + "video_id", commit only short.json,
+5. Before deleting, save a permanent link for the Instagram/Facebook poster: `git rev-parse HEAD` of the commit that
+   added the file → store in the queue item as
+   "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/<sha>/i60/up/<slug>.mp4"
+   (raw links by commit SHA keep working after the file is removed). Then `git rm` the file in i60/up/, set item status "done" + "video_id", commit only short.json,
    scene.js, queue.json (never out/), push.
 6. If something fails (TTS, render, Zapier), set the item back to "todo" with a "last_error" note and push.
