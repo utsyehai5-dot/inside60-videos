@@ -141,5 +141,135 @@
    "2027-02-23T17:00:00Z",
    "2027-02-25T17:00:00Z"
   ]
+ },
+ {
+  "slug": "ep15-amazon",
+  "company": "Amazon",
+  "status": "todo",
+  "publish_at": "2027-02-27T17:00:00Z",
+  "short_dates": [
+   "2027-03-02T17:00:00Z",
+   "2027-03-04T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep16-google",
+  "company": "Google",
+  "status": "todo",
+  "publish_at": "2027-03-06T17:00:00Z",
+  "short_dates": [
+   "2027-03-09T17:00:00Z",
+   "2027-03-11T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep17-microsoft",
+  "company": "Microsoft",
+  "status": "todo",
+  "publish_at": "2027-03-13T17:00:00Z",
+  "short_dates": [
+   "2027-03-16T17:00:00Z",
+   "2027-03-18T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep18-tesla",
+  "company": "Tesla",
+  "status": "todo",
+  "publish_at": "2027-03-20T17:00:00Z",
+  "short_dates": [
+   "2027-03-23T17:00:00Z",
+   "2027-03-25T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep19-samsung",
+  "company": "Samsung",
+  "status": "todo",
+  "publish_at": "2027-03-27T17:00:00Z",
+  "short_dates": [
+   "2027-03-30T17:00:00Z",
+   "2027-04-01T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep20-sony",
+  "company": "Sony",
+  "status": "todo",
+  "publish_at": "2027-04-03T17:00:00Z",
+  "short_dates": [
+   "2027-04-06T17:00:00Z",
+   "2027-04-08T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep21-cocacola",
+  "company": "Coca-Cola",
+  "status": "todo",
+  "publish_at": "2027-04-10T17:00:00Z",
+  "short_dates": [
+   "2027-04-13T17:00:00Z",
+   "2027-04-15T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep22-adidas",
+  "company": "Adidas",
+  "status": "todo",
+  "publish_at": "2027-04-17T17:00:00Z",
+  "short_dates": [
+   "2027-04-20T17:00:00Z",
+   "2027-04-22T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep23-hm",
+  "company": "H&M",
+  "status": "todo",
+  "publish_at": "2027-04-24T17:00:00Z",
+  "short_dates": [
+   "2027-04-27T17:00:00Z",
+   "2027-04-29T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep24-ferrari",
+  "company": "Ferrari",
+  "status": "todo",
+  "publish_at": "2027-05-01T17:00:00Z",
+  "short_dates": [
+   "2027-05-04T17:00:00Z",
+   "2027-05-06T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep25-uber",
+  "company": "Uber",
+  "status": "todo",
+  "publish_at": "2027-05-08T17:00:00Z",
+  "short_dates": [
+   "2027-05-11T17:00:00Z",
+   "2027-05-13T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep26-airbnb",
+  "company": "Airbnb",
+  "status": "todo",
+  "publish_at": "2027-05-15T17:00:00Z",
+  "short_dates": [
+   "2027-05-18T17:00:00Z",
+   "2027-05-20T17:00:00Z"
+  ]
+ },
+ {
+  "slug": "ep27-disney",
+  "company": "Disney",
+  "status": "todo",
+  "publish_at": "2027-05-22T17:00:00Z",
+  "short_dates": [
+   "2027-05-25T17:00:00Z",
+   "2027-05-27T17:00:00Z"
+  ]
  }
 ]
