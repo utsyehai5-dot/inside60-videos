@@ -1,0 +1,14 @@
+{
+ "title": "How a Car Engine Works in 60 Seconds 🚗🔥 #shorts",
+ "description": "Every car engine runs the same four-stroke dance. The piston sucks in air and fuel, squeezes it, a spark makes it explode, and the piston pushes the burnt gas out, while the crankshaft turns all that up-and-down motion into spin for your wheels. Suck, squeeze, bang, blow. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#carengine #howitworks #shorts",
+ "tags": ["car engine", "how a car engine works", "four stroke engine", "how it works", "piston", "crankshaft", "spark plug", "engineering", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Engine", "text": "At highway speed, a four-cylinder engine fires about *100 sparks* every second.", "stat": "100/s", "statsub": "SPARKS AT 3000 RPM"},
+  {"label": "Intake", "text": "Stroke one: *intake*. The piston slides down and sucks in air mixed with a mist of fuel.", "stat": "14.7 : 1", "statsub": "AIR TO FUEL"},
+  {"label": "Compression", "text": "Stroke two: *compression*. The piston rises and squeezes that mix into about a tenth of the space.", "stat": "~10×", "statsub": "SQUEEZED"},
+  {"label": "Power", "text": "Stroke three: *power*. A spark ignites the mix, and the blast shoves the piston down hard."},
+  {"label": "Exhaust", "text": "Stroke four: *exhaust*. The piston rises again and pushes the burnt gas out."},
+  {"label": "Crankshaft", "text": "A rod turns all that up-and-down motion into spin on the *crankshaft*, which drives your wheels."},
+  {"label": "Recap", "text": "Suck, squeeze, *bang*, blow. Follow Inside 60 for more."}
+ ]
+}
