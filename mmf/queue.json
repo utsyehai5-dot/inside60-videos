@@ -69,12 +69,18 @@
  {
   "slug": "ep05-apple",
   "company": "Apple",
-  "status": "doing",
+  "status": "ready",
   "publish_at": "2026-12-19T17:00:00Z",
   "short_dates": [
    "2026-12-22T17:00:00Z",
    "2026-12-24T17:00:00Z"
-  ]
+  ],
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple.mp4",
+  "short_urls": [
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_short0.mp4",
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_short1.mp4"
+  ],
+  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_thumb.png"
  },
  {
   "slug": "ep06-netflix",
