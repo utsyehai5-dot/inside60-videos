@@ -4,6 +4,21 @@ Channel: Inside 60 (@Inside60HQ). Vertical 3D "how it works in 60 seconds" Short
 Owner talks Roman Urdu. Look: see shorts/s001-toaster (three.js scene + kit/template.html overlay:
 INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-word captions).
 
+## FIRST STEP OF EVERY RUN — upload throttle check (cheap exit)
+- Read /throttle.json (repo root). If now (UTC) < blocked_until: do NOTHING else (no rendering, no Zapier), report
+  "upload limit — paused until <time Stockholm>" in one line and stop. This saves the owner's Claude usage.
+- If any Zapier YouTube upload returns "throttled" (any wording with throttle / quota / rate limit): do NOT retry it
+  in this run. Set throttle.json blocked_until = the next 08:15 UTC, commit + push, keep your work (see "ready" below), stop.
+
+## Statuses: todo → ready → done
+- "ready" = video rendered and its mp4 is committed at i60/up/ or mmf/up/ (pushed), with "file_url" (raw link by
+  commit SHA, see step 5) and for MMF also "short_urls" + "thumb_url". A ready item never needs rendering again.
+- Order of work in every run: (1) upload "ready" items, earliest publish_at first; (2) only then make new items.
+- Total YouTube uploads (both channels together) per UTC day: at most 6. Count items with "uploaded_on" = today in
+  BOTH queues (mmf/queue.json + i60/queue.json; an MMF episode counts 3). At the cap: just make/ready new items, don't upload.
+- Don't build more than 10 "ready" items ahead per channel (saves Claude usage); if 10 are ready and you can't upload, stop.
+- Remove a file from */up/ only after its upload succeeded (the SHA link keeps working for Instagram).
+
 ## Rules
 - Facts must be checked with a quick web search in this run (2–4 searches per short). No guessing numbers.
 - 30–55 seconds total (render.py refuses > 59.5 s). 5–7 steps. Each step 1–2 short sentences.
@@ -44,7 +59,7 @@ INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-w
 6. If something fails (TTS, render, Zapier), set the item back to "todo" with a "last_error" note and push.
 
 ## Anti-spam rule (YouTube)
-- At most 12 uploads per channel per calendar day (UTC). Before uploading, count queue items with status "done"
+- (Superseded by the 6-per-day total above.) At most 12 uploads per channel per calendar day (UTC). Before uploading, count queue items with status "done"
   and an "uploaded_on" equal to today's UTC date; if 12 or more, put your items back to "todo" and stop.
   Always set "uploaded_on": "<YYYY-MM-DD UTC>" on items you upload. Publish dates stay 1 per day (Inside 60) /
   Sat + Tue + Thu (Money Machine Files), so viewers only ever see the normal rhythm.
