@@ -17,7 +17,7 @@ INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-w
   Standard/PBR is ~5x slower in SwiftShader. Keep shadows off or one small shadow map.
 - The separate daily task "Inside 60 daily Short" only posts the day's Short to Instagram/Facebook using file_url;
   it no longer makes or uploads YouTube videos. Don't make topics that are already on the channel
-  (Jet engine, Refrigerator, Microwave oven are done).
+  (Jet engine, Refrigerator, Microwave oven, Toilet flush are done). Items with status "skip" are ignored; their date stays empty, that's fine.
 
 ## One run
 1. `cd i60 && python3 -c "import json;q=json.load(open('queue.json'));print(next((i for i in q if i['status']=='todo'),'EMPTY'))"`

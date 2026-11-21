@@ -369,8 +369,9 @@
  {
   "slug": "s062-toilet-flush",
   "topic": "Toilet flush",
-  "status": "todo",
-  "publish_at": "2027-01-22T17:05:00Z"
+  "status": "skip",
+  "publish_at": "2027-01-22T17:05:00Z",
+  "note": "already posted on the channel 21 Nov by the old daily task"
  },
  {
   "slug": "s063-water-tower",
