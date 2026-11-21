@@ -32,8 +32,9 @@
  {
   "slug": "s005-washing-machine",
   "topic": "Washing machine",
-  "status": "doing",
-  "publish_at": "2026-11-26T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-11-26T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/307146f638118d86f7d80bdc8c7ff1c614af5c17/i60/up/s005-washing-machine.mp4"
  },
  {
   "slug": "s006-dishwasher",
