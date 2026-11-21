@@ -14,6 +14,8 @@ INSIDE 60 header, countdown ring, numbered step pill, big yellow stat, word-by-w
 - "ready" = video rendered and its mp4 is committed at i60/up/ or mmf/up/ (pushed), with "file_url" (raw link by
   commit SHA, see step 5) and for MMF also "short_urls" + "thumb_url". A ready item never needs rendering again.
 - Order of work in every run: (1) upload "ready" items, earliest publish_at first; (2) only then make new items.
+- UPLOAD RULE (owner's decision, saves Claude usage + upload limit): upload ONLY the Short whose publish_at is
+  within the next 36 hours (so 1 upload per day). All other finished Shorts stay "ready" (saved) for later.
 - Total YouTube uploads (both channels together) per UTC day: at most 6. Count items with "uploaded_on" = today in
   BOTH queues (mmf/queue.json + i60/queue.json; an MMF episode counts 3). At the cap: just make/ready new items, don't upload.
 - Keep making new items even when you can't upload (owner wants everything made and stored). Make items in
