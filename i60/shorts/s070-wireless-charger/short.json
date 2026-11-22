@@ -1,0 +1,14 @@
+{
+ "title": "How a Wireless Charger Works in 60 Seconds 📱⚡ #shorts",
+ "description": "A wireless charger has a flat copper coil that makes a fast-changing magnetic field, flipping over 100,000 times a second. A matching coil inside the phone catches that field and turns it back into electric current, which is converted to steady power for the battery. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#wirelesscharging #technology #howitworks",
+ "tags": ["wireless charger", "how wireless charging works", "qi charging", "inductive charging", "magnetic induction", "copper coil", "smartphone", "electronics", "technology", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A wireless charger never touches your phone's battery. It sends power through *thin air*."},
+  {"label": "Coil", "text": "Inside the pad is a flat spiral of *copper wire* called a coil."},
+  {"label": "Magnetic field", "text": "Alternating current flips the coil's *magnetic field* over *100,000 times* a second.", "stat": "100k+", "statsub": "FLIPS PER SECOND"},
+  {"label": "Phone coil", "text": "A second coil inside the phone feels that changing field, and it *induces a current*."},
+  {"label": "Rectifier", "text": "A chip turns that back-and-forth current into steady *DC* to charge the battery."},
+  {"label": "Alignment", "text": "The coils must line up and sit *a few millimeters* apart, or most energy is lost as *heat*."},
+  {"label": "Recap", "text": "Coil, field, *current*. Follow Inside 60 for more."}
+ ]
+}
