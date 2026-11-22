@@ -1,0 +1,17 @@
+{
+ "title": "How Google Really Makes Money (You're Not the Customer)",
+ "description": "Alphabet brought in $402.8 billion in 2025, yet you never pay to search. In this file we open the money machine behind Google: two Stanford students and a garage in Menlo Park, BackRub, the AdWords auction, the 2004 IPO, Android and YouTube, where the money comes from today, the billions Google pays to be the default search engine, the antitrust ruling, and the AI bet that turned Google Cloud into a rocket, with the latest numbers.\n\n{CHAPTERS}\n\nSources: Alphabet Q3 2026 results (Form 8-K, October 2026); Alphabet Q4 and full year 2025 results; Google (Our Story); Yahoo News (On this day: the garage where Google was founded); CNN Money (Google IPO, 2004); Bloomberg / AppleInsider (Google's payments to Apple, 2022); NPR (Google antitrust remedies ruling, September 2025); Outlook Business (Alphabet 2026 capex and cloud backlog); 9to5Google; eWeek (Google buys YouTube); Android Authority (Google buys Android).\n\nAll figures are rounded. Forecasts are company guidance. This video is for education only, not investment advice.\n\n#Google #Alphabet #Business #MoneyMachineFiles",
+ "tags": ["Google", "how Google makes money", "Google business model", "Alphabet", "Google history", "Google Ads", "AdWords", "YouTube", "Google Cloud", "Gemini", "Larry Page", "Sergey Brin", "Sundar Pichai", "business documentary", "Money Machine Files", "business explained"],
+ "publish_at": "2027-03-06T17:00:00Z",
+ "thumb": {"l1": "HOW GOOGLE", "l2": "REALLY", "l3": "MAKES MONEY", "badge": "YOU'RE NOT THE CUSTOMER", "symbol": "$"},
+ "shorts": [
+  {"scenes": [25, 26, 27], "top": ["GOOGLE PAID", "APPLE $20", "BILLION"],
+   "title": "Why Google Paid Apple $20 Billion #shorts",
+   "description": "In 2022 Google paid Apple about $20 billion, mainly to be the default search engine in Safari. Full documentary: {LONG}\nSources: Bloomberg / court documents; Alphabet Q3 2026 results.\n#Google #Apple #shorts",
+   "publish_at": "2027-03-09T17:00:00Z"},
+  {"scenes": [10, 11, 12], "top": ["HOW GOOGLE", "MAKES MONEY", "FROM FREE"],
+   "title": "How Free Google Search Makes Billions #shorts",
+   "description": "You search for free, advertisers bid in an auction and pay only when you click. Full documentary: {LONG}\nSources: Google Ads Help (How the Google Ads auction works); Alphabet Q3 2026 results.\n#Google #Business #shorts",
+   "publish_at": "2027-03-11T17:00:00Z"}
+ ]
+}
