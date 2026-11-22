@@ -297,8 +297,9 @@
  {
   "slug": "s042-headphones--noise-cancelling",
   "topic": "Headphones (noise cancelling)",
-  "status": "doing",
-  "publish_at": "2027-01-02T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-02T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f69f15baa58ab2b160364c3ce35e594242ad58e7/i60/up/s042-headphones--noise-cancelling.mp4"
  },
  {
   "slug": "s043-wi-fi-router",
