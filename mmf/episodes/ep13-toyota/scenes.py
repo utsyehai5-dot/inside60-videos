@@ -1,0 +1,112 @@
+# Money Machine Files — Ep 13: How Toyota Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "11.3 MILLION", "vehicles sold by the Toyota group in 2025"),
+      t="In 2025, the Toyota group sold *eleven point three million* vehicles. That is more than any other car company on Earth, for the sixth year in a row."),
+ dict(v=("quote", "The world's biggest car maker began with a loom.", ""),
+      t="But Toyota did not start with cars. It started with a machine for weaving cloth. So how does a loom maker become a *money machine* that sells more than fifty trillion yen a year? And where does the money really come from?"),
+ dict(v=("brand", "FILE #013  ·  TOYOTA"),
+      t="This is the money machine behind Toyota. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "The Loom That Stopped Itself"),
+      t="Chapter one. The loom that stopped itself."),
+ dict(v=("timeline", "1867", "Sakichi Toyoda is born in Shizuoka, Japan"), photo="Japanese countryside village rice fields",
+      t="The story begins with *Sakichi Toyoda*, born in 1867 in a small village in Shizuoka. He watched people weave cloth by hand, and he wanted to make their work easier."),
+ dict(v=("timeline", "1924", "The Type G automatic loom"), photo="vintage textile loom machine",
+      t="He spent his life building better looms. His most famous one, the *Type G* automatic loom, is dated to 1924. Mass production started in 1927, and the factory went from three hundred to one thousand looms a month."),
+ dict(v=("quote", "When a thread broke, the machine stopped on its own.", ""),
+      t="Here is the clever part. When a thread broke, Sakichi's loom *stopped by itself*. No bad cloth, no wasted thread. Toyota still uses this idea today. It is called jidoka."),
+ dict(v=("stat", "£100,000", "paid by Platt Brothers in 1929 for the loom patent rights", "That money helped pay for the first Toyota cars"), photo="old English textile mill brick",
+      t="In 1929, the British company Platt Brothers paid *one hundred thousand pounds* for the rights to Sakichi's loom technology. That money went into a new, risky dream: making cars."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "From Looms to Cars"),
+      t="Chapter two. From looms to cars."),
+ dict(v=("timeline", "1933", "Kiichiro Toyoda opens a car department inside the loom company"), photo="vintage car engine workshop",
+      t="The dreamer was Sakichi's son, *Kiichiro Toyoda*. In 1933, he set up a car department inside the loom company. His team took apart a Chevrolet engine to learn how it worked."),
+ dict(v=("timeline", "1935", "Model A1 prototype · G1 truck goes on sale"), photo="vintage truck old black and white",
+      t="In 1935 they built a prototype car, the Model A1. But the first vehicle Toyota actually sold was a truck, the *G1*. Trucks were what Japan needed most at the time."),
+ dict(v=("timeline", "APRIL 1937", "Toyota Motor Company is founded"), photo="Japanese factory gate old",
+      t="In April 1937, the car department became its own company: *Toyota* Motor Company. The family name was Toyoda, with a D. The new name was easier to say, and in Japanese it is written with eight strokes, a lucky number."),
+ dict(v=("stat", "2,000 / MONTH", "capacity of the Koromo plant, opened November 1938", "5,000 workers · Kiichiro tries 'just in time'"), photo="old car assembly line factory",
+      t="In 1938 Toyota opened the Koromo plant, with five thousand workers and room to build *two thousand* vehicles a month. There, Kiichiro tested an idea he called just in time: make only what is needed, only when it is needed."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "The Crisis and the System"),
+      t="Chapter three. The crisis and the system."),
+ dict(v=("stat", "¥198.76 MILLION", "Toyota's operating loss in December 1949 alone", "Banks had to step in"), photo="empty old factory hall",
+      t="After the war, Japan was poor and money was tight. In December 1949, Toyota lost almost *two hundred million yen* in a single month. A group of twenty-four banks agreed to lend it money, but only if Toyota rebuilt the business."),
+ dict(v=("stat", "2,146", "jobs lost at Toyota in 1950", "A two-month strike · Kiichiro resigns"), photo="abandoned factory interior",
+      t="It was painful. Workers went on strike for two months. In the end, *two thousand one hundred and forty-six* jobs were lost, and Kiichiro Toyoda resigned to take responsibility. He died two years later, in 1952."),
+ dict(v=("timeline", "1951", "A five-year plan to modernise the factories"), photo="industrial machines factory floor",
+      t="Under its new leaders, Toyota started a *five-year plan* in 1951 to modernise its factories. New machines meant one worker could now look after several machines at once. Every yen had to work harder."),
+ dict(v=("compare", "MASS PRODUCTION", ["Build huge batches", "Store big piles of parts", "Fix defects at the end", "Waste hides everywhere"],
+         "TOYOTA WAY", ["Build what is ordered", "Parts arrive just in time", "Stop the line at a problem", "Remove waste every day"]),
+      t="The crisis taught Toyota a lesson: never waste money. An engineer named *Taiichi Ohno* turned the family ideas into a system through the 1950s and 60s. Instead of huge piles of parts, every part arrives just in time."),
+ dict(v=("flow", "The Toyota Production System", ["Customer order", "Just in time", "Jidoka", "Better car"], ["pulls", "plus", "makes"],
+         "Two pillars: make only what is needed, and stop at every problem", "Better car"),
+      t="It has two pillars. *Just in time*, from Kiichiro. And *jidoka*, from Sakichi's loom: if anything goes wrong, stop and fix it right away. Less waste means less cash locked up in parts, and fewer costly mistakes."),
+ dict(v=("quote", "Here is the secret: Toyota's best product is not a car. It is the factory.", ""),
+      t="And here is the first secret. Toyota's best invention is not a car. It is the *way it builds cars*. In 1984 Toyota even shared its system with General Motors in a joint factory in California, and factories all over the world copied it."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "A Car for Everyone"),
+      t="Chapter four. A car for everyone."),
+ dict(v=("timeline", "1955", "Toyopet Crown, the first fully Japanese-made passenger car"), photo="classic Japanese sedan 1950s",
+      t="In 1955 Toyota launched the Toyopet *Crown*, the first passenger car made fully in Japan. It also became the first Japanese car sent to America."),
+ dict(v=("stat", "50 MILLION", "Corollas sold by July 2021", "Launched November 1966 · one sold every 28 seconds"), photo="compact car city street",
+      t="Then, in November 1966, came the *Corolla*. A simple, reliable car that ordinary families could afford. By July 2021 Toyota had sold fifty million of them. That is about one Corolla every twenty-eight seconds, for fifty-five years."),
+ dict(v=("timeline", "DECEMBER 1997", "Prius: the first mass-produced hybrid car"), photo="hybrid car charging road",
+      t="In December 1997, Toyota launched the *Prius*, the world's first mass-produced hybrid car. A petrol engine and an electric motor working together. Many people laughed. Toyota kept going."),
+ dict(v=("pie", "48%", "of Toyota's vehicle sales were electrified, FY2026"),
+      t="That bet paid off. In the year to March 2026, Toyota sold about five million electrified cars, mostly hybrids. That was around *forty-eight percent* of everything it sold. Fully electric cars were still only about two hundred and forty thousand."),
+ dict(v=("stat", "882,231", "Lexus cars sold in 2025, a record", "Toyota's luxury brand"), photo="luxury car night city lights",
+      t="Toyota also has a luxury brand, *Lexus*. It sells fewer cars, but each one costs more. In 2025 Lexus sold eight hundred and eighty-two thousand cars, its best year ever."),
+ dict(v=("bars", "Global sales, 2025 (million vehicles)", [("Volkswagen Group", 8.98, "8.98"), ("Toyota brand", 10.54, "10.54"), ("Toyota group", 11.32, "11.32")]),
+      t="Put it all together and Toyota is the biggest car maker in the world. In 2025 the group sold *eleven point three two million* vehicles, a record. Volkswagen, in second place, sold about nine million."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "Where the Money Really Comes From"),
+      t="Chapter five. Where the money really comes from."),
+ dict(v=("stat", "¥50.7 TRILLION", "Toyota's net revenues, year to March 2026", "About $336 billion · up 5.5%"), photo="car carrier ship port vehicles",
+      t="In the year to March 2026, Toyota's revenues were about *fifty point seven trillion yen*. That is around three hundred and thirty-six billion dollars. Almost all of it comes from one thing: selling cars and their parts."),
+ dict(v=("bars", "Vehicles sold by region, FY2026 (million)", [("North America", 2.93, "2.93"), ("Japan", 2.08, "2.08"), ("Asia", 1.76, "1.76"), ("Europe", 1.18, "1.18")]),
+      t="Look at where the cars go. *North America* is Toyota's biggest market, with almost three million cars. Japan comes second, with about two million. Then Asia, with one point seven six million, and Europe, with just under one point two million."),
+ dict(v=("bars", "Operating profit by region, FY2026 (¥ bn)", [("Japan", 2330.7, "2,331"), ("Asia", 872.3, "872"), ("Europe", 330.8, "331"), ("N. America", -298.6, "-299")]),
+      t="But now look at the *profit*. Japan made about two point three trillion yen. Asia made almost nine hundred billion. Europe made about three hundred and thirty billion. And North America, the biggest market of all, actually *lost* about three hundred billion yen."),
+ dict(v=("quote", "Here is the second secret: the money is made in Japan.", ""),
+      t="Here is the second secret. Toyota's cash engine is its *home*. Japanese factories build cars for Japan and for export, so a big part of the profit is booked at home. And when the yen is weak, every car sold abroad brings back more yen."),
+ dict(v=("stat", "¥1.38 TRILLION", "cost of US tariffs to Toyota in the year to March 2026", "About $8.8 billion"), photo="cargo ship containers port",
+      t="So why did North America lose money? *Tariffs*. New American import taxes cost Toyota about one point three eight trillion yen in that year, roughly eight point eight billion dollars."),
+
+ dict(v=("stat", "¥1.8 TRILLION", "Toyota's research and development spending, FY2026", "Hybrids, batteries, software, new factories"), photo="engineer laboratory car design",
+      t="And Toyota keeps feeding the machine. It spent about *one point eight trillion yen* on research and development in that year, on hybrids, batteries, software and new models. That is how it stays ahead."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Numbers Today"),
+      t="Chapter six. The numbers today."),
+ dict(v=("bars", "Toyota, year to March 2026 (¥ trillion)", [("Revenues", 50.68, "50.68"), ("Operating profit", 3.77, "3.77"), ("Net profit", 3.85, "3.85")]),
+      t="In the year to March 2026, Toyota sold nine point six million vehicles on its own books. Operating profit fell to about *three point seven seven trillion yen*, down from almost four point eight trillion the year before, mainly because of tariffs."),
+ dict(v=("compare", "APR–SEP 2025", ["N. America: loss", "Big tariff hit", "46.7% electrified", "Lower profit"],
+         "APR–SEP 2026", ["N. America: +¥132 bn", "Smaller tariff hit", "55.6% electrified", "Profit +9.2%"]),
+      t="Now the latest half year, to September 2026. Revenue rose nine and a half percent to about twenty-seven trillion yen. Operating profit rose *nine percent*. And North America was back in profit, thanks to higher prices and smaller tariff costs."),
+ dict(v=("pie", "56%", "of Toyota and Lexus sales were electrified, Apr–Sep 2026"), photo="modern car showroom",
+      t="The hybrid machine keeps growing. In those six months, about *fifty-six percent* of Toyota and Lexus sales were electrified. Hybrids alone were two point four five million, and electric car sales more than doubled."),
+ dict(v=("stat", "685,000", "Toyota and Lexus cars sold in China, Apr–Sep 2026", "Down from 914,000 a year earlier"), photo="busy Chinese city traffic",
+      t="But there is a weak spot: *China*. Local Chinese brands are selling cheap electric cars, and Toyota's sales there fell from nine hundred and fourteen thousand to six hundred and eighty-five thousand in six months. That is about a quarter gone."),
+ dict(v=("stat", "¥3.9 TRILLION", "Toyota's raised operating profit forecast for the year to March 2027", "Up from ¥3.4 trillion"), photo="Japanese city skyline night",
+      t="Materials cost more too, about four hundred and sixty-five billion yen extra in the half. But in November 2026 Toyota still raised its forecast. It now expects operating profit of about *three point nine trillion yen* this year."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Toyota money machine", ["Build with no waste", "Sell cars ordinary people can afford", "Bet early on hybrids", "Sell everywhere, earn most at home", "Keep improving, every single day"]),
+      t="Build with no waste. Sell cars that ordinary people can afford. Bet early on hybrids. Sell all over the world, but make most of the profit at home. And improve a little, every single day. That machine brought in more than fifty trillion yen in one year."),
+ dict(v=("quote", "Toyota doesn't just sell cars. It sells the way it makes them.", ""),
+      t="It started with a loom that stopped itself when a thread broke. Today it is the biggest car maker on the planet. The question now: can the hybrid king stay on top as tariffs rise and *electric cars* get cheaper?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Toyota. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
