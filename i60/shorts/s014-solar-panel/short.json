@@ -1,0 +1,14 @@
+{
+ "title": "How a Solar Panel Works in 60 Seconds ☀️⚡ #shorts",
+ "description": "A solar panel has no moving parts. Sunlight knocks electrons loose inside layers of silicon, an electric field pushes them into metal contacts as direct current, and an inverter turns it into AC for your home. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#solarpanel #howitworks #shorts",
+ "tags": ["solar panel", "how solar panels work", "photovoltaic", "solar cell", "silicon", "renewable energy", "how it works", "physics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "A solar panel has *no moving parts*, yet it turns sunlight straight into electricity."},
+  {"label": "Cells", "text": "Each panel is a grid of *silicon cells* under protective glass.", "stat": "~20%", "statsub": "of sunlight becomes power"},
+  {"label": "Two Layers", "text": "Every cell has two silicon layers, *n-type* on top and *p-type* below. Where they meet, an electric field forms."},
+  {"label": "Photons", "text": "Sunlight is made of *photons*. When one hits the silicon, it knocks an *electron* loose."},
+  {"label": "Current", "text": "The field pushes those electrons into thin metal contacts. That flow is *direct current*."},
+  {"label": "Inverter", "text": "An *inverter* changes DC into AC, the kind your home outlets use."},
+  {"label": "Recap", "text": "Light in, *electrons* out. Follow Inside 60 for more."}
+ ]
+}
