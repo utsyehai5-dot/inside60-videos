@@ -227,8 +227,9 @@
  {
   "slug": "s032-elevator",
   "topic": "Elevator",
-  "status": "doing",
-  "publish_at": "2026-12-23T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-23T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/47ac12af3a96c42e448b5d4a6fa6e7c66f520842/i60/up/s032-elevator.mp4"
  },
  {
   "slug": "s033-escalator",
