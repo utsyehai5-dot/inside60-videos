@@ -1,0 +1,108 @@
+# Money Machine Files — Ep 11: How Spotify Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "788 MILLION", "people use Spotify every month"),
+      t="Right now, about *seven hundred and eighty-eight million* people use Spotify every month. More than three hundred million of them pay for it. It is the biggest music service on the planet."),
+ dict(v=("quote", "The biggest music app on Earth. Losses for years.", ""),
+      t="But here is the strange part. For most of its life, Spotify *lost money*. It hands most of what it earns straight to the music industry. So how does Spotify really make its money? And how did it finally turn a profit?"),
+ dict(v=("brand", "FILE #011  ·  SPOTIFY"),
+      t="This is the money machine behind Spotify. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "Two Swedes and a Piracy Problem"),
+      t="Chapter one. Two Swedes and a piracy problem."),
+ dict(v=("timeline", "2005", "Martin Lorentzon cashes out for $70 million"), photo="Stockholm old town waterfront",
+      t="The story starts in Stockholm. *Martin Lorentzon* had co-founded an online advertising company called Tradedoubler. In 2005 he sold his option in it for about seventy million dollars. He was rich, and he was looking for the next big thing."),
+ dict(v=("timeline", "MARCH 2006", "Tradedoubler buys a startup made by Daniel Ek"), photo="Stockholm apartment computer desk night",
+      t="Then, in March 2006, Tradedoubler bought a small advertising startup called Advertigo. It had been built by a young programmer named *Daniel Ek*, who had also worked as boss of the file-sharing app uTorrent. The two men became friends."),
+ dict(v=("timeline", "APRIL 2006", "Spotify is founded in Stockholm"), photo="Stockholm city skyline winter",
+      t="In April 2006, they founded Spotify. Lorentzon put up the early money, around *one million euros* to start, and paid for developers, offices and music licences from his own pocket."),
+ dict(v=("quote", "Make the legal option better than piracy.", ""), photo="old computer cables server room",
+      t="The timing mattered. In Sweden, millions of people were downloading music for free. In 2006 police raided The Pirate Bay, the famous piracy site. Spotify's idea was simple: build something *easier* than piracy, and pay the music industry for it."),
+ dict(v=("timeline", "7 OCT 2008", "Spotify launches in Europe"), photo="headphones on wooden desk",
+      t="On the seventh of October 2008, Spotify launched in several European countries. You could press play on almost any song, *instantly*, for free with ads, or pay to remove them. In July 2011 it reached the United States."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "Two Ways to Pay"),
+      t="Chapter two. Two ways to pay."),
+ dict(v=("compare", "FREE", ["Ads between songs", "Limited features", "499 million users", "Pays with attention"],
+         "PREMIUM", ["No ads", "Offline listening", "306 million subscribers", "Pays every month"]),
+      t="Spotify is a *freemium* business. The free tier is paid for by adverts. It has about four hundred and ninety-nine million users. Premium removes the ads and adds features, and it has three hundred and six million paying subscribers."),
+ dict(v=("pie", "89%", "of 2025 revenue came from Premium subscriptions"), photo="smartphone music app headphones",
+      t="But the money is not split evenly. In 2025, Premium brought in about *eighty-nine percent* of all revenue. The free tier is really a giant waiting room. Its main job is to turn listeners into paying subscribers."),
+ dict(v=("stat", "$12.99", "a month for Premium Individual in the US", "Student $6.99 · Duo $18.99 · Family $21.99"), photo="family sharing headphones living room",
+      t="And Spotify keeps nudging the price up. In the United States, Premium Individual costs *twelve dollars ninety-nine* a month. There are cheaper student plans, and Duo and Family plans that pull more people into one bill."),
+ dict(v=("bars", "Spotify revenue, Q3 2026 (€)", [("Premium", 4487, "4.49 bn"), ("Ad-supported", 482, "0.48 bn")]),
+      t="Look at the latest quarter. Premium made almost *four and a half billion euros*. Ads made less than half a billion. Ad revenue is growing, but it is small, and in 2025 it actually slipped slightly."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "Where Your Money Really Goes"),
+      t="Chapter three. Where your money really goes."),
+ dict(v=("flow", "Where a Premium payment goes", ["You", "Spotify", "Labels & writers", "Artists"], ["pay", "~70%", "deals"],
+         "Spotify keeps roughly a third  →  most of the money flows to rights holders", "Spotify"),
+      t="Here is the big secret. Spotify does not own the music. Labels and publishers do. So roughly *seventy percent* of Spotify's revenue goes back to the people who own the rights. They then pay artists according to their own contracts."),
+ dict(v=("stat", "$10 BILLION", "paid to the music industry in 2024", "More than $11 billion in 2025"), photo="recording studio mixing desk",
+      t="In 2024, Spotify paid about *ten billion dollars* to the music industry, the biggest yearly payout in its history. In 2025 it paid more than eleven billion. Over its life, the total is now well above sixty billion dollars."),
+ dict(v=("stat", "~1,500", "artists earned over $1 million from Spotify in 2024", "The 10,000th artist earned about $131,000"), photo="concert stage lights crowd",
+      t="Around *fifteen hundred* artists earned more than a million dollars from Spotify in 2024. The artist ranked ten-thousandth earned about one hundred and thirty-one thousand. But most of the millions of acts on the app earn very little."),
+ dict(v=("stat", "1,000", "streams a year before a track earns recording royalties", "A rule Spotify introduced in 2024"), photo="guitar bedroom home studio",
+      t="In 2024 Spotify added a controversial rule. A track now needs at least *one thousand streams* in a year before it earns recording royalties. Spotify says this stops tiny payments being lost and fights fake streams. Critics say it hurts small artists."),
+ dict(v=("quote", "The problem: the music is rented, not owned.", ""),
+      t="And this is why Spotify lost money for so long. If seventy cents of every euro goes to rights holders, there is not much left for staff, servers and marketing. To make real money, Spotify had to find things to sell that it *did not have to rent*."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "The Escape Plan: Podcasts and Books"),
+      t="Chapter four. The escape plan: podcasts and books."),
+ dict(v=("list", "Spotify's podcast shopping spree", ["Feb 2019 · Gimlet Media", "Mar 2019 · Parcast", "Feb 2020 · The Ringer", "2020 · Joe Rogan exclusive"]),
+      t="In 2019, Spotify went shopping. It bought podcast studios like *Gimlet* and Parcast, and then The Ringer. The logic was clear: with podcasts, there is no record label taking seventy percent."),
+ dict(v=("compare", "2020 DEAL", ["Reported $100 m+", "Spotify only", "Exclusive show", "Pull listeners in"],
+         "2024 DEAL", ["Reported ~$250 m", "Also on YouTube", "Not exclusive", "Sell more ads"]),
+      t="The biggest bet was Joe Rogan. In 2020 his show became a Spotify exclusive, in a deal reported at more than one hundred million dollars. In 2024 it was renewed, reportedly for about *two hundred and fifty million*, but no longer exclusive."),
+ dict(v=("stat", "7 MILLION+", "podcast titles on Spotify", "Next to more than 100 million songs"), photo="podcast microphone studio",
+      t="Not every bet worked, and some studios were later cut back. But Spotify now has more than *seven million* podcast titles, and it earns money from podcast ads and sponsorships."),
+ dict(v=("stat", "15 HOURS", "of audiobook listening included in Premium", "350,000+ titles · 180+ markets by end of 2026"), photo="person reading book headphones",
+      t="Then came audiobooks. Premium now includes *fifteen hours* of audiobook listening each month. By the end of 2026, Spotify plans to offer more than three hundred and fifty thousand titles in over one hundred and eighty markets. Every new feature is another reason to raise the price."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "From Losses to Profit"),
+      t="Chapter five. From losses to profit."),
+ dict(v=("stat", "$60 MILLION", "net loss in 2011", "On $244 million of revenue"), photo="office desks laptops startup",
+      t="For years, Spotify grew fast and lost money. In 2011, for example, it lost about *sixty million dollars* on revenue of two hundred and forty-four million. Investors kept paying because they believed in the scale."),
+ dict(v=("stat", "$165.90", "Spotify's first share price on 3 April 2018", "Direct listing on the NYSE · no new money raised"), photo="New York stock exchange street",
+      t="In April 2018, Spotify went public in an unusual way. It did not do a normal IPO. It simply *listed* its shares on the New York Stock Exchange. The first trade was at one hundred and sixty-five dollars ninety, valuing it at almost thirty billion dollars."),
+ dict(v=("timeline", "2024", "Spotify's first full year of profit"), photo="Stockholm office building glass",
+      t="Then the turn. In 2024, after cutting costs, raising prices and slowing its spending, Spotify posted its first ever *full year of profit*. And 2025 was even better."),
+ dict(v=("bars", "Spotify full year 2025 (€)", [("Revenue", 17.2, "17.2 bn"), ("Operating profit", 2.2, "2.2 bn")]),
+      t="In 2025, Spotify's revenue reached about *seventeen point two billion euros*. Operating profit was about two point two billion. It was the second year in a row that the company made money."),
+ dict(v=("stat", "€2.9 BILLION", "free cash flow in 2025", "Cash and investments of about €9.5 billion"), photo="city skyline evening lights glass towers",
+      t="The cash is real too. In 2025, Spotify generated about *two point nine billion euros* of free cash flow, the money left after running the business and investing in it. By the end of the year it had around nine and a half billion euros in cash and investments, and it has started buying back its own shares."),
+ dict(v=("stat", "33%", "gross margin, Q3 2026", "A record for a third quarter"), photo="data center servers blue light",
+      t="The key number is the *gross margin*. After paying for the music and the servers, Spotify keeps about thirty-three cents of every euro. A few years ago it was much lower. Higher prices, podcasts, audiobooks and ads are slowly pushing it up."),
+ dict(v=("stat", "€12 MILLION", "income tax paid by Spotify in 2025", "Thanks to tax credits from years of losses"),
+      t="And here is a twist. On two point two billion euros of profit, Spotify paid only about *twelve million* euros of income tax in 2025. Why? Years of losses created tax credits it can now use. The company says its tax rate will move towards normal."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Numbers Today"),
+      t="Chapter six. The numbers today."),
+ dict(v=("compare", "END OF 2025", ["751 m users", "290 m subscribers", "€4.5 bn revenue (Q4)", "€701 m op. profit (Q4)"],
+         "Q3 2026", ["788 m users", "306 m subscribers", "€4.97 bn revenue", "€672 m op. profit"]),
+      t="At the end of 2025, Spotify had seven hundred and fifty-one million users and two hundred and ninety million subscribers. By the third quarter of 2026, that was seven hundred and eighty-eight million users and *three hundred and six million* subscribers. Quarterly revenue grew sixteen percent to almost five billion euros."),
+ dict(v=("bars", "Spotify operating profit, 2026 (€ m)", [("Q1", 715, "715"), ("Q2", 655, "655"), ("Q3", 672, "672"), ("Q4 guide", 820, "820")]),
+      t="And the profits keep coming. Spotify made around seven hundred million euros of operating profit in each of the first three quarters of 2026. For the fourth quarter, it expects about *eight hundred and twenty million*. That would make 2026 its best year ever."),
+ dict(v=("timeline", "JAN 2026", "Daniel Ek becomes executive chairman"), photo="modern office meeting room glass",
+      t="There is also a new leadership team. Daniel Ek is now *executive chairman*. Day-to-day, the company is run by two co-chief executives, Alex Norström and Gustav Söderström, who have both worked at Spotify for years."),
+ dict(v=("stat", "300 MILLION+", "people engaged with Spotify Wrapped 2025", "Shared more than 630 million times"), photo="friends looking at phones smiling",
+      t="And Spotify still has one of the best free marketing tricks in tech: *Wrapped*. Every December, users share their year in music. In 2025, more than three hundred million people took part, and it was shared over six hundred and thirty million times."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Spotify money machine", ["Free tier pulls people in", "~89% of revenue from Premium", "~70% goes to rights holders", "Podcasts & books lift the margin", "€17.2 bn revenue, €2.2 bn profit"]),
+      t="Give the music away for free, with ads, to pull people in. Turn as many as possible into paying subscribers. Hand about seventy percent to the rights holders. Then add podcasts, audiobooks and price rises to keep a bigger slice. That machine made seventeen point two billion euros in 2025."),
+ dict(v=("quote", "Spotify rents the music. It owns the habit.", ""),
+      t="It started as a Swedish answer to piracy. It lost money for more than a decade. Today it is profitable and still growing. The question now is simple: can Spotify keep raising prices without losing the *habit* of hundreds of millions of people?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Spotify. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
