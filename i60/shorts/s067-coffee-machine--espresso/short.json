@@ -1,0 +1,14 @@
+{
+ "title": "How an Espresso Machine Works in 60 Seconds ☕🔥 #shorts",
+ "description": "An espresso machine heats water to just below boiling, then a pump forces it through tightly packed coffee at about 9 bar. In around 25 to 30 seconds that pressure pulls out the oils and flavor and creates the golden crema on top. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#espresso #coffee #howitworks",
+ "tags": ["espresso machine", "how an espresso machine works", "espresso", "9 bar", "crema", "portafilter", "coffee", "barista", "kitchen science", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Every espresso shot is pushed through coffee at about *9 bar*. That's nine times the air pressure around you.", "stat": "9 BAR", "statsub": "BREWING PRESSURE"},
+  {"label": "Boiler", "text": "First, a *boiler* heats water to about *93 degrees*, just below boiling."},
+  {"label": "Pump", "text": "Then a *pump* forces that hot water up to the *group head* under high pressure."},
+  {"label": "Coffee puck", "text": "Below it, finely ground coffee is packed tight in the *portafilter*, forming a dense *puck*."},
+  {"label": "Extraction", "text": "The water squeezes through the puck in about *25 to 30 seconds*, pulling out oils and flavor.", "stat": "~25 s", "statsub": "PER SHOT"},
+  {"label": "Crema", "text": "Pressure also traps *carbon dioxide* in the coffee, which foams up as golden *crema*."},
+  {"label": "Recap", "text": "Heat, pressure, *crema*. Follow Inside 60 for more."}
+ ]
+}
