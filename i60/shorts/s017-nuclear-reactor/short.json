@@ -1,0 +1,14 @@
+{
+ "title": "How a Nuclear Reactor Works in 60 Seconds ⚛️⚡ #shorts",
+ "description": "A fuel pellet smaller than your fingertip holds as much energy as a ton of coal. Inside a reactor, splitting uranium atoms heats water under high pressure, a steam generator makes steam, and a turbine and generator turn it into electricity. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#nuclearpower #howitworks #shorts",
+ "tags": ["nuclear reactor", "how nuclear power works", "nuclear fission", "uranium", "pressurized water reactor", "control rods", "steam turbine", "how it works", "engineering", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "One tiny *uranium pellet* makes as much energy as a whole ton of coal.", "stat": "1 ton", "statsub": "of coal = 1 tiny pellet"},
+  {"label": "Fission", "text": "A neutron hits a uranium atom and it *splits*, releasing heat and more neutrons."},
+  {"label": "Chain Reaction", "text": "Those neutrons split more atoms. *Control rods* soak up neutrons to keep it steady."},
+  {"label": "Hot Water", "text": "The core heats water kept under *high pressure*, so it can't boil."},
+  {"label": "Steam", "text": "In the *steam generator*, that heat boils water in a second, separate loop."},
+  {"label": "Electricity", "text": "The steam spins a *turbine* and generator, then cools back into water."},
+  {"label": "Recap", "text": "Split atoms, make *steam*. Follow Inside 60 for more."}
+ ]
+}
