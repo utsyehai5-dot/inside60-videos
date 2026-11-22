@@ -1,0 +1,14 @@
+{
+ "title": "How a Pressure Cooker Works in 60 Seconds 🍲💨 #shorts",
+ "description": "A pressure cooker traps steam inside a sealed pot. The extra pressure raises water's boiling point to about 121°C, so food cooks much faster, while a weighted valve lets out extra steam to keep it safe. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#pressurecooker #cooking #howitworks",
+ "tags": ["pressure cooker", "how a pressure cooker works", "boiling point", "steam", "pressure", "gasket", "pressure valve", "cooking science", "kitchen science", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Inside a pressure cooker, water doesn't boil at 100 degrees. It gets to about *121°C*.", "stat": "121°C", "statsub": "BOILING POINT INSIDE"},
+  {"label": "Seal", "text": "A rubber *gasket* seals the lid tight, so the steam has *nowhere to go*."},
+  {"label": "Pressure", "text": "As the water heats, trapped *steam* builds up about *one extra atmosphere* of pressure."},
+  {"label": "Boiling point", "text": "Higher pressure raises the *boiling point*, so the water gets much *hotter* than normal."},
+  {"label": "Fast cooking", "text": "That hotter water and steam push heat into the food *faster*, cutting cooking time by up to *70%*.", "stat": "−70%", "statsub": "COOKING TIME"},
+  {"label": "Valve", "text": "A *weighted valve* lifts and hisses out extra steam, keeping the pressure *steady and safe*."},
+  {"label": "Recap", "text": "Seal, pressure, *heat*. Follow Inside 60 for more."}
+ ]
+}
