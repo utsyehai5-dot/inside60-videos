@@ -374,8 +374,9 @@
  {
   "slug": "s053-computer-cpu",
   "topic": "Computer CPU",
-  "status": "doing",
-  "publish_at": "2027-01-13T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-13T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/cc020fd554a3fbb0eaecf5327ff0cc96b35ce29c/i60/up/s053-computer-cpu.mp4"
  },
  {
   "slug": "s054-keyboard",
