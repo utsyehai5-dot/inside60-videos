@@ -190,8 +190,10 @@
  {
   "slug": "s027-helicopter",
   "topic": "Helicopter",
-  "status": "doing",
-  "publish_at": "2026-12-18T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-18T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f57f660ac4f17a26d076244d2be6f0057fc75e11/i60/up/s027-helicopter.mp4",
+  "last_error": null
  },
  {
   "slug": "s028-airplane-wing",
