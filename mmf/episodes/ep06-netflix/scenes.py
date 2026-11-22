@@ -1,0 +1,110 @@
+# Money Machine Files — Ep 6: How Netflix Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "$45.2 BILLION", "Netflix's revenue in 2025"),
+      t="In 2025, Netflix brought in *forty-five billion dollars* in revenue, and kept almost eleven billion of it as net profit. This year, it expects about fifty-one billion."),
+ dict(v=("quote", "How did a company that mailed DVDs in red envelopes become a $50-billion-a-year machine?", ""),
+      t="Not long ago, it was a small company posting DVDs in red envelopes. Its biggest rival once refused to buy it. So how does Netflix really make its money? And why did walking away from the biggest deal in Hollywood earn it almost three billion dollars?"),
+ dict(v=("brand", "FILE #006  ·  NETFLIX"),
+      t="This is the money machine behind Netflix. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "Red Envelopes"),
+      t="Chapter one. Red envelopes."),
+ dict(v=("timeline", "1997", "Netflix is founded in California"), photo="California office park 1990s",
+      t="Netflix was founded in 1997 by two entrepreneurs, Reed Hastings and Marc Randolph. Hastings had just sold his previous software company, and the pair were looking for the next big idea."),
+ dict(v=("stat", "$40", "the late fee in the famous story", "For a rented copy of Apollo 13"), photo="old VHS video tapes shelf",
+      t="The famous origin story goes like this. Hastings had to pay a *forty dollar* late fee for a rented copy of the film Apollo Thirteen. Whether every detail is true or not, the lesson stuck, and it became the heart of the business: customers *hated* late fees, and a company that got rid of them could win."),
+ dict(v=("timeline", "1998", "Netflix opens its DVD rental website"), photo="DVD discs stack",
+      t="In 1998, Netflix opened its website to rent and sell DVDs by mail. The new discs were thin and light, so they could travel through the post cheaply in a simple *envelope*."),
+ dict(v=("list", "The 1999 subscription idea", ["One monthly fee", "Keep discs as long as you like", "No due dates, no late fees", "Send one back, get the next"]),
+      t="Then came the idea that built the company. In 1999, Netflix switched to a *subscription*. One monthly fee. Keep a disc as long as you like. No due dates and no late fees. Send one back, and the next film on your list arrives."),
+
+ dict(v=("stat", "239,000", "subscribers in the first year", "Of the monthly rent-by-mail plan"),
+      t="It worked. In its first year, the subscription plan signed up about *two hundred and thirty-nine thousand* members. Every one of them paid again the next month, whether they watched one film or ten. That steady, repeating payment is still the engine today."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "The $50 Million Mistake"),
+      t="Chapter two. The fifty million dollar mistake."),
+ dict(v=("stat", "$50 MILLION", "the price Netflix asked for itself", "To Blockbuster, in the year 2000"), photo="video rental store aisle",
+      t="By the year 2000, Netflix was still losing money. So the founders flew to meet the giant of home video, Blockbuster, and offered to sell Netflix for *fifty million dollars*."),
+ dict(v=("quote", "Blockbuster called Netflix a niche business — and said no.", ""),
+      t="According to Randolph, Blockbuster's bosses saw Netflix as a small niche business, and he says they laughed them out of the room. Blockbuster's chief executive has since disputed that account, but either way, there was no deal."),
+ dict(v=("compare", "BLOCKBUSTER", ["Thousands of stores", "Charged late fees", "Said no in 2000", "Bankrupt in 2010"],
+         "NETFLIX", ["No stores at all", "No late fees", "Public in 2002", "325 million+ memberships"]),
+      t="Look at what happened next. Netflix went public in 2002, with about six hundred thousand members in the United States. Blockbuster, with its thousands of stores and its late fees, went *bankrupt* in 2010. Today, Randolph says, one Blockbuster store is left."),
+ dict(v=("stat", "5 BILLION", "DVDs shipped by mail", "The last ones went out on 29 September 2023"), photo="mail sorting post office envelopes",
+      t="The DVD business kept running for a remarkably long time. When the last discs were mailed on the twenty-ninth of September 2023, Netflix had shipped around *five billion* of them."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "The Year It Almost Broke"),
+      t="Chapter three. The year it almost broke."),
+ dict(v=("timeline", "2007", "Streaming launches, free for DVD members"), photo="laptop computer on desk at night",
+      t="In 2007, Netflix launched streaming, at first as a free extra for its DVD members. The founders could see that discs would not last forever, and they wanted Netflix to be the company that replaced them, rather than the one that got replaced."),
+ dict(v=("stat", "+60%", "the 2011 price rise for DVD + streaming", "About $10 a month became $15.98"),
+      t="In July 2011 it pushed too hard. Netflix split DVDs and streaming into two plans at seven ninety-nine each. For people who wanted both, that was about a *sixty percent* price rise, from roughly ten dollars to almost sixteen."),
+ dict(v=("timeline", "2011", "The DVD arm is to be renamed 'Qwikster'"),
+      t="Then, in September, Hastings apologised for the way it was handled, and announced the DVD service would become a separate brand called *Qwikster*. Customers were confused and angry, and within weeks the Qwikster plan was cancelled."),
+ dict(v=("stat", "−800,000", "US subscribers lost in Q3 2011", "The stock lost about half its value"),
+      t="The damage was real. Netflix lost about *eight hundred thousand* US subscribers in a single quarter, its first decline in years, and its share price fell by roughly half in two months. But the bet on streaming survived."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "Becoming the Studio"),
+      t="Chapter four. Becoming the studio."),
+ dict(v=("timeline", "2013", "House of Cards: Netflix's own hit show"), photo="film studio set lights camera",
+      t="Streaming had a weakness. Netflix was renting other studios' shows, and those studios could take them back. So it started making its own. In 2013, the political drama House of Cards and Orange Is the New Black became *hits*."),
+ dict(v=("timeline", "2016", "Netflix goes live in 130+ new countries"), photo="world map lights at night",
+      t="On the sixth of January 2016, on a stage in Las Vegas, Netflix switched itself on in more than *one hundred and thirty* new countries at the same time. It started that year with more than seventy million subscribers."),
+ dict(v=("stat", "$16.4 BN", "content amortisation in 2025", "The cost of shows and films used up in one year"), photo="cinema camera on film set",
+      t="Making the world's TV is expensive. In 2025, Netflix booked *sixteen point four billion* dollars of content amortisation, which is the cost of its shows and films spread over the years they are watched."),
+ dict(v=("pie", "36%", "of Netflix's 2025 revenue went to content amortisation"),
+      t="That means about thirty-six cents of every dollar Netflix earned went on the shows themselves. It is the single biggest cost in the machine."),
+ dict(v=("quote", "Rent a show and you pay every year. Own it, and it works for you everywhere.", ""),
+      t="But owning shows changes the maths. A hit show that Netflix owns can be watched in almost every country, for years, without paying anyone else. And more than a third of viewing is now of shows not made in English."),
+ dict(v=("flow", "The Netflix loop", ["More members", "More money", "More shows", "More viewing"], ["bring", "buys", "drives"],
+         "More viewing  →  fewer cancellations  →  more members", "More"),
+      t="That is the loop. More members bring in more money. More money buys more shows. More shows mean more viewing, and people who watch a lot rarely cancel. So the machine keeps growing."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "New Money Taps"),
+      t="Chapter five. New money taps."),
+ dict(v=("stat", "$7.99", "a month for an extra member (US)", "Paid sharing launched in May 2023"), photo="family living room television sofa",
+      t="For years, millions of people watched Netflix on someone else's password. In May 2023, Netflix began charging for that, in more than one hundred countries. In the US, adding an extra member costs *seven ninety-nine* a month."),
+ dict(v=("stat", "+5.9 MILLION", "subscribers added in Q2 2023", "Analysts had expected about 1.7 million"),
+      t="People said they would cancel. Instead, Netflix added almost *six million* subscribers in the next quarter, more than three times what analysts expected. By early 2024 it had a record of almost two hundred and seventy million."),
+ dict(v=("stat", "$1.5 BN+", "advertising revenue in 2025", "Over 2.5× 2024 — about $2.7 bn expected for 2026"), photo="television screen in dark room",
+      t="The second new tap is advertising. In late 2022, Netflix launched a cheaper plan with ads. In 2025, advertising brought in more than *one and a half billion* dollars, and Netflix expects about two point seven billion this year."),
+ dict(v=("list", "Netflix's money taps", ["Monthly subscriptions", "Price rises over time", "Paid sharing fees", "Advertising", "Live events & games"]),
+      t="So the taps today are monthly subscriptions, which are still most of the money. Price rises from time to time. Fees for extra members. Advertising. And newer bets, like live sport, boxing nights and games, that give people reasons to stay."),
+ dict(v=("list", "Revenue by region, Q3 2026", ["US & Canada  —  $5.63 bn", "Europe, Mid-East & Africa  —  $4.11 bn", "Latin America  —  $1.60 bn", "Asia-Pacific  —  $1.54 bn"]),
+      t="And the money is global. In the third quarter of 2026, the US and Canada brought in five point six billion dollars, Europe, the Middle East and Africa about four point one, Latin America one point six, and Asia Pacific one point five billion."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Numbers Today"),
+      t="Chapter six. The numbers today."),
+ dict(v=("bars", "Netflix, full year 2025 ($)", [("Revenue", 45.2, "45.2 bn"), ("Operating profit", 13.3, "13.3 bn"), ("Net profit", 11.0, "11.0 bn")]),
+      t="In 2025, Netflix's revenue grew sixteen percent, to forty-five point two billion dollars. Operating profit was thirteen point three billion, and net profit almost eleven billion. It passed *three hundred and twenty-five million* paid memberships."),
+ dict(v=("stat", "29.5% → 31.5%", "operating margin, 2025 → 2026 target", "Q3 2026 alone: 34.6%"),
+      t="And the machine is getting more efficient. Its operating margin was twenty-nine and a half percent in 2025. The target for 2026 is thirty-one and a half, and in the third quarter it hit *thirty-four point six* percent."),
+ dict(v=("stat", "$9.5 BN", "free cash flow in 2025", "Up from $6.9 bn in 2024"),
+      t="Profit on paper is one thing. Cash is another. After paying for all its shows, Netflix generated about *nine and a half billion* dollars of free cash flow in 2025, up from six point nine billion the year before. And it says its audience is now approaching one billion people."),
+ dict(v=("timeline", "2025", "Netflix agrees to buy Warner Bros. for $82.7 bn"), photo="hollywood film studio water tower",
+      t="Now for the surprise. In December 2025, Netflix agreed to buy Warner Brothers, with its film studios and HBO, at an enterprise value of about *eighty-three billion* dollars. It was one of the biggest deals Hollywood had ever seen."),
+ dict(v=("stat", "$2.8 BN", "break-up fee paid to Netflix", "After Paramount's higher bid won, Feb 2026"),
+      t="But Paramount came back with a higher offer, and in February 2026 Warner chose Paramount. Netflix refused to raise its bid and walked away. Under the deal terms, it was paid a break-up fee of *two point eight billion* dollars."),
+ dict(v=("compare", "THE DEAL", ["$82.7 bn agreed in Dec 2025", "Huge loans lined up", "Buybacks paused", "Months of regulators"],
+         "WALKING AWAY", ["$2.8 bn fee received", "No loans needed", "Buybacks restarted", "Record $4.8 bn in Q3 2026"]),
+      t="So instead of taking on huge new loans, Netflix pocketed the fee and went back to its own plan. In the third quarter of 2026, it spent a record *four point eight billion* dollars buying back its own shares."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Netflix money machine", ["Subscriptions with no late fees", "Own the shows, show them everywhere", "325 million+ paid memberships", "Paid sharing and ads", "Margins heading past 30%"]),
+      t="A simple subscription with no late fees. Its own shows, streamed to almost every country on Earth. More than three hundred and twenty-five million paid memberships. New money from shared passwords and advertising. And margins now heading past thirty percent."),
+ dict(v=("quote", "Blockbuster sold you a night in. Netflix sells you every night — by the month.", ""),
+      t="Netflix offered itself for fifty million dollars and was turned down. Today it brings in that much revenue in under *nine hours*. The red envelopes are gone, but the idea behind them still pays every month."),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Netflix. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
