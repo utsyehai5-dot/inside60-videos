@@ -233,8 +233,9 @@
  {
   "slug": "s033-escalator",
   "topic": "Escalator",
-  "status": "doing",
-  "publish_at": "2026-12-24T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-24T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/af1f2f2d2f9640cc1b9e96a334ea1f27cf1cf97d/i60/up/s033-escalator.mp4"
  },
  {
   "slug": "s034-zipper",
