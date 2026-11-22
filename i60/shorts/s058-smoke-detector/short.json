@@ -1,0 +1,50 @@
+{
+ "title": "How a Smoke Detector Works in 60 Seconds 🔥🚨 #shorts",
+ "description": "A smoke alarm hides a dark chamber that air drifts through. In photoelectric alarms, smoke scatters an LED beam onto a light sensor; in ionization alarms, smoke disrupts a tiny current made by a speck of americium. Either way, the chip sounds a horn of at least 85 decibels. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#smokedetector #firesafety #howitworks",
+ "tags": [
+  "smoke detector",
+  "smoke alarm",
+  "how a smoke detector works",
+  "photoelectric",
+  "ionization",
+  "americium",
+  "fire safety",
+  "home safety",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "A smoke alarm blasts at least *85 decibels*, loud enough to wake you up.",
+   "stat": "85 dB",
+   "statsub": "ALARM VOLUME"
+  },
+  {
+   "label": "Chamber",
+   "text": "Inside is a dark *chamber* with slots that let air and smoke drift in."
+  },
+  {
+   "label": "Light",
+   "text": "In a photoelectric alarm, an *LED* shines across the chamber, aimed away from a *light sensor*."
+  },
+  {
+   "label": "Scatter",
+   "text": "When smoke enters, its particles *scatter* the light onto the sensor."
+  },
+  {
+   "label": "Ions",
+   "text": "Ionization alarms use a speck of *americium* to make a tiny current in the air. Smoke *disrupts* it."
+  },
+  {
+   "label": "Alarm",
+   "text": "Either way, the chip sees the change and sounds the *horn*."
+  },
+  {
+   "label": "Recap",
+   "text": "Smoke, signal, *siren*. Follow Inside 60 for more."
+  }
+ ]
+}
