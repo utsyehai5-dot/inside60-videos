@@ -1,0 +1,14 @@
+{
+ "title": "How a Projector Works in 60 Seconds 📽️🪞 #shorts",
+ "description": "Inside many projectors is a chip covered in millions of microscopic mirrors, one for every pixel. Each mirror tilts to send light either out through the lens or into a dark trap, flipping thousands of times a second to make shades of brightness, while a spinning color wheel adds red, green and blue. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#projector #howitworks #shorts",
+ "tags": ["projector", "how a projector works", "dlp projector", "micromirror", "dmd chip", "color wheel", "home theater", "optics", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Many projectors have a chip covered in over *2 million* tiny mirrors, one for every pixel.", "stat": "2,000,000+", "statsub": "MIRRORS ON ONE CHIP"},
+  {"label": "Lamp", "text": "A very bright *lamp* or LED shines its light straight onto that *chip*."},
+  {"label": "Mirrors", "text": "Each mirror *tilts* one way to send light to the lens, or the other way into a dark *trap*."},
+  {"label": "Shades", "text": "They flip *thousands* of times a second. The longer a mirror stays on, the *brighter* its pixel."},
+  {"label": "Color", "text": "A spinning *color wheel* flashes red, green and blue so fast your eyes *blend* them."},
+  {"label": "Lens", "text": "Finally, a *lens* blows that tiny image up across the whole *screen*."},
+  {"label": "Recap", "text": "Light, mirrors, *lens*. Follow Inside 60 for more."}
+ ]
+}
