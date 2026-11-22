@@ -1,0 +1,14 @@
+{
+ "title": "How a Diesel Engine Works in 60 Seconds 🚛🔥 #shorts",
+ "description": "A diesel engine has no spark plugs. It squeezes air so hard that the air gets hot enough to ignite fuel on its own, the instant fuel is sprayed in. That high compression is also why diesels are more efficient than gasoline engines. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#dieselengine #howitworks #shorts",
+ "tags": ["diesel engine", "how a diesel engine works", "compression ignition", "fuel injector", "engine", "truck engine", "four stroke", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A diesel engine has *no spark plugs*. It lights its fuel with hot air alone."},
+  {"label": "Intake", "text": "First the piston moves down and pulls in *fresh air*. Just air, no fuel."},
+  {"label": "Squeeze", "text": "Then it squeezes that air into a tiny space, often *16 to 20 times* smaller.", "stat": "16–20 : 1", "statsub": "COMPRESSION"},
+  {"label": "Heat", "text": "Squeezed air gets *hot*, around 500 degrees Celsius. Hot enough to ignite diesel."},
+  {"label": "Injection", "text": "An *injector* sprays fuel in, and it explodes instantly, slamming the piston down."},
+  {"label": "Exhaust", "text": "Finally the piston rises and pushes the *exhaust* out. Then it all repeats."},
+  {"label": "Recap", "text": "Squeeze, heat, *ignite*. Follow Inside 60 for more."}
+ ]
+}
