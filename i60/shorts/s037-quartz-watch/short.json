@@ -1,0 +1,14 @@
+{
+ "title": "How a Quartz Watch Works in 60 Seconds ⌚💎 #shorts",
+ "description": "Inside a quartz watch, a tiny tuning fork made of quartz crystal vibrates 32,768 times every second. The battery's voltage keeps it ringing, a chip halves that signal 15 times to get exactly one pulse per second, and a small stepper motor moves the second hand one tick. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#quartz #howitworks #shorts",
+ "tags": ["quartz watch", "how quartz watches work", "quartz crystal", "32768 hz", "piezoelectric", "stepper motor", "watch movement", "electronics", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A tiny crystal inside a quartz watch vibrates *32,768* times every second.", "stat": "32,768", "statsub": "TIMES PER SECOND"},
+  {"label": "Crystal", "text": "It's cut into a tiny *tuning fork*. Quartz is *piezoelectric*: squeeze it, and it makes a voltage."},
+  {"label": "Ring", "text": "It works backwards too. The *battery's* pulses make the fork bend, so it keeps ringing at one exact pitch."},
+  {"label": "Divide", "text": "A chip halves that signal *15 times*. 32,768 becomes exactly *one* pulse per second."},
+  {"label": "Motor", "text": "Each pulse flips a tiny *stepper motor*, and the gears move the second hand one tick."},
+  {"label": "Accuracy", "text": "That steady crystal keeps most quartz watches within about *15 seconds* a month."},
+  {"label": "Recap", "text": "Vibrate, divide, *tick*. Follow Inside 60 for more."}
+ ]
+}
