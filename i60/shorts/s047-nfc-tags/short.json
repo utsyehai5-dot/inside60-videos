@@ -1,0 +1,14 @@
+{
+ "title": "How NFC Tags Work in 60 Seconds 📱✨ #shorts",
+ "description": "An NFC tag has no battery, yet it can talk to your phone. The phone's coil makes a magnetic field at 13.56 MHz, the tag's antenna loop catches it and turns it into power, and the chip answers by changing how much energy it draws. It only works within a few centimeters. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#nfc #contactless #howitworks",
+ "tags": ["nfc", "nfc tags", "how nfc works", "near field communication", "contactless", "tap to pay", "rfid", "wireless power", "magnetic induction", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A tiny NFC tag has *no battery* at all, yet it can talk to your phone.", "stat": "0", "statsub": "BATTERIES"},
+  {"label": "Field", "text": "Your phone's coil sends out a *magnetic field*, buzzing *13.56 million* times a second.", "stat": "13.56", "statsub": "MHZ"},
+  {"label": "Power", "text": "Bring the tag close, and its *antenna loop* catches that field and turns it into *power*."},
+  {"label": "Chip", "text": "That energy wakes a tiny *chip* holding a link, a code, or a *contact card*."},
+  {"label": "Reply", "text": "The chip answers by *flickering* how much energy it draws, and the phone reads it as *data*."},
+  {"label": "Range", "text": "It only works within a few *centimeters*, so you have to *tap* on purpose.", "stat": "~4 cm", "statsub": "TYPICAL RANGE"},
+  {"label": "Recap", "text": "Field, power, *data*. Follow Inside 60 for more."}
+ ]
+}
