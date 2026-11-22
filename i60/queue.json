@@ -507,8 +507,9 @@
  {
   "slug": "s072-electric-scooter",
   "topic": "Electric scooter",
-  "status": "doing",
-  "publish_at": "2027-02-01T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-01T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/33a4e7c5bc5121afcc7aa88bd79f4e741ca06652/i60/up/s072-electric-scooter.mp4"
  },
  {
   "slug": "s073-traffic-light-sensors",
