@@ -1,0 +1,14 @@
+{
+ "title": "How Car Brakes Work in 60 Seconds 🚗🛑 #shorts",
+ "description": "Your brakes don't destroy speed, they turn it into heat. Pressing the pedal pushes brake fluid to the calipers, pistons squeeze pads against a spinning rotor, and friction turns motion into heat that vented discs pump away. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#carbrakes #howitworks #shorts",
+ "tags": ["car brakes", "how brakes work", "disc brakes", "brake caliper", "brake pads", "brake fluid", "hydraulics", "how it works", "car mechanics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "Stopping a moving car takes huge energy. Your brakes don't destroy that speed. They turn it into *heat*."},
+  {"label": "The Pedal", "text": "When you press the pedal, a rod pushes a piston inside the *master cylinder*."},
+  {"label": "Hydraulics", "text": "*Brake fluid* can't be squeezed, so it carries that push through thin metal lines to every wheel."},
+  {"label": "Caliper", "text": "At the wheel, the fluid pushes a piston inside the *caliper*."},
+  {"label": "Friction", "text": "The piston squeezes *brake pads* against the spinning rotor."},
+  {"label": "Heat", "text": "Friction turns motion into *heat*. Vented rotors pump air through to cool down."},
+  {"label": "Recap", "text": "Motion becomes *heat*. Follow Inside 60 for more."}
+ ]
+}
