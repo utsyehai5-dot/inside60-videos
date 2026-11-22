@@ -360,8 +360,9 @@
  {
   "slug": "s051-hard-drive",
   "topic": "Hard drive",
-  "status": "doing",
-  "publish_at": "2027-01-11T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-11T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/b3623cff6d560f063864a1643adcbbebc8c05dd8/i60/up/s051-hard-drive.mp4"
  },
  {
   "slug": "s052-ssd",
