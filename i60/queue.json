@@ -514,8 +514,9 @@
  {
   "slug": "s073-traffic-light-sensors",
   "topic": "Traffic light sensors",
-  "status": "doing",
-  "publish_at": "2027-02-02T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-02T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/3c30d3783af8fdcf9b92b945a8df3d566f2ece60/i60/up/s073-traffic-light-sensors.mp4"
  },
  {
   "slug": "s074-parking-sensors",
