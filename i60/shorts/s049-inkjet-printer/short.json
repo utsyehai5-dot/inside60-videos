@@ -1,0 +1,14 @@
+{
+ "title": "How an Inkjet Printer Works in 60 Seconds 🖨️💧 #shorts",
+ "description": "A thermal inkjet printer fires ink with tiny bubbles. A resistor behind each nozzle heats the ink in microseconds, a vapor bubble shoves a droplet onto the paper, and when the bubble collapses fresh ink refills the chamber. Millions of cyan, magenta, yellow and black dots make the picture. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#inkjet #printer #howitworks",
+ "tags": ["inkjet printer", "how inkjet printers work", "printer", "thermal inkjet", "print head", "ink cartridge", "cmyk", "printing", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "An inkjet print head heats ink at almost *a billion degrees* per second.", "stat": "1 BILLION", "statsub": "DEGREES PER SECOND"},
+  {"label": "Head", "text": "The *print head* zips across the page, carrying rows of tiny *nozzles*."},
+  {"label": "Heater", "text": "Behind each nozzle sits a tiny *resistor* that flashes *hot* in microseconds."},
+  {"label": "Bubble", "text": "The ink boils into a *vapor bubble*, which shoves a *droplet* out of the nozzle."},
+  {"label": "Refill", "text": "The bubble *collapses*, and fresh ink flows in for the *next shot*."},
+  {"label": "Dots", "text": "Millions of *cyan, magenta, yellow* and *black* dots blend into your picture."},
+  {"label": "Recap", "text": "Heat, bubble, *droplet*. Follow Inside 60 for more."}
+ ]
+}
