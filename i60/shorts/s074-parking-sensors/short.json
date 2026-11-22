@@ -1,0 +1,54 @@
+{
+ "title": "How Parking Sensors Work in 60 Seconds 🚗🔊 #shorts",
+ "description": "The small dots on a car bumper are ultrasonic sensors: each one is a speaker and a microphone in one. They send out sound too high for us to hear, time how long the echo takes to come back, and use the speed of sound to work out the distance, beeping faster as you get closer. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#parkingsensors #cars #howitworks",
+ "tags": [
+  "parking sensors",
+  "how parking sensors work",
+  "ultrasonic sensor",
+  "reverse sensor",
+  "echo",
+  "speed of sound",
+  "car technology",
+  "parking assist",
+  "physics",
+  "science",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "Those little dots on a bumper are *speakers* and *microphones* in one."
+  },
+  {
+   "label": "Ping",
+   "text": "Each sensor fires a short burst of *ultrasound*, far too high for us to hear.",
+   "stat": "~40 kHz",
+   "statsub": "ABOVE HUMAN HEARING"
+  },
+  {
+   "label": "Echo",
+   "text": "The sound bounces off an obstacle, and the *same sensor* listens for the *echo*."
+  },
+  {
+   "label": "Timing",
+   "text": "Sound travels about *343 meters per second*, so the echo's *time* gives the distance.",
+   "stat": "343 m/s",
+   "statsub": "SPEED OF SOUND IN AIR"
+  },
+  {
+   "label": "Teamwork",
+   "text": "Several sensors work together, so the car can tell *where* the obstacle is, not just *how far*."
+  },
+  {
+   "label": "Beeps",
+   "text": "The closer you get, the *faster* the beeps, until one *solid tone* says stop."
+  },
+  {
+   "label": "Recap",
+   "text": "Ping, echo, *beep*. Follow Inside 60 for more."
+  }
+ ]
+}
