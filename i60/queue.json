@@ -166,8 +166,10 @@
  {
   "slug": "s024-spark-plug",
   "topic": "Spark plug",
-  "status": "doing",
-  "publish_at": "2026-12-15T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-15T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/89e26f7a75e70e6aef5a1fc30b8a2d9101f372e2/i60/up/s024-spark-plug.mp4",
+  "last_error": null
  },
  {
   "slug": "s025-diesel-engine",
