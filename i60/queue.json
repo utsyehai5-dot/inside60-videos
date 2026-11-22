@@ -465,8 +465,9 @@
  {
   "slug": "s066-pressure-cooker",
   "topic": "Pressure cooker",
-  "status": "doing",
-  "publish_at": "2027-01-26T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-26T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c6d2e0492fba0f0b671f30f9cb4a42726e8f7b2c/i60/up/s066-pressure-cooker.mp4"
  },
  {
   "slug": "s067-coffee-machine--espresso",
