@@ -430,8 +430,9 @@
  {
   "slug": "s061-water-heater",
   "topic": "Water heater",
-  "status": "doing",
-  "publish_at": "2027-01-21T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-21T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ae880bae888c811d88e3e1eb30b5c7f1d0cb069b/i60/up/s061-water-heater.mp4"
  },
  {
   "slug": "s062-toilet-flush",
