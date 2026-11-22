@@ -123,8 +123,9 @@
  {
   "slug": "s018-car-brakes",
   "topic": "Car brakes",
-  "status": "doing",
-  "publish_at": "2026-12-09T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-09T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c37fa856353ee0be3c9a3779a6103a4f97a34f58/i60/up/s018-car-brakes.mp4"
  },
  {
   "slug": "s019-car-gearbox",
