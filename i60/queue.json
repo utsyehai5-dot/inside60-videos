@@ -276,8 +276,9 @@
  {
   "slug": "s039-projector",
   "topic": "Projector",
-  "status": "doing",
-  "publish_at": "2026-12-30T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-30T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/dfa88ce4e100a91a2358d5f943bb1cb59874e9c6/i60/up/s039-projector.mp4"
  },
  {
   "slug": "s040-speaker",
