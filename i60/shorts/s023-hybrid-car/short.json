@@ -1,0 +1,14 @@
+{
+ "title": "How a Hybrid Car Works in 60 Seconds 🚗🔋 #shorts",
+ "description": "The first hybrid car was built around 1900, more than a century before hybrids became common. A hybrid pairs a gasoline engine with an electric motor and a battery, letting the motor start the car, help the engine, and recover energy when you brake. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#hybridcar #howitworks #shorts",
+ "tags": ["hybrid car", "how a hybrid car works", "hybrid", "electric motor", "regenerative braking", "battery", "gasoline engine", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "The first *hybrid car* was built around 1900, over a century before hybrids got popular.", "stat": "1900", "statsub": "FIRST HYBRID"},
+  {"label": "Two Hearts", "text": "A hybrid has two power sources: a *gas engine* and an *electric motor*."},
+  {"label": "Battery", "text": "A *battery pack* stores electricity and feeds the motor."},
+  {"label": "Low Speed", "text": "At low speeds the *motor* can drive the car alone, using no fuel at all."},
+  {"label": "Teamwork", "text": "When you need more power, the *engine* joins in and both push the wheels together."},
+  {"label": "Braking", "text": "When you brake, the motor becomes a *generator* and charges the battery."},
+  {"label": "Recap", "text": "Engine plus *electric motor*. Follow Inside 60 for more."}
+ ]
+}
