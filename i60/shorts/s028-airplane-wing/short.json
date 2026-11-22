@@ -1,0 +1,14 @@
+{
+ "title": "How an Airplane Wing Works in 60 Seconds ✈️🌬️ #shorts",
+ "description": "A jumbo jet can weigh over 400 tonnes, and its wings carry all of it. A curved, slightly tilted wing lowers the air pressure above it and throws air downward, and the air pushes back up. Flaps make the wing bigger for slow takeoffs and landings. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#airplane #howitworks #shorts",
+ "tags": ["airplane wing", "how wings work", "lift", "angle of attack", "airfoil", "flaps", "aviation", "how planes fly", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A jumbo jet can weigh over *400 tonnes*. Its wings hold all of that up in the air.", "stat": "400+ t", "statsub": "JUMBO JET AT TAKEOFF"},
+  {"label": "Shape", "text": "A wing is curved on top and tilted slightly into the wind. That tilt is the *angle of attack*."},
+  {"label": "Pressure", "text": "Air rushing over the top speeds up, and its *pressure drops*. Underneath, the pressure stays higher."},
+  {"label": "Downwash", "text": "The wing also bends the air *downward*. Push air down, and the air pushes the wing up."},
+  {"label": "Lift", "text": "Together that makes *lift*. Fly faster or tilt a little more, and you get even more of it."},
+  {"label": "Flaps", "text": "For slow takeoffs and landings, *flaps* slide out the back, making the wing bigger and more curved."},
+  {"label": "Recap", "text": "Curve, tilt, *lift*. Follow Inside 60 for more."}
+ ]
+}
