@@ -1,0 +1,14 @@
+{
+ "title": "How a Water Tower Works in 60 Seconds 💧🗼 #shorts",
+ "description": "A water tower is a giant tank lifted high so gravity can push water to every tap in town. Pumps fill it at night when demand is low, and every foot of height adds about 0.43 psi of pressure. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#watertower #engineering #howitworks",
+ "tags": ["water tower", "how a water tower works", "water pressure", "gravity", "psi", "water supply", "civil engineering", "infrastructure", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Every *foot* a water tower rises adds about *0.43 psi* of pressure at your tap.", "stat": "0.43 psi", "statsub": "PER FOOT"},
+  {"label": "Fill", "text": "At night, when demand is low, *pumps* push clean water up a pipe into the *tank*."},
+  {"label": "Gravity", "text": "By day, *gravity* pulls that water back down through the mains to every home."},
+  {"label": "Height", "text": "A tank about *100 feet* up gives roughly *43 psi*, enough for a strong shower.", "stat": "43 psi", "statsub": "AT 100 FT"},
+  {"label": "Rush hour", "text": "In the morning rush, the tower covers the *peak*, so the pumps can stay *smaller*."},
+  {"label": "Backup", "text": "It also stores water for *firefighters* and keeps taps running in a *power outage*."},
+  {"label": "Recap", "text": "Pump up, *gravity* down. Follow Inside 60 for more."}
+ ]
+}
