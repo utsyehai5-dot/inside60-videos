@@ -1,0 +1,14 @@
+{
+ "title": "How a Ship Propeller Works in 60 Seconds 🚢🌀 #shorts",
+ "description": "A single aircraft carrier propeller can weigh around 33 tonnes. The engine spins a long shaft, and each twisted blade creates low pressure in front and high pressure behind, throwing water backward so the ship moves forward. Spin too fast and the water turns into vapor bubbles, called cavitation, which can eat away the metal. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#ship #howitworks #shorts",
+ "tags": ["ship propeller", "how propellers work", "propeller", "cavitation", "ship", "marine engineering", "thrust", "boat", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "One aircraft carrier propeller can weigh around *33 tonnes*. And it moves the whole ship.", "stat": "~33 t", "statsub": "ONE CARRIER PROPELLER"},
+  {"label": "Shaft", "text": "The ship's engine spins a long *shaft* that runs out through the back of the hull."},
+  {"label": "Blades", "text": "Each *blade* is twisted, like a slice of a screw, so it meets the water at an angle."},
+  {"label": "Pressure", "text": "As it spins, each blade makes *low pressure* in front and *high pressure* behind."},
+  {"label": "Thrust", "text": "That throws a jet of water backward, and the water pushes the ship *forward*."},
+  {"label": "Cavitation", "text": "Spin too fast, and the water turns into vapor bubbles. This *cavitation* can eat away the metal."},
+  {"label": "Recap", "text": "Spin, twist, *push*. Follow Inside 60 for more."}
+ ]
+}
