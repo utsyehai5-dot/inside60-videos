@@ -1,0 +1,17 @@
+{
+ "title": "How Microsoft Really Makes Money (You Don't Buy It, Your Boss Rents It)",
+ "description": "Microsoft brought in $331.8 billion in fiscal 2026, yet most people never buy anything from it directly. In this file we open the money machine behind Microsoft: a magazine cover and the Altair, the $50,000 operating system that became MS-DOS, the IBM licensing clause, Windows and Office, the 1986 IPO, the move to Azure and Microsoft 365 subscriptions under Satya Nadella, where the money comes from today, and the giant AI bet on OpenAI and Copilot, with the latest numbers.\n\n{CHAPTERS}\n\nSources: Microsoft FY2026 Q4 and full year results (July 2026); Microsoft FY2027 Q1 results coverage (October 2026); Microsoft Official Blog (The next chapter of the Microsoft-OpenAI partnership, October 2025); Fortune; Directions on Microsoft (Copilot seats, January 2026); UC Today; HISTORY.com (Microsoft founded); HistoryLink (Microsoft Corporation); TechRadar (The IBM deal); Windows Central; TechCrunch (Microsoft IPO); CNBC / Axios (Activision Blizzard deal); Microsoft News (Satya Nadella named CEO, 2014).\n\nAll figures are rounded. Microsoft's fiscal year ends June 30. This video is for education only, not investment advice.\n\n#Microsoft #Azure #Business #MoneyMachineFiles",
+ "tags": ["Microsoft", "how Microsoft makes money", "Microsoft business model", "Microsoft history", "Bill Gates", "Paul Allen", "MS-DOS", "Windows", "Microsoft 365", "Azure", "OpenAI", "Copilot", "Satya Nadella", "business documentary", "Money Machine Files", "business explained"],
+ "publish_at": "2027-03-13T17:00:00Z",
+ "thumb": {"l1": "HOW MICROSOFT", "l2": "REALLY", "l3": "MAKES MONEY", "badge": "THE $50,000 DEAL", "symbol": "$"},
+ "shorts": [
+  {"scenes": [10, 11, 12], "top": ["THE $50,000", "DEAL THAT BUILT", "MICROSOFT"],
+   "title": "The $50,000 Deal That Built Microsoft #shorts",
+   "description": "Microsoft bought the system that became MS-DOS for about $50,000, then licensed it to IBM and every PC clone maker. Full documentary: {LONG}\nSources: TechRadar; HistoryLink; Windows Central.\n#Microsoft #History #shorts",
+   "publish_at": "2027-03-16T17:00:00Z"},
+  {"scenes": [31, 32], "top": ["MICROSOFT'S", "$250 BILLION", "AI LOOP"],
+   "title": "Microsoft's $250 Billion OpenAI Loop #shorts",
+   "description": "Microsoft owns about 27% of OpenAI, and OpenAI agreed to buy an extra $250 billion of Azure cloud services. Full documentary: {LONG}\nSources: Microsoft Official Blog (October 2025); Fortune.\n#Microsoft #OpenAI #shorts",
+   "publish_at": "2027-03-18T17:00:00Z"}
+ ]
+}

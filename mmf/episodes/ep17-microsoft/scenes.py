@@ -1,0 +1,105 @@
+# Money Machine Files — Ep 17: How Microsoft Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "$331.8 BILLION", "Microsoft's revenue, fiscal year 2026"),
+      t="In the twelve months to June 2026, Microsoft brought in *three hundred and thirty-one point eight billion dollars*. That is roughly nine hundred million dollars, every single day."),
+ dict(v=("quote", "Most people never buy anything from Microsoft.", ""),
+      t="And yet most people never walk into a shop and buy something from Microsoft. Windows came with the laptop. Office came from work. So who is paying all that money? How does Microsoft *really* make money?"),
+ dict(v=("brand", "FILE #017  ·  MICROSOFT"),
+      t="This is the money machine behind Microsoft. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "A Magazine Cover"),
+      t="Chapter one. A magazine cover."),
+ dict(v=("timeline", "JANUARY 1975", "The Altair 8800 on the cover of Popular Electronics"), photo="vintage electronics magazine pile",
+      t="In January 1975, a magazine called Popular Electronics put a strange new machine on its cover: the *Altair 8800*, a home computer kit that cost three hundred and ninety-seven dollars. It had just two hundred and fifty-six bytes of memory, and no useful software at all."),
+ dict(v=("quote", "A computer with no software is just a box of lights.", ""),
+      t="Two young friends from Seattle, *Paul Allen* and *Bill Gates*, saw the cover and spotted a chance. The hardware was there. What was missing was a language people could use to tell it what to do."),
+ dict(v=("timeline", "APRIL 4, 1975", "Micro-Soft is founded in Albuquerque"), photo="desert city skyline new mexico",
+      t="They spent about eight weeks adapting a programming language called *BASIC* for the Altair, and licensed it to the machine's maker, MITS, in Albuquerque, New Mexico. On April fourth, 1975, they founded a company there called *Micro-Soft*, short for microcomputer software."),
+ dict(v=("stat", "LICENSE, DON'T SELL", "the first Microsoft idea", "Get paid on every machine shipped"), photo="old computer circuit board close up",
+      t="Notice the key word: *licensed*. From day one, Microsoft did not build the computers. It wrote the software and got paid by the companies that did. That one idea would build the whole money machine. A few years later, the hyphen was gone, and Microsoft had moved home to the Seattle area."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "The Deal of the Century"),
+      t="Chapter two. The deal of the century."),
+ dict(v=("timeline", "1980", "IBM needs an operating system for its first PC"), photo="retro personal computer beige keyboard",
+      t="In 1980, the giant of computing, *IBM*, was racing to build its first personal computer. It needed an operating system, the basic software that runs everything else. Microsoft did not have one."),
+ dict(v=("stat", "$50,000", "what Microsoft paid for 86-DOS", "From Seattle Computer Products"), photo="floppy disks stack",
+      t="So it found one. A small local firm, Seattle Computer Products, had a system called *86-DOS*, nicknamed QDOS, the quick and dirty operating system. Microsoft licensed it, and in 1981 paid about *fifty thousand dollars* for all the rights. It became MS-DOS."),
+ dict(v=("flow", "The clause that changed everything", ["Microsoft", "IBM", "Other PC makers"], ["licenses DOS", "free to license too"],
+         "IBM gets DOS  →  but Microsoft keeps the right to sell it to everyone", "Microsoft"),
+      t="Here is the genius move. Microsoft did not sell DOS to IBM. It *licensed* it, and the deal let Microsoft sell the same system to *other computer makers* too. IBM launched its PC in 1981. Soon, dozens of companies were building cheaper copies of the IBM PC, and every one of them needed DOS."),
+ dict(v=("stat", "50 MAKERS", "had licensed MS-DOS by December 1982", "Every clone paid Microsoft"), photo="rows of desktop computers office",
+      t="By December 1982, around *fifty* other manufacturers had licensed MS-DOS. IBM had built the machine, but Microsoft collected a fee from the whole industry. A fifty thousand dollar purchase had turned into a toll booth on every personal computer."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "Windows Everywhere"),
+      t="Chapter three. Windows everywhere."),
+ dict(v=("timeline", "NOVEMBER 1985", "Windows 1.0 launches"), photo="computer mouse on desk",
+      t="In November 1985, Microsoft launched *Windows*, a picture-based way to use a PC with a mouse instead of typed commands. The first version was slow and clumsy. But Microsoft kept improving it, version after version."),
+ dict(v=("timeline", "MARCH 13, 1986", "IPO at $21 a share, raising $61 million"), photo="stock exchange trading screen numbers",
+      t="On March thirteenth, 1986, Microsoft listed on the stock market at *twenty-one dollars* a share. Together with its shareholders it raised about sixty-one million dollars, and the shares soon traded as high as thirty-five fifty. That same year, the company moved to its famous campus in Redmond, Washington."),
+ dict(v=("flow", "The Windows money machine", ["PC maker", "Microsoft", "You"], ["pays a fee per PC", "pre-installed"],
+         "You buy a laptop  →  part of the price goes to Microsoft", "Microsoft"),
+      t="Windows used the same trick as DOS. Microsoft charged the *computer makers* a fee for each machine. You never bought Windows yourself. It was simply there when you switched on your new PC, and part of the price you paid went to Microsoft."),
+ dict(v=("quote", "Windows got you in. Office kept you there.", ""),
+      t="Then came *Office*: Word, Excel and PowerPoint. Companies trained their staff on them and saved every file in their formats. Once a whole office runs on Excel, switching is painful. That habit became one of the most valuable businesses in the world."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "From Boxes to Clouds"),
+      t="Chapter four. From boxes to clouds."),
+ dict(v=("timeline", "FEBRUARY 2010", "Windows Azure becomes commercially available"), photo="data center server racks blue",
+      t="By the 2000s, the world was moving online, and Microsoft looked slow. In February 2010, it opened a cloud service called *Windows Azure*, now just Azure, where companies could rent Microsoft's computers instead of buying their own."),
+ dict(v=("timeline", "FEBRUARY 4, 2014", "Satya Nadella becomes Microsoft's third CEO"), photo="glass office building campus",
+      t="On February fourth, 2014, Microsoft named *Satya Nadella*, the head of its cloud and enterprise business, as only its third chief executive, after Bill Gates and Steve Ballmer. His message was clear: the cloud comes first."),
+ dict(v=("compare", "THE OLD WAY", ["Buy Office in a box", "Pay once", "Upgrade every few years"], "THE NEW WAY", ["Microsoft 365 subscription", "Pay every month", "Per person, forever"]),
+      t="Under Nadella, Office moved from a box you bought once to *Microsoft 365*, a subscription you pay for every month, for every worker. Instead of one sale every few years, Microsoft now earns money again and again from the same customer."),
+ dict(v=("stat", "450 MILLION", "Microsoft 365 commercial subscribers", "Reported January 2026"), photo="open plan office laptops",
+      t="By January 2026, Microsoft said it had about *four hundred and fifty million* commercial Microsoft 365 subscribers. That is the real secret of Microsoft. You do not buy it. *Your employer* rents it for you, seat by seat, month after month."),
+ dict(v=("timeline", "OCTOBER 13, 2023", "Microsoft closes its $69 billion Activision Blizzard deal"), photo="video game controller on table",
+      t="Microsoft also bought its way into new markets. LinkedIn joined the family, and on October thirteenth, 2023, after a long fight with regulators, Microsoft closed its *sixty-nine billion dollar* purchase of Activision Blizzard, the maker of Call of Duty."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "Where the Money Comes From"),
+      t="Chapter five. Where the money comes from."),
+ dict(v=("bars", "Microsoft revenue, Apr–Jun 2026", [("Intelligent Cloud", 39.3, "$39.3 bn"), ("Productivity & Business", 37.8, "$37.8 bn"), ("Personal Computing", 12.9, "$12.9 bn")]),
+      t="Look at the last quarter of fiscal 2026, April to June. Revenue was *ninety billion dollars*. The cloud segment, with Azure and the servers companies run, brought in thirty-nine point three billion, up thirty-two percent. Productivity, with Microsoft 365, LinkedIn and Dynamics, thirty-seven point eight billion. And personal computing, with Windows, Xbox and Bing, just twelve point nine billion, and shrinking."),
+ dict(v=("pie", "86%", "of Q4 FY2026 revenue came from cloud and productivity"), photo="business people video meeting screen",
+      t="Put the first two together and you get about *eighty-six percent* of Microsoft's revenue. Most of the money now comes from businesses, not from people buying Windows or games."),
+ dict(v=("compare", "GROWING", ["Azure: +43%", "LinkedIn: +12%", "Search ads ex-TAC: +10%"], "SHRINKING", ["Windows OEM and devices: -7%", "Xbox content and services: -10%", "Q4 fiscal 2026"]),
+      t="And the gap is getting wider. In that quarter, Azure grew *forty-three percent*, LinkedIn twelve, and search advertising ten. But Windows sales to computer makers fell seven percent, and Xbox content and services fell ten percent. The old Microsoft is shrinking. The new one is racing ahead."),
+ dict(v=("stat", "$155.2 BILLION", "operating income, fiscal 2026", "Net income: $133.7 billion"), photo="city skyscrapers at dusk",
+      t="And it is hugely profitable. For the full year, Microsoft made one hundred and fifty-five point two billion dollars of *operating profit*, about forty-seven cents on every dollar of sales. Net income was one hundred and thirty-three point seven billion dollars, up thirty-one percent."),
+ dict(v=("stat", "$100 BILLION+", "Azure revenue in fiscal 2026", "For the first time ever"), photo="fiber optic cables light",
+      t="The star is Azure. In fiscal 2026, Satya Nadella said Azure revenue passed *one hundred billion dollars* for the first time. A service that began in 2010 is now bigger than most companies on Earth."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The AI Bet"),
+      t="Chapter six. The AI bet."),
+ dict(v=("stat", "27%", "Microsoft's stake in OpenAI", "Valued around $135 billion, Oct 2025"), photo="computer chips circuit board",
+      t="Years before most people had heard of ChatGPT, Microsoft invested billions in its maker, *OpenAI*. In October 2025, OpenAI restructured, and Microsoft was left with a stake of about *twenty-seven percent*, valued at around one hundred and thirty-five billion dollars."),
+ dict(v=("flow", "The OpenAI loop", ["Microsoft", "OpenAI", "Azure"], ["invests billions", "buys computing power"],
+         "Microsoft invests in OpenAI  →  OpenAI spends on Azure", "Azure"),
+      t="But here is the clever loop. OpenAI needs enormous computing power to train and run its models, and it rents much of it from *Azure*. As part of the 2025 deal, OpenAI agreed to buy an extra *two hundred and fifty billion dollars* of Azure services. Money Microsoft invests flows back as cloud revenue."),
+ dict(v=("stat", "30 MILLION+", "paid Microsoft 365 Copilot seats", "July 2026, up from 15 million in January"), photo="person typing laptop office night",
+      t="Microsoft also sells AI to workers directly. Its assistant, *Microsoft 365 Copilot*, has a list price of thirty dollars per user per month. Paid seats doubled from fifteen million in January 2026 to more than *thirty million* by July. That is still a small slice of four hundred and fifty million subscribers, which is exactly why Microsoft sees so much room to grow."),
+ dict(v=("stat", "$677 BILLION", "commercial backlog, end of September 2026", "Up 73% in a year"), photo="stacks of paper documents contracts",
+      t="The latest quarter, July to September 2026, kept the rocket going. Revenue was ninety-two point three billion dollars, up nineteen percent, and Azure grew *forty-eight percent*. Customers have already signed contracts worth six hundred and seventy-seven billion dollars that Microsoft has not yet delivered."),
+ dict(v=("compare", "FISCAL 2025", ["$64.6 bn", "spent on property and equipment", "Data centers, chips, buildings"], "FISCAL 2026", ["$115.9 bn", "spent on property and equipment", "Almost double"]),
+      t="But AI costs a fortune. Microsoft spent about one hundred and fifteen point nine billion dollars on property and equipment in fiscal 2026, close to *double* the year before. In the latest quarter alone it was another thirty-nine billion. The company says demand for its AI computing is still bigger than what it can supply."),
+ dict(v=("quote", "If OpenAI stumbles, a big part of the backlog is at risk.", ""),
+      t="There is a risk. Microsoft said in January 2026 that about forty-five percent of its backlog came from OpenAI's commitments. If AI demand cools, or one big customer stumbles, Microsoft could be left with very expensive data centers to fill."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Microsoft money machine", ["License software on every PC made", "Turn Office into a monthly rent", "Rent computers through the Azure cloud", "Sell AI to companies, seat by seat"]),
+      t="License software instead of selling it once. Get paid on every PC that is made. Turn Office into a monthly rent for every worker. Rent out computers through the Azure cloud. And now, sell AI to companies, seat by seat."),
+ dict(v=("quote", "You don't buy Microsoft. Your company rents it for you.", ""),
+      t="It started with a magazine cover and a borrowed operating system. Today Microsoft earns close to a billion dollars a day, mostly from businesses that cannot work without it. The big question now: will the AI bet pay off as well as DOS did?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Microsoft. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]

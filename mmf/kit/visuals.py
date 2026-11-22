@@ -156,7 +156,7 @@ def v_timeline(d, t, year, text):
     d.rectangle([210, 640, 210 + w, 646], fill=A(GREY, .5))
     d.ellipse([W / 2 - 22, 621, W / 2 + 22, 665], fill=A(GOLD, a))
     d.ellipse([W / 2 - 10, 633, W / 2 + 10, 653], fill=A(NAVY, a))
-    d.text((W / 2, 470 + 40 * (1 - a)), year, font=F(FB, 200), fill=A(GOLD, a), anchor="mm")
+    d.text((W / 2, 470 + 40 * (1 - a)), year, font=fit(year, FB, 200, 1720, d), fill=A(GOLD, a), anchor="mm")
     b = seg(t, .5)
     f = fit(text, FR, 54, 1600, d)
     d.text((W / 2, 760), text, font=f, fill=A(WHITE, b), anchor="mm")
