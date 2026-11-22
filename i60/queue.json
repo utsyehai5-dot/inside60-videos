@@ -444,8 +444,9 @@
  {
   "slug": "s063-water-tower",
   "topic": "Water tower",
-  "status": "doing",
-  "publish_at": "2027-01-23T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-23T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/12dc433cf6c54f6c0fece4bcf551b3b8e53b606e/i60/up/s063-water-tower.mp4"
  },
  {
   "slug": "s064-water-treatment-plant",
