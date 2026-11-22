@@ -1,0 +1,14 @@
+{
+ "title": "How a Spark Plug Works in 60 Seconds ⚡🔥 #shorts",
+ "description": "A spark plug fires with thousands of volts, jumping a tiny gap to light the fuel inside a gasoline engine. An ignition coil boosts the car's 12 volt battery, the spark ignites the air and fuel, and the blast pushes the piston down. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#sparkplug #howitworks #shorts",
+ "tags": ["spark plug", "how a spark plug works", "ignition coil", "engine", "combustion", "car engine", "ignition", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "At 3,000 rpm, each spark plug in a four-stroke engine fires about *1,500 times* a minute.", "stat": "1,500", "statsub": "SPARKS PER MINUTE"},
+  {"label": "Battery", "text": "It all starts with the car's *12 volt* battery. That's far too weak to make a spark."},
+  {"label": "Coil", "text": "An *ignition coil* boosts it to tens of thousands of volts.", "stat": "20,000+", "statsub": "VOLTS"},
+  {"label": "Gap", "text": "The voltage races down the center electrode and jumps a *tiny gap*, about one millimeter wide."},
+  {"label": "Ignition", "text": "That spark lights the *air and fuel* squeezed into the cylinder."},
+  {"label": "Power", "text": "The burning gas expands and *pushes the piston* down, turning the engine."},
+  {"label": "Recap", "text": "Boost, *spark*, bang. Follow Inside 60 for more."}
+ ]
+}
