@@ -283,8 +283,9 @@
  {
   "slug": "s040-speaker",
   "topic": "Speaker",
-  "status": "doing",
-  "publish_at": "2026-12-31T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-31T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/615cad4478c16ab7c2cc062e5e719af48940df2b/i60/up/s040-speaker.mp4"
  },
  {
   "slug": "s041-microphone",
