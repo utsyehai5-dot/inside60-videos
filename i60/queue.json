@@ -149,8 +149,9 @@
  {
   "slug": "s022-electric-car",
   "topic": "Electric car",
-  "status": "doing",
-  "publish_at": "2026-12-13T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-13T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4f002bd1ce19754a2e699eadf0c64119bf40ec46/i60/up/s022-electric-car.mp4"
  },
  {
   "slug": "s023-hybrid-car",
