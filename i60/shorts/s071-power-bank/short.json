@@ -1,0 +1,14 @@
+{
+ "title": "How a Power Bank Works in 60 Seconds 🔋⚡ #shorts",
+ "description": "A power bank stores energy in lithium-ion cells at about 3.7 volts, then a boost converter steps it up to 5 volts for USB. That conversion loses some energy, so a 10,000 mAh power bank usually delivers only about 6,000 to 7,000 mAh to your phone. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#powerbank #battery #howitworks",
+ "tags": ["power bank", "how a power bank works", "portable charger", "lithium ion battery", "boost converter", "usb charging", "mah", "electronics", "technology", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A *10,000 mAh* power bank can't actually give your phone 10,000 mAh."},
+  {"label": "Cells", "text": "Inside are *lithium-ion cells* that store energy at about *3.7 volts*."},
+  {"label": "Charging", "text": "When you plug it in, lithium ions move into the *graphite* side, storing energy."},
+  {"label": "Boost", "text": "USB needs *5 volts*, so a *boost converter* steps the voltage up."},
+  {"label": "Losses", "text": "Higher voltage and some *heat loss* mean only about *60–70%* reaches your phone.", "stat": "~65%", "statsub": "USABLE AT 5 VOLTS"},
+  {"label": "Protection", "text": "A *protection chip* stops overcharging, overheating and short circuits."},
+  {"label": "Recap", "text": "Store, boost, *charge*. Follow Inside 60 for more."}
+ ]
+}
