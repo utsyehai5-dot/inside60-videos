@@ -109,8 +109,9 @@
  {
   "slug": "s016-hydroelectric-dam",
   "topic": "Hydroelectric dam",
-  "status": "doing",
-  "publish_at": "2026-12-07T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-07T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c62c5d846ff9bb9adf7f8c295effa029ab4d8eca/i60/up/s016-hydroelectric-dam.mp4"
  },
  {
   "slug": "s017-nuclear-reactor",
