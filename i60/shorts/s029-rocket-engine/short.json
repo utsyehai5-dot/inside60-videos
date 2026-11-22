@@ -1,0 +1,14 @@
+{
+ "title": "How a Rocket Engine Works in 60 Seconds 🚀🔥 #shorts",
+ "description": "Rocket exhaust can leave the nozzle at up to 4.5 kilometers per second. A rocket carries its own oxidizer, pumps it with fuel into a combustion chamber, and squeezes the hot gas through a narrow throat and a widening nozzle to go supersonic. Cold propellant flowing around the walls keeps the engine from melting. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#rocket #howitworks #shorts",
+ "tags": ["rocket engine", "how rocket engines work", "rocket nozzle", "de laval nozzle", "turbopump", "liquid oxygen", "regenerative cooling", "space", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Rocket exhaust can blast out at up to *4.5 kilometers per second*. That's about 13 times the speed of sound.", "stat": "4.5 km/s", "statsub": "EXHAUST SPEED"},
+  {"label": "Oxidizer", "text": "Space has no air to burn, so a rocket carries its *own oxidizer*, like liquid oxygen, next to its fuel."},
+  {"label": "Pumps", "text": "Powerful *turbopumps* force the fuel and oxygen into the combustion chamber."},
+  {"label": "Burn", "text": "There they *ignite* and turn into extremely hot, high-pressure gas."},
+  {"label": "Nozzle", "text": "The gas squeezes through a narrow *throat*, hits the speed of sound, then speeds up even more as the *nozzle* widens."},
+  {"label": "Cooling", "text": "To survive the heat, cold propellant first flows through *channels* in the nozzle walls before it burns."},
+  {"label": "Recap", "text": "Pump, burn, *blast*. Follow Inside 60 for more."}
+ ]
+}
