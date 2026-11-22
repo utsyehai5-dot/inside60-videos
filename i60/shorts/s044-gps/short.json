@@ -1,0 +1,14 @@
+{
+ "title": "How GPS Works in 60 Seconds 🛰️📍 #shorts",
+ "description": "GPS finds you using time, not magic. Satellites 20,200 km up carry atomic clocks and keep broadcasting the exact time and their position. Your phone measures how long each signal took to arrive, and with at least four satellites it works out exactly where you are. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#gps #satellite #howitworks",
+ "tags": ["gps", "how gps works", "global positioning system", "gps satellites", "atomic clock", "trilateration", "relativity", "navigation", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Without *Einstein's* relativity, GPS would drift by about *10 kilometers* every day.", "stat": "10 KM", "statsub": "DRIFT PER DAY"},
+  {"label": "Satellites", "text": "About *thirty* GPS satellites circle Earth, *20,200 km* up."},
+  {"label": "Clocks", "text": "Each one carries *atomic clocks* and keeps broadcasting the *exact time* and its position."},
+  {"label": "Delay", "text": "Your phone measures how long each signal took, and turns that delay into a *distance*."},
+  {"label": "Four", "text": "With *four* satellites, those distances meet at *one point*. That's you."},
+  {"label": "Relativity", "text": "Up there, clocks run about *38 microseconds* a day fast, so the system *corrects* them."},
+  {"label": "Recap", "text": "Time, distance, *position*. Follow Inside 60 for more."}
+ ]
+}
