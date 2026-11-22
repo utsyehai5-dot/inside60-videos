@@ -290,8 +290,9 @@
  {
   "slug": "s041-microphone",
   "topic": "Microphone",
-  "status": "doing",
-  "publish_at": "2027-01-01T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-01T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c93315464c260674789a27a42652ec695059864c/i60/up/s041-microphone.mp4"
  },
  {
   "slug": "s042-headphones--noise-cancelling",
