@@ -81,8 +81,9 @@
  {
   "slug": "s012-light-bulb--led",
   "topic": "Light bulb (LED)",
-  "status": "doing",
-  "publish_at": "2026-12-03T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-03T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f7c0740191a27684ba24c54bd786affb99863ad6/i60/up/s012-light-bulb--led.mp4"
  },
  {
   "slug": "s013-battery--lithium-ion",
