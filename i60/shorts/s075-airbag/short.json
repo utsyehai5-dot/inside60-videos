@@ -1,0 +1,14 @@
+{
+ "title": "How an Airbag Works in 60 Seconds 🚗💥 #shorts",
+ "description": "An airbag goes from folded to full in about 30 milliseconds. A crash sensor feels the sudden stop, an igniter sets off a small chemical charge, and the burst of nitrogen gas blows the bag out at up to 200 mph. Tiny holes then let the gas escape so the bag cushions you instead of bouncing you back. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#airbag #carsafety #howitworks",
+ "tags": ["airbag", "how an airbag works", "airbags", "car safety", "crash sensor", "sodium azide", "nitrogen gas", "car technology", "engineering", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "An airbag fully inflates in about *30 milliseconds*, faster than you can blink.", "stat": "0.03 s", "statsub": "FOLDED TO FULL"},
+  {"label": "Sensor", "text": "A *crash sensor* feels the sudden stop, like hitting a wall at *10 to 15 mph* or more."},
+  {"label": "Igniter", "text": "It sends an electric signal to an *igniter*, which sets off a small *chemical charge*."},
+  {"label": "Gas", "text": "The reaction instantly makes a big burst of *nitrogen gas*, the same gas in the air we breathe."},
+  {"label": "Inflate", "text": "The folded nylon bag *bursts out* at up to *200 mph*.", "stat": "200 mph", "statsub": "BAG SPEED"},
+  {"label": "Vents", "text": "Then *tiny holes* let the gas escape, so the bag *softens* and catches you gently."},
+  {"label": "Recap", "text": "Sense, ignite, *inflate*. Follow Inside 60 for more."}
+ ]
+}
