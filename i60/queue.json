@@ -345,8 +345,9 @@
  {
   "slug": "s049-inkjet-printer",
   "topic": "Inkjet printer",
-  "status": "doing",
-  "publish_at": "2027-01-09T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-09T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/8b4977ff8dcc439061a74d36b5e34fbeb0a1614d/i60/up/s049-inkjet-printer.mp4"
  },
  {
   "slug": "s050-laser-printer",
