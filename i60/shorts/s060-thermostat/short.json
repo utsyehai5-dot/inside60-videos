@@ -1,0 +1,14 @@
+{
+ "title": "How a Thermostat Works in 60 Seconds 🌡️🔥 #shorts",
+ "description": "A classic thermostat uses a strip of two metals bonded together. They expand at different rates, so the strip bends with temperature, touches a contact and switches the furnace on or off. Digital thermostats do the same job with a thermistor and a chip. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#thermostat #heating #howitworks",
+ "tags": ["thermostat", "how a thermostat works", "bimetallic strip", "thermistor", "furnace", "heating", "hvac", "home energy", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Turning your thermostat back for eight hours a day can save up to *ten percent* a year on heating and cooling.", "stat": "10%", "statsub": "SAVED PER YEAR"},
+  {"label": "Strip", "text": "Classic thermostats use a *bimetallic strip*, two metals bonded together."},
+  {"label": "Bend", "text": "The metals expand at *different rates*, so the strip *bends* as the room warms or cools."},
+  {"label": "Contact", "text": "When the room gets cold, the strip touches a *contact* and closes a circuit."},
+  {"label": "Furnace", "text": "That signal tells the *furnace* to fire up and blow *warm air*."},
+  {"label": "Digital", "text": "Digital thermostats use a *thermistor* and a chip instead, but the loop is the same."},
+  {"label": "Recap", "text": "Sense, bend, *switch*. Follow Inside 60 for more."}
+ ]
+}
