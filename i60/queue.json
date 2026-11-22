@@ -304,8 +304,9 @@
  {
   "slug": "s043-wi-fi-router",
   "topic": "Wi-Fi router",
-  "status": "doing",
-  "publish_at": "2027-01-03T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-03T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c5af14ba919e62e5ea119c4b461bb39e96cbc5a4/i60/up/s043-wi-fi-router.mp4"
  },
  {
   "slug": "s044-gps",
