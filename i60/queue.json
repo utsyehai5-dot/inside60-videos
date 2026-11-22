@@ -528,8 +528,9 @@
  {
   "slug": "s075-airbag",
   "topic": "Airbag",
-  "status": "doing",
-  "publish_at": "2027-02-04T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-04T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/65a535b0247a50995e3f1419c836533aa7ecbb4e/i60/up/s075-airbag.mp4"
  },
  {
   "slug": "s076-seatbelt",
