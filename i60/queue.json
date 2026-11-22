@@ -486,8 +486,9 @@
  {
   "slug": "s069-electric-toothbrush",
   "topic": "Electric toothbrush",
-  "status": "doing",
-  "publish_at": "2027-01-29T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-29T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/a43872e95381390d8502426055750f119edc9508/i60/up/s069-electric-toothbrush.mp4"
  },
  {
   "slug": "s070-wireless-charger",
