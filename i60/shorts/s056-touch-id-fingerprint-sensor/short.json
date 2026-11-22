@@ -1,0 +1,50 @@
+{
+ "title": "How a Fingerprint Sensor Works in 60 Seconds 👆🔐 #shorts",
+ "description": "A phone fingerprint sensor doesn't take a photo of your finger. A grid of tiny capacitor plates feels where the ridges of your skin touch and where the valleys leave a gap, builds a map from it, and compares the key points with your saved print. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#fingerprint #smartphone #howitworks",
+ "tags": [
+  "fingerprint sensor",
+  "how a fingerprint sensor works",
+  "capacitive sensor",
+  "biometrics",
+  "smartphone",
+  "phone unlock",
+  "minutiae",
+  "technology",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "Your phone reads your fingerprint with tiny *electric charges*, not a camera.",
+   "stat": "500",
+   "statsub": "SENSOR DOTS PER INCH"
+  },
+  {
+   "label": "Grid",
+   "text": "Under the button sits a grid of thousands of tiny *capacitor* plates."
+  },
+  {
+   "label": "Ridges",
+   "text": "Skin conducts electricity. *Ridges* touch the plates, while *valleys* leave a tiny air gap."
+  },
+  {
+   "label": "Map",
+   "text": "Each plate measures a different *charge*, building a map of ridges and valleys."
+  },
+  {
+   "label": "Match",
+   "text": "The chip finds key points, like ridge *endings* and *splits*, and compares them with your saved print."
+  },
+  {
+   "label": "Unlock",
+   "text": "If enough points match, the phone *unlocks* in a fraction of a second."
+  },
+  {
+   "label": "Recap",
+   "text": "Touch, sense, *match*. Follow Inside 60 for more."
+  }
+ ]
+}
