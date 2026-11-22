@@ -1,0 +1,14 @@
+{
+ "title": "How an Induction Cooktop Works in 60 Seconds 🍳🧲 #shorts",
+ "description": "An induction cooktop never gets red hot, yet it boils water fast. A copper coil under the glass carries alternating current and makes a changing magnetic field. That field drives tiny electric currents inside a magnetic pan, and the pan heats itself. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#induction #howitworks #shorts",
+ "tags": ["induction cooktop", "how induction works", "induction stove", "magnetic field", "eddy currents", "electromagnetism", "how it works", "physics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "This stove has no flame and no red-hot coil. The *pan* heats itself."},
+  {"label": "Copper Coil", "text": "Under the glass sits a flat *copper coil*. Alternating current rushes through it."},
+  {"label": "Magnetic Field", "text": "The current builds a *magnetic field* that flips back and forth, thousands of times a second."},
+  {"label": "Tiny Currents", "text": "That changing field drives small *electric currents* inside the metal of the pan."},
+  {"label": "Heat", "text": "The pan's metal resists those currents, and that resistance becomes *heat*.", "stat": "~85%", "statsub": "GAS IS ABOUT 32%"},
+  {"label": "Magnetic Pans", "text": "It only works with *magnetic* pans. Aluminum or glass alone stays cold."},
+  {"label": "Recap", "text": "Coil, field, currents, *heat*. Follow Inside 60 for more."}
+ ]
+}
