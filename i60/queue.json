@@ -413,19 +413,19 @@
   {
     "slug": "s059-fire-extinguisher",
     "topic": "Fire extinguisher",
-    "status": "todo",
+    "status": "doing",
     "publish_at": "2027-01-19T17:05:00Z"
   },
   {
     "slug": "s060-thermostat",
     "topic": "Thermostat",
-    "status": "todo",
+    "status": "doing",
     "publish_at": "2027-01-20T17:05:00Z"
   },
   {
     "slug": "s061-water-heater",
     "topic": "Water heater",
-    "status": "todo",
+    "status": "doing",
     "publish_at": "2027-01-21T17:05:00Z"
   },
   {
