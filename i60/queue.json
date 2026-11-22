@@ -535,8 +535,9 @@
  {
   "slug": "s076-seatbelt",
   "topic": "Seatbelt",
-  "status": "doing",
-  "publish_at": "2027-02-05T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-05T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/13121dfa0ed2ddbe190cbe46bc6ad6ce18d10bec/i60/up/s076-seatbelt.mp4"
  },
  {
   "slug": "s077-abs-brakes",
