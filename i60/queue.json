@@ -493,8 +493,9 @@
  {
   "slug": "s070-wireless-charger",
   "topic": "Wireless charger",
-  "status": "doing",
-  "publish_at": "2027-01-30T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-30T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/d93c1d19e87ce902ea62e012202b8ce3ec526de4/i60/up/s070-wireless-charger.mp4"
  },
  {
   "slug": "s071-power-bank",
