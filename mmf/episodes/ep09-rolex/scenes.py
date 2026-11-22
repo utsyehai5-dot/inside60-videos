@@ -1,0 +1,111 @@
+# Money Machine Files — Ep 9: How Rolex Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+# Rolex publishes no accounts: sales/unit figures are analyst estimates (Morgan Stanley x LuxeConsult, Vontobel).
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "CHF 11 BILLION", "Rolex sales in 2025 (analyst estimate)"),
+      t="Last year, Rolex is estimated to have sold more than *eleven billion Swiss francs* of watches. That is about one third of the entire Swiss watch industry, from a single brand."),
+ dict(v=("quote", "No shareholders. No stock price. No published accounts.", ""),
+      t="But here is the strange part. Rolex has no shareholders on the stock market. It publishes no accounts. And the owner is not a family or a billionaire. So how does Rolex really make its money? And who actually *owns* it?"),
+ dict(v=("brand", "FILE #009  ·  ROLEX"),
+      t="This is the money machine behind Rolex. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "The Importer From London"),
+      t="Chapter one. The importer from London."),
+ dict(v=("timeline", "1905", "Wilsdorf & Davis opens in London"), photo="antique pocket watch on wooden table",
+      t="Surprisingly, the story does not start in Switzerland. In 1905, a young German-born businessman called *Hans Wilsdorf* and his partner Alfred Davis started a company in London. They bought small Swiss movements and put them into watch cases for British jewellers."),
+ dict(v=("compare", "1905", ["Pocket watches rule", "Wristwatches = jewellery", "Seen as fragile", "Not for men"],
+         "WILSDORF'S BET", ["Small, accurate", "Worn on the wrist", "Tough enough for daily life", "For everyone"]),
+      t="At the time, most men carried pocket watches. Wristwatches were seen as delicate jewellery. Wilsdorf made a bet that the *wristwatch* could be accurate and tough enough to become the watch everyone wore."),
+ dict(v=("timeline", "1908", "The name 'Rolex' is registered"), photo="vintage watch movement gears macro",
+      t="In 1908 he registered a new brand name: *Rolex*. He wanted something short, easy to say in any language, and small enough to fit on a dial. He reportedly felt it sounded like a watch being wound."),
+ dict(v=("timeline", "1919", "The company moves to Geneva"), photo="Geneva lake city view",
+      t="Then came the First World War. Britain put heavy taxes on luxury imports and duties on gold and silver. So in 1919, Wilsdorf moved the company to *Geneva*, in Switzerland, where it has stayed ever since."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "The Waterproof Promise"),
+      t="Chapter two. The waterproof promise."),
+ dict(v=("timeline", "1926", "The Oyster: a sealed, waterproof case"), photo="oyster shell on sand",
+      t="In 1926, Rolex introduced the *Oyster*, a sealed case designed to keep out water and dust. It was named after a shellfish that closes itself tight. But a claim is only a claim. Wilsdorf needed proof."),
+ dict(v=("stat", "7 OCT 1927", "a swim across the English Channel", "With an Oyster on the swimmer's wrist"), photo="English Channel sea waves cliffs",
+      t="On the seventh of October 1927, a young swimmer called *Mercedes Gleitze* tried to cross the English Channel, wearing an Oyster. After hours in cold seawater, the watch was still working."),
+ dict(v=("quote", "The watch that defied the elements.", ""), photo="vintage typewriter keys closeup",
+      t="Wilsdorf did not keep it quiet. On the twenty-fourth of November 1927, Rolex launched the Oyster in Britain with big newspaper advertising built around the swim. It was one of the first times a watch brand used a real adventure as its *advert*. Explorers, divers and pilots would follow for decades."),
+ dict(v=("list", "One idea at a time", ["1931 · Perpetual self-winding rotor", "1945 · Datejust: date changes itself", "1953 · Submariner: 100 m waterproof", "Same designs, improved for decades"]),
+      t="The ideas kept coming. In 1931, the *Perpetual* rotor wound the watch with the movement of your arm. In 1945, the Datejust showed the date in a window that changed by itself. And in 1953, the Submariner was made for divers, waterproof to one hundred metres."),
+ dict(v=("compare", "MOST BRANDS", ["New designs every year", "Chase the latest trend", "Old models look dated", "Resale value drops"],
+         "ROLEX", ["Same famous models", "Small upgrades for decades", "Old models still look right", "Resale value holds"]),
+      t="Here is the clever part. Rolex almost never throws a design away. A Submariner today still looks like a Submariner from decades ago. Small upgrades, same shape. That makes the watch feel *timeless*, and it keeps old watches valuable."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "The Owner That Cannot Sell"),
+      t="Chapter three. The owner that cannot sell."),
+ dict(v=("timeline", "1945", "The Hans Wilsdorf Foundation is created"), photo="Geneva old town stone building",
+      t="Wilsdorf and his wife had no children. After she died in 1944, he set up a foundation in Geneva and gave it his shares. The *Hans Wilsdorf Foundation* was formally created in 1945."),
+ dict(v=("stat", "100%", "of Rolex owned by one foundation", "Since Wilsdorf's death in 1960"), photo="Geneva Rhone river bridge",
+      t="When Wilsdorf died in 1960, the foundation became the owner of Rolex. It still owns *one hundred percent* of it today. There are no shares to buy, no family heirs and no investors asking for quarterly results."),
+ dict(v=("flow", "Who gets the money?", ["Watches sold", "Rolex profit", "The foundation", "Rolex + Geneva"], ["earn", "goes to", "reinvests / gives"],
+         "No dividends to a family  →  money stays in the machine", "family"),
+      t="So where does the money go? The profit flows to the foundation. Part is put back into Rolex itself. Part goes to charity, much of it in Geneva. Nothing is paid out to a *family*. The money mostly stays inside the machine."),
+ dict(v=("stat", "~CHF 300 MILLION", "reported yearly charitable giving", "Bridges, hospitals, student housing"), photo="modern hospital building exterior",
+      t="The foundation does not publish its accounts, but reports put its charitable giving at around *three hundred million francs* a year. It has helped pay for a bridge over the Rhône, a hospital wing and housing for students in Geneva."),
+ dict(v=("quote", "No one can sell Rolex. So no one has to hurry.", ""),
+      t="And this is the hidden advantage. Because no one can sell the company, Rolex can think in *decades*, not quarters. It can grow slowly, invest heavily, and say no to easy money. Around seven thousand people work for the company, and none of them reports to a stock market."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "The Scarcity Machine"),
+      t="Chapter four. The scarcity machine."),
+ dict(v=("stat", "~1 MILLION", "Rolex watches made in 2025 (estimate)", "Down about 2% — the second cut in a row"), photo="luxury watch display case",
+      t="Rolex makes about *one million* watches a year. That sounds like a lot, but demand is bigger. And according to analysts, Rolex actually cut production by around two percent in 2025, for the second year in a row."),
+ dict(v=("flow", "How scarcity sells", ["Limited supply", "Waiting lists", "Resale above list", "Higher prices"], ["creates", "push up", "allow"],
+         "Every watch sold becomes an advert for the next one", "advert"),
+      t="That creates the famous Rolex waiting list. When you can't just walk in and buy one, people want it more. Used watches can sell for more than new ones. And that gives Rolex room to raise its prices. Every watch sold becomes an *advert* for the next."),
+ dict(v=("compare", "2020–2022", ["Huge waiting lists", "Big resale premiums", "Watches as investments", "Prices racing up"],
+         "2025–2026", ["Shorter waits", "Resale prices cooled", "Fewer speculators", "Rolex still cutting output"]),
+      t="The madness peaked in the boom years of 2020 to 2022, when some sports models sold far above their shop price. Since then the resale market has *cooled*, and waits have become shorter. But Rolex did not flood the market. It kept supply tight."),
+ dict(v=("stat", "~7%", "average US price rise in 2025", "After new tariffs on Swiss goods"), photo="gold bars stacked",
+      t="Prices keep climbing. In 2025 the United States put tariffs on Swiss goods, at one point as high as thirty-nine percent. Rolex raised its American prices by around *seven percent* on average that year, in several steps."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "Owning the Whole Chain"),
+      t="Chapter five. Owning the whole chain."),
+ dict(v=("list", "Made by Rolex, in Switzerland", ["Biel/Bienne · movements", "Chêne-Bourg · dials and gem-setting", "Plan-les-Ouates · cases, bracelets, gold foundry", "Geneva · final assembly"]),
+      t="Rolex makes almost everything itself. Movements in Biel. Dials and gem-setting in Chêne-Bourg. Cases and bracelets in Plan-les-Ouates, where Rolex even runs its own *gold foundry*. And final assembly in Geneva."),
+ dict(v=("stat", "CHF 1 BILLION+", "new Rolex factory in Bulle", "About 2,000 jobs · planned for 2029"), photo="modern factory construction site Switzerland",
+      t="And it is building more. In Bulle, in the canton of Fribourg, Rolex is investing more than *one billion francs* in a giant new factory, with about two thousand jobs. It is planned to open in 2029."),
+ dict(v=("stat", "1,302", "official Rolex points of sale", "In 108 countries · down from over 1,800"), photo="jewellery store interior watches",
+      t="Rolex sells through official retailers, about *one thousand three hundred* shops in one hundred and eight countries in mid-2026. That network has been shrinking, from more than eighteen hundred at its peak, as Rolex picks fewer, bigger partners."),
+ dict(v=("timeline", "2023", "Rolex agrees to buy retailer Bucherer"), photo="Lucerne Switzerland lake town",
+      t="Then, in 2023, Rolex surprised the industry. It agreed to buy *Bucherer*, a Swiss jeweller founded in Lucerne in 1888, with more than one hundred shops. For the first time, Rolex owned a big part of the shop counter too."),
+ dict(v=("stat", "~CHF 500 MILLION", "certified pre-owned sales, 2025 (estimate)", "Used Rolexes, checked and re-sold with a 2-year guarantee"), photo="watchmaker workbench tools",
+      t="It also moved into used watches. Since 2022, its *Certified Pre-Owned* programme sends older Rolexes, at least two years old, back to its workshops. Every part is taken apart and checked, the watch is serviced, and it is sold again with a new two-year guarantee. One bank estimates this earned around half a billion francs in 2025."),
+ dict(v=("timeline", "1946", "Tudor: a cheaper sister brand"), photo="mechanical watch gears closeup",
+      t="Rolex also has a second brand. In 1946, Wilsdorf set up *Tudor*, a lower-priced line sold by the same dealers. Since 2015 Tudor has used its own in-house movements. It lets the group sell to buyers who are not ready for a Rolex price, without making Rolex itself cheaper."),
+ dict(v=("compare", "BEFORE", ["Rolex makes the watch", "Jeweller sells it new", "Dealers resell it used", "Rolex earns once"],
+         "NOW", ["Rolex makes the watch", "Rolex-owned shop sells it", "Rolex certifies the resale", "Rolex earns again"]),
+      t="Think about what that means. Rolex used to earn money once, when a new watch was sold. Now it can earn from the *same watch* again, when it is sold a second time."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Numbers Today"),
+      t="Chapter six. The numbers today."),
+ dict(v=("bars", "Estimated watch sales, 2025 (CHF)", [("Rolex", 11.0, "11+ bn"), ("Cartier", 3.5, "~3.5 bn"), ("Audemars Piguet", 2.6, "~2.6 bn"), ("Patek Philippe", 2.5, "~2.5 bn")]),
+      t="Remember, these are estimates, because Rolex reveals nothing. But analysts at Morgan Stanley and LuxeConsult think Rolex sold more than eleven billion francs in 2025, up about four percent. Number two, Cartier, was around three and a half billion. Rolex is more than *three times* bigger."),
+ dict(v=("pie", "33%", "of Swiss watch sales by value: Rolex (est.)"), photo="Swiss Alps mountain lake",
+      t="Put another way, roughly one in every three francs spent on Swiss watches goes to *Rolex*. Some analysts say its sales are about equal to the next five brands combined."),
+ dict(v=("stat", "~CHF 11,000", "average sales per watch (our arithmetic)", "≈ CHF 11 bn ÷ ≈ 1 million watches"),
+      t="Do the simple maths. Eleven billion francs, divided by about one million watches, is roughly *eleven thousand francs* per watch, before the shop adds its own margin. At retail prices, all those watches are worth an estimated sixteen billion francs."),
+ dict(v=("bars", "Rolex, estimated sales (CHF)", [("2021", 8.0, "~8 bn"), ("2023", 10.1, "~10.1 bn"), ("2024", 10.5, "~10.5 bn"), ("2025", 11.0, "11+ bn")]),
+      t="And the trend points one way. Estimates put Rolex at almost eight billion francs in 2021, about ten billion in 2023, ten and a half in 2024, and over *eleven billion* in 2025, while making fewer watches. Higher prices and richer models do the work."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Rolex money machine", ["Timeless designs that hold value", "Supply kept tight on purpose", "Make almost every part in-house", "Earn on new and used watches", "Owned by a foundation that can't sell"]),
+      t="Make designs that never go out of style. Keep supply tight, so demand always wins. Make almost every part yourself. Earn on new watches and on used ones. And be owned by a foundation that can never sell, so you can plan for the next hundred years."),
+ dict(v=("quote", "Rolex doesn't sell watches. It sells waiting.", ""),
+      t="It started with an importer in London and a swim across the Channel. Today it is the biggest name in luxury watches. And the question for the next few years is simple: when the new factory opens, can Rolex make more watches and still keep them *rare*?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Rolex. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
