@@ -1,0 +1,105 @@
+# Money Machine Files — Ep 12: How Nintendo Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "¥2.3 TRILLION", "Nintendo's sales in the year to March 2026"),
+      t="In the year to March 2026, Nintendo sold goods worth about *two point three trillion yen*. That is almost double the year before. It was the biggest year in the company's long history."),
+ dict(v=("quote", "Older than Hollywood. Still selling play.", ""),
+      t="And here is the strange part. Nintendo is older than Hollywood. It started by selling paper playing cards in the eighteen hundreds. So how does a card maker from Kyoto become a *money machine* worth billions? And where does the money really come from?"),
+ dict(v=("brand", "FILE #012  ·  NINTENDO"),
+      t="This is the money machine behind Nintendo. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "Playing Cards in Kyoto"),
+      t="Chapter one. Playing cards in Kyoto."),
+ dict(v=("timeline", "23 SEPT 1889", "Fusajiro Yamauchi opens a card shop in Kyoto"), photo="Kyoto old wooden street",
+      t="On the twenty-third of September 1889, a craftsman named *Fusajiro Yamauchi* opened a small shop in Kyoto. It made hanafuda, Japanese flower cards, which had only recently become legal to sell again."),
+ dict(v=("timeline", "1907", "Nintendo cards go on sale in tobacco shops nationwide"), photo="traditional Japanese playing cards",
+      t="The cards sold well. In 1907, Nintendo signed a deal with the national tobacco monopoly to sell its cards in *cigarette shops* across Japan. It was a clever trick: put your product where people already go every day."),
+ dict(v=("timeline", "1949", "Hiroshi Yamauchi becomes president at age 21"), photo="Kyoto temple autumn",
+      t="In 1949, the founder's grandson, *Hiroshi Yamauchi*, left university to run the company. He was only twenty-one years old. He would stay in charge for fifty-three years and change Nintendo completely."),
+ dict(v=("stat", "600,000+", "card packs sold in one year after a 1958 Disney deal", "Then plastic cards, a stock listing, and a new name"), photo="deck of playing cards table",
+      t="Yamauchi licensed Disney characters for Nintendo cards in 1958, and sold more than *six hundred thousand* packs in a single year. In 1962 the company listed its shares, and in 1963 it took the simple name Nintendo."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "The Strange Years"),
+      t="Chapter two. The strange years."),
+ dict(v=("list", "Things Nintendo tried in the 1960s", ["A taxi company in Kyoto", "Instant rice", "A toy vacuum cleaner", "Toys and gadgets"]),
+      t="Yamauchi knew cards had a limit. So he tried almost everything. Nintendo ran a *taxi company* in Kyoto. It tried instant rice. It sold toys and gadgets. Most of these ideas failed."),
+ dict(v=("stat", "900 → 60", "Nintendo's share price in yen, 1964 crash", "The card market was full"), photo="old Japanese factory building",
+      t="By 1964 the card market was full, and Nintendo's share price fell from about nine hundred yen to around *sixty yen*. The company needed a new idea, fast."),
+ dict(v=("timeline", "1966", "Gunpei Yokoi's Ultra Hand becomes a hit toy"), photo="vintage toy factory workshop",
+      t="The idea came from a maintenance engineer named *Gunpei Yokoi*. In his spare time he built an extending grabbing arm. Yamauchi saw it and ordered it into production. The Ultra Hand became a big hit, and Nintendo became a toy company."),
+ dict(v=("stat", "43.4 MILLION", "Game & Watch handhelds sold from 1980", "Yokoi's pocket games built on cheap calculator parts"), photo="retro handheld electronic game",
+      t="Yokoi then had another idea: tiny games using cheap parts from pocket calculators. Game and Watch arrived in 1980 and sold about *forty-three million* units. It showed the Nintendo way: old, cheap technology, used in a fun new way."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "The Console Machine"),
+      t="Chapter three. The console machine."),
+ dict(v=("timeline", "1981", "Donkey Kong, designed by Shigeru Miyamoto"), photo="retro arcade cabinets",
+      t="In 1981, a young designer named *Shigeru Miyamoto* made an arcade game called Donkey Kong. Its little jumping hero would later be called Mario. Universal Studios sued, saying it copied King Kong. Nintendo won."),
+ dict(v=("timeline", "1983", "Famicom launches in Japan · NES follows in the US"), photo="retro video game console cartridges",
+      t="In 1983 Nintendo launched the *Famicom* in Japan, and later the NES in America, just after the American video game market had crashed. A lockout chip let Nintendo control which games could run on it. Nintendo had built a toll gate."),
+ dict(v=("bars", "Lifetime hardware units (millions)", [("Game Boy", 118.69, "118.7"), ("Wii", 101.63, "101.6"), ("DS", 154.02, "154.0"), ("Switch", 157.2, "157.2")]),
+      t="From then on, Nintendo lived on hits. The NES sold almost sixty-two million. Game Boy, one hundred and eighteen million. The Wii, more than one hundred million. The DS, one hundred and fifty-four million. And the Switch, about *one hundred and fifty-seven million*, the best-selling Nintendo system ever."),
+ dict(v=("stat", "13.56 MILLION", "Wii U units sold in its whole life", "Nintendo's weakest-selling home console"), photo="empty shop shelves electronics",
+      t="But the business is risky. When a console flops, everything shrinks. The Wii U sold only about *thirteen and a half million* units. Nintendo survived because it had something most companies don't: a huge pile of cash saved from the good years."),
+ dict(v=("compare", "MOST CONSOLE MAKERS", ["Chase the best graphics", "Sell hardware at a loss", "Earn it back later", "Many outside games"],
+         "NINTENDO", ["Uses older tech", "Wants profit on hardware", "Earns most from own games", "Mario, Zelda, Pokémon"]),
+      t="Nintendo plays a different game from its rivals. It rarely chases the most powerful chips. It wants to make money on the console itself, and above all, it wants you to buy *its own games*: Mario, Zelda and Pokémon."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "Where the Money Really Comes From"),
+      t="Chapter four. Where the money really comes from."),
+ dict(v=("pie", "97%", "of FY2026 sales came from games and consoles"), photo="video game controller on table",
+      t="Look at the year to March 2026. The games business, consoles plus software, brought in about two point two four trillion yen. That is around *ninety-seven percent* of everything Nintendo sold."),
+ dict(v=("stat", "19.86 MILLION", "Switch 2 consoles sold in its first ten months", "Launched June 2025 · 26.35 million by Sept 2026"), photo="gaming console living room television",
+      t="The reason was the *Switch 2*. It launched in June 2025, and by March 2026 Nintendo had shipped nearly twenty million of them. By the end of September 2026, the total was twenty-six point three five million."),
+ dict(v=("stat", "14.7 MILLION", "copies of Mario Kart World shipped by March 2026", "Many came bundled with the console"), photo="racing game kids playing couch",
+      t="And then the games. *Mario Kart World* shipped fourteen point seven million copies in that year. Donkey Kong Bananza shipped four and a half million. Every game Nintendo makes itself keeps far more money than a console does."),
+ dict(v=("quote", "Here is the secret: the console is the bait. The games are the catch.", ""),
+      t="Here is the secret. A new console has *thin margins*, because chips, memory and shipping are expensive. Nintendo's gross margin fell from sixty-one percent to about thirty-nine percent in the Switch 2 launch year. The real profit comes later, from games."),
+ dict(v=("bars", "Nintendo gross margin", [("FY2025", 61.0, "61%"), ("FY2026", 39.3, "39%"), ("H1 FY2027", 50.4, "50%")]),
+      t="You can see it happen. In the first half of the current year, console sales slowed, but game sales grew. And the gross margin climbed back to about *fifty percent*."),
+ dict(v=("pie", "61%", "of game software sales were digital, Apr–Sep 2026"), photo="person holding handheld game console",
+      t="Digital downloads help even more. No box, no disc, no shop taking a cut. In the six months to September 2026, about *sixty-one percent* of Nintendo's game software sales were digital, worth almost two hundred and fifty billion yen."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "Mario Goes to Hollywood"),
+      t="Chapter five. Mario goes to Hollywood."),
+ dict(v=("stat", "$2 BILLION+", "box office of the two Super Mario movies combined", "The Super Mario Galaxy Movie opened April 2026"), photo="cinema theater seats screen",
+      t="Nintendo now earns money from its characters *outside* the console too. The Super Mario Bros. Movie and The Super Mario Galaxy Movie have together made more than *two billion dollars* at the box office worldwide."),
+ dict(v=("stat", "+88%", "jump in IP-related income, Apr–Sep 2026", "¥62.7 billion, mainly from the new Mario movie"),
+      t="That shows up in the accounts. In the six months to September 2026, Nintendo's income from its characters, mostly movies, jumped by about *eighty-eight percent* to sixty-two point seven billion yen."),
+ dict(v=("list", "Mario beyond the console", ["Movies with Illumination", "Super Nintendo World theme areas", "Mobile apps: 980 million+ downloads", "Live-action Zelda film in 2027"]),
+      t="Movies, theme park areas, mobile apps with more than nine hundred and eighty million downloads, and a live-action *Zelda* film planned for 2027. Every one of these makes people want to play the games, and that sells more consoles."),
+ dict(v=("flow", "The Nintendo loop", ["Characters", "Movies & parks", "New fans", "Consoles & games"], ["star in", "create", "buy"],
+         "Fans buy the console  →  then they buy the games for years", "Consoles & games"),
+      t="This is the Nintendo *loop*. The characters star in movies and parks. Those create new fans. The fans buy a console, and then buy games for years. And the games make the characters even more famous."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Numbers Today"),
+      t="Chapter six. The numbers today."),
+ dict(v=("bars", "Nintendo, year to March 2026 (¥ bn)", [("Net sales", 2313.0, "2,313"), ("Operating profit", 360.1, "360"), ("Net profit", 424.0, "424")]),
+      t="In the year to March 2026, Nintendo's sales were about two point three trillion yen. Operating profit was three hundred and sixty billion yen. Net profit was even higher, *four hundred and twenty-four billion*, helped by income from its big pile of cash, like interest and currency gains."),
+ dict(v=("compare", "APR–SEP 2025", ["¥1,099.5 bn sales", "¥145.1 bn op. profit", "Switch 2 launch rush", "Lower margins"],
+         "APR–SEP 2026", ["¥966.0 bn sales", "¥216.5 bn op. profit", "Fewer consoles sold", "More games & movie"]),
+      t="Now the latest half year. Sales fell about twelve percent, because fewer consoles were sold than in the launch rush. But operating profit rose *forty-nine percent*, to two hundred and sixteen and a half billion yen. Fewer boxes, more games, and a hit movie."),
+ dict(v=("stat", "¥100 BILLION", "expected hit from memory prices and tariffs this year", "Switch 2 now $499.99 in the US"), photo="computer memory chips circuit board",
+      t="There is a problem, though. Memory chips have become much more expensive, and there are tariffs. Nintendo expects these to cost about *one hundred billion yen* this year. So it raised the Switch 2 price, to four hundred and ninety-nine dollars ninety-nine in the US from September 2026."),
+ dict(v=("stat", "78.9%", "of Nintendo's sales came from outside Japan, Apr–Sep 2026", "Overseas share was 76.9% the year before"), photo="world map globe desk",
+      t="Nintendo is a Kyoto company, but most of its money comes from abroad. About *seventy-nine percent* of its sales in the latest half came from outside Japan."),
+ dict(v=("stat", "¥370 BILLION", "operating profit forecast for the year to March 2027", "Net sales forecast: ¥2.05 trillion"), photo="Kyoto city skyline evening",
+      t="For the full year to March 2027, Nintendo expects sales of about two point zero five trillion yen, and operating profit of *three hundred and seventy billion*, a little higher than last year, even with fewer consoles."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Nintendo money machine", ["Own the characters", "Sell the console as the doorway", "Profit from its own games", "Go digital to keep more", "Movies & parks bring new fans"]),
+      t="Own the characters. Sell a console as the doorway. Make the real profit from your own games, more and more of them digital. Then use movies and parks to bring in new fans. That machine sold about two point three trillion yen in a single year."),
+ dict(v=("quote", "Nintendo doesn't sell machines. It sells Mario.", ""),
+      t="It started with paper cards in Kyoto in 1889. It tried taxis and instant rice. Today it is one of the most famous entertainment companies on Earth. The question now: can Nintendo keep the Switch 2 *profitable* while chips get more expensive?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Nintendo. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
