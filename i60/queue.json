@@ -395,8 +395,9 @@
  {
   "slug": "s056-touch-id-fingerprint-sensor",
   "topic": "Touch ID fingerprint sensor",
-  "status": "doing",
-  "publish_at": "2027-01-16T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-16T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/dc277993fea706d1c47a86c15997b512cc05ce1a/i60/up/s056-touch-id-fingerprint-sensor.mp4"
  },
  {
   "slug": "s057-face-id",
