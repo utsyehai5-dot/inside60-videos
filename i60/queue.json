@@ -521,8 +521,9 @@
  {
   "slug": "s074-parking-sensors",
   "topic": "Parking sensors",
-  "status": "doing",
-  "publish_at": "2027-02-03T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-03T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f44044f811f84e8588482b4af22deb079884fddb/i60/up/s074-parking-sensors.mp4"
  },
  {
   "slug": "s075-airbag",
