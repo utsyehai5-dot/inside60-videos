@@ -87,8 +87,9 @@
  {
   "slug": "s013-battery--lithium-ion",
   "topic": "Battery (lithium-ion)",
-  "status": "doing",
-  "publish_at": "2026-12-04T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-04T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/89e8267ad2c75eee73c79bc8d776b1b3a0b0be3c/i60/up/s013-battery--lithium-ion.mp4"
  },
  {
   "slug": "s014-solar-panel",
