@@ -1,1776 +1,1776 @@
 [
- {
-  "slug": "s001-toaster",
-  "topic": "Toaster",
-  "status": "ready",
-  "publish_at": "2026-11-22T17:05:00Z",
-  "note": "scene.js and short.json exist; timer shot was fixed after the sample, so re-render then upload",
-  "last_error": "2026-11-22 08:45 UTC: Zapier YouTube 'throttled without retry' on first attempt (throttle had just expired). Still ready; publish_at 2026-11-22T17:05Z will likely pass before next try - may need a new date.",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0e89c77/i60/up/s001-toaster.mp4"
- },
- {
-  "slug": "s002-car-engine",
-  "topic": "Car engine",
-  "status": "ready",
-  "publish_at": "2026-11-23T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/451c5b786d233d59bfdfe4ce22c517192c3325f9/i60/up/s002-car-engine.mp4"
- },
- {
-  "slug": "s003-electric-motor",
-  "topic": "Electric motor",
-  "status": "ready",
-  "publish_at": "2026-11-24T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/13a71ad773c3aefbae5152b38d4154a58a012905/i60/up/s003-electric-motor.mp4"
- },
- {
-  "slug": "s004-smartphone-touchscreen",
-  "topic": "Smartphone touchscreen",
-  "status": "ready",
-  "publish_at": "2026-11-25T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/43bc6fab3d38e2a85b07b87c462a4ea2dec4da32/i60/up/s004-smartphone-touchscreen.mp4"
- },
- {
-  "slug": "s005-washing-machine",
-  "topic": "Washing machine",
-  "status": "ready",
-  "publish_at": "2026-11-26T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/307146f638118d86f7d80bdc8c7ff1c614af5c17/i60/up/s005-washing-machine.mp4"
- },
- {
-  "slug": "s006-dishwasher",
-  "topic": "Dishwasher",
-  "status": "ready",
-  "publish_at": "2026-11-27T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/65d0b83263a5e4c131739e4cb1d08f60b083f135/i60/up/s006-dishwasher.mp4"
- },
- {
-  "slug": "s007-air-conditioner",
-  "topic": "Air conditioner",
-  "status": "ready",
-  "publish_at": "2026-11-28T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/95e9041a0df0e0a031f4980e2a52010800a49026/i60/up/s007-air-conditioner.mp4"
- },
- {
-  "slug": "s008-vacuum-cleaner",
-  "topic": "Vacuum cleaner",
-  "status": "ready",
-  "publish_at": "2026-11-29T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fc0fcf018fbe57ce73b78417bb67f2caa3d269d4/i60/up/s008-vacuum-cleaner.mp4"
- },
- {
-  "slug": "s009-hair-dryer",
-  "topic": "Hair dryer",
-  "status": "ready",
-  "publish_at": "2026-11-30T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fc0fcf018fbe57ce73b78417bb67f2caa3d269d4/i60/up/s009-hair-dryer.mp4"
- },
- {
-  "slug": "s010-electric-kettle",
-  "topic": "Electric kettle",
-  "status": "ready",
-  "publish_at": "2026-12-01T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fc0fcf018fbe57ce73b78417bb67f2caa3d269d4/i60/up/s010-electric-kettle.mp4"
- },
- {
-  "slug": "s011-induction-cooktop",
-  "topic": "Induction cooktop",
-  "status": "ready",
-  "publish_at": "2026-12-02T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f9f1580c38abd4843f26a7adfc91264cd7089639/i60/up/s011-induction-cooktop.mp4"
- },
- {
-  "slug": "s012-light-bulb--led",
-  "topic": "Light bulb (LED)",
-  "status": "ready",
-  "publish_at": "2026-12-03T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f7c0740191a27684ba24c54bd786affb99863ad6/i60/up/s012-light-bulb--led.mp4"
- },
- {
-  "slug": "s013-battery--lithium-ion",
-  "topic": "Battery (lithium-ion)",
-  "status": "ready",
-  "publish_at": "2026-12-04T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/89e8267ad2c75eee73c79bc8d776b1b3a0b0be3c/i60/up/s013-battery--lithium-ion.mp4"
- },
- {
-  "slug": "s014-solar-panel",
-  "topic": "Solar panel",
-  "status": "ready",
-  "publish_at": "2026-12-05T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/62390900314097b644bc0abe803d7a55016cb121/i60/up/s014-solar-panel.mp4"
- },
- {
-  "slug": "s015-wind-turbine",
-  "topic": "Wind turbine",
-  "status": "ready",
-  "publish_at": "2026-12-06T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/d16f1b59b6025a9a04b828fdd18982670cc12111/i60/up/s015-wind-turbine.mp4"
- },
- {
-  "slug": "s016-hydroelectric-dam",
-  "topic": "Hydroelectric dam",
-  "status": "ready",
-  "publish_at": "2026-12-07T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c62c5d846ff9bb9adf7f8c295effa029ab4d8eca/i60/up/s016-hydroelectric-dam.mp4"
- },
- {
-  "slug": "s017-nuclear-reactor",
-  "topic": "Nuclear reactor",
-  "status": "ready",
-  "publish_at": "2026-12-08T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e5562aac3ebe3b2569600404ed1e6ba211911abc/i60/up/s017-nuclear-reactor.mp4"
- },
- {
-  "slug": "s018-car-brakes",
-  "topic": "Car brakes",
-  "status": "ready",
-  "publish_at": "2026-12-09T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c37fa856353ee0be3c9a3779a6103a4f97a34f58/i60/up/s018-car-brakes.mp4"
- },
- {
-  "slug": "s019-car-gearbox",
-  "topic": "Car gearbox",
-  "status": "ready",
-  "publish_at": "2026-12-10T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0fcd3a3eef9ca0f4b94f9505df772b4d46449498/i60/up/s019-car-gearbox.mp4"
- },
- {
-  "slug": "s020-car-differential",
-  "topic": "Car differential",
-  "status": "ready",
-  "publish_at": "2026-12-11T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/1d33f7e9cbee3abc1638de13b7ef28db0a1f5b5f/i60/up/s020-car-differential.mp4"
- },
- {
-  "slug": "s021-turbocharger",
-  "topic": "Turbocharger",
-  "status": "ready",
-  "publish_at": "2026-12-12T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/2933b7b2d4e83e04dd4f8aea8c5e2db37ea75681/i60/up/s021-turbocharger.mp4"
- },
- {
-  "slug": "s022-electric-car",
-  "topic": "Electric car",
-  "status": "ready",
-  "publish_at": "2026-12-13T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4f002bd1ce19754a2e699eadf0c64119bf40ec46/i60/up/s022-electric-car.mp4"
- },
- {
-  "slug": "s023-hybrid-car",
-  "topic": "Hybrid car",
-  "status": "ready",
-  "publish_at": "2026-12-14T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/713d80d9c3c7a21de72d57624db27335da7bdbc5/i60/up/s023-hybrid-car.mp4",
-  "last_error": null
- },
- {
-  "slug": "s024-spark-plug",
-  "topic": "Spark plug",
-  "status": "ready",
-  "publish_at": "2026-12-15T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/89e26f7a75e70e6aef5a1fc30b8a2d9101f372e2/i60/up/s024-spark-plug.mp4",
-  "last_error": null
- },
- {
-  "slug": "s025-diesel-engine",
-  "topic": "Diesel engine",
-  "status": "ready",
-  "publish_at": "2026-12-16T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/139610cdede9a4f7f500bce08ec371f878d0cf2a/i60/up/s025-diesel-engine.mp4",
-  "last_error": null
- },
- {
-  "slug": "s026-bicycle-gears",
-  "topic": "Bicycle gears",
-  "status": "ready",
-  "publish_at": "2026-12-17T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ae1eb1d5e9a5c9d0b2688f1922cb2817b7a68cd8/i60/up/s026-bicycle-gears.mp4",
-  "last_error": null
- },
- {
-  "slug": "s027-helicopter",
-  "topic": "Helicopter",
-  "status": "ready",
-  "publish_at": "2026-12-18T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f57f660ac4f17a26d076244d2be6f0057fc75e11/i60/up/s027-helicopter.mp4",
-  "last_error": null
- },
- {
-  "slug": "s028-airplane-wing",
-  "topic": "Airplane wing",
-  "status": "ready",
-  "publish_at": "2026-12-19T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/5cc21ac0b81f18392b8c743cf0dc6e0fd119c225/i60/up/s028-airplane-wing.mp4",
-  "last_error": null
- },
- {
-  "slug": "s029-rocket-engine",
-  "topic": "Rocket engine",
-  "status": "ready",
-  "publish_at": "2026-12-20T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/7586029056510b2c3e677cf24296e2af6f7261e7/i60/up/s029-rocket-engine.mp4"
- },
- {
-  "slug": "s030-submarine",
-  "topic": "Submarine",
-  "status": "ready",
-  "publish_at": "2026-12-21T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/3d98d1ad72f65b90827895c2ec0f5f97322992e6/i60/up/s030-submarine.mp4"
- },
- {
-  "slug": "s031-ship-propeller",
-  "topic": "Ship propeller",
-  "status": "ready",
-  "publish_at": "2026-12-22T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/98f934f90f3473e73f0aad24c12db7f634c748f8/i60/up/s031-ship-propeller.mp4"
- },
- {
-  "slug": "s032-elevator",
-  "topic": "Elevator",
-  "status": "ready",
-  "publish_at": "2026-12-23T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/47ac12af3a96c42e448b5d4a6fa6e7c66f520842/i60/up/s032-elevator.mp4"
- },
- {
-  "slug": "s033-escalator",
-  "topic": "Escalator",
-  "status": "ready",
-  "publish_at": "2026-12-24T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/af1f2f2d2f9640cc1b9e96a334ea1f27cf1cf97d/i60/up/s033-escalator.mp4"
- },
- {
-  "slug": "s034-zipper",
-  "topic": "Zipper",
-  "status": "ready",
-  "publish_at": "2026-12-25T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/6ac9c6907188a733f2ed207bd15fdcff38fb1554/i60/up/s034-zipper.mp4"
- },
- {
-  "slug": "s035-lock-and-key",
-  "topic": "Lock and key",
-  "status": "ready",
-  "publish_at": "2026-12-26T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/b70edc8f03c5f943bb94a9d96ebaa4668d380671/i60/up/s035-lock-and-key.mp4"
- },
- {
-  "slug": "s036-mechanical-watch",
-  "topic": "Mechanical watch",
-  "status": "ready",
-  "publish_at": "2026-12-27T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/acfaa165640d205c999955ba5787ee24ecbee5fd/i60/up/s036-mechanical-watch.mp4"
- },
- {
-  "slug": "s037-quartz-watch",
-  "topic": "Quartz watch",
-  "status": "ready",
-  "publish_at": "2026-12-28T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fceabf3cd435c9de36a72d2d754ff3b1b05304ac/i60/up/s037-quartz-watch.mp4"
- },
- {
-  "slug": "s038-camera-lens",
-  "topic": "Camera lens",
-  "status": "todo",
-  "publish_at": "2026-12-29T17:05:00Z"
- },
- {
-  "slug": "s039-projector",
-  "topic": "Projector",
-  "status": "todo",
-  "publish_at": "2026-12-30T17:05:00Z"
- },
- {
-  "slug": "s040-speaker",
-  "topic": "Speaker",
-  "status": "todo",
-  "publish_at": "2026-12-31T17:05:00Z"
- },
- {
-  "slug": "s041-microphone",
-  "topic": "Microphone",
-  "status": "todo",
-  "publish_at": "2027-01-01T17:05:00Z"
- },
- {
-  "slug": "s042-headphones--noise-cancelling",
-  "topic": "Headphones (noise cancelling)",
-  "status": "todo",
-  "publish_at": "2027-01-02T17:05:00Z"
- },
- {
-  "slug": "s043-wi-fi-router",
-  "topic": "Wi-Fi router",
-  "status": "todo",
-  "publish_at": "2027-01-03T17:05:00Z"
- },
- {
-  "slug": "s044-gps",
-  "topic": "GPS",
-  "status": "todo",
-  "publish_at": "2027-01-04T17:05:00Z"
- },
- {
-  "slug": "s045-fiber-optic-cable",
-  "topic": "Fiber optic cable",
-  "status": "todo",
-  "publish_at": "2027-01-05T17:05:00Z"
- },
- {
-  "slug": "s046-barcode-scanner",
-  "topic": "Barcode scanner",
-  "status": "todo",
-  "publish_at": "2027-01-06T17:05:00Z"
- },
- {
-  "slug": "s047-nfc-tags",
-  "topic": "NFC tags",
-  "status": "todo",
-  "publish_at": "2027-01-07T17:05:00Z"
- },
- {
-  "slug": "s048-3d-printer",
-  "topic": "3D printer",
-  "status": "todo",
-  "publish_at": "2027-01-08T17:05:00Z"
- },
- {
-  "slug": "s049-inkjet-printer",
-  "topic": "Inkjet printer",
-  "status": "todo",
-  "publish_at": "2027-01-09T17:05:00Z"
- },
- {
-  "slug": "s050-laser-printer",
-  "topic": "Laser printer",
-  "status": "todo",
-  "publish_at": "2027-01-10T17:05:00Z"
- },
- {
-  "slug": "s051-hard-drive",
-  "topic": "Hard drive",
-  "status": "todo",
-  "publish_at": "2027-01-11T17:05:00Z"
- },
- {
-  "slug": "s052-ssd",
-  "topic": "SSD",
-  "status": "todo",
-  "publish_at": "2027-01-12T17:05:00Z"
- },
- {
-  "slug": "s053-computer-cpu",
-  "topic": "Computer CPU",
-  "status": "todo",
-  "publish_at": "2027-01-13T17:05:00Z"
- },
- {
-  "slug": "s054-keyboard",
-  "topic": "Keyboard",
-  "status": "todo",
-  "publish_at": "2027-01-14T17:05:00Z"
- },
- {
-  "slug": "s055-computer-mouse--optical",
-  "topic": "Computer mouse (optical)",
-  "status": "todo",
-  "publish_at": "2027-01-15T17:05:00Z"
- },
- {
-  "slug": "s056-touch-id-fingerprint-sensor",
-  "topic": "Touch ID fingerprint sensor",
-  "status": "todo",
-  "publish_at": "2027-01-16T17:05:00Z"
- },
- {
-  "slug": "s057-face-id",
-  "topic": "Face ID",
-  "status": "todo",
-  "publish_at": "2027-01-17T17:05:00Z"
- },
- {
-  "slug": "s058-smoke-detector",
-  "topic": "Smoke detector",
-  "status": "todo",
-  "publish_at": "2027-01-18T17:05:00Z"
- },
- {
-  "slug": "s059-fire-extinguisher",
-  "topic": "Fire extinguisher",
-  "status": "todo",
-  "publish_at": "2027-01-19T17:05:00Z"
- },
- {
-  "slug": "s060-thermostat",
-  "topic": "Thermostat",
-  "status": "todo",
-  "publish_at": "2027-01-20T17:05:00Z"
- },
- {
-  "slug": "s061-water-heater",
-  "topic": "Water heater",
-  "status": "todo",
-  "publish_at": "2027-01-21T17:05:00Z"
- },
- {
-  "slug": "s062-toilet-flush",
-  "topic": "Toilet flush",
-  "status": "skip",
-  "publish_at": "2027-01-22T17:05:00Z",
-  "note": "already posted on the channel 21 Nov by the old daily task"
- },
- {
-  "slug": "s063-water-tower",
-  "topic": "Water tower",
-  "status": "todo",
-  "publish_at": "2027-01-23T17:05:00Z"
- },
- {
-  "slug": "s064-water-treatment-plant",
-  "topic": "Water treatment plant",
-  "status": "todo",
-  "publish_at": "2027-01-24T17:05:00Z"
- },
- {
-  "slug": "s065-sewing-machine",
-  "topic": "Sewing machine",
-  "status": "todo",
-  "publish_at": "2027-01-25T17:05:00Z"
- },
- {
-  "slug": "s066-pressure-cooker",
-  "topic": "Pressure cooker",
-  "status": "todo",
-  "publish_at": "2027-01-26T17:05:00Z"
- },
- {
-  "slug": "s067-coffee-machine--espresso",
-  "topic": "Coffee machine (espresso)",
-  "status": "todo",
-  "publish_at": "2027-01-27T17:05:00Z"
- },
- {
-  "slug": "s068-blender",
-  "topic": "Blender",
-  "status": "todo",
-  "publish_at": "2027-01-28T17:05:00Z"
- },
- {
-  "slug": "s069-electric-toothbrush",
-  "topic": "Electric toothbrush",
-  "status": "todo",
-  "publish_at": "2027-01-29T17:05:00Z"
- },
- {
-  "slug": "s070-wireless-charger",
-  "topic": "Wireless charger",
-  "status": "todo",
-  "publish_at": "2027-01-30T17:05:00Z"
- },
- {
-  "slug": "s071-power-bank",
-  "topic": "Power bank",
-  "status": "todo",
-  "publish_at": "2027-01-31T17:05:00Z"
- },
- {
-  "slug": "s072-electric-scooter",
-  "topic": "Electric scooter",
-  "status": "todo",
-  "publish_at": "2027-02-01T17:05:00Z"
- },
- {
-  "slug": "s073-traffic-light-sensors",
-  "topic": "Traffic light sensors",
-  "status": "todo",
-  "publish_at": "2027-02-02T17:05:00Z"
- },
- {
-  "slug": "s074-parking-sensors",
-  "topic": "Parking sensors",
-  "status": "todo",
-  "publish_at": "2027-02-03T17:05:00Z"
- },
- {
-  "slug": "s075-airbag",
-  "topic": "Airbag",
-  "status": "todo",
-  "publish_at": "2027-02-04T17:05:00Z"
- },
- {
-  "slug": "s076-seatbelt",
-  "topic": "Seatbelt",
-  "status": "todo",
-  "publish_at": "2027-02-05T17:05:00Z"
- },
- {
-  "slug": "s077-abs-brakes",
-  "topic": "ABS brakes",
-  "status": "todo",
-  "publish_at": "2027-02-06T17:05:00Z"
- },
- {
-  "slug": "s078-windshield-wipers",
-  "topic": "Windshield wipers",
-  "status": "todo",
-  "publish_at": "2027-02-07T17:05:00Z"
- },
- {
-  "slug": "s079-car-air-conditioning",
-  "topic": "Car air conditioning",
-  "status": "todo",
-  "publish_at": "2027-02-08T17:05:00Z"
- },
- {
-  "slug": "s080-hydraulic-press",
-  "topic": "Hydraulic press",
-  "status": "todo",
-  "publish_at": "2027-02-09T17:05:00Z"
- },
- {
-  "slug": "s081-crane",
-  "topic": "Crane",
-  "status": "todo",
-  "publish_at": "2027-02-10T17:05:00Z"
- },
- {
-  "slug": "s082-excavator",
-  "topic": "Excavator",
-  "status": "todo",
-  "publish_at": "2027-02-11T17:05:00Z"
- },
- {
-  "slug": "s083-forklift",
-  "topic": "Forklift",
-  "status": "todo",
-  "publish_at": "2027-02-12T17:05:00Z"
- },
- {
-  "slug": "s084-drone",
-  "topic": "Drone",
-  "status": "todo",
-  "publish_at": "2027-02-13T17:05:00Z"
- },
- {
-  "slug": "s085-electric-guitar",
-  "topic": "Electric guitar",
-  "status": "todo",
-  "publish_at": "2027-02-14T17:05:00Z"
- },
- {
-  "slug": "s086-piano",
-  "topic": "Piano",
-  "status": "todo",
-  "publish_at": "2027-02-15T17:05:00Z"
- },
- {
-  "slug": "s087-mri-scanner",
-  "topic": "MRI scanner",
-  "status": "todo",
-  "publish_at": "2027-02-16T17:05:00Z"
- },
- {
-  "slug": "s088-x-ray-machine",
-  "topic": "X-ray machine",
-  "status": "todo",
-  "publish_at": "2027-02-17T17:05:00Z"
- },
- {
-  "slug": "s089-lawn-mower",
-  "topic": "Lawn mower",
-  "status": "todo",
-  "publish_at": "2027-02-18T17:05:00Z"
- },
- {
-  "slug": "s090-chainsaw",
-  "topic": "Chainsaw",
-  "status": "todo",
-  "publish_at": "2027-02-19T17:05:00Z"
- },
- {
-  "slug": "s091-leaf-blower",
-  "topic": "Leaf blower",
-  "status": "todo",
-  "publish_at": "2027-02-20T17:05:00Z"
- },
- {
-  "slug": "s092-electric-drill",
-  "topic": "Electric drill",
-  "status": "todo",
-  "publish_at": "2027-02-21T17:05:00Z"
- },
- {
-  "slug": "s093-impact-wrench",
-  "topic": "Impact wrench",
-  "status": "todo",
-  "publish_at": "2027-02-22T17:05:00Z"
- },
- {
-  "slug": "s094-circular-saw",
-  "topic": "Circular saw",
-  "status": "todo",
-  "publish_at": "2027-02-23T17:05:00Z"
- },
- {
-  "slug": "s095-angle-grinder",
-  "topic": "Angle grinder",
-  "status": "todo",
-  "publish_at": "2027-02-24T17:05:00Z"
- },
- {
-  "slug": "s096-welding-torch",
-  "topic": "Welding torch",
-  "status": "todo",
-  "publish_at": "2027-02-25T17:05:00Z"
- },
- {
-  "slug": "s097-air-compressor",
-  "topic": "Air compressor",
-  "status": "todo",
-  "publish_at": "2027-02-26T17:05:00Z"
- },
- {
-  "slug": "s098-pressure-washer",
-  "topic": "Pressure washer",
-  "status": "todo",
-  "publish_at": "2027-02-27T17:05:00Z"
- },
- {
-  "slug": "s099-garage-door-opener",
-  "topic": "Garage door opener",
-  "status": "todo",
-  "publish_at": "2027-02-28T17:05:00Z"
- },
- {
-  "slug": "s100-door-lock-smart",
-  "topic": "Door lock (smart)",
-  "status": "todo",
-  "publish_at": "2027-03-01T17:05:00Z"
- },
- {
-  "slug": "s101-doorbell-camera",
-  "topic": "Doorbell camera",
-  "status": "todo",
-  "publish_at": "2027-03-02T17:05:00Z"
- },
- {
-  "slug": "s102-security-camera-night-vision",
-  "topic": "Security camera night vision",
-  "status": "todo",
-  "publish_at": "2027-03-03T17:05:00Z"
- },
- {
-  "slug": "s103-motion-sensor-light",
-  "topic": "Motion sensor light",
-  "status": "todo",
-  "publish_at": "2027-03-04T17:05:00Z"
- },
- {
-  "slug": "s104-ceiling-fan",
-  "topic": "Ceiling fan",
-  "status": "todo",
-  "publish_at": "2027-03-05T17:05:00Z"
- },
- {
-  "slug": "s105-space-heater",
-  "topic": "Space heater",
-  "status": "todo",
-  "publish_at": "2027-03-06T17:05:00Z"
- },
- {
-  "slug": "s106-heat-pump",
-  "topic": "Heat pump",
-  "status": "todo",
-  "publish_at": "2027-03-07T17:05:00Z"
- },
- {
-  "slug": "s107-radiator-heating",
-  "topic": "Radiator heating",
-  "status": "todo",
-  "publish_at": "2027-03-08T17:05:00Z"
- },
- {
-  "slug": "s108-gas-boiler",
-  "topic": "Gas boiler",
-  "status": "todo",
-  "publish_at": "2027-03-09T17:05:00Z"
- },
- {
-  "slug": "s109-fireplace-chimney",
-  "topic": "Fireplace chimney",
-  "status": "todo",
-  "publish_at": "2027-03-10T17:05:00Z"
- },
- {
-  "slug": "s110-clothes-dryer",
-  "topic": "Clothes dryer",
-  "status": "todo",
-  "publish_at": "2027-03-11T17:05:00Z"
- },
- {
-  "slug": "s111-iron-steam",
-  "topic": "Iron (steam)",
-  "status": "todo",
-  "publish_at": "2027-03-12T17:05:00Z"
- },
- {
-  "slug": "s112-robot-vacuum",
-  "topic": "Robot vacuum",
-  "status": "todo",
-  "publish_at": "2027-03-13T17:05:00Z"
- },
- {
-  "slug": "s113-air-purifier",
-  "topic": "Air purifier",
-  "status": "todo",
-  "publish_at": "2027-03-14T17:05:00Z"
- },
- {
-  "slug": "s114-humidifier",
-  "topic": "Humidifier",
-  "status": "todo",
-  "publish_at": "2027-03-15T17:05:00Z"
- },
- {
-  "slug": "s115-dehumidifier",
-  "topic": "Dehumidifier",
-  "status": "todo",
-  "publish_at": "2027-03-16T17:05:00Z"
- },
- {
-  "slug": "s116-water-filter",
-  "topic": "Water filter",
-  "status": "todo",
-  "publish_at": "2027-03-17T17:05:00Z"
- },
- {
-  "slug": "s117-water-softener",
-  "topic": "Water softener",
-  "status": "todo",
-  "publish_at": "2027-03-18T17:05:00Z"
- },
- {
-  "slug": "s118-garbage-disposal",
-  "topic": "Garbage disposal",
-  "status": "todo",
-  "publish_at": "2027-03-19T17:05:00Z"
- },
- {
-  "slug": "s119-rice-cooker",
-  "topic": "Rice cooker",
-  "status": "todo",
-  "publish_at": "2027-03-20T17:05:00Z"
- },
- {
-  "slug": "s120-slow-cooker",
-  "topic": "Slow cooker",
-  "status": "todo",
-  "publish_at": "2027-03-21T17:05:00Z"
- },
- {
-  "slug": "s121-air-fryer",
-  "topic": "Air fryer",
-  "status": "todo",
-  "publish_at": "2027-03-22T17:05:00Z"
- },
- {
-  "slug": "s122-oven-thermostat",
-  "topic": "Oven thermostat",
-  "status": "todo",
-  "publish_at": "2027-03-23T17:05:00Z"
- },
- {
-  "slug": "s123-gas-stove-burner",
-  "topic": "Gas stove burner",
-  "status": "todo",
-  "publish_at": "2027-03-24T17:05:00Z"
- },
- {
-  "slug": "s124-bread-maker",
-  "topic": "Bread maker",
-  "status": "todo",
-  "publish_at": "2027-03-25T17:05:00Z"
- },
- {
-  "slug": "s125-ice-maker",
-  "topic": "Ice maker",
-  "status": "todo",
-  "publish_at": "2027-03-26T17:05:00Z"
- },
- {
-  "slug": "s126-freezer",
-  "topic": "Freezer",
-  "status": "todo",
-  "publish_at": "2027-03-27T17:05:00Z"
- },
- {
-  "slug": "s127-juicer",
-  "topic": "Juicer",
-  "status": "todo",
-  "publish_at": "2027-03-28T17:05:00Z"
- },
- {
-  "slug": "s128-stand-mixer",
-  "topic": "Stand mixer",
-  "status": "todo",
-  "publish_at": "2027-03-29T17:05:00Z"
- },
- {
-  "slug": "s129-popcorn-machine",
-  "topic": "Popcorn machine",
-  "status": "todo",
-  "publish_at": "2027-03-30T17:05:00Z"
- },
- {
-  "slug": "s130-soda-fountain",
-  "topic": "Soda fountain",
-  "status": "todo",
-  "publish_at": "2027-03-31T17:05:00Z"
- },
- {
-  "slug": "s131-vending-machine",
-  "topic": "Vending machine",
-  "status": "todo",
-  "publish_at": "2027-04-01T17:05:00Z"
- },
- {
-  "slug": "s132-coin-sorter",
-  "topic": "Coin sorter",
-  "status": "todo",
-  "publish_at": "2027-04-02T17:05:00Z"
- },
- {
-  "slug": "s133-escalator-handrail",
-  "topic": "Escalator handrail",
-  "status": "todo",
-  "publish_at": "2027-04-03T17:05:00Z"
- },
- {
-  "slug": "s134-revolving-door",
-  "topic": "Revolving door",
-  "status": "todo",
-  "publish_at": "2027-04-04T17:05:00Z"
- },
- {
-  "slug": "s135-automatic-sliding-door",
-  "topic": "Automatic sliding door",
-  "status": "todo",
-  "publish_at": "2027-04-05T17:05:00Z"
- },
- {
-  "slug": "s136-turnstile",
-  "topic": "Turnstile",
-  "status": "todo",
-  "publish_at": "2027-04-06T17:05:00Z"
- },
- {
-  "slug": "s137-parking-garage-lift",
-  "topic": "Parking garage lift",
-  "status": "todo",
-  "publish_at": "2027-04-07T17:05:00Z"
- },
- {
-  "slug": "s138-car-wash",
-  "topic": "Car wash",
-  "status": "todo",
-  "publish_at": "2027-04-08T17:05:00Z"
- },
- {
-  "slug": "s139-fuel-pump",
-  "topic": "Fuel pump",
-  "status": "todo",
-  "publish_at": "2027-04-09T17:05:00Z"
- },
- {
-  "slug": "s140-ev-charger",
-  "topic": "EV charger",
-  "status": "todo",
-  "publish_at": "2027-04-10T17:05:00Z"
- },
- {
-  "slug": "s141-car-battery",
-  "topic": "Car battery",
-  "status": "todo",
-  "publish_at": "2027-04-11T17:05:00Z"
- },
- {
-  "slug": "s142-alternator",
-  "topic": "Alternator",
-  "status": "todo",
-  "publish_at": "2027-04-12T17:05:00Z"
- },
- {
-  "slug": "s143-starter-motor",
-  "topic": "Starter motor",
-  "status": "todo",
-  "publish_at": "2027-04-13T17:05:00Z"
- },
- {
-  "slug": "s144-radiator-car",
-  "topic": "Radiator (car)",
-  "status": "todo",
-  "publish_at": "2027-04-14T17:05:00Z"
- },
- {
-  "slug": "s145-car-suspension",
-  "topic": "Car suspension",
-  "status": "todo",
-  "publish_at": "2027-04-15T17:05:00Z"
- },
- {
-  "slug": "s146-shock-absorber",
-  "topic": "Shock absorber",
-  "status": "todo",
-  "publish_at": "2027-04-16T17:05:00Z"
- },
- {
-  "slug": "s147-power-steering",
-  "topic": "Power steering",
-  "status": "todo",
-  "publish_at": "2027-04-17T17:05:00Z"
- },
- {
-  "slug": "s148-clutch",
-  "topic": "Clutch",
-  "status": "todo",
-  "publish_at": "2027-04-18T17:05:00Z"
- },
- {
-  "slug": "s149-automatic-transmission",
-  "topic": "Automatic transmission",
-  "status": "todo",
-  "publish_at": "2027-04-19T17:05:00Z"
- },
- {
-  "slug": "s150-cvt-transmission",
-  "topic": "CVT transmission",
-  "status": "todo",
-  "publish_at": "2027-04-20T17:05:00Z"
- },
- {
-  "slug": "s151-exhaust-catalytic-converter",
-  "topic": "Exhaust catalytic converter",
-  "status": "todo",
-  "publish_at": "2027-04-21T17:05:00Z"
- },
- {
-  "slug": "s152-muffler",
-  "topic": "Muffler",
-  "status": "todo",
-  "publish_at": "2027-04-22T17:05:00Z"
- },
- {
-  "slug": "s153-fuel-injector",
-  "topic": "Fuel injector",
-  "status": "todo",
-  "publish_at": "2027-04-23T17:05:00Z"
- },
- {
-  "slug": "s154-carburetor",
-  "topic": "Carburetor",
-  "status": "todo",
-  "publish_at": "2027-04-24T17:05:00Z"
- },
- {
-  "slug": "s155-rotary-engine",
-  "topic": "Rotary engine",
-  "status": "todo",
-  "publish_at": "2027-04-25T17:05:00Z"
- },
- {
-  "slug": "s156-two-stroke-engine",
-  "topic": "Two-stroke engine",
-  "status": "todo",
-  "publish_at": "2027-04-26T17:05:00Z"
- },
- {
-  "slug": "s157-motorcycle-chain",
-  "topic": "Motorcycle chain",
-  "status": "todo",
-  "publish_at": "2027-04-27T17:05:00Z"
- },
- {
-  "slug": "s158-bicycle-brakes",
-  "topic": "Bicycle brakes",
-  "status": "todo",
-  "publish_at": "2027-04-28T17:05:00Z"
- },
- {
-  "slug": "s159-e-bike-motor",
-  "topic": "E-bike motor",
-  "status": "todo",
-  "publish_at": "2027-04-29T17:05:00Z"
- },
- {
-  "slug": "s160-skateboard-bearings",
-  "topic": "Skateboard bearings",
-  "status": "todo",
-  "publish_at": "2027-04-30T17:05:00Z"
- },
- {
-  "slug": "s161-roller-coaster",
-  "topic": "Roller coaster",
-  "status": "todo",
-  "publish_at": "2027-05-01T17:05:00Z"
- },
- {
-  "slug": "s162-ferris-wheel",
-  "topic": "Ferris wheel",
-  "status": "todo",
-  "publish_at": "2027-05-02T17:05:00Z"
- },
- {
-  "slug": "s163-bumper-cars",
-  "topic": "Bumper cars",
-  "status": "todo",
-  "publish_at": "2027-05-03T17:05:00Z"
- },
- {
-  "slug": "s164-zip-line-brake",
-  "topic": "Zip line brake",
-  "status": "todo",
-  "publish_at": "2027-05-04T17:05:00Z"
- },
- {
-  "slug": "s165-parachute",
-  "topic": "Parachute",
-  "status": "todo",
-  "publish_at": "2027-05-05T17:05:00Z"
- },
- {
-  "slug": "s166-hot-air-balloon",
-  "topic": "Hot air balloon",
-  "status": "todo",
-  "publish_at": "2027-05-06T17:05:00Z"
- },
- {
-  "slug": "s167-glider",
-  "topic": "Glider",
-  "status": "todo",
-  "publish_at": "2027-05-07T17:05:00Z"
- },
- {
-  "slug": "s168-jet-ski",
-  "topic": "Jet ski",
-  "status": "todo",
-  "publish_at": "2027-05-08T17:05:00Z"
- },
- {
-  "slug": "s169-hovercraft",
-  "topic": "Hovercraft",
-  "status": "todo",
-  "publish_at": "2027-05-09T17:05:00Z"
- },
- {
-  "slug": "s170-hydrofoil",
-  "topic": "Hydrofoil",
-  "status": "todo",
-  "publish_at": "2027-05-10T17:05:00Z"
- },
- {
-  "slug": "s171-sailboat",
-  "topic": "Sailboat",
-  "status": "todo",
-  "publish_at": "2027-05-11T17:05:00Z"
- },
- {
-  "slug": "s172-canal-lock",
-  "topic": "Canal lock",
-  "status": "todo",
-  "publish_at": "2027-05-12T17:05:00Z"
- },
- {
-  "slug": "s173-drawbridge",
-  "topic": "Drawbridge",
-  "status": "todo",
-  "publish_at": "2027-05-13T17:05:00Z"
- },
- {
-  "slug": "s174-suspension-bridge",
-  "topic": "Suspension bridge",
-  "status": "todo",
-  "publish_at": "2027-05-14T17:05:00Z"
- },
- {
-  "slug": "s175-tunnel-boring-machine",
-  "topic": "Tunnel boring machine",
-  "status": "todo",
-  "publish_at": "2027-05-15T17:05:00Z"
- },
- {
-  "slug": "s176-concrete-mixer",
-  "topic": "Concrete mixer",
-  "status": "todo",
-  "publish_at": "2027-05-16T17:05:00Z"
- },
- {
-  "slug": "s177-tower-crane",
-  "topic": "Tower crane",
-  "status": "todo",
-  "publish_at": "2027-05-17T17:05:00Z"
- },
- {
-  "slug": "s178-bulldozer",
-  "topic": "Bulldozer",
-  "status": "todo",
-  "publish_at": "2027-05-18T17:05:00Z"
- },
- {
-  "slug": "s179-dump-truck",
-  "topic": "Dump truck",
-  "status": "todo",
-  "publish_at": "2027-05-19T17:05:00Z"
- },
- {
-  "slug": "s180-road-roller",
-  "topic": "Road roller",
-  "status": "todo",
-  "publish_at": "2027-05-20T17:05:00Z"
- },
- {
-  "slug": "s181-asphalt-paver",
-  "topic": "Asphalt paver",
-  "status": "todo",
-  "publish_at": "2027-05-21T17:05:00Z"
- },
- {
-  "slug": "s182-train-brakes",
-  "topic": "Train brakes",
-  "status": "todo",
-  "publish_at": "2027-05-22T17:05:00Z"
- },
- {
-  "slug": "s183-maglev-train",
-  "topic": "Maglev train",
-  "status": "todo",
-  "publish_at": "2027-05-23T17:05:00Z"
- },
- {
-  "slug": "s184-steam-locomotive",
-  "topic": "Steam locomotive",
-  "status": "todo",
-  "publish_at": "2027-05-24T17:05:00Z"
- },
- {
-  "slug": "s185-diesel-electric-train",
-  "topic": "Diesel-electric train",
-  "status": "todo",
-  "publish_at": "2027-05-25T17:05:00Z"
- },
- {
-  "slug": "s186-subway-third-rail",
-  "topic": "Subway third rail",
-  "status": "todo",
-  "publish_at": "2027-05-26T17:05:00Z"
- },
- {
-  "slug": "s187-cable-car",
-  "topic": "Cable car",
-  "status": "todo",
-  "publish_at": "2027-05-27T17:05:00Z"
- },
- {
-  "slug": "s188-funicular",
-  "topic": "Funicular",
-  "status": "todo",
-  "publish_at": "2027-05-28T17:05:00Z"
- },
- {
-  "slug": "s189-airport-baggage-system",
-  "topic": "Airport baggage system",
-  "status": "todo",
-  "publish_at": "2027-05-29T17:05:00Z"
- },
- {
-  "slug": "s190-jet-bridge",
-  "topic": "Jet bridge",
-  "status": "todo",
-  "publish_at": "2027-05-30T17:05:00Z"
- },
- {
-  "slug": "s191-airplane-landing-gear",
-  "topic": "Airplane landing gear",
-  "status": "todo",
-  "publish_at": "2027-05-31T17:05:00Z"
- },
- {
-  "slug": "s192-airplane-black-box",
-  "topic": "Airplane black box",
-  "status": "todo",
-  "publish_at": "2027-06-01T17:05:00Z"
- },
- {
-  "slug": "s193-airplane-toilet",
-  "topic": "Airplane toilet",
-  "status": "todo",
-  "publish_at": "2027-06-02T17:05:00Z"
- },
- {
-  "slug": "s194-cabin-pressure",
-  "topic": "Cabin pressure",
-  "status": "todo",
-  "publish_at": "2027-06-03T17:05:00Z"
- },
- {
-  "slug": "s195-autopilot",
-  "topic": "Autopilot",
-  "status": "todo",
-  "publish_at": "2027-06-04T17:05:00Z"
- },
- {
-  "slug": "s196-air-traffic-radar",
-  "topic": "Air traffic radar",
-  "status": "todo",
-  "publish_at": "2027-06-05T17:05:00Z"
- },
- {
-  "slug": "s197-weather-radar",
-  "topic": "Weather radar",
-  "status": "todo",
-  "publish_at": "2027-06-06T17:05:00Z"
- },
- {
-  "slug": "s198-satellite",
-  "topic": "Satellite",
-  "status": "todo",
-  "publish_at": "2027-06-07T17:05:00Z"
- },
- {
-  "slug": "s199-space-station",
-  "topic": "Space station",
-  "status": "todo",
-  "publish_at": "2027-06-08T17:05:00Z"
- },
- {
-  "slug": "s200-mars-rover",
-  "topic": "Mars rover",
-  "status": "todo",
-  "publish_at": "2027-06-09T17:05:00Z"
- },
- {
-  "slug": "s201-telescope",
-  "topic": "Telescope",
-  "status": "todo",
-  "publish_at": "2027-06-10T17:05:00Z"
- },
- {
-  "slug": "s202-microscope",
-  "topic": "Microscope",
-  "status": "todo",
-  "publish_at": "2027-06-11T17:05:00Z"
- },
- {
-  "slug": "s203-binoculars",
-  "topic": "Binoculars",
-  "status": "todo",
-  "publish_at": "2027-06-12T17:05:00Z"
- },
- {
-  "slug": "s204-periscope",
-  "topic": "Periscope",
-  "status": "todo",
-  "publish_at": "2027-06-13T17:05:00Z"
- },
- {
-  "slug": "s205-night-vision-goggles",
-  "topic": "Night vision goggles",
-  "status": "todo",
-  "publish_at": "2027-06-14T17:05:00Z"
- },
- {
-  "slug": "s206-thermal-camera",
-  "topic": "Thermal camera",
-  "status": "todo",
-  "publish_at": "2027-06-15T17:05:00Z"
- },
- {
-  "slug": "s207-smartwatch-heart-sensor",
-  "topic": "Smartwatch heart sensor",
-  "status": "todo",
-  "publish_at": "2027-06-16T17:05:00Z"
- },
- {
-  "slug": "s208-fitness-tracker-step-counter",
-  "topic": "Fitness tracker step counter",
-  "status": "todo",
-  "publish_at": "2027-06-17T17:05:00Z"
- },
- {
-  "slug": "s209-hearing-aid",
-  "topic": "Hearing aid",
-  "status": "todo",
-  "publish_at": "2027-06-18T17:05:00Z"
- },
- {
-  "slug": "s210-pacemaker",
-  "topic": "Pacemaker",
-  "status": "todo",
-  "publish_at": "2027-06-19T17:05:00Z"
- },
- {
-  "slug": "s211-stethoscope",
-  "topic": "Stethoscope",
-  "status": "todo",
-  "publish_at": "2027-06-20T17:05:00Z"
- },
- {
-  "slug": "s212-blood-pressure-monitor",
-  "topic": "Blood pressure monitor",
-  "status": "todo",
-  "publish_at": "2027-06-21T17:05:00Z"
- },
- {
-  "slug": "s213-pulse-oximeter",
-  "topic": "Pulse oximeter",
-  "status": "todo",
-  "publish_at": "2027-06-22T17:05:00Z"
- },
- {
-  "slug": "s214-thermometer-infrared",
-  "topic": "Thermometer (infrared)",
-  "status": "todo",
-  "publish_at": "2027-06-23T17:05:00Z"
- },
- {
-  "slug": "s215-dialysis-machine",
-  "topic": "Dialysis machine",
-  "status": "todo",
-  "publish_at": "2027-06-24T17:05:00Z"
- },
- {
-  "slug": "s216-ventilator",
-  "topic": "Ventilator",
-  "status": "todo",
-  "publish_at": "2027-06-25T17:05:00Z"
- },
- {
-  "slug": "s217-defibrillator",
-  "topic": "Defibrillator",
-  "status": "todo",
-  "publish_at": "2027-06-26T17:05:00Z"
- },
- {
-  "slug": "s218-ct-scanner",
-  "topic": "CT scanner",
-  "status": "todo",
-  "publish_at": "2027-06-27T17:05:00Z"
- },
- {
-  "slug": "s219-ultrasound-machine",
-  "topic": "Ultrasound machine",
-  "status": "todo",
-  "publish_at": "2027-06-28T17:05:00Z"
- },
- {
-  "slug": "s220-dentist-drill",
-  "topic": "Dentist drill",
-  "status": "todo",
-  "publish_at": "2027-06-29T17:05:00Z"
- },
- {
-  "slug": "s221-contact-lens",
-  "topic": "Contact lens",
-  "status": "todo",
-  "publish_at": "2027-06-30T17:05:00Z"
- },
- {
-  "slug": "s222-glasses-lenses",
-  "topic": "Glasses lenses",
-  "status": "todo",
-  "publish_at": "2027-07-01T17:05:00Z"
- },
- {
-  "slug": "s223-electric-wheelchair",
-  "topic": "Electric wheelchair",
-  "status": "todo",
-  "publish_at": "2027-07-02T17:05:00Z"
- },
- {
-  "slug": "s224-prosthetic-hand",
-  "topic": "Prosthetic hand",
-  "status": "todo",
-  "publish_at": "2027-07-03T17:05:00Z"
- },
- {
-  "slug": "s225-bionic-leg",
-  "topic": "Bionic leg",
-  "status": "todo",
-  "publish_at": "2027-07-04T17:05:00Z"
- },
- {
-  "slug": "s226-hand-dryer",
-  "topic": "Hand dryer",
-  "status": "todo",
-  "publish_at": "2027-07-05T17:05:00Z"
- },
- {
-  "slug": "s227-automatic-faucet",
-  "topic": "Automatic faucet",
-  "status": "todo",
-  "publish_at": "2027-07-06T17:05:00Z"
- },
- {
-  "slug": "s228-soap-dispenser",
-  "topic": "Soap dispenser",
-  "status": "todo",
-  "publish_at": "2027-07-07T17:05:00Z"
- },
- {
-  "slug": "s229-water-meter",
-  "topic": "Water meter",
-  "status": "todo",
-  "publish_at": "2027-07-08T17:05:00Z"
- },
- {
-  "slug": "s230-electric-meter",
-  "topic": "Electric meter",
-  "status": "todo",
-  "publish_at": "2027-07-09T17:05:00Z"
- },
- {
-  "slug": "s231-power-grid-transformer",
-  "topic": "Power grid transformer",
-  "status": "todo",
-  "publish_at": "2027-07-10T17:05:00Z"
- },
- {
-  "slug": "s232-circuit-breaker",
-  "topic": "Circuit breaker",
-  "status": "todo",
-  "publish_at": "2027-07-11T17:05:00Z"
- },
- {
-  "slug": "s233-fuse",
-  "topic": "Fuse",
-  "status": "todo",
-  "publish_at": "2027-07-12T17:05:00Z"
- },
- {
-  "slug": "s234-surge-protector",
-  "topic": "Surge protector",
-  "status": "todo",
-  "publish_at": "2027-07-13T17:05:00Z"
- },
- {
-  "slug": "s235-power-plug",
-  "topic": "Power plug",
-  "status": "todo",
-  "publish_at": "2027-07-14T17:05:00Z"
- },
- {
-  "slug": "s236-light-switch",
-  "topic": "Light switch",
-  "status": "todo",
-  "publish_at": "2027-07-15T17:05:00Z"
- },
- {
-  "slug": "s237-dimmer-switch",
-  "topic": "Dimmer switch",
-  "status": "todo",
-  "publish_at": "2027-07-16T17:05:00Z"
- },
- {
-  "slug": "s238-extension-cord",
-  "topic": "Extension cord",
-  "status": "todo",
-  "publish_at": "2027-07-17T17:05:00Z"
- },
- {
-  "slug": "s239-generator",
-  "topic": "Generator",
-  "status": "todo",
-  "publish_at": "2027-07-18T17:05:00Z"
- },
- {
-  "slug": "s240-ups-backup-power",
-  "topic": "UPS backup power",
-  "status": "todo",
-  "publish_at": "2027-07-19T17:05:00Z"
- },
- {
-  "slug": "s241-flashlight",
-  "topic": "Flashlight",
-  "status": "todo",
-  "publish_at": "2027-07-20T17:05:00Z"
- },
- {
-  "slug": "s242-glow-stick",
-  "topic": "Glow stick",
-  "status": "todo",
-  "publish_at": "2027-07-21T17:05:00Z"
- },
- {
-  "slug": "s243-neon-sign",
-  "topic": "Neon sign",
-  "status": "todo",
-  "publish_at": "2027-07-22T17:05:00Z"
- },
- {
-  "slug": "s244-fluorescent-tube",
-  "topic": "Fluorescent tube",
-  "status": "todo",
-  "publish_at": "2027-07-23T17:05:00Z"
- },
- {
-  "slug": "s245-laser-pointer",
-  "topic": "Laser pointer",
-  "status": "todo",
-  "publish_at": "2027-07-24T17:05:00Z"
- },
- {
-  "slug": "s246-smoke-machine",
-  "topic": "Smoke machine",
-  "status": "todo",
-  "publish_at": "2027-07-25T17:05:00Z"
- },
- {
-  "slug": "s247-fireworks-safety",
-  "topic": "Fireworks safety",
-  "status": "todo",
-  "publish_at": "2027-07-26T17:05:00Z"
- },
- {
-  "slug": "s248-lighter",
-  "topic": "Lighter",
-  "status": "todo",
-  "publish_at": "2027-07-27T17:05:00Z"
- },
- {
-  "slug": "s249-match",
-  "topic": "Match",
-  "status": "todo",
-  "publish_at": "2027-07-28T17:05:00Z"
- },
- {
-  "slug": "s250-candle",
-  "topic": "Candle",
-  "status": "todo",
-  "publish_at": "2027-07-29T17:05:00Z"
- },
- {
-  "slug": "s251-gas-grill",
-  "topic": "Gas grill",
-  "status": "todo",
-  "publish_at": "2027-07-30T17:05:00Z"
- },
- {
-  "slug": "s252-charcoal-grill",
-  "topic": "Charcoal grill",
-  "status": "todo",
-  "publish_at": "2027-07-31T17:05:00Z"
- },
- {
-  "slug": "s253-thermos-flask",
-  "topic": "Thermos flask",
-  "status": "todo",
-  "publish_at": "2027-08-01T17:05:00Z"
- },
- {
-  "slug": "s254-cooler-box",
-  "topic": "Cooler box",
-  "status": "todo",
-  "publish_at": "2027-08-02T17:05:00Z"
- },
- {
-  "slug": "s255-pressure-gauge",
-  "topic": "Pressure gauge",
-  "status": "todo",
-  "publish_at": "2027-08-03T17:05:00Z"
- },
- {
-  "slug": "s256-bike-pump",
-  "topic": "Bike pump",
-  "status": "todo",
-  "publish_at": "2027-08-04T17:05:00Z"
- },
- {
-  "slug": "s257-tire-pressure-sensor",
-  "topic": "Tire pressure sensor",
-  "status": "todo",
-  "publish_at": "2027-08-05T17:05:00Z"
- },
- {
-  "slug": "s258-spirit-level",
-  "topic": "Spirit level",
-  "status": "todo",
-  "publish_at": "2027-08-06T17:05:00Z"
- },
- {
-  "slug": "s259-tape-measure",
-  "topic": "Tape measure",
-  "status": "todo",
-  "publish_at": "2027-08-07T17:05:00Z"
- },
- {
-  "slug": "s260-laser-distance-meter",
-  "topic": "Laser distance meter",
-  "status": "todo",
-  "publish_at": "2027-08-08T17:05:00Z"
- },
- {
-  "slug": "s261-metal-detector",
-  "topic": "Metal detector",
-  "status": "todo",
-  "publish_at": "2027-08-09T17:05:00Z"
- },
- {
-  "slug": "s262-compass",
-  "topic": "Compass",
-  "status": "todo",
-  "publish_at": "2027-08-10T17:05:00Z"
- },
- {
-  "slug": "s263-smartphone-camera",
-  "topic": "Smartphone camera",
-  "status": "todo",
-  "publish_at": "2027-08-11T17:05:00Z"
- },
- {
-  "slug": "s264-oled-screen",
-  "topic": "OLED screen",
-  "status": "todo",
-  "publish_at": "2027-08-12T17:05:00Z"
- },
- {
-  "slug": "s265-lcd-screen",
-  "topic": "LCD screen",
-  "status": "todo",
-  "publish_at": "2027-08-13T17:05:00Z"
- },
- {
-  "slug": "s266-e-ink-reader",
-  "topic": "E-ink reader",
-  "status": "todo",
-  "publish_at": "2027-08-14T17:05:00Z"
- },
- {
-  "slug": "s267-touchpad",
-  "topic": "Touchpad",
-  "status": "todo",
-  "publish_at": "2027-08-15T17:05:00Z"
- },
- {
-  "slug": "s268-game-controller",
-  "topic": "Game controller",
-  "status": "todo",
-  "publish_at": "2027-08-16T17:05:00Z"
- },
- {
-  "slug": "s269-vr-headset",
-  "topic": "VR headset",
-  "status": "todo",
-  "publish_at": "2027-08-17T17:05:00Z"
- },
- {
-  "slug": "s270-bluetooth",
-  "topic": "Bluetooth",
-  "status": "todo",
-  "publish_at": "2027-08-18T17:05:00Z"
- },
- {
-  "slug": "s271-usb-c-cable",
-  "topic": "USB-C cable",
-  "status": "todo",
-  "publish_at": "2027-08-19T17:05:00Z"
- },
- {
-  "slug": "s272-hdmi",
-  "topic": "HDMI",
-  "status": "todo",
-  "publish_at": "2027-08-20T17:05:00Z"
- },
- {
-  "slug": "s273-memory-card",
-  "topic": "Memory card",
-  "status": "todo",
-  "publish_at": "2027-08-21T17:05:00Z"
- },
- {
-  "slug": "s274-smart-speaker",
-  "topic": "Smart speaker",
-  "status": "todo",
-  "publish_at": "2027-08-22T17:05:00Z"
- },
- {
-  "slug": "s275-bluetooth-earbuds",
-  "topic": "Bluetooth earbuds",
-  "status": "todo",
-  "publish_at": "2027-08-23T17:05:00Z"
- },
- {
-  "slug": "s276-radio",
-  "topic": "Radio",
-  "status": "todo",
-  "publish_at": "2027-08-24T17:05:00Z"
- },
- {
-  "slug": "s277-walkie-talkie",
-  "topic": "Walkie-talkie",
-  "status": "todo",
-  "publish_at": "2027-08-25T17:05:00Z"
- },
- {
-  "slug": "s278-satellite-phone",
-  "topic": "Satellite phone",
-  "status": "todo",
-  "publish_at": "2027-08-26T17:05:00Z"
- },
- {
-  "slug": "s279-cell-tower",
-  "topic": "Cell tower",
-  "status": "todo",
-  "publish_at": "2027-08-27T17:05:00Z"
- },
- {
-  "slug": "s280-5g-antenna",
-  "topic": "5G antenna",
-  "status": "todo",
-  "publish_at": "2027-08-28T17:05:00Z"
- },
- {
-  "slug": "s281-undersea-internet-cable",
-  "topic": "Undersea internet cable",
-  "status": "todo",
-  "publish_at": "2027-08-29T17:05:00Z"
- },
- {
-  "slug": "s282-data-center-cooling",
-  "topic": "Data center cooling",
-  "status": "todo",
-  "publish_at": "2027-08-30T17:05:00Z"
- },
- {
-  "slug": "s283-quantum-computer",
-  "topic": "Quantum computer",
-  "status": "todo",
-  "publish_at": "2027-08-31T17:05:00Z"
- },
- {
-  "slug": "s284-calculator",
-  "topic": "Calculator",
-  "status": "todo",
-  "publish_at": "2027-09-01T17:05:00Z"
- },
- {
-  "slug": "s285-cash-register-scanner",
-  "topic": "Cash register scanner",
-  "status": "todo",
-  "publish_at": "2027-09-02T17:05:00Z"
- },
- {
-  "slug": "s286-self-checkout",
-  "topic": "Self-checkout",
-  "status": "todo",
-  "publish_at": "2027-09-03T17:05:00Z"
- },
- {
-  "slug": "s287-conveyor-belt",
-  "topic": "Conveyor belt",
-  "status": "todo",
-  "publish_at": "2027-09-04T17:05:00Z"
- },
- {
-  "slug": "s288-package-sorting-robot",
-  "topic": "Package sorting robot",
-  "status": "todo",
-  "publish_at": "2027-09-05T17:05:00Z"
- }
+  {
+    "slug": "s001-toaster",
+    "topic": "Toaster",
+    "status": "ready",
+    "publish_at": "2026-11-22T17:05:00Z",
+    "note": "scene.js and short.json exist; timer shot was fixed after the sample, so re-render then upload",
+    "last_error": "2026-11-22 08:45 UTC: Zapier YouTube 'throttled without retry' on first attempt (throttle had just expired). Still ready; publish_at 2026-11-22T17:05Z will likely pass before next try - may need a new date.",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0e89c77/i60/up/s001-toaster.mp4"
+  },
+  {
+    "slug": "s002-car-engine",
+    "topic": "Car engine",
+    "status": "ready",
+    "publish_at": "2026-11-23T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/451c5b786d233d59bfdfe4ce22c517192c3325f9/i60/up/s002-car-engine.mp4"
+  },
+  {
+    "slug": "s003-electric-motor",
+    "topic": "Electric motor",
+    "status": "ready",
+    "publish_at": "2026-11-24T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/13a71ad773c3aefbae5152b38d4154a58a012905/i60/up/s003-electric-motor.mp4"
+  },
+  {
+    "slug": "s004-smartphone-touchscreen",
+    "topic": "Smartphone touchscreen",
+    "status": "ready",
+    "publish_at": "2026-11-25T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/43bc6fab3d38e2a85b07b87c462a4ea2dec4da32/i60/up/s004-smartphone-touchscreen.mp4"
+  },
+  {
+    "slug": "s005-washing-machine",
+    "topic": "Washing machine",
+    "status": "ready",
+    "publish_at": "2026-11-26T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/307146f638118d86f7d80bdc8c7ff1c614af5c17/i60/up/s005-washing-machine.mp4"
+  },
+  {
+    "slug": "s006-dishwasher",
+    "topic": "Dishwasher",
+    "status": "ready",
+    "publish_at": "2026-11-27T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/65d0b83263a5e4c131739e4cb1d08f60b083f135/i60/up/s006-dishwasher.mp4"
+  },
+  {
+    "slug": "s007-air-conditioner",
+    "topic": "Air conditioner",
+    "status": "ready",
+    "publish_at": "2026-11-28T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/95e9041a0df0e0a031f4980e2a52010800a49026/i60/up/s007-air-conditioner.mp4"
+  },
+  {
+    "slug": "s008-vacuum-cleaner",
+    "topic": "Vacuum cleaner",
+    "status": "ready",
+    "publish_at": "2026-11-29T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fc0fcf018fbe57ce73b78417bb67f2caa3d269d4/i60/up/s008-vacuum-cleaner.mp4"
+  },
+  {
+    "slug": "s009-hair-dryer",
+    "topic": "Hair dryer",
+    "status": "ready",
+    "publish_at": "2026-11-30T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fc0fcf018fbe57ce73b78417bb67f2caa3d269d4/i60/up/s009-hair-dryer.mp4"
+  },
+  {
+    "slug": "s010-electric-kettle",
+    "topic": "Electric kettle",
+    "status": "ready",
+    "publish_at": "2026-12-01T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fc0fcf018fbe57ce73b78417bb67f2caa3d269d4/i60/up/s010-electric-kettle.mp4"
+  },
+  {
+    "slug": "s011-induction-cooktop",
+    "topic": "Induction cooktop",
+    "status": "ready",
+    "publish_at": "2026-12-02T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f9f1580c38abd4843f26a7adfc91264cd7089639/i60/up/s011-induction-cooktop.mp4"
+  },
+  {
+    "slug": "s012-light-bulb--led",
+    "topic": "Light bulb (LED)",
+    "status": "ready",
+    "publish_at": "2026-12-03T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f7c0740191a27684ba24c54bd786affb99863ad6/i60/up/s012-light-bulb--led.mp4"
+  },
+  {
+    "slug": "s013-battery--lithium-ion",
+    "topic": "Battery (lithium-ion)",
+    "status": "ready",
+    "publish_at": "2026-12-04T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/89e8267ad2c75eee73c79bc8d776b1b3a0b0be3c/i60/up/s013-battery--lithium-ion.mp4"
+  },
+  {
+    "slug": "s014-solar-panel",
+    "topic": "Solar panel",
+    "status": "ready",
+    "publish_at": "2026-12-05T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/62390900314097b644bc0abe803d7a55016cb121/i60/up/s014-solar-panel.mp4"
+  },
+  {
+    "slug": "s015-wind-turbine",
+    "topic": "Wind turbine",
+    "status": "ready",
+    "publish_at": "2026-12-06T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/d16f1b59b6025a9a04b828fdd18982670cc12111/i60/up/s015-wind-turbine.mp4"
+  },
+  {
+    "slug": "s016-hydroelectric-dam",
+    "topic": "Hydroelectric dam",
+    "status": "ready",
+    "publish_at": "2026-12-07T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c62c5d846ff9bb9adf7f8c295effa029ab4d8eca/i60/up/s016-hydroelectric-dam.mp4"
+  },
+  {
+    "slug": "s017-nuclear-reactor",
+    "topic": "Nuclear reactor",
+    "status": "ready",
+    "publish_at": "2026-12-08T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e5562aac3ebe3b2569600404ed1e6ba211911abc/i60/up/s017-nuclear-reactor.mp4"
+  },
+  {
+    "slug": "s018-car-brakes",
+    "topic": "Car brakes",
+    "status": "ready",
+    "publish_at": "2026-12-09T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c37fa856353ee0be3c9a3779a6103a4f97a34f58/i60/up/s018-car-brakes.mp4"
+  },
+  {
+    "slug": "s019-car-gearbox",
+    "topic": "Car gearbox",
+    "status": "ready",
+    "publish_at": "2026-12-10T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0fcd3a3eef9ca0f4b94f9505df772b4d46449498/i60/up/s019-car-gearbox.mp4"
+  },
+  {
+    "slug": "s020-car-differential",
+    "topic": "Car differential",
+    "status": "ready",
+    "publish_at": "2026-12-11T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/1d33f7e9cbee3abc1638de13b7ef28db0a1f5b5f/i60/up/s020-car-differential.mp4"
+  },
+  {
+    "slug": "s021-turbocharger",
+    "topic": "Turbocharger",
+    "status": "ready",
+    "publish_at": "2026-12-12T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/2933b7b2d4e83e04dd4f8aea8c5e2db37ea75681/i60/up/s021-turbocharger.mp4"
+  },
+  {
+    "slug": "s022-electric-car",
+    "topic": "Electric car",
+    "status": "ready",
+    "publish_at": "2026-12-13T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4f002bd1ce19754a2e699eadf0c64119bf40ec46/i60/up/s022-electric-car.mp4"
+  },
+  {
+    "slug": "s023-hybrid-car",
+    "topic": "Hybrid car",
+    "status": "ready",
+    "publish_at": "2026-12-14T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/713d80d9c3c7a21de72d57624db27335da7bdbc5/i60/up/s023-hybrid-car.mp4",
+    "last_error": null
+  },
+  {
+    "slug": "s024-spark-plug",
+    "topic": "Spark plug",
+    "status": "ready",
+    "publish_at": "2026-12-15T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/89e26f7a75e70e6aef5a1fc30b8a2d9101f372e2/i60/up/s024-spark-plug.mp4",
+    "last_error": null
+  },
+  {
+    "slug": "s025-diesel-engine",
+    "topic": "Diesel engine",
+    "status": "ready",
+    "publish_at": "2026-12-16T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/139610cdede9a4f7f500bce08ec371f878d0cf2a/i60/up/s025-diesel-engine.mp4",
+    "last_error": null
+  },
+  {
+    "slug": "s026-bicycle-gears",
+    "topic": "Bicycle gears",
+    "status": "ready",
+    "publish_at": "2026-12-17T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ae1eb1d5e9a5c9d0b2688f1922cb2817b7a68cd8/i60/up/s026-bicycle-gears.mp4",
+    "last_error": null
+  },
+  {
+    "slug": "s027-helicopter",
+    "topic": "Helicopter",
+    "status": "ready",
+    "publish_at": "2026-12-18T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f57f660ac4f17a26d076244d2be6f0057fc75e11/i60/up/s027-helicopter.mp4",
+    "last_error": null
+  },
+  {
+    "slug": "s028-airplane-wing",
+    "topic": "Airplane wing",
+    "status": "ready",
+    "publish_at": "2026-12-19T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/5cc21ac0b81f18392b8c743cf0dc6e0fd119c225/i60/up/s028-airplane-wing.mp4",
+    "last_error": null
+  },
+  {
+    "slug": "s029-rocket-engine",
+    "topic": "Rocket engine",
+    "status": "ready",
+    "publish_at": "2026-12-20T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/7586029056510b2c3e677cf24296e2af6f7261e7/i60/up/s029-rocket-engine.mp4"
+  },
+  {
+    "slug": "s030-submarine",
+    "topic": "Submarine",
+    "status": "ready",
+    "publish_at": "2026-12-21T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/3d98d1ad72f65b90827895c2ec0f5f97322992e6/i60/up/s030-submarine.mp4"
+  },
+  {
+    "slug": "s031-ship-propeller",
+    "topic": "Ship propeller",
+    "status": "ready",
+    "publish_at": "2026-12-22T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/98f934f90f3473e73f0aad24c12db7f634c748f8/i60/up/s031-ship-propeller.mp4"
+  },
+  {
+    "slug": "s032-elevator",
+    "topic": "Elevator",
+    "status": "ready",
+    "publish_at": "2026-12-23T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/47ac12af3a96c42e448b5d4a6fa6e7c66f520842/i60/up/s032-elevator.mp4"
+  },
+  {
+    "slug": "s033-escalator",
+    "topic": "Escalator",
+    "status": "ready",
+    "publish_at": "2026-12-24T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/af1f2f2d2f9640cc1b9e96a334ea1f27cf1cf97d/i60/up/s033-escalator.mp4"
+  },
+  {
+    "slug": "s034-zipper",
+    "topic": "Zipper",
+    "status": "ready",
+    "publish_at": "2026-12-25T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/6ac9c6907188a733f2ed207bd15fdcff38fb1554/i60/up/s034-zipper.mp4"
+  },
+  {
+    "slug": "s035-lock-and-key",
+    "topic": "Lock and key",
+    "status": "ready",
+    "publish_at": "2026-12-26T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/b70edc8f03c5f943bb94a9d96ebaa4668d380671/i60/up/s035-lock-and-key.mp4"
+  },
+  {
+    "slug": "s036-mechanical-watch",
+    "topic": "Mechanical watch",
+    "status": "ready",
+    "publish_at": "2026-12-27T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/acfaa165640d205c999955ba5787ee24ecbee5fd/i60/up/s036-mechanical-watch.mp4"
+  },
+  {
+    "slug": "s037-quartz-watch",
+    "topic": "Quartz watch",
+    "status": "ready",
+    "publish_at": "2026-12-28T17:05:00Z",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fceabf3cd435c9de36a72d2d754ff3b1b05304ac/i60/up/s037-quartz-watch.mp4"
+  },
+  {
+    "slug": "s038-camera-lens",
+    "topic": "Camera lens",
+    "status": "doing",
+    "publish_at": "2026-12-29T17:05:00Z"
+  },
+  {
+    "slug": "s039-projector",
+    "topic": "Projector",
+    "status": "doing",
+    "publish_at": "2026-12-30T17:05:00Z"
+  },
+  {
+    "slug": "s040-speaker",
+    "topic": "Speaker",
+    "status": "doing",
+    "publish_at": "2026-12-31T17:05:00Z"
+  },
+  {
+    "slug": "s041-microphone",
+    "topic": "Microphone",
+    "status": "todo",
+    "publish_at": "2027-01-01T17:05:00Z"
+  },
+  {
+    "slug": "s042-headphones--noise-cancelling",
+    "topic": "Headphones (noise cancelling)",
+    "status": "todo",
+    "publish_at": "2027-01-02T17:05:00Z"
+  },
+  {
+    "slug": "s043-wi-fi-router",
+    "topic": "Wi-Fi router",
+    "status": "todo",
+    "publish_at": "2027-01-03T17:05:00Z"
+  },
+  {
+    "slug": "s044-gps",
+    "topic": "GPS",
+    "status": "todo",
+    "publish_at": "2027-01-04T17:05:00Z"
+  },
+  {
+    "slug": "s045-fiber-optic-cable",
+    "topic": "Fiber optic cable",
+    "status": "todo",
+    "publish_at": "2027-01-05T17:05:00Z"
+  },
+  {
+    "slug": "s046-barcode-scanner",
+    "topic": "Barcode scanner",
+    "status": "todo",
+    "publish_at": "2027-01-06T17:05:00Z"
+  },
+  {
+    "slug": "s047-nfc-tags",
+    "topic": "NFC tags",
+    "status": "todo",
+    "publish_at": "2027-01-07T17:05:00Z"
+  },
+  {
+    "slug": "s048-3d-printer",
+    "topic": "3D printer",
+    "status": "todo",
+    "publish_at": "2027-01-08T17:05:00Z"
+  },
+  {
+    "slug": "s049-inkjet-printer",
+    "topic": "Inkjet printer",
+    "status": "todo",
+    "publish_at": "2027-01-09T17:05:00Z"
+  },
+  {
+    "slug": "s050-laser-printer",
+    "topic": "Laser printer",
+    "status": "todo",
+    "publish_at": "2027-01-10T17:05:00Z"
+  },
+  {
+    "slug": "s051-hard-drive",
+    "topic": "Hard drive",
+    "status": "todo",
+    "publish_at": "2027-01-11T17:05:00Z"
+  },
+  {
+    "slug": "s052-ssd",
+    "topic": "SSD",
+    "status": "todo",
+    "publish_at": "2027-01-12T17:05:00Z"
+  },
+  {
+    "slug": "s053-computer-cpu",
+    "topic": "Computer CPU",
+    "status": "todo",
+    "publish_at": "2027-01-13T17:05:00Z"
+  },
+  {
+    "slug": "s054-keyboard",
+    "topic": "Keyboard",
+    "status": "todo",
+    "publish_at": "2027-01-14T17:05:00Z"
+  },
+  {
+    "slug": "s055-computer-mouse--optical",
+    "topic": "Computer mouse (optical)",
+    "status": "todo",
+    "publish_at": "2027-01-15T17:05:00Z"
+  },
+  {
+    "slug": "s056-touch-id-fingerprint-sensor",
+    "topic": "Touch ID fingerprint sensor",
+    "status": "todo",
+    "publish_at": "2027-01-16T17:05:00Z"
+  },
+  {
+    "slug": "s057-face-id",
+    "topic": "Face ID",
+    "status": "todo",
+    "publish_at": "2027-01-17T17:05:00Z"
+  },
+  {
+    "slug": "s058-smoke-detector",
+    "topic": "Smoke detector",
+    "status": "todo",
+    "publish_at": "2027-01-18T17:05:00Z"
+  },
+  {
+    "slug": "s059-fire-extinguisher",
+    "topic": "Fire extinguisher",
+    "status": "todo",
+    "publish_at": "2027-01-19T17:05:00Z"
+  },
+  {
+    "slug": "s060-thermostat",
+    "topic": "Thermostat",
+    "status": "todo",
+    "publish_at": "2027-01-20T17:05:00Z"
+  },
+  {
+    "slug": "s061-water-heater",
+    "topic": "Water heater",
+    "status": "todo",
+    "publish_at": "2027-01-21T17:05:00Z"
+  },
+  {
+    "slug": "s062-toilet-flush",
+    "topic": "Toilet flush",
+    "status": "skip",
+    "publish_at": "2027-01-22T17:05:00Z",
+    "note": "already posted on the channel 21 Nov by the old daily task"
+  },
+  {
+    "slug": "s063-water-tower",
+    "topic": "Water tower",
+    "status": "todo",
+    "publish_at": "2027-01-23T17:05:00Z"
+  },
+  {
+    "slug": "s064-water-treatment-plant",
+    "topic": "Water treatment plant",
+    "status": "todo",
+    "publish_at": "2027-01-24T17:05:00Z"
+  },
+  {
+    "slug": "s065-sewing-machine",
+    "topic": "Sewing machine",
+    "status": "todo",
+    "publish_at": "2027-01-25T17:05:00Z"
+  },
+  {
+    "slug": "s066-pressure-cooker",
+    "topic": "Pressure cooker",
+    "status": "todo",
+    "publish_at": "2027-01-26T17:05:00Z"
+  },
+  {
+    "slug": "s067-coffee-machine--espresso",
+    "topic": "Coffee machine (espresso)",
+    "status": "todo",
+    "publish_at": "2027-01-27T17:05:00Z"
+  },
+  {
+    "slug": "s068-blender",
+    "topic": "Blender",
+    "status": "todo",
+    "publish_at": "2027-01-28T17:05:00Z"
+  },
+  {
+    "slug": "s069-electric-toothbrush",
+    "topic": "Electric toothbrush",
+    "status": "todo",
+    "publish_at": "2027-01-29T17:05:00Z"
+  },
+  {
+    "slug": "s070-wireless-charger",
+    "topic": "Wireless charger",
+    "status": "todo",
+    "publish_at": "2027-01-30T17:05:00Z"
+  },
+  {
+    "slug": "s071-power-bank",
+    "topic": "Power bank",
+    "status": "todo",
+    "publish_at": "2027-01-31T17:05:00Z"
+  },
+  {
+    "slug": "s072-electric-scooter",
+    "topic": "Electric scooter",
+    "status": "todo",
+    "publish_at": "2027-02-01T17:05:00Z"
+  },
+  {
+    "slug": "s073-traffic-light-sensors",
+    "topic": "Traffic light sensors",
+    "status": "todo",
+    "publish_at": "2027-02-02T17:05:00Z"
+  },
+  {
+    "slug": "s074-parking-sensors",
+    "topic": "Parking sensors",
+    "status": "todo",
+    "publish_at": "2027-02-03T17:05:00Z"
+  },
+  {
+    "slug": "s075-airbag",
+    "topic": "Airbag",
+    "status": "todo",
+    "publish_at": "2027-02-04T17:05:00Z"
+  },
+  {
+    "slug": "s076-seatbelt",
+    "topic": "Seatbelt",
+    "status": "todo",
+    "publish_at": "2027-02-05T17:05:00Z"
+  },
+  {
+    "slug": "s077-abs-brakes",
+    "topic": "ABS brakes",
+    "status": "todo",
+    "publish_at": "2027-02-06T17:05:00Z"
+  },
+  {
+    "slug": "s078-windshield-wipers",
+    "topic": "Windshield wipers",
+    "status": "todo",
+    "publish_at": "2027-02-07T17:05:00Z"
+  },
+  {
+    "slug": "s079-car-air-conditioning",
+    "topic": "Car air conditioning",
+    "status": "todo",
+    "publish_at": "2027-02-08T17:05:00Z"
+  },
+  {
+    "slug": "s080-hydraulic-press",
+    "topic": "Hydraulic press",
+    "status": "todo",
+    "publish_at": "2027-02-09T17:05:00Z"
+  },
+  {
+    "slug": "s081-crane",
+    "topic": "Crane",
+    "status": "todo",
+    "publish_at": "2027-02-10T17:05:00Z"
+  },
+  {
+    "slug": "s082-excavator",
+    "topic": "Excavator",
+    "status": "todo",
+    "publish_at": "2027-02-11T17:05:00Z"
+  },
+  {
+    "slug": "s083-forklift",
+    "topic": "Forklift",
+    "status": "todo",
+    "publish_at": "2027-02-12T17:05:00Z"
+  },
+  {
+    "slug": "s084-drone",
+    "topic": "Drone",
+    "status": "todo",
+    "publish_at": "2027-02-13T17:05:00Z"
+  },
+  {
+    "slug": "s085-electric-guitar",
+    "topic": "Electric guitar",
+    "status": "todo",
+    "publish_at": "2027-02-14T17:05:00Z"
+  },
+  {
+    "slug": "s086-piano",
+    "topic": "Piano",
+    "status": "todo",
+    "publish_at": "2027-02-15T17:05:00Z"
+  },
+  {
+    "slug": "s087-mri-scanner",
+    "topic": "MRI scanner",
+    "status": "todo",
+    "publish_at": "2027-02-16T17:05:00Z"
+  },
+  {
+    "slug": "s088-x-ray-machine",
+    "topic": "X-ray machine",
+    "status": "todo",
+    "publish_at": "2027-02-17T17:05:00Z"
+  },
+  {
+    "slug": "s089-lawn-mower",
+    "topic": "Lawn mower",
+    "status": "todo",
+    "publish_at": "2027-02-18T17:05:00Z"
+  },
+  {
+    "slug": "s090-chainsaw",
+    "topic": "Chainsaw",
+    "status": "todo",
+    "publish_at": "2027-02-19T17:05:00Z"
+  },
+  {
+    "slug": "s091-leaf-blower",
+    "topic": "Leaf blower",
+    "status": "todo",
+    "publish_at": "2027-02-20T17:05:00Z"
+  },
+  {
+    "slug": "s092-electric-drill",
+    "topic": "Electric drill",
+    "status": "todo",
+    "publish_at": "2027-02-21T17:05:00Z"
+  },
+  {
+    "slug": "s093-impact-wrench",
+    "topic": "Impact wrench",
+    "status": "todo",
+    "publish_at": "2027-02-22T17:05:00Z"
+  },
+  {
+    "slug": "s094-circular-saw",
+    "topic": "Circular saw",
+    "status": "todo",
+    "publish_at": "2027-02-23T17:05:00Z"
+  },
+  {
+    "slug": "s095-angle-grinder",
+    "topic": "Angle grinder",
+    "status": "todo",
+    "publish_at": "2027-02-24T17:05:00Z"
+  },
+  {
+    "slug": "s096-welding-torch",
+    "topic": "Welding torch",
+    "status": "todo",
+    "publish_at": "2027-02-25T17:05:00Z"
+  },
+  {
+    "slug": "s097-air-compressor",
+    "topic": "Air compressor",
+    "status": "todo",
+    "publish_at": "2027-02-26T17:05:00Z"
+  },
+  {
+    "slug": "s098-pressure-washer",
+    "topic": "Pressure washer",
+    "status": "todo",
+    "publish_at": "2027-02-27T17:05:00Z"
+  },
+  {
+    "slug": "s099-garage-door-opener",
+    "topic": "Garage door opener",
+    "status": "todo",
+    "publish_at": "2027-02-28T17:05:00Z"
+  },
+  {
+    "slug": "s100-door-lock-smart",
+    "topic": "Door lock (smart)",
+    "status": "todo",
+    "publish_at": "2027-03-01T17:05:00Z"
+  },
+  {
+    "slug": "s101-doorbell-camera",
+    "topic": "Doorbell camera",
+    "status": "todo",
+    "publish_at": "2027-03-02T17:05:00Z"
+  },
+  {
+    "slug": "s102-security-camera-night-vision",
+    "topic": "Security camera night vision",
+    "status": "todo",
+    "publish_at": "2027-03-03T17:05:00Z"
+  },
+  {
+    "slug": "s103-motion-sensor-light",
+    "topic": "Motion sensor light",
+    "status": "todo",
+    "publish_at": "2027-03-04T17:05:00Z"
+  },
+  {
+    "slug": "s104-ceiling-fan",
+    "topic": "Ceiling fan",
+    "status": "todo",
+    "publish_at": "2027-03-05T17:05:00Z"
+  },
+  {
+    "slug": "s105-space-heater",
+    "topic": "Space heater",
+    "status": "todo",
+    "publish_at": "2027-03-06T17:05:00Z"
+  },
+  {
+    "slug": "s106-heat-pump",
+    "topic": "Heat pump",
+    "status": "todo",
+    "publish_at": "2027-03-07T17:05:00Z"
+  },
+  {
+    "slug": "s107-radiator-heating",
+    "topic": "Radiator heating",
+    "status": "todo",
+    "publish_at": "2027-03-08T17:05:00Z"
+  },
+  {
+    "slug": "s108-gas-boiler",
+    "topic": "Gas boiler",
+    "status": "todo",
+    "publish_at": "2027-03-09T17:05:00Z"
+  },
+  {
+    "slug": "s109-fireplace-chimney",
+    "topic": "Fireplace chimney",
+    "status": "todo",
+    "publish_at": "2027-03-10T17:05:00Z"
+  },
+  {
+    "slug": "s110-clothes-dryer",
+    "topic": "Clothes dryer",
+    "status": "todo",
+    "publish_at": "2027-03-11T17:05:00Z"
+  },
+  {
+    "slug": "s111-iron-steam",
+    "topic": "Iron (steam)",
+    "status": "todo",
+    "publish_at": "2027-03-12T17:05:00Z"
+  },
+  {
+    "slug": "s112-robot-vacuum",
+    "topic": "Robot vacuum",
+    "status": "todo",
+    "publish_at": "2027-03-13T17:05:00Z"
+  },
+  {
+    "slug": "s113-air-purifier",
+    "topic": "Air purifier",
+    "status": "todo",
+    "publish_at": "2027-03-14T17:05:00Z"
+  },
+  {
+    "slug": "s114-humidifier",
+    "topic": "Humidifier",
+    "status": "todo",
+    "publish_at": "2027-03-15T17:05:00Z"
+  },
+  {
+    "slug": "s115-dehumidifier",
+    "topic": "Dehumidifier",
+    "status": "todo",
+    "publish_at": "2027-03-16T17:05:00Z"
+  },
+  {
+    "slug": "s116-water-filter",
+    "topic": "Water filter",
+    "status": "todo",
+    "publish_at": "2027-03-17T17:05:00Z"
+  },
+  {
+    "slug": "s117-water-softener",
+    "topic": "Water softener",
+    "status": "todo",
+    "publish_at": "2027-03-18T17:05:00Z"
+  },
+  {
+    "slug": "s118-garbage-disposal",
+    "topic": "Garbage disposal",
+    "status": "todo",
+    "publish_at": "2027-03-19T17:05:00Z"
+  },
+  {
+    "slug": "s119-rice-cooker",
+    "topic": "Rice cooker",
+    "status": "todo",
+    "publish_at": "2027-03-20T17:05:00Z"
+  },
+  {
+    "slug": "s120-slow-cooker",
+    "topic": "Slow cooker",
+    "status": "todo",
+    "publish_at": "2027-03-21T17:05:00Z"
+  },
+  {
+    "slug": "s121-air-fryer",
+    "topic": "Air fryer",
+    "status": "todo",
+    "publish_at": "2027-03-22T17:05:00Z"
+  },
+  {
+    "slug": "s122-oven-thermostat",
+    "topic": "Oven thermostat",
+    "status": "todo",
+    "publish_at": "2027-03-23T17:05:00Z"
+  },
+  {
+    "slug": "s123-gas-stove-burner",
+    "topic": "Gas stove burner",
+    "status": "todo",
+    "publish_at": "2027-03-24T17:05:00Z"
+  },
+  {
+    "slug": "s124-bread-maker",
+    "topic": "Bread maker",
+    "status": "todo",
+    "publish_at": "2027-03-25T17:05:00Z"
+  },
+  {
+    "slug": "s125-ice-maker",
+    "topic": "Ice maker",
+    "status": "todo",
+    "publish_at": "2027-03-26T17:05:00Z"
+  },
+  {
+    "slug": "s126-freezer",
+    "topic": "Freezer",
+    "status": "todo",
+    "publish_at": "2027-03-27T17:05:00Z"
+  },
+  {
+    "slug": "s127-juicer",
+    "topic": "Juicer",
+    "status": "todo",
+    "publish_at": "2027-03-28T17:05:00Z"
+  },
+  {
+    "slug": "s128-stand-mixer",
+    "topic": "Stand mixer",
+    "status": "todo",
+    "publish_at": "2027-03-29T17:05:00Z"
+  },
+  {
+    "slug": "s129-popcorn-machine",
+    "topic": "Popcorn machine",
+    "status": "todo",
+    "publish_at": "2027-03-30T17:05:00Z"
+  },
+  {
+    "slug": "s130-soda-fountain",
+    "topic": "Soda fountain",
+    "status": "todo",
+    "publish_at": "2027-03-31T17:05:00Z"
+  },
+  {
+    "slug": "s131-vending-machine",
+    "topic": "Vending machine",
+    "status": "todo",
+    "publish_at": "2027-04-01T17:05:00Z"
+  },
+  {
+    "slug": "s132-coin-sorter",
+    "topic": "Coin sorter",
+    "status": "todo",
+    "publish_at": "2027-04-02T17:05:00Z"
+  },
+  {
+    "slug": "s133-escalator-handrail",
+    "topic": "Escalator handrail",
+    "status": "todo",
+    "publish_at": "2027-04-03T17:05:00Z"
+  },
+  {
+    "slug": "s134-revolving-door",
+    "topic": "Revolving door",
+    "status": "todo",
+    "publish_at": "2027-04-04T17:05:00Z"
+  },
+  {
+    "slug": "s135-automatic-sliding-door",
+    "topic": "Automatic sliding door",
+    "status": "todo",
+    "publish_at": "2027-04-05T17:05:00Z"
+  },
+  {
+    "slug": "s136-turnstile",
+    "topic": "Turnstile",
+    "status": "todo",
+    "publish_at": "2027-04-06T17:05:00Z"
+  },
+  {
+    "slug": "s137-parking-garage-lift",
+    "topic": "Parking garage lift",
+    "status": "todo",
+    "publish_at": "2027-04-07T17:05:00Z"
+  },
+  {
+    "slug": "s138-car-wash",
+    "topic": "Car wash",
+    "status": "todo",
+    "publish_at": "2027-04-08T17:05:00Z"
+  },
+  {
+    "slug": "s139-fuel-pump",
+    "topic": "Fuel pump",
+    "status": "todo",
+    "publish_at": "2027-04-09T17:05:00Z"
+  },
+  {
+    "slug": "s140-ev-charger",
+    "topic": "EV charger",
+    "status": "todo",
+    "publish_at": "2027-04-10T17:05:00Z"
+  },
+  {
+    "slug": "s141-car-battery",
+    "topic": "Car battery",
+    "status": "todo",
+    "publish_at": "2027-04-11T17:05:00Z"
+  },
+  {
+    "slug": "s142-alternator",
+    "topic": "Alternator",
+    "status": "todo",
+    "publish_at": "2027-04-12T17:05:00Z"
+  },
+  {
+    "slug": "s143-starter-motor",
+    "topic": "Starter motor",
+    "status": "todo",
+    "publish_at": "2027-04-13T17:05:00Z"
+  },
+  {
+    "slug": "s144-radiator-car",
+    "topic": "Radiator (car)",
+    "status": "todo",
+    "publish_at": "2027-04-14T17:05:00Z"
+  },
+  {
+    "slug": "s145-car-suspension",
+    "topic": "Car suspension",
+    "status": "todo",
+    "publish_at": "2027-04-15T17:05:00Z"
+  },
+  {
+    "slug": "s146-shock-absorber",
+    "topic": "Shock absorber",
+    "status": "todo",
+    "publish_at": "2027-04-16T17:05:00Z"
+  },
+  {
+    "slug": "s147-power-steering",
+    "topic": "Power steering",
+    "status": "todo",
+    "publish_at": "2027-04-17T17:05:00Z"
+  },
+  {
+    "slug": "s148-clutch",
+    "topic": "Clutch",
+    "status": "todo",
+    "publish_at": "2027-04-18T17:05:00Z"
+  },
+  {
+    "slug": "s149-automatic-transmission",
+    "topic": "Automatic transmission",
+    "status": "todo",
+    "publish_at": "2027-04-19T17:05:00Z"
+  },
+  {
+    "slug": "s150-cvt-transmission",
+    "topic": "CVT transmission",
+    "status": "todo",
+    "publish_at": "2027-04-20T17:05:00Z"
+  },
+  {
+    "slug": "s151-exhaust-catalytic-converter",
+    "topic": "Exhaust catalytic converter",
+    "status": "todo",
+    "publish_at": "2027-04-21T17:05:00Z"
+  },
+  {
+    "slug": "s152-muffler",
+    "topic": "Muffler",
+    "status": "todo",
+    "publish_at": "2027-04-22T17:05:00Z"
+  },
+  {
+    "slug": "s153-fuel-injector",
+    "topic": "Fuel injector",
+    "status": "todo",
+    "publish_at": "2027-04-23T17:05:00Z"
+  },
+  {
+    "slug": "s154-carburetor",
+    "topic": "Carburetor",
+    "status": "todo",
+    "publish_at": "2027-04-24T17:05:00Z"
+  },
+  {
+    "slug": "s155-rotary-engine",
+    "topic": "Rotary engine",
+    "status": "todo",
+    "publish_at": "2027-04-25T17:05:00Z"
+  },
+  {
+    "slug": "s156-two-stroke-engine",
+    "topic": "Two-stroke engine",
+    "status": "todo",
+    "publish_at": "2027-04-26T17:05:00Z"
+  },
+  {
+    "slug": "s157-motorcycle-chain",
+    "topic": "Motorcycle chain",
+    "status": "todo",
+    "publish_at": "2027-04-27T17:05:00Z"
+  },
+  {
+    "slug": "s158-bicycle-brakes",
+    "topic": "Bicycle brakes",
+    "status": "todo",
+    "publish_at": "2027-04-28T17:05:00Z"
+  },
+  {
+    "slug": "s159-e-bike-motor",
+    "topic": "E-bike motor",
+    "status": "todo",
+    "publish_at": "2027-04-29T17:05:00Z"
+  },
+  {
+    "slug": "s160-skateboard-bearings",
+    "topic": "Skateboard bearings",
+    "status": "todo",
+    "publish_at": "2027-04-30T17:05:00Z"
+  },
+  {
+    "slug": "s161-roller-coaster",
+    "topic": "Roller coaster",
+    "status": "todo",
+    "publish_at": "2027-05-01T17:05:00Z"
+  },
+  {
+    "slug": "s162-ferris-wheel",
+    "topic": "Ferris wheel",
+    "status": "todo",
+    "publish_at": "2027-05-02T17:05:00Z"
+  },
+  {
+    "slug": "s163-bumper-cars",
+    "topic": "Bumper cars",
+    "status": "todo",
+    "publish_at": "2027-05-03T17:05:00Z"
+  },
+  {
+    "slug": "s164-zip-line-brake",
+    "topic": "Zip line brake",
+    "status": "todo",
+    "publish_at": "2027-05-04T17:05:00Z"
+  },
+  {
+    "slug": "s165-parachute",
+    "topic": "Parachute",
+    "status": "todo",
+    "publish_at": "2027-05-05T17:05:00Z"
+  },
+  {
+    "slug": "s166-hot-air-balloon",
+    "topic": "Hot air balloon",
+    "status": "todo",
+    "publish_at": "2027-05-06T17:05:00Z"
+  },
+  {
+    "slug": "s167-glider",
+    "topic": "Glider",
+    "status": "todo",
+    "publish_at": "2027-05-07T17:05:00Z"
+  },
+  {
+    "slug": "s168-jet-ski",
+    "topic": "Jet ski",
+    "status": "todo",
+    "publish_at": "2027-05-08T17:05:00Z"
+  },
+  {
+    "slug": "s169-hovercraft",
+    "topic": "Hovercraft",
+    "status": "todo",
+    "publish_at": "2027-05-09T17:05:00Z"
+  },
+  {
+    "slug": "s170-hydrofoil",
+    "topic": "Hydrofoil",
+    "status": "todo",
+    "publish_at": "2027-05-10T17:05:00Z"
+  },
+  {
+    "slug": "s171-sailboat",
+    "topic": "Sailboat",
+    "status": "todo",
+    "publish_at": "2027-05-11T17:05:00Z"
+  },
+  {
+    "slug": "s172-canal-lock",
+    "topic": "Canal lock",
+    "status": "todo",
+    "publish_at": "2027-05-12T17:05:00Z"
+  },
+  {
+    "slug": "s173-drawbridge",
+    "topic": "Drawbridge",
+    "status": "todo",
+    "publish_at": "2027-05-13T17:05:00Z"
+  },
+  {
+    "slug": "s174-suspension-bridge",
+    "topic": "Suspension bridge",
+    "status": "todo",
+    "publish_at": "2027-05-14T17:05:00Z"
+  },
+  {
+    "slug": "s175-tunnel-boring-machine",
+    "topic": "Tunnel boring machine",
+    "status": "todo",
+    "publish_at": "2027-05-15T17:05:00Z"
+  },
+  {
+    "slug": "s176-concrete-mixer",
+    "topic": "Concrete mixer",
+    "status": "todo",
+    "publish_at": "2027-05-16T17:05:00Z"
+  },
+  {
+    "slug": "s177-tower-crane",
+    "topic": "Tower crane",
+    "status": "todo",
+    "publish_at": "2027-05-17T17:05:00Z"
+  },
+  {
+    "slug": "s178-bulldozer",
+    "topic": "Bulldozer",
+    "status": "todo",
+    "publish_at": "2027-05-18T17:05:00Z"
+  },
+  {
+    "slug": "s179-dump-truck",
+    "topic": "Dump truck",
+    "status": "todo",
+    "publish_at": "2027-05-19T17:05:00Z"
+  },
+  {
+    "slug": "s180-road-roller",
+    "topic": "Road roller",
+    "status": "todo",
+    "publish_at": "2027-05-20T17:05:00Z"
+  },
+  {
+    "slug": "s181-asphalt-paver",
+    "topic": "Asphalt paver",
+    "status": "todo",
+    "publish_at": "2027-05-21T17:05:00Z"
+  },
+  {
+    "slug": "s182-train-brakes",
+    "topic": "Train brakes",
+    "status": "todo",
+    "publish_at": "2027-05-22T17:05:00Z"
+  },
+  {
+    "slug": "s183-maglev-train",
+    "topic": "Maglev train",
+    "status": "todo",
+    "publish_at": "2027-05-23T17:05:00Z"
+  },
+  {
+    "slug": "s184-steam-locomotive",
+    "topic": "Steam locomotive",
+    "status": "todo",
+    "publish_at": "2027-05-24T17:05:00Z"
+  },
+  {
+    "slug": "s185-diesel-electric-train",
+    "topic": "Diesel-electric train",
+    "status": "todo",
+    "publish_at": "2027-05-25T17:05:00Z"
+  },
+  {
+    "slug": "s186-subway-third-rail",
+    "topic": "Subway third rail",
+    "status": "todo",
+    "publish_at": "2027-05-26T17:05:00Z"
+  },
+  {
+    "slug": "s187-cable-car",
+    "topic": "Cable car",
+    "status": "todo",
+    "publish_at": "2027-05-27T17:05:00Z"
+  },
+  {
+    "slug": "s188-funicular",
+    "topic": "Funicular",
+    "status": "todo",
+    "publish_at": "2027-05-28T17:05:00Z"
+  },
+  {
+    "slug": "s189-airport-baggage-system",
+    "topic": "Airport baggage system",
+    "status": "todo",
+    "publish_at": "2027-05-29T17:05:00Z"
+  },
+  {
+    "slug": "s190-jet-bridge",
+    "topic": "Jet bridge",
+    "status": "todo",
+    "publish_at": "2027-05-30T17:05:00Z"
+  },
+  {
+    "slug": "s191-airplane-landing-gear",
+    "topic": "Airplane landing gear",
+    "status": "todo",
+    "publish_at": "2027-05-31T17:05:00Z"
+  },
+  {
+    "slug": "s192-airplane-black-box",
+    "topic": "Airplane black box",
+    "status": "todo",
+    "publish_at": "2027-06-01T17:05:00Z"
+  },
+  {
+    "slug": "s193-airplane-toilet",
+    "topic": "Airplane toilet",
+    "status": "todo",
+    "publish_at": "2027-06-02T17:05:00Z"
+  },
+  {
+    "slug": "s194-cabin-pressure",
+    "topic": "Cabin pressure",
+    "status": "todo",
+    "publish_at": "2027-06-03T17:05:00Z"
+  },
+  {
+    "slug": "s195-autopilot",
+    "topic": "Autopilot",
+    "status": "todo",
+    "publish_at": "2027-06-04T17:05:00Z"
+  },
+  {
+    "slug": "s196-air-traffic-radar",
+    "topic": "Air traffic radar",
+    "status": "todo",
+    "publish_at": "2027-06-05T17:05:00Z"
+  },
+  {
+    "slug": "s197-weather-radar",
+    "topic": "Weather radar",
+    "status": "todo",
+    "publish_at": "2027-06-06T17:05:00Z"
+  },
+  {
+    "slug": "s198-satellite",
+    "topic": "Satellite",
+    "status": "todo",
+    "publish_at": "2027-06-07T17:05:00Z"
+  },
+  {
+    "slug": "s199-space-station",
+    "topic": "Space station",
+    "status": "todo",
+    "publish_at": "2027-06-08T17:05:00Z"
+  },
+  {
+    "slug": "s200-mars-rover",
+    "topic": "Mars rover",
+    "status": "todo",
+    "publish_at": "2027-06-09T17:05:00Z"
+  },
+  {
+    "slug": "s201-telescope",
+    "topic": "Telescope",
+    "status": "todo",
+    "publish_at": "2027-06-10T17:05:00Z"
+  },
+  {
+    "slug": "s202-microscope",
+    "topic": "Microscope",
+    "status": "todo",
+    "publish_at": "2027-06-11T17:05:00Z"
+  },
+  {
+    "slug": "s203-binoculars",
+    "topic": "Binoculars",
+    "status": "todo",
+    "publish_at": "2027-06-12T17:05:00Z"
+  },
+  {
+    "slug": "s204-periscope",
+    "topic": "Periscope",
+    "status": "todo",
+    "publish_at": "2027-06-13T17:05:00Z"
+  },
+  {
+    "slug": "s205-night-vision-goggles",
+    "topic": "Night vision goggles",
+    "status": "todo",
+    "publish_at": "2027-06-14T17:05:00Z"
+  },
+  {
+    "slug": "s206-thermal-camera",
+    "topic": "Thermal camera",
+    "status": "todo",
+    "publish_at": "2027-06-15T17:05:00Z"
+  },
+  {
+    "slug": "s207-smartwatch-heart-sensor",
+    "topic": "Smartwatch heart sensor",
+    "status": "todo",
+    "publish_at": "2027-06-16T17:05:00Z"
+  },
+  {
+    "slug": "s208-fitness-tracker-step-counter",
+    "topic": "Fitness tracker step counter",
+    "status": "todo",
+    "publish_at": "2027-06-17T17:05:00Z"
+  },
+  {
+    "slug": "s209-hearing-aid",
+    "topic": "Hearing aid",
+    "status": "todo",
+    "publish_at": "2027-06-18T17:05:00Z"
+  },
+  {
+    "slug": "s210-pacemaker",
+    "topic": "Pacemaker",
+    "status": "todo",
+    "publish_at": "2027-06-19T17:05:00Z"
+  },
+  {
+    "slug": "s211-stethoscope",
+    "topic": "Stethoscope",
+    "status": "todo",
+    "publish_at": "2027-06-20T17:05:00Z"
+  },
+  {
+    "slug": "s212-blood-pressure-monitor",
+    "topic": "Blood pressure monitor",
+    "status": "todo",
+    "publish_at": "2027-06-21T17:05:00Z"
+  },
+  {
+    "slug": "s213-pulse-oximeter",
+    "topic": "Pulse oximeter",
+    "status": "todo",
+    "publish_at": "2027-06-22T17:05:00Z"
+  },
+  {
+    "slug": "s214-thermometer-infrared",
+    "topic": "Thermometer (infrared)",
+    "status": "todo",
+    "publish_at": "2027-06-23T17:05:00Z"
+  },
+  {
+    "slug": "s215-dialysis-machine",
+    "topic": "Dialysis machine",
+    "status": "todo",
+    "publish_at": "2027-06-24T17:05:00Z"
+  },
+  {
+    "slug": "s216-ventilator",
+    "topic": "Ventilator",
+    "status": "todo",
+    "publish_at": "2027-06-25T17:05:00Z"
+  },
+  {
+    "slug": "s217-defibrillator",
+    "topic": "Defibrillator",
+    "status": "todo",
+    "publish_at": "2027-06-26T17:05:00Z"
+  },
+  {
+    "slug": "s218-ct-scanner",
+    "topic": "CT scanner",
+    "status": "todo",
+    "publish_at": "2027-06-27T17:05:00Z"
+  },
+  {
+    "slug": "s219-ultrasound-machine",
+    "topic": "Ultrasound machine",
+    "status": "todo",
+    "publish_at": "2027-06-28T17:05:00Z"
+  },
+  {
+    "slug": "s220-dentist-drill",
+    "topic": "Dentist drill",
+    "status": "todo",
+    "publish_at": "2027-06-29T17:05:00Z"
+  },
+  {
+    "slug": "s221-contact-lens",
+    "topic": "Contact lens",
+    "status": "todo",
+    "publish_at": "2027-06-30T17:05:00Z"
+  },
+  {
+    "slug": "s222-glasses-lenses",
+    "topic": "Glasses lenses",
+    "status": "todo",
+    "publish_at": "2027-07-01T17:05:00Z"
+  },
+  {
+    "slug": "s223-electric-wheelchair",
+    "topic": "Electric wheelchair",
+    "status": "todo",
+    "publish_at": "2027-07-02T17:05:00Z"
+  },
+  {
+    "slug": "s224-prosthetic-hand",
+    "topic": "Prosthetic hand",
+    "status": "todo",
+    "publish_at": "2027-07-03T17:05:00Z"
+  },
+  {
+    "slug": "s225-bionic-leg",
+    "topic": "Bionic leg",
+    "status": "todo",
+    "publish_at": "2027-07-04T17:05:00Z"
+  },
+  {
+    "slug": "s226-hand-dryer",
+    "topic": "Hand dryer",
+    "status": "todo",
+    "publish_at": "2027-07-05T17:05:00Z"
+  },
+  {
+    "slug": "s227-automatic-faucet",
+    "topic": "Automatic faucet",
+    "status": "todo",
+    "publish_at": "2027-07-06T17:05:00Z"
+  },
+  {
+    "slug": "s228-soap-dispenser",
+    "topic": "Soap dispenser",
+    "status": "todo",
+    "publish_at": "2027-07-07T17:05:00Z"
+  },
+  {
+    "slug": "s229-water-meter",
+    "topic": "Water meter",
+    "status": "todo",
+    "publish_at": "2027-07-08T17:05:00Z"
+  },
+  {
+    "slug": "s230-electric-meter",
+    "topic": "Electric meter",
+    "status": "todo",
+    "publish_at": "2027-07-09T17:05:00Z"
+  },
+  {
+    "slug": "s231-power-grid-transformer",
+    "topic": "Power grid transformer",
+    "status": "todo",
+    "publish_at": "2027-07-10T17:05:00Z"
+  },
+  {
+    "slug": "s232-circuit-breaker",
+    "topic": "Circuit breaker",
+    "status": "todo",
+    "publish_at": "2027-07-11T17:05:00Z"
+  },
+  {
+    "slug": "s233-fuse",
+    "topic": "Fuse",
+    "status": "todo",
+    "publish_at": "2027-07-12T17:05:00Z"
+  },
+  {
+    "slug": "s234-surge-protector",
+    "topic": "Surge protector",
+    "status": "todo",
+    "publish_at": "2027-07-13T17:05:00Z"
+  },
+  {
+    "slug": "s235-power-plug",
+    "topic": "Power plug",
+    "status": "todo",
+    "publish_at": "2027-07-14T17:05:00Z"
+  },
+  {
+    "slug": "s236-light-switch",
+    "topic": "Light switch",
+    "status": "todo",
+    "publish_at": "2027-07-15T17:05:00Z"
+  },
+  {
+    "slug": "s237-dimmer-switch",
+    "topic": "Dimmer switch",
+    "status": "todo",
+    "publish_at": "2027-07-16T17:05:00Z"
+  },
+  {
+    "slug": "s238-extension-cord",
+    "topic": "Extension cord",
+    "status": "todo",
+    "publish_at": "2027-07-17T17:05:00Z"
+  },
+  {
+    "slug": "s239-generator",
+    "topic": "Generator",
+    "status": "todo",
+    "publish_at": "2027-07-18T17:05:00Z"
+  },
+  {
+    "slug": "s240-ups-backup-power",
+    "topic": "UPS backup power",
+    "status": "todo",
+    "publish_at": "2027-07-19T17:05:00Z"
+  },
+  {
+    "slug": "s241-flashlight",
+    "topic": "Flashlight",
+    "status": "todo",
+    "publish_at": "2027-07-20T17:05:00Z"
+  },
+  {
+    "slug": "s242-glow-stick",
+    "topic": "Glow stick",
+    "status": "todo",
+    "publish_at": "2027-07-21T17:05:00Z"
+  },
+  {
+    "slug": "s243-neon-sign",
+    "topic": "Neon sign",
+    "status": "todo",
+    "publish_at": "2027-07-22T17:05:00Z"
+  },
+  {
+    "slug": "s244-fluorescent-tube",
+    "topic": "Fluorescent tube",
+    "status": "todo",
+    "publish_at": "2027-07-23T17:05:00Z"
+  },
+  {
+    "slug": "s245-laser-pointer",
+    "topic": "Laser pointer",
+    "status": "todo",
+    "publish_at": "2027-07-24T17:05:00Z"
+  },
+  {
+    "slug": "s246-smoke-machine",
+    "topic": "Smoke machine",
+    "status": "todo",
+    "publish_at": "2027-07-25T17:05:00Z"
+  },
+  {
+    "slug": "s247-fireworks-safety",
+    "topic": "Fireworks safety",
+    "status": "todo",
+    "publish_at": "2027-07-26T17:05:00Z"
+  },
+  {
+    "slug": "s248-lighter",
+    "topic": "Lighter",
+    "status": "todo",
+    "publish_at": "2027-07-27T17:05:00Z"
+  },
+  {
+    "slug": "s249-match",
+    "topic": "Match",
+    "status": "todo",
+    "publish_at": "2027-07-28T17:05:00Z"
+  },
+  {
+    "slug": "s250-candle",
+    "topic": "Candle",
+    "status": "todo",
+    "publish_at": "2027-07-29T17:05:00Z"
+  },
+  {
+    "slug": "s251-gas-grill",
+    "topic": "Gas grill",
+    "status": "todo",
+    "publish_at": "2027-07-30T17:05:00Z"
+  },
+  {
+    "slug": "s252-charcoal-grill",
+    "topic": "Charcoal grill",
+    "status": "todo",
+    "publish_at": "2027-07-31T17:05:00Z"
+  },
+  {
+    "slug": "s253-thermos-flask",
+    "topic": "Thermos flask",
+    "status": "todo",
+    "publish_at": "2027-08-01T17:05:00Z"
+  },
+  {
+    "slug": "s254-cooler-box",
+    "topic": "Cooler box",
+    "status": "todo",
+    "publish_at": "2027-08-02T17:05:00Z"
+  },
+  {
+    "slug": "s255-pressure-gauge",
+    "topic": "Pressure gauge",
+    "status": "todo",
+    "publish_at": "2027-08-03T17:05:00Z"
+  },
+  {
+    "slug": "s256-bike-pump",
+    "topic": "Bike pump",
+    "status": "todo",
+    "publish_at": "2027-08-04T17:05:00Z"
+  },
+  {
+    "slug": "s257-tire-pressure-sensor",
+    "topic": "Tire pressure sensor",
+    "status": "todo",
+    "publish_at": "2027-08-05T17:05:00Z"
+  },
+  {
+    "slug": "s258-spirit-level",
+    "topic": "Spirit level",
+    "status": "todo",
+    "publish_at": "2027-08-06T17:05:00Z"
+  },
+  {
+    "slug": "s259-tape-measure",
+    "topic": "Tape measure",
+    "status": "todo",
+    "publish_at": "2027-08-07T17:05:00Z"
+  },
+  {
+    "slug": "s260-laser-distance-meter",
+    "topic": "Laser distance meter",
+    "status": "todo",
+    "publish_at": "2027-08-08T17:05:00Z"
+  },
+  {
+    "slug": "s261-metal-detector",
+    "topic": "Metal detector",
+    "status": "todo",
+    "publish_at": "2027-08-09T17:05:00Z"
+  },
+  {
+    "slug": "s262-compass",
+    "topic": "Compass",
+    "status": "todo",
+    "publish_at": "2027-08-10T17:05:00Z"
+  },
+  {
+    "slug": "s263-smartphone-camera",
+    "topic": "Smartphone camera",
+    "status": "todo",
+    "publish_at": "2027-08-11T17:05:00Z"
+  },
+  {
+    "slug": "s264-oled-screen",
+    "topic": "OLED screen",
+    "status": "todo",
+    "publish_at": "2027-08-12T17:05:00Z"
+  },
+  {
+    "slug": "s265-lcd-screen",
+    "topic": "LCD screen",
+    "status": "todo",
+    "publish_at": "2027-08-13T17:05:00Z"
+  },
+  {
+    "slug": "s266-e-ink-reader",
+    "topic": "E-ink reader",
+    "status": "todo",
+    "publish_at": "2027-08-14T17:05:00Z"
+  },
+  {
+    "slug": "s267-touchpad",
+    "topic": "Touchpad",
+    "status": "todo",
+    "publish_at": "2027-08-15T17:05:00Z"
+  },
+  {
+    "slug": "s268-game-controller",
+    "topic": "Game controller",
+    "status": "todo",
+    "publish_at": "2027-08-16T17:05:00Z"
+  },
+  {
+    "slug": "s269-vr-headset",
+    "topic": "VR headset",
+    "status": "todo",
+    "publish_at": "2027-08-17T17:05:00Z"
+  },
+  {
+    "slug": "s270-bluetooth",
+    "topic": "Bluetooth",
+    "status": "todo",
+    "publish_at": "2027-08-18T17:05:00Z"
+  },
+  {
+    "slug": "s271-usb-c-cable",
+    "topic": "USB-C cable",
+    "status": "todo",
+    "publish_at": "2027-08-19T17:05:00Z"
+  },
+  {
+    "slug": "s272-hdmi",
+    "topic": "HDMI",
+    "status": "todo",
+    "publish_at": "2027-08-20T17:05:00Z"
+  },
+  {
+    "slug": "s273-memory-card",
+    "topic": "Memory card",
+    "status": "todo",
+    "publish_at": "2027-08-21T17:05:00Z"
+  },
+  {
+    "slug": "s274-smart-speaker",
+    "topic": "Smart speaker",
+    "status": "todo",
+    "publish_at": "2027-08-22T17:05:00Z"
+  },
+  {
+    "slug": "s275-bluetooth-earbuds",
+    "topic": "Bluetooth earbuds",
+    "status": "todo",
+    "publish_at": "2027-08-23T17:05:00Z"
+  },
+  {
+    "slug": "s276-radio",
+    "topic": "Radio",
+    "status": "todo",
+    "publish_at": "2027-08-24T17:05:00Z"
+  },
+  {
+    "slug": "s277-walkie-talkie",
+    "topic": "Walkie-talkie",
+    "status": "todo",
+    "publish_at": "2027-08-25T17:05:00Z"
+  },
+  {
+    "slug": "s278-satellite-phone",
+    "topic": "Satellite phone",
+    "status": "todo",
+    "publish_at": "2027-08-26T17:05:00Z"
+  },
+  {
+    "slug": "s279-cell-tower",
+    "topic": "Cell tower",
+    "status": "todo",
+    "publish_at": "2027-08-27T17:05:00Z"
+  },
+  {
+    "slug": "s280-5g-antenna",
+    "topic": "5G antenna",
+    "status": "todo",
+    "publish_at": "2027-08-28T17:05:00Z"
+  },
+  {
+    "slug": "s281-undersea-internet-cable",
+    "topic": "Undersea internet cable",
+    "status": "todo",
+    "publish_at": "2027-08-29T17:05:00Z"
+  },
+  {
+    "slug": "s282-data-center-cooling",
+    "topic": "Data center cooling",
+    "status": "todo",
+    "publish_at": "2027-08-30T17:05:00Z"
+  },
+  {
+    "slug": "s283-quantum-computer",
+    "topic": "Quantum computer",
+    "status": "todo",
+    "publish_at": "2027-08-31T17:05:00Z"
+  },
+  {
+    "slug": "s284-calculator",
+    "topic": "Calculator",
+    "status": "todo",
+    "publish_at": "2027-09-01T17:05:00Z"
+  },
+  {
+    "slug": "s285-cash-register-scanner",
+    "topic": "Cash register scanner",
+    "status": "todo",
+    "publish_at": "2027-09-02T17:05:00Z"
+  },
+  {
+    "slug": "s286-self-checkout",
+    "topic": "Self-checkout",
+    "status": "todo",
+    "publish_at": "2027-09-03T17:05:00Z"
+  },
+  {
+    "slug": "s287-conveyor-belt",
+    "topic": "Conveyor belt",
+    "status": "todo",
+    "publish_at": "2027-09-04T17:05:00Z"
+  },
+  {
+    "slug": "s288-package-sorting-robot",
+    "topic": "Package sorting robot",
+    "status": "todo",
+    "publish_at": "2027-09-05T17:05:00Z"
+  }
 ]
