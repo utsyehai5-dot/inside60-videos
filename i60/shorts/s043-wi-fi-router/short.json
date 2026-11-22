@@ -1,0 +1,14 @@
+{
+ "title": "How a Wi-Fi Router Works in 60 Seconds 📶🌐 #shorts",
+ "description": "A Wi-Fi router turns internet data into radio waves. Data from the modem is split into small addressed packets, the antennas send them as radio waves at 2.4 or 5 gigahertz, and the router keeps track of every device so each packet reaches the right one. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#wifi #router #howitworks",
+ "tags": ["wifi router", "how wifi works", "how a router works", "wi-fi", "radio waves", "2.4 ghz", "5 ghz", "internet", "networking", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Your *Wi-Fi* signal is a radio wave that wiggles *2.4 billion* times every second.", "stat": "2.4B", "statsub": "WAVES PER SECOND"},
+  {"label": "Cable in", "text": "The internet arrives through a cable from the *modem* into the *router*."},
+  {"label": "Packets", "text": "All data is chopped into small *packets*, each one labeled with an *address*."},
+  {"label": "Radio", "text": "The antennas send those packets out as *radio waves*, at *2.4* or *5* gigahertz."},
+  {"label": "Devices", "text": "Your phone's antenna *catches* them, and sends its own replies back the *same way*."},
+  {"label": "Traffic cop", "text": "The router gives every device a *local address* and sends each packet to the *right one*."},
+  {"label": "Recap", "text": "Cable, packets, *radio*. Follow Inside 60 for more."}
+ ]
+}
