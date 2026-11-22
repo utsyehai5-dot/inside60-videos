@@ -1,0 +1,14 @@
+{
+ "title": "How an LED Light Bulb Works in 60 Seconds 💡⚡ #shorts",
+ "description": "An LED bulb makes light without a glowing hot wire. Inside, a driver turns mains power into low DC, and electrons crossing a tiny semiconductor chip release their energy as light. A yellow phosphor turns the blue light white. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#led #howitworks #shorts",
+ "tags": ["led bulb", "how led works", "light emitting diode", "semiconductor", "phosphor", "energy saving", "how it works", "physics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "Old bulbs heat a wire until it glows. An *LED* makes light from a chip smaller than a grain of rice."},
+  {"label": "The Driver", "text": "In the base, a small *driver* circuit turns wall power into low, steady direct current."},
+  {"label": "The Chip", "text": "The current flows into a *semiconductor* chip with two layers, one with extra electrons, one with holes."},
+  {"label": "Light", "text": "When an electron drops into a hole, it releases its energy as a tiny flash of *light*."},
+  {"label": "White Light", "text": "The chip glows *blue*. A yellow phosphor coating mixes it into white light."},
+  {"label": "Efficiency", "text": "Little energy is wasted as heat, so LEDs need *far less power*.", "stat": "75%", "statsub": "LESS ENERGY"},
+  {"label": "Recap", "text": "Driver, chip, electrons, *light*. Follow Inside 60 for more."}
+ ]
+}
