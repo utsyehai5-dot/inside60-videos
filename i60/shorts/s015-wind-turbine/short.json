@@ -1,0 +1,14 @@
+{
+ "title": "How a Wind Turbine Works in 60 Seconds 🌬️⚡ #shorts",
+ "description": "A wind turbine is a fan in reverse. Wing-shaped blades turn slowly with huge force, a gearbox speeds the rotation up, and a generator turns it into electricity while sensors keep the turbine facing the wind. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#windturbine #howitworks #shorts",
+ "tags": ["wind turbine", "how wind turbines work", "wind power", "generator", "gearbox", "renewable energy", "how it works", "engineering", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "A wind turbine is basically a *fan in reverse*. Wind spins it, and it makes electricity."},
+  {"label": "Blades", "text": "The blades are shaped like *airplane wings*. Moving air creates lift that turns the rotor."},
+  {"label": "Slow Spin", "text": "The giant rotor turns *slowly*, but with enormous force."},
+  {"label": "Gearbox", "text": "Inside the nacelle, a *gearbox* speeds the spin up to well over a thousand RPM.", "stat": "1,000+", "statsub": "RPM after the gearbox"},
+  {"label": "Generator", "text": "The fast shaft spins a *generator*, where magnets and copper coils create electricity."},
+  {"label": "Control", "text": "Sensors turn the turbine *into the wind* and tilt the blades to control the speed."},
+  {"label": "Recap", "text": "Wind, lift, gears, *power*. Follow Inside 60 for more."}
+ ]
+}
