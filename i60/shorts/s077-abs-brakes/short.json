@@ -1,0 +1,14 @@
+{
+ "title": "How ABS Brakes Work in 60 Seconds 🚗🛑 #shorts",
+ "description": "Without ABS, slamming the brakes can lock the wheels so the car skids and won't steer. ABS uses a speed sensor at each wheel and a computer that spots a wheel slowing too fast, then valves release and reapply the brake pressure up to about 15 times a second. That's the pulsing you feel in the pedal, and it keeps the tires gripping so you can still steer. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#abs #brakes #howitworks",
+ "tags": ["abs", "anti-lock brakes", "how abs works", "abs brakes", "brakes", "wheel speed sensor", "car safety", "braking", "engineering", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Slam the brakes without ABS and the wheels can *lock up*, so the car *won't steer*."},
+  {"label": "Sensors", "text": "A *speed sensor* at each wheel reads a *toothed ring* as it spins."},
+  {"label": "Computer", "text": "A small *computer* watches every wheel for one that suddenly *slows too fast*."},
+  {"label": "Valves", "text": "Then *valves* briefly *release the brake pressure* on that wheel, so it keeps turning."},
+  {"label": "Pulsing", "text": "This can repeat up to *15 times a second*, which you feel as a *pulsing pedal*.", "stat": "15", "statsub": "PULSES PER SECOND"},
+  {"label": "Grip", "text": "The tires keep *gripping* the road, so you can still *steer* around danger."},
+  {"label": "Recap", "text": "Sense, release, *grip*. Follow Inside 60 for more."}
+ ]
+}
