@@ -1,0 +1,14 @@
+{
+ "title": "How a Microphone Works in 60 Seconds 🎤🧲 #shorts",
+ "description": "A microphone turns your voice into electricity. Sound waves shake a thin diaphragm, the diaphragm moves a tiny coil of wire around a magnet, and that motion induces an electric current shaped exactly like the sound, ready to be amplified or recorded. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#microphone #howitworks #shorts",
+ "tags": ["microphone", "how a microphone works", "dynamic microphone", "diaphragm", "voice coil", "electromagnetic induction", "sound waves", "audio", "physics", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A microphone is basically a *speaker* running in *reverse*."},
+  {"label": "Sound", "text": "When you talk, your voice pushes *pressure waves* through the air toward the mic."},
+  {"label": "Diaphragm", "text": "They hit a thin *diaphragm*, making it shake back and forth with your *voice*."},
+  {"label": "Coil", "text": "A tiny *coil* of wire is glued to it, sliding around a strong *magnet*."},
+  {"label": "Induction", "text": "Wire moving through a magnetic field makes *electricity*. That's called *induction*.", "stat": "1831", "statsub": "FARADAY FINDS INDUCTION"},
+  {"label": "Signal", "text": "The current copies the shape of the *sound wave*, so it can be *amplified* and recorded."},
+  {"label": "Recap", "text": "Air, coil, *current*. Follow Inside 60 for more."}
+ ]
+}
