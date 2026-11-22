@@ -1,0 +1,14 @@
+{
+ "title": "How a Laser Printer Works in 60 Seconds 🖨️⚡ #shorts",
+ "description": "A laser printer draws your page with static electricity. A charged drum is \"written\" by a laser, plastic toner powder sticks only where the laser touched, the paper picks it up, and hot fuser rollers at around 200°C melt it in place. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#laserprinter #printer #howitworks",
+ "tags": ["laser printer", "how laser printers work", "printer", "toner", "static electricity", "fuser", "photoconductor drum", "printing", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A laser printer *melts plastic* onto your paper at about *200 degrees*.", "stat": "200°C", "statsub": "FUSER HEAT"},
+  {"label": "Drum", "text": "First, a spinning *drum* gets coated in *static charge*."},
+  {"label": "Laser", "text": "A *laser* sweeps across it, erasing the charge wherever your *letters* go."},
+  {"label": "Toner", "text": "*Toner* is a fine powder of pigment and plastic. It sticks only to the *laser-drawn* areas."},
+  {"label": "Transfer", "text": "The drum rolls the powder onto the *paper*, like an invisible *stamp*."},
+  {"label": "Fuser", "text": "Hot *fuser rollers* melt the plastic, so the print is *bonded* to the page."},
+  {"label": "Recap", "text": "Charge, laser, *melt*. Follow Inside 60 for more."}
+ ]
+}
