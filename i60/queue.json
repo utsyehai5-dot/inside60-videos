@@ -198,8 +198,10 @@
  {
   "slug": "s028-airplane-wing",
   "topic": "Airplane wing",
-  "status": "doing",
-  "publish_at": "2026-12-19T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-19T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/5cc21ac0b81f18392b8c743cf0dc6e0fd119c225/i60/up/s028-airplane-wing.mp4",
+  "last_error": null
  },
  {
   "slug": "s029-rocket-engine",
