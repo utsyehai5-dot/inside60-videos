@@ -74,8 +74,9 @@
  {
   "slug": "s011-induction-cooktop",
   "topic": "Induction cooktop",
-  "status": "doing",
-  "publish_at": "2026-12-02T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-02T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f9f1580c38abd4843f26a7adfc91264cd7089639/i60/up/s011-induction-cooktop.mp4"
  },
  {
   "slug": "s012-light-bulb--led",
