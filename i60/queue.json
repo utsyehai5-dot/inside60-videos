@@ -472,8 +472,9 @@
  {
   "slug": "s067-coffee-machine--espresso",
   "topic": "Coffee machine (espresso)",
-  "status": "doing",
-  "publish_at": "2027-01-27T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-27T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fdc80a444a317dfd2fc2263a9bd971334149b06b/i60/up/s067-coffee-machine--espresso.mp4"
  },
  {
   "slug": "s068-blender",
