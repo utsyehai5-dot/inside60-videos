@@ -479,8 +479,9 @@
  {
   "slug": "s068-blender",
   "topic": "Blender",
-  "status": "doing",
-  "publish_at": "2027-01-28T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-28T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/8debb661f4fc9f67ad00e85279676a1e82059e40/i60/up/s068-blender.mp4"
  },
  {
   "slug": "s069-electric-toothbrush",
