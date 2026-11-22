@@ -1,0 +1,107 @@
+# Money Machine Files — Ep 15: How Amazon Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "$716.9 BILLION", "Amazon's net sales in 2025"),
+      t="In 2025, Amazon sold *seven hundred and sixteen point nine billion dollars* worth of stuff and services. That is close to two billion dollars, every single day."),
+ dict(v=("quote", "Most of Amazon's profit doesn't come from the shop.", ""),
+      t="But here is the strange part. The online shop you know is not where most of the profit comes from. The real money machine is hidden in places most shoppers never see. So how does Amazon *really* make money?"),
+ dict(v=("brand", "FILE #015  ·  AMAZON"),
+      t="This is the money machine behind Amazon. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "A Bookstore in a Garage"),
+      t="Chapter one. A bookstore in a garage."),
+ dict(v=("timeline", "JULY 5, 1994", "Cadabra, Inc. is founded in a garage in Bellevue, Washington"), photo="suburban house garage door",
+      t="On July fifth, 1994, a man named *Jeff Bezos* started a company in his garage in Bellevue, near Seattle. Its first name was Cadabra, a twist on the magic word abracadabra."),
+ dict(v=("quote", "The biggest river in the world. The biggest bookstore in the world.", ""),
+      t="Soon he changed it. Bezos picked *Amazon*, the biggest river on Earth, because he wanted the biggest bookstore on Earth. And a name starting with A came first in alphabetical lists."),
+ dict(v=("timeline", "JULY 1995", "Amazon opens online as a bookseller"), photo="stack of old books",
+      t="In July 1995, the website opened. One of the first books it sold was a heavy science title by Douglas Hofstadter, about computer models of how people think. Not exactly a bestseller, but the shop was open."),
+ dict(v=("timeline", "MAY 15, 1997", "IPO at $18 a share, raising $54 million"), photo="stock market ticker screen",
+      t="On May fifteenth, 1997, Amazon listed on the stock market at *eighteen dollars* a share and raised about fifty-four million dollars. The money went into growth, not profits."),
+ dict(v=("stat", "1 CENT", "first profit per share, Q4 2001", "After years of losses"), photo="single coin on table",
+      t="And he meant it. Amazon lost money year after year. Its first profitable quarter came only at the end of 2001, and the profit was just *one cent* per share. Many people thought it would never work."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "The Everything Store"),
+      t="Chapter two. The everything store."),
+ dict(v=("timeline", "2000", "Amazon opens its shop to third-party sellers"), photo="cardboard boxes warehouse shelves",
+      t="Books became music, videos, toys and electronics. Then, in 2000, Amazon made a big decision. It let *other sellers* list their products right next to its own, even when they competed with Amazon."),
+ dict(v=("timeline", "SEPT 2006", "Fulfillment by Amazon: sellers store goods in Amazon warehouses"), photo="large fulfillment warehouse interior",
+      t="In September 2006 it went further with *Fulfillment by Amazon*. Sellers send their boxes to Amazon's warehouses, and Amazon stores, packs and ships every order, for a fee."),
+ dict(v=("timeline", "FEB 2005", "Amazon Prime launches: $79 a year"), photo="delivery boxes doorstep",
+      t="In February 2005, Amazon launched *Prime*. For seventy-nine dollars a year, members got free two-day shipping on unlimited orders. The idea came from a brainstorm in a boathouse behind Bezos's home."),
+ dict(v=("quote", "Once you pay for Prime, you shop where you already paid.", ""),
+      t="Prime changed how people shop. Once you have paid for free delivery, why buy anywhere else? In 2014 the price went up to ninety-nine dollars, and Prime added video, music and more. By 2024, a US membership cost *one hundred and thirty-nine dollars* a year."),
+ dict(v=("timeline", "NOV 2007", "The first Kindle e-reader goes on sale"), photo="ebook reader on table",
+      t="In November 2007, Amazon launched the *Kindle*, and in 2017 it bought the grocery chain Whole Foods for about thirteen point seven billion dollars. Amazon was no longer a bookstore. It was the everything store."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "Where the Money Comes From"),
+      t="Chapter three. Where the money comes from."),
+ dict(v=("bars", "Amazon sales, Q3 2026", [("Online stores", 68.5, "$68.5 bn"), ("Third-party seller fees", 46.5, "$46.5 bn"), ("AWS cloud", 46.0, "$46.0 bn"), ("Advertising", 19.6, "$19.6 bn")]),
+      t="Look at the last quarter Amazon reported, July to September 2026. Sales were *two hundred and one point nine billion dollars*. The online shop brought in sixty-eight and a half billion. Fees from other sellers, forty-six and a half. The cloud, forty-six. And advertising, nineteen point six billion."),
+ dict(v=("stat", "$14.0 BILLION", "from subscriptions in Q3 2026", "Prime fees, video, music and more"), photo="streaming tv remote living room",
+      t="Then there are *subscriptions*, mainly Prime, at fourteen billion dollars in the quarter. Real shops, mostly Whole Foods, added five point seven billion."),
+ dict(v=("pie", "69%", "of goods sold on Amazon in 2025 came from other sellers"), photo="small business owner packing boxes",
+      t="Here is something many shoppers do not know. Marketplace Pulse estimates that in 2025, about *sixty-nine percent* of the value of goods sold on Amazon came from independent sellers, not from Amazon itself. Total sales on the site were around eight hundred and thirty billion dollars."),
+ dict(v=("list", "What a seller can pay Amazon", ["~15% referral fee on each sale", "20–35% for storage and delivery", "Up to 15% for ads and promotions"]), photo="shipping labels packages",
+      t="And those sellers pay a lot. A referral fee of about fifteen percent on most sales. Twenty to thirty-five percent for storage and delivery. And up to fifteen percent more on ads to be seen."),
+ dict(v=("stat", "50%+", "of a typical seller's revenue goes to Amazon", "Marketplace Pulse estimate"), photo="calculator receipts desk",
+      t="Add it up, and Marketplace Pulse found that Amazon keeps *more than half* of a typical seller's revenue. Amazon does not need to own the product. It owns the road the product travels on."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "The Secret Profit Machine"),
+      t="Chapter four. The secret profit machine."),
+ dict(v=("timeline", "2006", "AWS launches S3 storage (March) and EC2 computing (August)"), photo="server room data center racks",
+      t="To run its own giant website, Amazon built huge computer systems. Then it had an idea: rent that power to everyone else. In 2006 it launched *Amazon Web Services*, with online storage in March and rented computers in August."),
+ dict(v=("compare", "AWS IN 2025", ["18% of Amazon's sales", "$128.7 bn revenue", "$45.6 bn operating profit"], "THE REST OF AMAZON", ["82% of sales", "$588.2 bn revenue", "$34.4 bn operating profit"]),
+      t="Now the secret. In 2025, AWS made only about *eighteen percent* of Amazon's sales. But it earned forty-five point six billion dollars of operating profit. That is more than all the shops, all over the world, put together."),
+ dict(v=("pie", "57%", "of Amazon's 2025 operating profit came from AWS"), photo="cloud computing network cables",
+      t="Out of eighty billion dollars of operating profit in 2025, about *fifty-seven percent* came from the cloud. When you watch a streaming show or use an app, there is a good chance some of it runs on Amazon's computers."),
+ dict(v=("stat", "39%", "AWS growth, Q3 2026", "$46.0 bn sales · $17.8 bn operating profit"), photo="data center aisle blue lights",
+      t="And the cloud is speeding up again because of artificial intelligence. In the third quarter of 2026, AWS sales grew *thirty-nine percent*, to forty-six billion dollars, with almost eighteen billion dollars of operating profit."),
+ dict(v=("stat", "$184 BILLION", "AWS annualized revenue run rate", "Q3 2026"), photo="computer chips circuit board",
+      t="Amazon says AWS is now running at *one hundred and eighty-four billion dollars* a year. Its boss expects growth of more than forty percent both in 2027 and in 2028. Amazon even designs its own AI chips, called Trainium."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "The Ad Machine"),
+      t="Chapter five. The ad machine."),
+ dict(v=("stat", "$19.6 BILLION", "advertising sales in Q3 2026", "Up 11% from a year earlier"), photo="online shopping laptop screen",
+      t="The second hidden engine is *advertising*. When you search for headphones, the first results are often paid. In the third quarter of 2026, ads brought in nineteen point six billion dollars."),
+ dict(v=("flow", "How one sale makes Amazon money", ["Seller", "Amazon", "Shopper"], ["fees + ads", "fast delivery"],
+         "The seller pays to be seen, to be stored and to be shipped  →  Amazon earns at every step", "Amazon"),
+      t="Ads on Amazon are special. The shopper is already holding a credit card, ready to buy. So brands pay to sit at the top. One seller can pay Amazon a referral fee, a delivery fee and an ad fee, all on the *same sale*."),
+ dict(v=("stat", "~$69 BILLION", "advertising sales in 2025", "No trucks, no shelves, no boxes"), photo="digital billboard city night",
+      t="In 2025, Amazon's ad business brought in close to *sixty-nine billion dollars*. Ads need no trucks, no shelves and no boxes. Amazon does not report ad profit on its own, but it is easy to see why this business is so attractive."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The $220 Billion Bet"),
+      t="Chapter six. The two hundred and twenty billion dollar bet."),
+ dict(v=("timeline", "2021", "Bezos hands the CEO job to Andy Jassy"), photo="glass office tower Seattle",
+      t="In 2021, Jeff Bezos stepped down as CEO and became executive chairman. The new boss was *Andy Jassy*, the man who had built AWS. That choice tells you where Amazon thinks its future is."),
+ dict(v=("stat", "13.9%", "operating margin, Q3 2026", "Amazon's highest ever · $28.1 bn operating income"), photo="delivery van street",
+      t="Right now the machine is running hot. In the third quarter of 2026, Amazon made twenty-eight point one billion dollars of operating income. Its operating margin of *thirteen point nine percent* was the highest in its history."),
+ dict(v=("stat", "~$220 BILLION", "planned capital spending in 2026", "Mostly data centers, chips and AI"), photo="construction site large building cranes",
+      t="But Amazon is spending like never before. For 2026 it expects to spend about *two hundred and twenty billion dollars* on buildings and equipment, most of it on data centers and chips for AI. In 2025 the number was about one hundred and thirty-two billion."),
+ dict(v=("compare", "MONEY IN", ["$168.3 bn operating cash flow", "12 months to Sept 2026", "Up 29%"], "MONEY OUT", ["$215.2 bn on equipment", "Same 12 months", "Free cash flow: -$42.4 bn"]),
+      t="The result is surprising. In the twelve months to September 2026, Amazon's operations brought in one hundred and sixty-eight billion dollars of cash. But it spent even more on equipment. Its free cash flow was *minus forty-two billion dollars*."),
+ dict(v=("quote", "Amazon is betting today's profits on tomorrow's AI.", ""),
+      t="This is the Bezos playbook all over again: spend big now, and earn later. It worked with warehouses and with the cloud. Now the bet is on *AI*. If demand keeps growing, the payoff is huge. If not, those data centers are a very expensive gamble."),
+ dict(v=("stat", "1.5 BILLION+", "items delivered same-day or overnight to Prime members", "In Q3 2026 alone"), photo="parcel delivery truck loading",
+      t="Meanwhile, the shop keeps getting faster. In the third quarter of 2026 alone, Amazon delivered more than *one point five billion* items to Prime members on the same day or the next day. Amazon also plans to start its own satellite internet service, called Amazon Leo."),
+ dict(v=("stat", "$240–247 BN", "Amazon's sales forecast for Q4 2026", "Growth of 12% to 16%"), photo="holiday shopping gift boxes",
+      t="And for the holiday quarter at the end of 2026, Amazon expects sales of *two hundred and forty to two hundred and forty-seven billion dollars*. That would be its biggest quarter ever."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Amazon money machine", ["Sell almost everything, at thin margins", "Charge other sellers to use the road", "Lock shoppers in with Prime", "Sell ads where people already buy", "Rent the computers: AWS makes the profit"]),
+      t="Sell almost everything at thin margins. Charge millions of other sellers to use the road. Lock shoppers in with Prime. Sell ads right where people buy. And rent out the computers, because that is where most of the profit lives."),
+ dict(v=("quote", "Amazon looks like a shop. It earns like a landlord.", ""),
+      t="It started in a garage selling books. Today the shop is the part you see, but the cloud and the ads are the part that pays. The question now: will Amazon's giant *AI bet* pay off like the last ones did?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Amazon. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
