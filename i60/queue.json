@@ -367,8 +367,9 @@
  {
   "slug": "s052-ssd",
   "topic": "SSD",
-  "status": "doing",
-  "publish_at": "2027-01-12T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-12T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/eba78b7a6682474901c7a0897003741f040213fe/i60/up/s052-ssd.mp4"
  },
  {
   "slug": "s053-computer-cpu",
