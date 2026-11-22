@@ -137,8 +137,9 @@
  {
   "slug": "s020-car-differential",
   "topic": "Car differential",
-  "status": "doing",
-  "publish_at": "2026-12-11T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-11T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/1d33f7e9cbee3abc1638de13b7ef28db0a1f5b5f/i60/up/s020-car-differential.mp4"
  },
  {
   "slug": "s021-turbocharger",
