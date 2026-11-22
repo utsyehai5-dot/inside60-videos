@@ -1,0 +1,14 @@
+{
+ "title": "How a Speaker Works in 60 Seconds 🔊🧲 #shorts",
+ "description": "A speaker turns electric current into moving air. The music signal flows through a voice coil sitting inside a strong magnet, so the coil is pushed out and pulled back as the current flips, and the cone glued to it pumps the air into pressure waves your ears hear as sound. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#speaker #howitworks #shorts",
+ "tags": ["speaker", "how a speaker works", "loudspeaker", "voice coil", "electromagnet", "sound waves", "audio", "physics", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "To play the note *A*, a speaker cone moves back and forth *440* times every second.", "stat": "440", "statsub": "TIMES PER SECOND"},
+  {"label": "Signal", "text": "Music arrives as an electric *current* that flips direction, matching the shape of the *sound wave*."},
+  {"label": "Coil", "text": "That current flows through a *voice coil*, which sits in the gap of a strong *magnet*."},
+  {"label": "Push & pull", "text": "The coil becomes an *electromagnet*. It's pushed out, then pulled back in, as the current *flips*."},
+  {"label": "Cone", "text": "The coil is glued to the *cone*, so the cone pumps the air like a *piston*."},
+  {"label": "Air", "text": "That makes *pressure waves*. We hear them from about 20 to *20,000* times a second."},
+  {"label": "Recap", "text": "Current, magnet, *air*. Follow Inside 60 for more."}
+ ]
+}
