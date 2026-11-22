@@ -1,0 +1,51 @@
+{
+ "title": "How an Optical Mouse Works in 60 Seconds 🖱️📸 #shorts",
+ "description": "An optical mouse is really a tiny high-speed camera. An LED lights up the desk at a low angle, a small image sensor snaps over a thousand pictures of the surface texture every second, and a processor compares each frame with the last to work out how far and in which direction you moved. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#mouse #computer #howitworks",
+ "tags": [
+  "optical mouse",
+  "how a mouse works",
+  "computer mouse",
+  "image sensor",
+  "led",
+  "digital signal processor",
+  "cursor",
+  "computer hardware",
+  "technology",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "An optical mouse snaps over a *thousand* pictures of your desk every second.",
+   "stat": "1,500",
+   "statsub": "PICTURES PER SECOND"
+  },
+  {
+   "label": "LED",
+   "text": "Underneath, a red *LED* shines across the desk at a *low angle*, so tiny bumps cast shadows."
+  },
+  {
+   "label": "Camera",
+   "text": "A tiny *camera sensor* behind a lens captures those bumps and the *texture* of the surface."
+  },
+  {
+   "label": "Compare",
+   "text": "A built in *processor* compares each picture with the *last one*."
+  },
+  {
+   "label": "Motion",
+   "text": "From how the texture *shifted*, it works out the *direction* and distance you moved."
+  },
+  {
+   "label": "Cursor",
+   "text": "Those moves are sent to the computer, and your *cursor* glides across the screen to match."
+  },
+  {
+   "label": "Recap",
+   "text": "Light, snap, *compare*. Follow Inside 60 for more."
+  }
+ ]
+}
