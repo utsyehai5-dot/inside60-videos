@@ -95,19 +95,19 @@
  {
   "slug": "s014-solar-panel",
   "topic": "Solar panel",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2026-12-05T17:05:00Z"
  },
  {
   "slug": "s015-wind-turbine",
   "topic": "Wind turbine",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2026-12-06T17:05:00Z"
  },
  {
   "slug": "s016-hydroelectric-dam",
   "topic": "Hydroelectric dam",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2026-12-07T17:05:00Z"
  },
  {
