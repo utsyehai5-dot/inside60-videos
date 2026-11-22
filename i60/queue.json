@@ -248,8 +248,9 @@
  {
   "slug": "s035-lock-and-key",
   "topic": "Lock and key",
-  "status": "doing",
-  "publish_at": "2026-12-26T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-26T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/b70edc8f03c5f943bb94a9d96ebaa4668d380671/i60/up/s035-lock-and-key.mp4"
  },
  {
   "slug": "s036-mechanical-watch",
