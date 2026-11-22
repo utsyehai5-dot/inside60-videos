@@ -1,0 +1,14 @@
+{
+ "title": "How an Electric Car Works in 60 Seconds 🔋⚡ #shorts",
+ "description": "A typical electric car turns about 87 to 91 percent of its battery energy into motion, compared with about 30 percent for a gasoline car. A big battery feeds an inverter, the inverter powers the motor, and when you slow down the motor charges the battery again. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#electriccar #howitworks #shorts",
+ "tags": ["electric car", "how an electric car works", "EV", "battery pack", "inverter", "electric motor", "regenerative braking", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Efficiency", "text": "A typical electric car turns about *90 percent* of its battery energy into motion. A gas car manages about 30.", "stat": "87–91%", "statsub": "EFFICIENT (GAS ≈ 30%)"},
+  {"label": "Battery", "text": "Under the floor sits a huge *battery pack*, built from hundreds or even thousands of cells."},
+  {"label": "Inverter", "text": "The battery gives *direct current*. An inverter flips it into alternating current for the motor."},
+  {"label": "Motor", "text": "In the *motor*, that current makes a spinning magnetic field that drags the rotor around."},
+  {"label": "One Gear", "text": "Most electric cars use just *one gear* to send that spin to the wheels."},
+  {"label": "Regen", "text": "Lift off the pedal and the motor becomes a *generator*, charging the battery as you slow down."},
+  {"label": "Recap", "text": "Battery, inverter, *motor*. Follow Inside 60 for more."}
+ ]
+}
