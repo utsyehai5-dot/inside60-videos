@@ -158,8 +158,10 @@
  {
   "slug": "s023-hybrid-car",
   "topic": "Hybrid car",
-  "status": "doing",
-  "publish_at": "2026-12-14T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-14T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/713d80d9c3c7a21de72d57624db27335da7bdbc5/i60/up/s023-hybrid-car.mp4",
+  "last_error": null
  },
  {
   "slug": "s024-spark-plug",
