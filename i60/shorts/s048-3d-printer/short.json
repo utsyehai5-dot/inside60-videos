@@ -1,0 +1,14 @@
+{
+ "title": "How a 3D Printer Works in 60 Seconds 🖨️🧱 #shorts",
+ "description": "A 3D printer builds objects one thin slice at a time. Plastic filament is fed into a heated nozzle that melts it, the nozzle traces each layer, and every new layer fuses to the one below as it cools. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#3dprinting #3dprinter #howitworks",
+ "tags": ["3d printer", "how 3d printers work", "3d printing", "fdm", "filament", "pla", "additive manufacturing", "maker", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "The first 3D printer was invented back in *1984*, and now people print *at home*.", "stat": "1984", "statsub": "FIRST 3D PRINTER"},
+  {"label": "Filament", "text": "A spool feeds a thin *plastic thread*, called *filament*, into the printer."},
+  {"label": "Hot end", "text": "A *heated nozzle* melts the plastic, like a super precise *hot glue gun*."},
+  {"label": "Trace", "text": "The nozzle glides around, drawing one *thin slice* of the object."},
+  {"label": "Layers", "text": "Then it steps up a hair and draws the *next layer* right on top."},
+  {"label": "Fuse", "text": "As the plastic *cools*, each layer fuses to the one below, *hundreds* of times over."},
+  {"label": "Recap", "text": "Melt, trace, *stack*. Follow Inside 60 for more."}
+ ]
+}
