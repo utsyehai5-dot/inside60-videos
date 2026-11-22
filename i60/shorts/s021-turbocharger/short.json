@@ -1,0 +1,14 @@
+{
+ "title": "How a Turbocharger Works in 60 Seconds 🌀🔥 #shorts",
+ "description": "A turbo spins up to around 150,000 times a minute using exhaust gas your engine would throw away. The exhaust drives a turbine, a shaft spins a compressor, and an intercooler cools the squeezed air so the engine can burn more fuel. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#turbo #howitworks #shorts",
+ "tags": ["turbocharger", "how a turbo works", "turbo", "turbine", "compressor", "intercooler", "boost", "how it works", "car engine", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Wasted Heat", "text": "A turbo can spin up to *150,000 times* a minute, powered by gas your engine throws away.", "stat": "150,000", "statsub": "RPM"},
+  {"label": "Exhaust", "text": "Hot *exhaust* gas rushes out of the engine and into the turbo."},
+  {"label": "Turbine", "text": "It blasts a *turbine* wheel and spins it incredibly fast."},
+  {"label": "Compressor", "text": "A shaft links it to a *compressor* wheel, which sucks in fresh air and squeezes it."},
+  {"label": "Intercooler", "text": "Squeezed air gets hot, so an *intercooler* cools it, packing in even more oxygen."},
+  {"label": "More Power", "text": "More air lets the engine burn more fuel, so a *small engine* makes big power."},
+  {"label": "Recap", "text": "Waste gas, more *power*. Follow Inside 60 for more."}
+ ]
+}
