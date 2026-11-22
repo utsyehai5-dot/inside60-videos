@@ -1,0 +1,51 @@
+{
+ "title": "How 3D Face Unlock Works in 60 Seconds 🙂🔦 #shorts",
+ "description": "3D face unlock lights your face with invisible infrared, projects over 30,000 infrared dots, and reads how they land with an infrared camera. That becomes a 3D depth map, so a flat photo can't fool it, and a neural network compares it with your saved face. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#faceunlock #smartphone #howitworks",
+ "tags": [
+  "face unlock",
+  "3d face recognition",
+  "how face unlock works",
+  "infrared",
+  "dot projector",
+  "depth map",
+  "biometrics",
+  "smartphone",
+  "technology",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "Some phones unlock by shining over *30,000* invisible dots on your face.",
+   "stat": "30,000",
+   "statsub": "INFRARED DOTS"
+  },
+  {
+   "label": "Flood",
+   "text": "First, a *flood light* bathes your face in invisible *infrared*, so it even works in the dark."
+  },
+  {
+   "label": "Dots",
+   "text": "Then a *dot projector* beams a pattern of thousands of infrared dots onto your face."
+  },
+  {
+   "label": "Camera",
+   "text": "An *infrared camera* sees how the dots shift and spread over your nose, cheeks and eyes."
+  },
+  {
+   "label": "Depth",
+   "text": "A chip turns that into a *3D depth map*, so a flat *photo* can't fool it."
+  },
+  {
+   "label": "Match",
+   "text": "A neural network compares it with your saved face. A stranger's odds are about *one in a million*."
+  },
+  {
+   "label": "Recap",
+   "text": "Light, dots, *depth*. Follow Inside 60 for more."
+  }
+ ]
+}
