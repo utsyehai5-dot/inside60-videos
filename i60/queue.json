@@ -451,8 +451,9 @@
  {
   "slug": "s064-water-treatment-plant",
   "topic": "Water treatment plant",
-  "status": "doing",
-  "publish_at": "2027-01-24T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-24T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/9fe87533079df6e5462f83735f5e2c265933390e/i60/up/s064-water-treatment-plant.mp4"
  },
  {
   "slug": "s065-sewing-machine",
