@@ -310,7 +310,7 @@ def v_bars(d, t, title, rows):
     mx = max(r[1] for r in rows)
     for i, (lab, val, disp) in enumerate(rows):
         b = seg(t, .4 + i * .6, 1.0)
-        y = 400 + i * 190
+        y = 400 + i * (190 if len(rows) <= 3 else 140)  # 4 rows: keep clear of captions
         d.text((200, y), lab, font=F(FB, 44), fill=A(GREY, min(1, b * 2)), anchor="lm")
         wmax = 1100
         w = max(8, wmax * val / mx) * b

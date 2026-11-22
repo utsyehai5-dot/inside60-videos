@@ -1,0 +1,107 @@
+# Money Machine Files — Ep 8: How Zara Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "€39.9 BILLION", "Inditex sales, fiscal 2025"),
+      t="Last year, the company behind Zara sold almost *forty billion euros* worth of clothes. That is more than one hundred million euros, every single day."),
+ dict(v=("quote", "Zara almost never advertises. So how does it sell so much?", ""),
+      t="But here is the strange part. Zara has a long-standing policy of spending next to nothing on traditional advertising. No big TV campaigns, no celebrity faces. So how does Zara really make its money? And why did its owner earn a profit of more than *six billion euros*?"),
+ dict(v=("brand", "FILE #008  ·  ZARA"),
+      t="This is the money machine behind Zara. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "The Delivery Boy"),
+      t="Chapter one. The delivery boy."),
+ dict(v=("timeline", "1950", "A 14-year-old starts work at a shirt shop"), photo="A Coruna Spain harbour city",
+      t="The story starts in A Coruña, a port city in the far north west of Spain. Around 1950, a fourteen-year-old called *Amancio Ortega* left school and took a job as a delivery boy at a shirt shop in the city."),
+ dict(v=("timeline", "1963", "Ortega starts making clothes: GOA"), photo="sewing machines textile workshop",
+      t="He learned the trade from the inside. In 1963 he started his own small business, called *GOA*, which made clothes for other shops. One of its first hits was something simple: bathrobes."),
+ dict(v=("stat", "MAY 1975", "the first Zara store opens", "Juan Flórez Street, A Coruña"), photo="shop window clothing street Spain",
+      t="Then, in May 1975, he opened his own shop on Juan Flórez street in A Coruña, just a couple of hundred metres from where he had once delivered shirts. The idea was simple: fashionable clothes at *rock-bottom prices*, sold fast."),
+ dict(v=("compare", "THE PLAN", ["Call the shop 'Zorba'", "Like the famous film", "Letters already made", ""],
+         "THE PROBLEM", ["The name was taken", "Already registered", "So: a new short name", "Z-A-R-A"]),
+      t="He wanted to call it *Zorba*. But the name was already registered by someone else. So they settled on another short name that sounded similar: Zara. One of the biggest names in fashion was, in a way, an accident."),
+ dict(v=("timeline", "1985", "Inditex is created to own Zara"), photo="Porto Portugal old town river",
+      t="In 1985 a parent company, *Inditex*, was set up to run the business. Then Zara went abroad: first to Porto in neighbouring Portugal, then New York in 1989 and Paris in 1990. In 2001, Inditex listed its shares on the stock market."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "Speed Is the Product"),
+      t="Chapter two. Speed is the product."),
+ dict(v=("compare", "OLD FASHION", ["Design a year ahead", "Order huge batches", "Guess what will sell", "Discount the leftovers"],
+         "ZARA", ["Design in weeks", "Make small batches", "Watch what sells", "Make more of the winners"]),
+      t="Most clothing brands used to plan their collections many months in advance. They ordered huge batches, guessed what people would want, and cut prices on whatever was left. Zara flipped that. It makes *small batches*, watches what sells, and quickly makes more of the winners."),
+ dict(v=("stat", "2–3 WEEKS", "from design to shop shelf", "Many rivals need months"), photo="clothing rack fashion store",
+      t="The speed is the secret. Zara can take a new design from the sketch to the shop floor in as little as *two to three weeks*. Many traditional rivals needed three to six months."),
+ dict(v=("list", "How Zara stays fast", ["Design team at HQ in Arteixo, Spain", "Store managers report what sells", "About half made near Spain", "Clothes reach stores within ~48 hours"]),
+      t="How? The designers sit together at the headquarters in *Arteixo*, near A Coruña. Store managers tell them what customers are asking for. A large part of the fashion range, often reported at around half, is made close to home, in Spain, Portugal, Morocco and Turkey. And from the warehouses, most clothes reach stores within about forty-eight hours."),
+ dict(v=("bars", "Where speed comes from", [("Near Spain", 50, "~50% · fast fashion"), ("Asia & rest", 50, "~50% · basics")]),
+      t="The rest, mostly simple basics that don't go out of style, is made further away, mainly in Asia, where it is cheaper but slower. Fast pieces close by, basics far away. That *mix* is the trick."),
+ dict(v=("flow", "The Zara loop", ["New designs", "Small batches", "Fast feedback", "More winners"], ["sent in", "sell or stop", "decide"],
+         "Fewer leftovers  →  fewer discounts  →  more profit per item", "Fewer"),
+      t="That is the loop. New designs go out in small batches. Shops report back, and the winners get made again. Fewer leftovers mean fewer *discounts*, and fewer discounts mean more profit on every item sold."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "Advertising Without Ads"),
+      t="Chapter three. Advertising without ads."),
+ dict(v=("quote", "If it's here today, it may be gone next week.", ""), photo="fashion store interior shoppers",
+      t="Because each design is made in small numbers, it may be gone in a few weeks. So shoppers learn a habit: if you like it, *buy it now*. And they come back often, because there is always something new."),
+ dict(v=("compare", "MOST BRANDS", ["Big TV campaigns", "Celebrity contracts", "Billboards everywhere", "Marketing budget"],
+         "ZARA", ["Prime high-street shops", "Beautiful windows", "Constant new stock", "The shop is the ad"]),
+      t="Instead of buying ads, Zara spends its money on the *shop itself*. Big stores on the best streets in the world, with striking windows. The store is the advertisement."),
+ dict(v=("stat", "5,460", "Inditex stores at the end of 2025", "103 fewer than a year before — but more space"), photo="large shopping street storefronts",
+      t="And the group is choosing bigger stores over more stores. At the end of 2025 it had *five thousand four hundred and sixty* shops across all its brands, one hundred and three fewer than a year earlier. Yet its total selling space grew by about five percent."),
+ dict(v=("stat", "160,000+", "people work for Inditex", "Designers, logistics staff and shop teams"), photo="clothing boutique interior mannequins",
+      t="All of this is run by more than *one hundred and sixty thousand* people, from designers in Arteixo to the teams in the shops. And every item now carries a small radio tag, so the company can see what is on each shelf and what has just been sold."),
+ dict(v=("stat", "€10.7 BILLION", "online sales, fiscal 2025", "Up 4.8% in a year"), photo="laptop online shopping package",
+      t="Online matters too. In fiscal 2025, Inditex sold *ten point seven billion* euros of clothing online, more than a quarter of all its sales. Zara's website even has an artificial intelligence fitting tool, which shoppers have used more than *seven million* times across forty-three markets."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "Where the Money Comes From"),
+      t="Chapter four. Where the money comes from."),
+ dict(v=("pie", "70%", "of Inditex sales came from Zara, Zara Home and Lefties"), photo="folded sweaters on shelf shop",
+      t="Inditex owns several brands, but Zara is the engine. Together with Zara Home and the budget chain Lefties, it brought in twenty-eight billion euros in fiscal 2025, about *seventy percent* of everything the group sold."),
+ dict(v=("bars", "Inditex sales by brand, FY2025 (€)", [("Zara group", 28.05, "28.1 bn"), ("Pull&Bear, Massimo Dutti, Oysho", 5.53, "5.5 bn"), ("Bershka", 3.29, "3.3 bn"), ("Stradivarius", 3.0, "3.0 bn")]),
+      t="Then come the sister brands. Bershka for teenagers, at three point three billion. Stradivarius at three billion. Pull and Bear, Massimo Dutti for a more grown-up shopper, and *Oysho*, the sportswear and loungewear brand, which grew fastest of all."),
+ dict(v=("bars", "Sales by region, FY2025 (€)", [("Rest of Europe", 20.66, "20.7 bn"), ("Americas", 7.10, "7.1 bn"), ("Spain", 6.34, "6.3 bn"), ("Asia & rest", 5.98, "6.0 bn")]),
+      t="Europe is still home turf. The rest of Europe outside Spain brought in more than twenty billion euros, half the total. The Americas added about seven billion, Spain itself six point three, and *Asia* and the rest of the world about six billion."),
+ dict(v=("stat", "58.3%", "Inditex gross margin, fiscal 2025", "€23.2 bn left after the cost of the clothes"), photo="price tags clothes hanger",
+      t="Now the most important number. After paying for the clothes themselves, Inditex kept about *fifty-eight cents* of every euro of sales. That is a gross profit of twenty-three point two billion euros. Selling at full price, not on discount, is what makes this possible."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "The Man Who Owns Most of It"),
+      t="Chapter five. The man who owns most of it."),
+ dict(v=("stat", "~59%", "of Inditex owned by its founder", "Through his own investment company"), photo="modern office building glass facade",
+      t="Here is a twist. The delivery boy from 1950 never sold most of his company. Amancio Ortega still owns roughly *fifty-nine percent* of Inditex, even though his daughter, Marta Ortega, is now the chair."),
+ dict(v=("stat", "€1.75", "dividend per share for 2025", "€1.20 ordinary + €0.55 extra"),
+      t="And Inditex shares its profits generously. For 2025 it is paying a dividend of one euro and *seventy-five cents* per share, made up of a normal dividend and a special extra one, in two payments in May and November 2026."),
+ dict(v=("stat", "€3.23 BILLION", "Ortega's dividends from Inditex in 2026", "A record — up from €3.1 bn"), photo="city skyline office towers",
+      t="For the founder, that adds up to about *three point two billion euros* in one year, a record. He invests much of it in property: office buildings in cities like London, New York and Miami. The clothes pay for the buildings."),
+ dict(v=("quote", "Fast fashion is cheap for shoppers — but not free for the planet.", ""), photo="cargo plane airport runway",
+      t="The model has critics. Making so many clothes so quickly has a cost for the environment, and moving them fast sometimes means *planes*, not ships. Reports say the group's emissions rose about ten percent in 2024. The debate about fast fashion is far from over."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Numbers Today"),
+      t="Chapter six. The numbers today."),
+ dict(v=("bars", "Inditex, fiscal 2025 (€)", [("Sales", 39.86, "39.9 bn"), ("Gross profit", 23.2, "23.2 bn"), ("EBITDA", 11.3, "11.3 bn"), ("Net profit", 6.22, "6.2 bn")]),
+      t="In the year to January 2026, Inditex's sales rose about three percent to thirty-nine point nine billion euros, or seven percent at constant exchange rates. Net profit rose almost six percent to a record *six point two billion*."),
+ dict(v=("stat", "€19.8 BILLION", "sales, first half of 2026", "Up 7.6% · net profit €2.98 bn, up 6.8%"),
+      t="And 2026 started even faster. In the six months to July, sales grew seven point six percent to *nineteen point eight billion* euros, and net profit reached almost three billion."),
+ dict(v=("stat", "+9%", "sales growth, 1 Aug – 7 Sep 2026", "The second half started strong"),
+      t="And the momentum continued. In the first weeks of August and September 2026, sales were up *nine percent* at constant exchange rates. New flagship Zara stores opened in places like London's Bond Street, Seoul and Mexico."),
+ dict(v=("compare", "SLOWEST", ["Zara group", "+4.8% in H1 2026", "€13.8 bn", ""],
+         "FASTEST", ["Oysho", "+21.3% in H1 2026", "€0.47 bn", ""]),
+      t="But look closer. The big engine, Zara, grew the slowest of all the brands, about five percent. The smaller brands raced ahead. Oysho grew *twenty-one percent*, and Stradivarius and Bershka both grew more than sixteen percent."),
+ dict(v=("stat", "~€11 BILLION", "net cash at the end of fiscal 2025", "Plus about €2.3 bn of planned investment in 2026"), photo="warehouse logistics boxes conveyor",
+      t="The machine also sits on a huge pile of money, with about *eleven billion euros* of net cash. In 2026 it plans to invest around two point three billion euros, and to grow its selling space by about five percent again."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Zara money machine", ["Design to shelf in weeks", "Small batches, fewer discounts", "The store is the advert", "Zara brings 70% of sales", "58% gross margin"]),
+      t="Design new clothes and get them to the shops in weeks. Make small batches, so you rarely need to discount. Let the store be the advert. Earn seventy percent of the money from Zara. And keep about fifty-eight cents of every euro after the cost of the clothes."),
+ dict(v=("quote", "Other brands sell clothes. Zara sells 'new'.", ""),
+      t="It started with a delivery boy, a shop in A Coruña and a name that was already taken. Today it sells clothes in more than ninety countries. And the question for the next few years is simple: can Zara stay *fast* enough to keep its customers coming back?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Zara. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
