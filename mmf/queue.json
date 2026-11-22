@@ -85,12 +85,18 @@
  {
   "slug": "ep06-netflix",
   "company": "Netflix",
-  "status": "doing",
+  "status": "ready",
   "publish_at": "2026-12-26T17:00:00Z",
   "short_dates": [
    "2026-12-29T17:00:00Z",
    "2026-12-31T17:00:00Z"
-  ]
+  ],
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix.mp4",
+  "short_urls": [
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_short0.mp4",
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_short1.mp4"
+  ],
+  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_thumb.png"
  },
  {
   "slug": "ep07-nike",
