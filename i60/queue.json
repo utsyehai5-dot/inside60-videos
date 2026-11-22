@@ -381,8 +381,9 @@
  {
   "slug": "s054-keyboard",
   "topic": "Keyboard",
-  "status": "doing",
-  "publish_at": "2027-01-14T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-14T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fd74d3fc211facf3ac8e526ce6f53cb3b40419d8/i60/up/s054-keyboard.mp4"
  },
  {
   "slug": "s055-computer-mouse--optical",
