@@ -1,0 +1,14 @@
+{
+ "title": "How Bicycle Gears Work in 60 Seconds 🚲⚙️ #shorts",
+ "description": "Bike gears trade speed for force. A big rear cog makes climbing easy, a small rear cog turns every pedal stroke into several wheel turns. The derailleur simply pushes the chain sideways from one cog to the next. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#bicycle #howitworks #shorts",
+ "tags": ["bicycle gears", "how bike gears work", "derailleur", "gear ratio", "cassette", "chainring", "cycling", "bike", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "In top gear, one turn of the pedals can spin your back wheel *more than four times*."},
+  {"label": "Chain", "text": "Your pedals turn the front *chainring*. The chain carries that pull to a cog on the back wheel."},
+  {"label": "Low gear", "text": "On the *biggest* rear cog, the wheel turns slowly but pedaling feels easy. Perfect for hills."},
+  {"label": "High gear", "text": "On the *smallest* cog, each pedal stroke spins the wheel many times. Harder to push, but fast."},
+  {"label": "Derailleur", "text": "When you shift, the *derailleur* nudges the chain sideways onto the next cog, while a spring keeps it tight."},
+  {"label": "Ratio", "text": "Count the teeth. *50 teeth* in front and 11 in back means about four and a half wheel turns per pedal turn.", "stat": "50 ÷ 11 ≈ 4.5", "statsub": "WHEEL TURNS PER PEDAL TURN"},
+  {"label": "Recap", "text": "Big cog climbs, small cog *flies*. Follow Inside 60 for more."}
+ ]
+}
