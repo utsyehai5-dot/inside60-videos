@@ -239,8 +239,9 @@
  {
   "slug": "s034-zipper",
   "topic": "Zipper",
-  "status": "doing",
-  "publish_at": "2026-12-25T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-25T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/6ac9c6907188a733f2ed207bd15fdcff38fb1554/i60/up/s034-zipper.mp4"
  },
  {
   "slug": "s035-lock-and-key",
