@@ -165,12 +165,18 @@
  {
   "slug": "ep11-spotify",
   "company": "Spotify",
-  "status": "doing",
+  "status": "ready",
   "publish_at": "2027-01-30T17:00:00Z",
   "short_dates": [
    "2027-02-02T17:00:00Z",
    "2027-02-04T17:00:00Z"
-  ]
+  ],
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify.mp4",
+  "short_urls": [
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_short0.mp4",
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_short1.mp4"
+  ],
+  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_thumb.png"
  },
  {
   "slug": "ep12-nintendo",
