@@ -1,0 +1,14 @@
+{
+ "title": "How a Keyboard Works in 60 Seconds ⌨️⚡ #shorts",
+ "description": "Your keyboard doesn't give every key its own wire. The keys sit on a grid of rows and columns, and pressing one squashes a rubber dome that pushes two membrane layers together, connecting one row to one column. A tiny controller scans the grid row by row many times a second, finds the crossing, and sends that key's code to your computer. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#keyboard #computer #howitworks",
+ "tags": ["keyboard", "how a keyboard works", "keyboard matrix", "membrane keyboard", "rubber dome", "key switch", "scan code", "computer hardware", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Your keyboard doesn't give every key its own wire. It uses a *grid*.", "stat": "1 GRID", "statsub": "FOR 100+ KEYS"},
+  {"label": "Matrix", "text": "Under the keys, traces run in *rows* and *columns*, and every key sits where two of them cross."},
+  {"label": "Press", "text": "Press a key, and a *rubber dome* squashes, pushing two thin *membrane* layers together."},
+  {"label": "Contact", "text": "Their printed pads touch, *connecting* that row to that column."},
+  {"label": "Scan", "text": "A tiny *controller* powers one row at a time, many times a second, and checks which *column* lights up."},
+  {"label": "Send", "text": "It turns that crossing into a *key code* and sends it to your *computer*."},
+  {"label": "Recap", "text": "Press, connect, *scan*. Follow Inside 60 for more."}
+ ]
+}
