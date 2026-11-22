@@ -261,8 +261,9 @@
  {
   "slug": "s037-quartz-watch",
   "topic": "Quartz watch",
-  "status": "doing",
-  "publish_at": "2026-12-28T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-28T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fceabf3cd435c9de36a72d2d754ff3b1b05304ac/i60/up/s037-quartz-watch.mp4"
  },
  {
   "slug": "s038-camera-lens",
