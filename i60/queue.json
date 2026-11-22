@@ -353,8 +353,9 @@
  {
   "slug": "s050-laser-printer",
   "topic": "Laser printer",
-  "status": "doing",
-  "publish_at": "2027-01-10T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-10T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/8cfa33788531ab872955af34a76e4b560cc41c7d/i60/up/s050-laser-printer.mp4"
  },
  {
   "slug": "s051-hard-drive",
