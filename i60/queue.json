@@ -206,8 +206,9 @@
  {
   "slug": "s029-rocket-engine",
   "topic": "Rocket engine",
-  "status": "doing",
-  "publish_at": "2026-12-20T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-20T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/7586029056510b2c3e677cf24296e2af6f7261e7/i60/up/s029-rocket-engine.mp4"
  },
  {
   "slug": "s030-submarine",
