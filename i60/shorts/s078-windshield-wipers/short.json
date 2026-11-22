@@ -1,0 +1,14 @@
+{
+ "title": "How Windshield Wipers Work in 60 Seconds 🌧️🚗 #shorts",
+ "description": "Windshield wipers were patented by Mary Anderson back in 1903. Today one electric motor drives a worm gear that slows it down and multiplies its force, and a linkage turns that spinning into the back-and-forth sweep of both arms. Rain-sensing wipers shine infrared light into the glass and start wiping when raindrops scatter it away. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#wipers #cars #howitworks",
+ "tags": ["windshield wipers", "how wipers work", "wiper motor", "worm gear", "rain sensor", "car", "cars", "engineering", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Windshield wipers were patented by *Mary Anderson* way back in *1903*.", "stat": "1903", "statsub": "FIRST WIPER PATENT"},
+  {"label": "Motor", "text": "Today a single *electric motor* sits under the hood, spinning fast."},
+  {"label": "Worm gear", "text": "A *worm gear* slows that spin down and *multiplies the force*."},
+  {"label": "Linkage", "text": "A crank and *linkage rods* turn the circle into a *back-and-forth* swing."},
+  {"label": "Blades", "text": "Both arms sweep together, pressing *rubber blades* that squeegee the water off."},
+  {"label": "Rain sensor", "text": "Rain-sensing wipers shine *infrared light* into the glass. Raindrops *scatter it*, so the wipers start."},
+  {"label": "Recap", "text": "Spin, slow, *sweep*. Follow Inside 60 for more."}
+ ]
+}
