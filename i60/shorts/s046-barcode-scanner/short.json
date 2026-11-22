@@ -1,0 +1,14 @@
+{
+ "title": "How a Barcode Scanner Works in 60 Seconds 🛒🔴 #shorts",
+ "description": "A barcode scanner reads stripes with light. A red beam sweeps across the code, black bars soak up the light and white gaps bounce it back, and a sensor turns that flicker into numbers. The checkout looks up the number to find the product and its price. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#barcode #scanner #howitworks",
+ "tags": ["barcode scanner", "how barcode scanners work", "barcode", "upc code", "laser scanner", "checkout", "supermarket", "photodiode", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "The very first barcode scan, in *1974*, was a pack of *chewing gum*.", "stat": "1974", "statsub": "FIRST SCAN"},
+  {"label": "Beam", "text": "The scanner sweeps a thin *red beam* of light across the stripes."},
+  {"label": "Bars", "text": "*Black bars* soak up the light, and *white gaps* bounce it back."},
+  {"label": "Sensor", "text": "A light *sensor* sees that flicker and turns it into an *electric signal*."},
+  {"label": "Numbers", "text": "The widths of bars and gaps spell out *12 digits*, the product's *code*."},
+  {"label": "Price", "text": "The checkout looks up that code, finds the *price*, and *beeps*."},
+  {"label": "Recap", "text": "Light, stripes, *numbers*. Follow Inside 60 for more."}
+ ]
+}
