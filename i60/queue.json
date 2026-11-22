@@ -388,8 +388,9 @@
  {
   "slug": "s055-computer-mouse--optical",
   "topic": "Computer mouse (optical)",
-  "status": "doing",
-  "publish_at": "2027-01-15T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-15T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/cdab002e9e3ff10dbdd68981e2e0258628cb131d/i60/up/s055-computer-mouse--optical.mp4"
  },
  {
   "slug": "s056-touch-id-fingerprint-sensor",
