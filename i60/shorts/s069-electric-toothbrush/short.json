@@ -1,0 +1,14 @@
+{
+ "title": "How an Electric Toothbrush Works in 60 Seconds 🪥⚡ #shorts",
+ "description": "A sonic electric toothbrush uses a tiny electromagnet to swing its brush head side to side about 31,000 times a minute. The fast motion sweeps plaque away and even pushes fluid between your teeth, and it charges through its sealed plastic case with magnetic induction. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#electrictoothbrush #science #howitworks",
+ "tags": ["electric toothbrush", "how an electric toothbrush works", "sonic toothbrush", "electromagnet", "inductive charging", "oral care", "dental hygiene", "engineering", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A sonic toothbrush swings its bristles about *31,000 times* every minute.", "stat": "31,000", "statsub": "STROKES PER MINUTE"},
+  {"label": "Battery", "text": "Inside the handle, a *rechargeable battery* powers a tiny circuit board."},
+  {"label": "Electromagnet", "text": "The circuit flips current through a *coil* back and forth, hundreds of times a second."},
+  {"label": "Vibration", "text": "Magnets on the shaft get pushed and pulled, so the brush head *swings side to side*."},
+  {"label": "Cleaning", "text": "Fast bristles sweep away *plaque* and even push fluid *between teeth*."},
+  {"label": "Charging", "text": "It charges with no metal contacts. A coil in the base sends power by *magnetic induction*."},
+  {"label": "Recap", "text": "Coil, magnet, *vibration*. Follow Inside 60 for more."}
+ ]
+}
