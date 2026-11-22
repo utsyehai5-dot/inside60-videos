@@ -1,0 +1,14 @@
+{
+ "title": "How a Hard Drive Works in 60 Seconds 💽🧲 #shorts",
+ "description": "A hard drive stores your files as tiny magnetic patches on spinning metal platters. A read/write head floats just nanometers above the surface on a cushion of air, flipping or sensing north and south magnetic regions that mean 1 and 0, while a magnet-driven arm swings it to the right track. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#harddrive #hdd #howitworks",
+ "tags": ["hard drive", "how hard drives work", "hdd", "hard disk", "platter", "read write head", "magnetic storage", "computer storage", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Inside many hard drives, metal platters spin *7,200 times* every minute.", "stat": "7,200", "statsub": "SPINS PER MINUTE"},
+  {"label": "Platters", "text": "Each *platter* is coated with a thin *magnetic* layer."},
+  {"label": "Head", "text": "A tiny *head* floats just *nanometers* above it, riding a cushion of air."},
+  {"label": "Bits", "text": "Your data is millions of *magnetized* patches. North or south means *1 or 0*."},
+  {"label": "Arm", "text": "A *magnet-driven arm* swings the head to the right *track* in milliseconds."},
+  {"label": "Read", "text": "To read, the head *senses* each patch's field and turns it into a *signal*."},
+  {"label": "Recap", "text": "Spin, float, *magnetize*. Follow Inside 60 for more."}
+ ]
+}
