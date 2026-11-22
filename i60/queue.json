@@ -325,8 +325,9 @@
  {
   "slug": "s046-barcode-scanner",
   "topic": "Barcode scanner",
-  "status": "doing",
-  "publish_at": "2027-01-06T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-06T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/08be4676aa6cf9ed7f9ae04316edfdf9cb559aaa/i60/up/s046-barcode-scanner.mp4"
  },
  {
   "slug": "s047-nfc-tags",
