@@ -1,0 +1,14 @@
+{
+ "title": "How a Lithium-Ion Battery Works in 60 Seconds 🔋⚡ #shorts",
+ "description": "Your phone battery works by moving lithium ions back and forth. On discharge, ions travel from the graphite anode through the electrolyte to the cathode, while electrons take the outside path and power your device. Charging pushes them back. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#battery #howitworks #shorts",
+ "tags": ["lithium ion battery", "how batteries work", "battery", "anode", "cathode", "electrolyte", "how it works", "chemistry", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "Your phone battery is just *lithium ions* moving back and forth between two sides."},
+  {"label": "Inside", "text": "Two electrodes: a graphite *anode* and a metal oxide *cathode*, soaked in electrolyte."},
+  {"label": "Separator", "text": "A thin *separator* sits between them. Ions can pass, but electrons are blocked."},
+  {"label": "Discharge", "text": "When you use your phone, ions move from the anode to the *cathode* through the electrolyte."},
+  {"label": "Power", "text": "The electrons must take the outside path, and that flow *powers* your device."},
+  {"label": "Charging", "text": "Plug it in, and the charger pushes ions *back* into the graphite, ready again."},
+  {"label": "Recap", "text": "Ions inside, electrons *outside*. Follow Inside 60 for more."}
+ ]
+}
