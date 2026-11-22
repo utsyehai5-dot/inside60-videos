@@ -1,0 +1,14 @@
+{
+ "title": "How a CPU Works in 60 Seconds 🧠⚡ #shorts",
+ "description": "A CPU is billions of tiny transistor switches running one loop over and over: fetch an instruction from memory, decode what it means, and execute it in the arithmetic logic unit. At 4 GHz that loop's clock ticks about 4 billion times every second, while cache keeps data close and multiple cores work side by side. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#cpu #processor #howitworks",
+ "tags": ["cpu", "how a cpu works", "processor", "fetch decode execute", "transistors", "clock speed", "alu", "cache", "cpu cores", "computer science", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A 4 gigahertz CPU *ticks* about four *billion* times every second.", "stat": "4 BILLION", "statsub": "TICKS PER SECOND"},
+  {"label": "Transistors", "text": "It's built from *billions* of tiny *transistors*, switches that flip on and off with no moving parts."},
+  {"label": "Fetch", "text": "On each cycle, the *control unit* fetches the next *instruction* from memory."},
+  {"label": "Decode", "text": "Then it *decodes* it, working out the job: add, compare, or move data."},
+  {"label": "Execute", "text": "The *ALU* does the math, and the result lands in super fast *registers*."},
+  {"label": "Cores", "text": "Nearby *cache* keeps data close, and several *cores* run this loop side by side."},
+  {"label": "Recap", "text": "Fetch, decode, *execute*. Follow Inside 60 for more."}
+ ]
+}
