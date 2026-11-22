@@ -254,8 +254,9 @@
  {
   "slug": "s036-mechanical-watch",
   "topic": "Mechanical watch",
-  "status": "doing",
-  "publish_at": "2026-12-27T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-27T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/acfaa165640d205c999955ba5787ee24ecbee5fd/i60/up/s036-mechanical-watch.mp4"
  },
  {
   "slug": "s037-quartz-watch",
