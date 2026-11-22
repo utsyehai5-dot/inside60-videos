@@ -1,0 +1,14 @@
+{
+ "title": "How Noise Cancelling Headphones Work in 60 Seconds 🎧🤫 #shorts",
+ "description": "Noise cancelling headphones fight sound with sound. Small microphones on the ear cups listen to the noise around you, a chip creates the exact opposite wave, and the speaker plays it so the two waves cancel out. It works best on steady low sounds like engine hum. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#noisecancelling #headphones #howitworks",
+ "tags": ["noise cancelling headphones", "how noise cancelling works", "active noise cancellation", "ANC", "headphones", "sound waves", "destructive interference", "audio", "physics", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Noise cancelling headphones fight sound with *more sound*."},
+  {"label": "Listen", "text": "Tiny *microphones* on each ear cup keep listening to the *noise* around you."},
+  {"label": "Chip", "text": "A *chip* reads that noise wave *thousands* of times every second."},
+  {"label": "Flip", "text": "It builds the exact *opposite* wave, flipped *upside down*.", "stat": "180°", "statsub": "OUT OF PHASE"},
+  {"label": "Cancel", "text": "The speaker plays it. Peak meets trough, and the two waves *cancel out*."},
+  {"label": "Best at", "text": "It works best on steady, *low* sounds like engine *hum*. The soft cushions block the rest."},
+  {"label": "Recap", "text": "Listen, flip, *silence*. Follow Inside 60 for more."}
+ ]
+}
