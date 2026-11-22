@@ -458,8 +458,9 @@
  {
   "slug": "s065-sewing-machine",
   "topic": "Sewing machine",
-  "status": "doing",
-  "publish_at": "2027-01-25T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-25T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/7eac64eda9660cdc7fae7cb12da57e018e901f64/i60/up/s065-sewing-machine.mp4"
  },
  {
   "slug": "s066-pressure-cooker",
