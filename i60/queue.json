@@ -130,8 +130,9 @@
  {
   "slug": "s019-car-gearbox",
   "topic": "Car gearbox",
-  "status": "doing",
-  "publish_at": "2026-12-10T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-10T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0fcd3a3eef9ca0f4b94f9505df772b4d46449498/i60/up/s019-car-gearbox.mp4"
  },
  {
   "slug": "s020-car-differential",
