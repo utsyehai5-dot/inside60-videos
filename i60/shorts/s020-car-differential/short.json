@@ -1,0 +1,14 @@
+{
+ "title": "How a Car Differential Works in 60 Seconds ⚙️🚗 #shorts",
+ "description": "In every turn, your outer wheels travel farther than the inner ones. The differential lets them spin at different speeds: a pinion turns a big ring gear, and little spider gears inside share the power between the two wheels. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#differential #howitworks #shorts",
+ "tags": ["car differential", "how a differential works", "spider gears", "ring and pinion", "open differential", "axle", "how it works", "car mechanics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Problem", "text": "In every turn, your *outer wheels* travel farther than the inner ones."},
+  {"label": "Locked Axle", "text": "If both wheels were locked together, one tire would have to *skid* in every corner."},
+  {"label": "Ring & Pinion", "text": "So the driveshaft spins a small *pinion*, which turns a big *ring gear* around the axle."},
+  {"label": "Spider Gears", "text": "The ring gear carries a cage with little *spider gears*, which push on both axle gears."},
+  {"label": "Straight", "text": "Driving straight, the spider gears don't spin. Everything turns as *one piece*."},
+  {"label": "Turning", "text": "In a turn, the spider gears *rotate*, letting the outer wheel speed up as the inner one slows down."},
+  {"label": "Recap", "text": "Different speeds, same *push*. Follow Inside 60 for more."}
+ ]
+}
