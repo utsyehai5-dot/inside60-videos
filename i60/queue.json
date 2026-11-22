@@ -541,8 +541,9 @@
  {
   "slug": "s077-abs-brakes",
   "topic": "ABS brakes",
-  "status": "doing",
-  "publish_at": "2027-02-06T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-06T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/2ea06cc39b3ab8d82bc96603728dab9e5d4d95f9/i60/up/s077-abs-brakes.mp4"
  },
  {
   "slug": "s078-windshield-wipers",
