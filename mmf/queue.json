@@ -149,12 +149,18 @@
  {
   "slug": "ep10-red",
   "company": "Red Bull",
-  "status": "doing",
+  "status": "ready",
   "publish_at": "2027-01-23T17:00:00Z",
   "short_dates": [
    "2027-01-26T17:00:00Z",
    "2027-01-28T17:00:00Z"
-  ]
+  ],
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red.mp4",
+  "short_urls": [
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_short0.mp4",
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_short1.mp4"
+  ],
+  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_thumb.png"
  },
  {
   "slug": "ep11-spotify",
