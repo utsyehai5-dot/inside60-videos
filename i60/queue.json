@@ -311,8 +311,9 @@
  {
   "slug": "s044-gps",
   "topic": "GPS",
-  "status": "doing",
-  "publish_at": "2027-01-04T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-04T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0a3b0f0082e49e0e2716ab40f2815d546f030fbf/i60/up/s044-gps.mp4"
  },
  {
   "slug": "s045-fiber-optic-cable",
