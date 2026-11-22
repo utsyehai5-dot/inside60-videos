@@ -1,0 +1,14 @@
+{
+ "title": "How an Elevator Works in 60 Seconds 🛗⬆️ #shorts",
+ "description": "In most tall buildings, the elevator motor barely lifts you. The car hangs from steel ropes looped over a grooved wheel, and a hidden counterweight on the other side, about the car's weight plus 40% of its load, does most of the work. A speed governor can trip safety brakes that clamp the rails. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#elevator #howitworks #shorts",
+ "tags": ["elevator", "how elevators work", "traction elevator", "counterweight", "elevator safety", "speed governor", "lift", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "In most tall buildings, the elevator motor *barely lifts you*. A hidden partner does most of the work.", "stat": "+40%", "statsub": "OF THE LOAD"},
+  {"label": "Ropes", "text": "The car hangs from several *steel ropes*, looped over a grooved wheel called a *sheave*."},
+  {"label": "Counterweight", "text": "On the other side hangs a *counterweight*. It weighs the car, plus about 40 percent of a full load."},
+  {"label": "Motor", "text": "So the *motor* only moves the difference. It turns the sheave, and *friction* grips the ropes."},
+  {"label": "Rails", "text": "As the car rises, the counterweight drops. Both glide on steel *guide rails*."},
+  {"label": "Safety", "text": "If the car ever goes too fast, a *governor* trips *safety brakes* that clamp onto the rails."},
+  {"label": "Recap", "text": "Ropes, weight, *grip*. Follow Inside 60 for more."}
+ ]
+}
