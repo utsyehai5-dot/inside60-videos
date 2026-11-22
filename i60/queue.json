@@ -318,8 +318,9 @@
  {
   "slug": "s045-fiber-optic-cable",
   "topic": "Fiber optic cable",
-  "status": "doing",
-  "publish_at": "2027-01-05T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-05T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/9502c848c1c06ec57d340a773faecd245fbf4520/i60/up/s045-fiber-optic-cable.mp4"
  },
  {
   "slug": "s046-barcode-scanner",
