@@ -423,8 +423,9 @@
  {
   "slug": "s060-thermostat",
   "topic": "Thermostat",
-  "status": "doing",
-  "publish_at": "2027-01-20T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-20T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/6ba8215db6af5707aef4df9e5037f04f5e6665e6/i60/up/s060-thermostat.mp4"
  },
  {
   "slug": "s061-water-heater",
