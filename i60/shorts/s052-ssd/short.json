@@ -1,0 +1,14 @@
+{
+ "title": "How an SSD Works in 60 Seconds 💾⚡ #shorts",
+ "description": "An SSD stores your files with no moving parts at all. Each NAND flash cell is a transistor with a floating gate: writing pushes electrons through a thin insulator where they get trapped, and the trapped charge decides whether current can flow, which reads as a 1 or a 0, even with the power off. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#ssd #nandflash #howitworks",
+ "tags": ["ssd", "how ssd works", "solid state drive", "nand flash", "floating gate", "flash memory", "computer storage", "3d nand", "technology", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "An SSD stores all your files with *zero* moving parts.", "stat": "0", "statsub": "MOVING PARTS"},
+  {"label": "Chips", "text": "Inside are *NAND flash* chips, packed with billions of tiny *cells*."},
+  {"label": "Cell", "text": "Each cell is a *transistor* with an extra layer: a *floating gate*."},
+  {"label": "Write", "text": "To write, a voltage pushes *electrons* through a thin insulator, where they get *trapped*."},
+  {"label": "Read", "text": "Trapped charge blocks the *current*. Flow or no flow reads as *1 or 0*, even with power off."},
+  {"label": "Layers", "text": "Modern chips stack cells in *3D layers*, and a *controller* spreads writes to limit wear."},
+  {"label": "Recap", "text": "Trap, block, *read*. Follow Inside 60 for more."}
+ ]
+}
