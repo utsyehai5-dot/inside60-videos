@@ -1,0 +1,52 @@
+{
+ "title": "How an Electric Scooter Works in 60 Seconds 🛴⚡ #shorts",
+ "description": "An electric scooter stores energy in a lithium-ion battery pack in its deck. A controller sends pulses of current to a brushless hub motor hidden inside the wheel, and when you brake, regenerative braking turns the motor into a generator to send some energy back. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#electricscooter #escooter #howitworks",
+ "tags": [
+  "electric scooter",
+  "how an electric scooter works",
+  "e-scooter",
+  "hub motor",
+  "brushless motor",
+  "regenerative braking",
+  "lithium ion battery",
+  "motor controller",
+  "technology",
+  "science",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "On most electric scooters, the motor is hidden *inside the wheel*."
+  },
+  {
+   "label": "Battery",
+   "text": "A *lithium-ion pack* in the deck, often *36 volts*, stores the energy.",
+   "stat": "36 V",
+   "statsub": "COMMON BATTERY VOLTAGE"
+  },
+  {
+   "label": "Controller",
+   "text": "Press the throttle and a *controller* sends rapid pulses of *current* to the motor."
+  },
+  {
+   "label": "Hub motor",
+   "text": "Inside the hub, *electromagnets* switch on in turn, pulling a ring of *magnets* around."
+  },
+  {
+   "label": "Sensors",
+   "text": "Tiny *Hall sensors* track the magnets, so the controller knows exactly which coils to fire *next*."
+  },
+  {
+   "label": "Regen",
+   "text": "When you brake, the motor works as a *generator*, sending some energy *back to the battery*."
+  },
+  {
+   "label": "Recap",
+   "text": "Store, pulse, *spin*. Follow Inside 60 for more."
+  }
+ ]
+}
