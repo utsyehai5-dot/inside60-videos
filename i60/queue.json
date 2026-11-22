@@ -95,8 +95,9 @@
  {
   "slug": "s014-solar-panel",
   "topic": "Solar panel",
-  "status": "doing",
-  "publish_at": "2026-12-05T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-05T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/62390900314097b644bc0abe803d7a55016cb121/i60/up/s014-solar-panel.mp4"
  },
  {
   "slug": "s015-wind-turbine",
