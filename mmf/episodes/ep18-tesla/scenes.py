@@ -1,0 +1,107 @@
+# Money Machine Files — Ep 18: How Tesla Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "$94.8 BILLION", "Tesla's revenue in 2025"),
+      t="In 2025, Tesla brought in *ninety-four point eight billion dollars*. It sold one point six three million cars, and it calls itself far more than a car company."),
+ dict(v=("quote", "Tesla earns billions from cars other companies sell.", ""),
+      t="But some of Tesla's most profitable money has nothing to do with the cars it sells. Some of it comes from its rivals. And the company now says its future is robots, not cars. So how does Tesla *really* make money?"),
+ dict(v=("brand", "FILE #018  ·  TESLA"),
+      t="This is the money machine behind Tesla. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "Two Engineers and a Sports Car"),
+      t="Chapter one. Two engineers and a sports car."),
+ dict(v=("timeline", "JULY 1, 2003", "Tesla Motors is incorporated in San Carlos, California"), photo="silicon valley office park",
+      t="On July first, 2003, two engineers, *Martin Eberhard* and *Marc Tarpenning*, set up a company called Tesla Motors in San Carlos, California. Their idea: an electric car that people would actually want, powered by thousands of small laptop-style batteries."),
+ dict(v=("stat", "$6.5 MILLION", "Elon Musk's share of the $7.5 million Series A", "February 2004"), photo="electric car battery cells",
+      t="In February 2004, Tesla raised seven and a half million dollars. Six and a half million of it came from one investor, *Elon Musk*, who became chairman of the board. Later, a legal settlement allowed five people to call themselves co-founders, including Musk and engineer JB Straubel."),
+ dict(v=("timeline", "AUGUST 2, 2006", "The 'secret' Tesla master plan is published"), photo="blueprint drawings on desk",
+      t="In August 2006, the company published what it jokingly called its *secret master plan*. Step one: build an expensive sports car. Step two: use that money to build a cheaper car. Step three: use that money to build an even cheaper one."),
+ dict(v=("timeline", "FEBRUARY 2008", "First Roadster deliveries, built on a Lotus base"), photo="red electric sports car",
+      t="Step one was the *Roadster*. Tesla did not build the whole car itself. A British sports car maker, *Lotus*, supplied the body and chassis, and Tesla added the batteries and motor. Deliveries began in February 2008. In total, about two thousand four hundred and fifty were sold."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "Days From Bankruptcy"),
+      t="Chapter two. Days from bankruptcy."),
+ dict(v=("timeline", "OCTOBER 2008", "Musk becomes CEO and cuts a quarter of the staff"), photo="empty factory floor",
+      t="Then the world financial crisis hit. Tesla was burning cash, and websites were running a *death watch* on it. In October 2008, Musk took over as chief executive and let go of about a *quarter* of the staff."),
+ dict(v=("stat", "$40 MILLION", "December 2008 funding round", "It kept Tesla out of bankruptcy"), photo="calendar december winter",
+      t="By December, the money was almost gone. A last-minute round of *forty million dollars* in December 2008 kept Tesla out of bankruptcy. By then, Musk had put around seventy million dollars of his own money into the company."),
+ dict(v=("flow", "Rescued by the car industry", ["Daimler", "Tesla", "U.S. government"], ["about $50 million", "$465 million loan"],
+         "Old car makers and the government kept the start-up alive", "Tesla"),
+      t="Help then came from two unexpected places. In May 2009, the German car giant *Daimler* bought a stake of under ten percent for about fifty million dollars. And in June 2009, the U.S. Department of Energy approved *four hundred and sixty-five million dollars* of loans to develop the next car."),
+ dict(v=("timeline", "JUNE 29, 2010", "IPO at $17 a share, raising $226 million"), photo="stock market ticker board",
+      t="On June twenty-ninth, 2010, Tesla listed on the stock market at *seventeen dollars* a share and raised two hundred and twenty-six million dollars. It was the first American car maker to go public since Ford in 1956."),
+ dict(v=("stat", "$42 MILLION", "price of most of the old NUMMI car plant", "Fremont, California, 2010"), photo="large car factory building",
+      t="Then came a bargain. Toyota and General Motors had just closed their shared car plant in *Fremont*, California. Tesla agreed to buy most of it for just *forty-two million dollars*, and Toyota bought fifty million dollars of Tesla shares too. That factory still builds Teslas today."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "Cheaper and Cheaper"),
+      t="Chapter three. Cheaper and cheaper."),
+ dict(v=("timeline", "2012", "Model S deliveries begin from Fremont"), photo="modern electric sedan charging",
+      t="Step two of the plan arrived in 2012: the *Model S*, a large luxury sedan with a huge touch screen. In its last quarter of 2012, Tesla delivered about two thousand four hundred of them. In May 2013, it paid back its government loans in full, the first car company to do so."),
+ dict(v=("stat", "325,000", "Model 3 reservations in about one week", "Unveiled March 2016"), photo="line of people waiting outside store",
+      t="Step three was the *Model 3*, unveiled in March 2016. Within about a week, three hundred and twenty-five thousand people had paid a deposit for a car they could not get for years. That was free money up front, before a single car was built."),
+ dict(v=("quote", "Building the car was the easy part. Building it fast nearly broke Tesla.", ""),
+      t="But making it was a nightmare. In the fourth quarter of 2017, Tesla delivered only about fifteen hundred Model 3s, and Musk kept moving his production targets. He later called this period *production hell*."),
+ dict(v=("timeline", "JULY 1, 2020", "Tesla's value passes Toyota: $206 bn vs $202 bn"), photo="highway traffic at night",
+      t="Tesla came out the other side. From July 2019 to June 2020, it made a profit for *four quarters in a row*, a first in its history. And on July first, 2020, its stock market value passed Toyota's, becoming the most valuable car maker in the world."),
+ dict(v=("stat", "1.23 MILLION", "Model Y sales in 2023", "The world's best-selling vehicle"), photo="white electric suv parked",
+      t="The plan peaked with the *Model Y*, a small SUV built on the Model 3. In 2023, about one point two three million were sold, making it the *best-selling vehicle in the world*, ahead of the Toyota RAV4. The first electric car ever to do that."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "Selling Air"),
+      t="Chapter four. Selling air."),
+ dict(v=("flow", "The credit machine", ["Government", "Tesla", "Other car makers"], ["gives credits per EV", "buy credits to avoid fines"],
+         "Rules force car makers to sell clean cars  →  laggards pay Tesla", "Tesla"),
+      t="Here is Tesla's strangest business. Governments like California and the European Union require car makers to sell a share of clean cars. Every electric car earns *credits*. Car makers that fall short must buy credits from those with extra, or pay fines. Tesla makes only electric cars, so it always has extra."),
+ dict(v=("stat", "$2.76 BILLION", "Tesla's regulatory credit revenue in 2024", "Up 54% from $1.79 billion in 2023"), photo="paper certificates stack",
+      t="In 2024, Tesla earned *two point seven six billion dollars* just from selling these credits to rivals, up fifty-four percent in a year. Since 2017, the total passed ten billion dollars. There is no car to build, no battery, no shipping. One analyst called it *one hundred percent profit*."),
+ dict(v=("pie", "30%", "of Tesla's Q4 2024 net income was matched by credit sales"), photo="car dealership lot rows",
+      t="In the last quarter of 2024, credit sales of six hundred and ninety-two million dollars were equal to about *thirty percent* of Tesla's whole net income. A big slice of Tesla's profit was paid by the very companies trying to beat it."),
+ dict(v=("compare", "Q3 2025", ["$417 million", "regulatory credits", "Rivals still paying"], "Q3 2026", ["$113 million", "regulatory credits", "Down 73%"]),
+      t="But that river is drying up, as rivals build more electric cars of their own. In July to September 2026, Tesla's credit revenue was just *one hundred and thirteen million dollars*, down seventy-three percent from a year earlier."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "Where the Money Comes From"),
+      t="Chapter five. Where the money comes from."),
+ dict(v=("bars", "Tesla revenue, full year 2025", [("Automotive", 69.5, "$69.5 bn"), ("Energy storage & solar", 12.8, "$12.8 bn"), ("Services & other", 12.5, "$12.5 bn")]),
+      t="Look at 2025. *Cars* still brought in sixty-nine point five billion dollars, but that was down ten percent. Energy, mostly giant batteries for power grids, brought twelve point eight billion, up twenty-seven percent. And services, like charging, repairs, insurance and used cars, twelve point five billion, up nineteen percent."),
+ dict(v=("pie", "73%", "of 2025 revenue still came from selling cars"), photo="car assembly line robots",
+      t="So about *seventy-three percent* of Tesla's money still comes from selling cars. And car sales are falling. Deliveries dropped about one percent in 2024, Tesla's first ever yearly fall, and then another *nine percent* in 2025."),
+ dict(v=("stat", "46.7 GWh", "energy storage deployed in 2025", "Megapack batteries for power grids"), photo="large battery storage containers solar farm",
+      t="The quiet winner is *energy*. In 2025, Tesla installed forty-six point seven gigawatt hours of battery storage, up from the year before. Power companies and big energy users buy these giant *Megapack* batteries to store electricity for when it is needed."),
+ dict(v=("compare", "2024", ["About $7.0 bn", "operating profit", "Before the slowdown"], "2025", ["$4.4 bn", "operating profit", "Down 38%"]),
+      t="But profits are shrinking. Tesla cut prices to keep selling cars, and spent more on AI. Operating profit fell *thirty-eight percent* to four point four billion dollars. Net income fell forty-six percent to about three point eight billion."),
+ dict(v=("stat", "$28.05 BILLION", "revenue, July to September 2026", "Flat versus a year earlier"), photo="electric cars charging station row",
+      t="The latest quarter, July to September 2026, shows the same picture. Revenue was *twenty-eight point zero five billion dollars*, flat on the year. Tesla delivered about four hundred and eighty-six thousand cars, down two percent. Net income was seven hundred and eighty-seven million dollars, down forty-three percent."),
+ dict(v=("quote", "In late 2026, Tesla kept less than 3 cents of operating profit per dollar of sales.", ""),
+      t="Its operating margin was just *two point six percent*. For every dollar of sales, less than three cents became operating profit. For a company valued like a tech giant, the car business on its own looks surprisingly ordinary."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Robot Bet"),
+      t="Chapter six. The robot bet."),
+ dict(v=("stat", "1.74 MILLION", "active Full Self-Driving subscriptions", "Q3 2026, up 67%"), photo="car dashboard touchscreen night",
+      t="So where is Tesla putting its hope? Into *software*. Its driver-assist system, called Full Self-Driving, is sold as a monthly subscription or an upfront purchase. By September 2026, there were one point seven four million active subscriptions, up sixty-seven percent. Software, once written, costs almost nothing to copy."),
+ dict(v=("timeline", "JUNE 22, 2025", "Robotaxi rides start in Austin for a $4.20 flat fare"), photo="austin texas downtown street",
+      t="On June twenty-second, 2025, Tesla started its *robotaxi* service in Austin, Texas, with ten to twelve cars, a flat fare of four dollars and twenty cents, and a safety monitor in the passenger seat. By September 2026, its robotaxis had driven nearly two million miles without a supervisor, and the two-seat *Cybercab* had joined the fleet."),
+ dict(v=("flow", "The robotaxi dream", ["Tesla", "Robotaxi", "Riders"], ["builds and owns cars", "pay per ride"],
+         "Sell a car once  →  or earn from the same car every day", "Robotaxi"),
+      t="Here is the idea. Today, Tesla sells a car once and gets paid once. A robotaxi that Tesla owns could *earn money every day*, ride after ride, for years. If it works, a car company turns into a transport network."),
+ dict(v=("stat", "$25 BILLION+", "Tesla's planned capital spending for 2026", "Factories, AI chips, Optimus robots"), photo="data center server racks",
+      t="And it is spending like a tech company. Tesla guided to more than *twenty-five billion dollars* of capital spending in 2026, for AI computers, battery factories, the Cybercab and its humanoid robot, *Optimus*. Research spending in the latest quarter rose sixty-nine percent. It even put two billion dollars into Musk's AI company, xAI."),
+ dict(v=("quote", "Investors are not paying for the cars. They are paying for the robots.", ""),
+      t="That is the big risk. Tesla's share price assumes robotaxis and robots will make far more money than cars ever did. Tesla still has about forty-five billion dollars in cash and investments. But if the robots arrive late, the cars alone may not justify the price."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Tesla money machine", ["Sell expensive cars first, then cheaper ones", "Sell clean-car credits to rivals", "Sell giant batteries to power grids", "Sell software and rides, again and again"]),
+      t="Start with expensive cars, and use the money to build cheaper ones. Sell clean-car credits to rivals. Sell giant batteries to power grids. And now, try to turn every car into software and rides that pay again and again."),
+ dict(v=("quote", "Tesla made its name selling cars. It wants to make its fortune selling robots.", ""),
+      t="It started with two engineers, a borrowed Lotus and a near death in 2008. Today, Tesla earns close to a hundred billion dollars a year, mostly from cars. The big question now: can robots and robotaxis pay for the dream before the car business slows down even more?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Tesla. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
