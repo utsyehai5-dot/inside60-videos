@@ -1,0 +1,14 @@
+{
+ "title": "How a Car Gearbox Works in 60 Seconds ⚙️🚗 #shorts",
+ "description": "An engine alone can't pull a car from a standstill. A manual gearbox uses a clutch, a layshaft and pairs of gears, and a synchromesh locks the chosen gear to the output shaft, trading speed for pulling power. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#gearbox #howitworks #shorts",
+ "tags": ["car gearbox", "manual transmission", "how a gearbox works", "gear ratio", "clutch", "layshaft", "synchromesh", "how it works", "car mechanics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "An engine spins fast but weak. Gears trade that *speed* for pulling power."},
+  {"label": "Clutch", "text": "First, the *clutch* disconnects the engine so you can change gear."},
+  {"label": "Layshaft", "text": "The engine drives the input shaft, which turns a *layshaft* full of gears."},
+  {"label": "Free Gears", "text": "Those gears turn matching gears on the *main shaft*, but they spin freely."},
+  {"label": "Locking In", "text": "Move the stick and a *synchromesh* collar slides over, locking one gear to the shaft."},
+  {"label": "First vs Top", "text": "A small gear driving a big one gives *high torque* for starting. Higher gears trade it for speed."},
+  {"label": "Recap", "text": "Gears trade speed for *torque*. Follow Inside 60 for more."}
+ ]
+}
