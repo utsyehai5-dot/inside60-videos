@@ -1,0 +1,14 @@
+{
+ "title": "How a Mechanical Watch Works in 60 Seconds ⌚⚙️ #shorts",
+ "description": "A typical mechanical watch ticks 28,800 times an hour, with no battery at all. A wound mainspring stores the energy, a gear train carries it to the escapement, and a balance wheel swinging back and forth on a hairspring lets the gears move forward in tiny, equal steps. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#watch #howitworks #shorts",
+ "tags": ["mechanical watch", "how watches work", "balance wheel", "escapement", "mainspring", "hairspring", "watch movement", "horology", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A typical mechanical watch ticks *28,800* times an hour, and it has no battery.", "stat": "28,800", "statsub": "BEATS PER HOUR"},
+  {"label": "Mainspring", "text": "Winding coils a *mainspring* tight. That stored tension is the watch's only power."},
+  {"label": "Gears", "text": "The spring slowly unwinds through a *gear train* that turns the hands."},
+  {"label": "Balance", "text": "Left alone it would spin out in seconds, so a *balance wheel* on a hairspring swings back and forth."},
+  {"label": "Escapement", "text": "Each swing flips a *pallet fork*, letting the escape wheel jump forward one tooth. That's the tick."},
+  {"label": "Push", "text": "Every tooth also gives the balance a tiny *push*, so it keeps swinging all day."},
+  {"label": "Recap", "text": "Spring, swing, *tick*. Follow Inside 60 for more."}
+ ]
+}
