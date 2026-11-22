@@ -1,481 +1,481 @@
 [
- {
-  "slug": "ep01-ikea",
-  "company": "IKEA",
-  "status": "done",
-  "long_id": "fKnOnDDbk10",
-  "publish_at": "2026-11-21T17:00:00Z",
-  "shorts": [
-   {
-    "id": "MYaOcAnvdF0",
-    "publish_at": "2026-11-24T17:00:00Z"
-   }
-  ]
- },
- {
-  "slug": "ep02-mcdonalds",
-  "company": "McDonald's",
-  "status": "done",
-  "publish_at": "2026-11-28T17:00:00Z",
-  "short_dates": [
-   "2026-12-01T17:00:00Z",
-   "2026-12-03T17:00:00Z"
-  ],
-  "long_id": "xSKeLlM3ppg",
-  "shorts": [
-   {
-    "id": "LQ6FTY2nCWA",
-    "publish_at": "2026-12-01T17:00:00Z"
-   },
-   {
-    "id": "27Pti0WPn2E",
-    "publish_at": "2026-12-03T17:00:00Z"
-   }
-  ]
- },
- {
-  "slug": "ep03-costco",
-  "company": "Costco",
-  "status": "ready",
-  "publish_at": "2026-12-05T17:00:00Z",
-  "short_dates": [
-   "2026-12-08T17:00:00Z",
-   "2026-12-10T17:00:00Z"
-  ],
-  "last_error": "2026-11-21 20:5xZ (3rd run): Zapier YouTube upload throttled again ('throttled without retry') on long video, connection 023660ab; nothing uploaded. Build OK (8.3 min, shorts 45s/46s). Task usage fine (146/1000) - so it's a rate/flood limit, likely from many upload attempts today (Inside 60 routine also throttled). Retry tomorrow. | set to ready by main chat: files hosted at commit 168e1b1, meta.json in episodes/ep03-costco — just upload",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_thumb.png"
- },
- {
-  "slug": "ep04-lego",
-  "company": "LEGO",
-  "status": "ready",
-  "publish_at": "2026-12-12T17:00:00Z",
-  "short_dates": [
-   "2026-12-15T17:00:00Z",
-   "2026-12-17T17:00:00Z"
-  ],
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ee30a66/mmf/up/ep04-lego.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ee30a66/mmf/up/ep04-lego_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ee30a66/mmf/up/ep04-lego_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ee30a66/mmf/up/ep04-lego_thumb.png"
- },
- {
-  "slug": "ep05-apple",
-  "company": "Apple",
-  "status": "ready",
-  "publish_at": "2026-12-19T17:00:00Z",
-  "short_dates": [
-   "2026-12-22T17:00:00Z",
-   "2026-12-24T17:00:00Z"
-  ],
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_thumb.png"
- },
- {
-  "slug": "ep06-netflix",
-  "company": "Netflix",
-  "status": "ready",
-  "publish_at": "2026-12-26T17:00:00Z",
-  "short_dates": [
-   "2026-12-29T17:00:00Z",
-   "2026-12-31T17:00:00Z"
-  ],
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_thumb.png"
- },
- {
-  "slug": "ep07-nike",
-  "company": "Nike",
-  "status": "ready",
-  "publish_at": "2027-01-02T17:00:00Z",
-  "short_dates": [
-   "2027-01-05T17:00:00Z",
-   "2027-01-07T17:00:00Z"
-  ],
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4218e9/mmf/up/ep07-nike.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4218e9/mmf/up/ep07-nike_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4218e9/mmf/up/ep07-nike_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4218e9/mmf/up/ep07-nike_thumb.png"
- },
- {
-  "slug": "ep08-zara",
-  "company": "Zara (Inditex)",
-  "status": "ready",
-  "publish_at": "2027-01-09T17:00:00Z",
-  "short_dates": [
-   "2027-01-12T17:00:00Z",
-   "2027-01-14T17:00:00Z"
-  ],
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f03042c/mmf/up/ep08-zara.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f03042c/mmf/up/ep08-zara_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f03042c/mmf/up/ep08-zara_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f03042c/mmf/up/ep08-zara_thumb.png"
- },
- {
-  "slug": "ep09-rolex",
-  "company": "Rolex",
-  "status": "ready",
-  "publish_at": "2027-01-16T17:00:00Z",
-  "short_dates": [
-   "2027-01-19T17:00:00Z",
-   "2027-01-21T17:00:00Z"
-  ],
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0d5e057/mmf/up/ep09-rolex.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0d5e057/mmf/up/ep09-rolex_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0d5e057/mmf/up/ep09-rolex_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0d5e057/mmf/up/ep09-rolex_thumb.png"
- },
- {
-  "slug": "ep10-red",
-  "company": "Red Bull",
-  "status": "ready",
-  "publish_at": "2027-01-23T17:00:00Z",
-  "short_dates": [
-   "2027-01-26T17:00:00Z",
-   "2027-01-28T17:00:00Z"
-  ],
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_thumb.png"
- },
- {
-  "slug": "ep11-spotify",
-  "company": "Spotify",
-  "status": "ready",
-  "publish_at": "2027-01-30T17:00:00Z",
-  "short_dates": [
-   "2027-02-02T17:00:00Z",
-   "2027-02-04T17:00:00Z"
-  ],
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify.mp4",
-  "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_short1.mp4"
-  ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_thumb.png"
- },
- {
-  "slug": "ep12-nintendo",
-  "company": "Nintendo",
-  "status": "todo",
-  "publish_at": "2027-02-06T17:00:00Z",
-  "short_dates": [
-   "2027-02-09T17:00:00Z",
-   "2027-02-11T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep13-toyota",
-  "company": "Toyota",
-  "status": "todo",
-  "publish_at": "2027-02-13T17:00:00Z",
-  "short_dates": [
-   "2027-02-16T17:00:00Z",
-   "2027-02-18T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep14-starbucks",
-  "company": "Starbucks",
-  "status": "todo",
-  "publish_at": "2027-02-20T17:00:00Z",
-  "short_dates": [
-   "2027-02-23T17:00:00Z",
-   "2027-02-25T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep15-amazon",
-  "company": "Amazon",
-  "status": "todo",
-  "publish_at": "2027-02-27T17:00:00Z",
-  "short_dates": [
-   "2027-03-02T17:00:00Z",
-   "2027-03-04T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep16-google",
-  "company": "Google",
-  "status": "todo",
-  "publish_at": "2027-03-06T17:00:00Z",
-  "short_dates": [
-   "2027-03-09T17:00:00Z",
-   "2027-03-11T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep17-microsoft",
-  "company": "Microsoft",
-  "status": "todo",
-  "publish_at": "2027-03-13T17:00:00Z",
-  "short_dates": [
-   "2027-03-16T17:00:00Z",
-   "2027-03-18T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep18-tesla",
-  "company": "Tesla",
-  "status": "todo",
-  "publish_at": "2027-03-20T17:00:00Z",
-  "short_dates": [
-   "2027-03-23T17:00:00Z",
-   "2027-03-25T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep19-samsung",
-  "company": "Samsung",
-  "status": "todo",
-  "publish_at": "2027-03-27T17:00:00Z",
-  "short_dates": [
-   "2027-03-30T17:00:00Z",
-   "2027-04-01T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep20-sony",
-  "company": "Sony",
-  "status": "todo",
-  "publish_at": "2027-04-03T17:00:00Z",
-  "short_dates": [
-   "2027-04-06T17:00:00Z",
-   "2027-04-08T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep21-cocacola",
-  "company": "Coca-Cola",
-  "status": "todo",
-  "publish_at": "2027-04-10T17:00:00Z",
-  "short_dates": [
-   "2027-04-13T17:00:00Z",
-   "2027-04-15T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep22-adidas",
-  "company": "Adidas",
-  "status": "todo",
-  "publish_at": "2027-04-17T17:00:00Z",
-  "short_dates": [
-   "2027-04-20T17:00:00Z",
-   "2027-04-22T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep23-hm",
-  "company": "H&M",
-  "status": "todo",
-  "publish_at": "2027-04-24T17:00:00Z",
-  "short_dates": [
-   "2027-04-27T17:00:00Z",
-   "2027-04-29T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep24-ferrari",
-  "company": "Ferrari",
-  "status": "todo",
-  "publish_at": "2027-05-01T17:00:00Z",
-  "short_dates": [
-   "2027-05-04T17:00:00Z",
-   "2027-05-06T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep25-uber",
-  "company": "Uber",
-  "status": "todo",
-  "publish_at": "2027-05-08T17:00:00Z",
-  "short_dates": [
-   "2027-05-11T17:00:00Z",
-   "2027-05-13T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep26-airbnb",
-  "company": "Airbnb",
-  "status": "todo",
-  "publish_at": "2027-05-15T17:00:00Z",
-  "short_dates": [
-   "2027-05-18T17:00:00Z",
-   "2027-05-20T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep27-disney",
-  "company": "Disney",
-  "status": "todo",
-  "publish_at": "2027-05-22T17:00:00Z",
-  "short_dates": [
-   "2027-05-25T17:00:00Z",
-   "2027-05-27T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep28-nvidia",
-  "company": "Nvidia",
-  "status": "todo",
-  "publish_at": "2027-05-29T17:00:00Z",
-  "short_dates": [
-   "2027-06-01T17:00:00Z",
-   "2027-06-03T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep29-meta-facebook",
-  "company": "Meta (Facebook)",
-  "status": "todo",
-  "publish_at": "2027-06-05T17:00:00Z",
-  "short_dates": [
-   "2027-06-08T17:00:00Z",
-   "2027-06-10T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep30-youtube",
-  "company": "YouTube",
-  "status": "todo",
-  "publish_at": "2027-06-12T17:00:00Z",
-  "short_dates": [
-   "2027-06-15T17:00:00Z",
-   "2027-06-17T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep31-tiktok",
-  "company": "TikTok",
-  "status": "todo",
-  "publish_at": "2027-06-19T17:00:00Z",
-  "short_dates": [
-   "2027-06-22T17:00:00Z",
-   "2027-06-24T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep32-shein",
-  "company": "Shein",
-  "status": "todo",
-  "publish_at": "2027-06-26T17:00:00Z",
-  "short_dates": [
-   "2027-06-29T17:00:00Z",
-   "2027-07-01T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep33-temu",
-  "company": "Temu",
-  "status": "todo",
-  "publish_at": "2027-07-03T17:00:00Z",
-  "short_dates": [
-   "2027-07-06T17:00:00Z",
-   "2027-07-08T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep34-ryanair",
-  "company": "Ryanair",
-  "status": "todo",
-  "publish_at": "2027-07-10T17:00:00Z",
-  "short_dates": [
-   "2027-07-13T17:00:00Z",
-   "2027-07-15T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep35-volvo",
-  "company": "Volvo",
-  "status": "todo",
-  "publish_at": "2027-07-17T17:00:00Z",
-  "short_dates": [
-   "2027-07-20T17:00:00Z",
-   "2027-07-22T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep36-peloton",
-  "company": "Peloton",
-  "status": "todo",
-  "publish_at": "2027-07-24T17:00:00Z",
-  "short_dates": [
-   "2027-07-27T17:00:00Z",
-   "2027-07-29T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep37-mercedes-benz",
-  "company": "Mercedes-Benz",
-  "status": "todo",
-  "publish_at": "2027-07-31T17:00:00Z",
-  "short_dates": [
-   "2027-08-03T17:00:00Z",
-   "2027-08-05T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep38-canon",
-  "company": "Canon",
-  "status": "todo",
-  "publish_at": "2027-08-07T17:00:00Z",
-  "short_dates": [
-   "2027-08-10T17:00:00Z",
-   "2027-08-12T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep39-dyson",
-  "company": "Dyson",
-  "status": "todo",
-  "publish_at": "2027-08-14T17:00:00Z",
-  "short_dates": [
-   "2027-08-17T17:00:00Z",
-   "2027-08-19T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep40-garmin",
-  "company": "Garmin",
-  "status": "todo",
-  "publish_at": "2027-08-21T17:00:00Z",
-  "short_dates": [
-   "2027-08-24T17:00:00Z",
-   "2027-08-26T17:00:00Z"
-  ]
- },
- {
-  "slug": "ep41-logitech",
-  "company": "Logitech",
-  "status": "todo",
-  "publish_at": "2027-08-28T17:00:00Z",
-  "short_dates": [
-   "2027-08-31T17:00:00Z",
-   "2027-09-02T17:00:00Z"
-  ]
- }
+  {
+    "slug": "ep01-ikea",
+    "company": "IKEA",
+    "status": "done",
+    "long_id": "fKnOnDDbk10",
+    "publish_at": "2026-11-21T17:00:00Z",
+    "shorts": [
+      {
+        "id": "MYaOcAnvdF0",
+        "publish_at": "2026-11-24T17:00:00Z"
+      }
+    ]
+  },
+  {
+    "slug": "ep02-mcdonalds",
+    "company": "McDonald's",
+    "status": "done",
+    "publish_at": "2026-11-28T17:00:00Z",
+    "short_dates": [
+      "2026-12-01T17:00:00Z",
+      "2026-12-03T17:00:00Z"
+    ],
+    "long_id": "xSKeLlM3ppg",
+    "shorts": [
+      {
+        "id": "LQ6FTY2nCWA",
+        "publish_at": "2026-12-01T17:00:00Z"
+      },
+      {
+        "id": "27Pti0WPn2E",
+        "publish_at": "2026-12-03T17:00:00Z"
+      }
+    ]
+  },
+  {
+    "slug": "ep03-costco",
+    "company": "Costco",
+    "status": "ready",
+    "publish_at": "2026-12-05T17:00:00Z",
+    "short_dates": [
+      "2026-12-08T17:00:00Z",
+      "2026-12-10T17:00:00Z"
+    ],
+    "last_error": "2026-11-21 20:5xZ (3rd run): Zapier YouTube upload throttled again ('throttled without retry') on long video, connection 023660ab; nothing uploaded. Build OK (8.3 min, shorts 45s/46s). Task usage fine (146/1000) - so it's a rate/flood limit, likely from many upload attempts today (Inside 60 routine also throttled). Retry tomorrow. | set to ready by main chat: files hosted at commit 168e1b1, meta.json in episodes/ep03-costco — just upload",
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_thumb.png"
+  },
+  {
+    "slug": "ep04-lego",
+    "company": "LEGO",
+    "status": "ready",
+    "publish_at": "2026-12-12T17:00:00Z",
+    "short_dates": [
+      "2026-12-15T17:00:00Z",
+      "2026-12-17T17:00:00Z"
+    ],
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ee30a66/mmf/up/ep04-lego.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ee30a66/mmf/up/ep04-lego_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ee30a66/mmf/up/ep04-lego_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ee30a66/mmf/up/ep04-lego_thumb.png"
+  },
+  {
+    "slug": "ep05-apple",
+    "company": "Apple",
+    "status": "ready",
+    "publish_at": "2026-12-19T17:00:00Z",
+    "short_dates": [
+      "2026-12-22T17:00:00Z",
+      "2026-12-24T17:00:00Z"
+    ],
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ca73d8e/mmf/up/ep05-apple_thumb.png"
+  },
+  {
+    "slug": "ep06-netflix",
+    "company": "Netflix",
+    "status": "ready",
+    "publish_at": "2026-12-26T17:00:00Z",
+    "short_dates": [
+      "2026-12-29T17:00:00Z",
+      "2026-12-31T17:00:00Z"
+    ],
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/23ea636/mmf/up/ep06-netflix_thumb.png"
+  },
+  {
+    "slug": "ep07-nike",
+    "company": "Nike",
+    "status": "ready",
+    "publish_at": "2027-01-02T17:00:00Z",
+    "short_dates": [
+      "2027-01-05T17:00:00Z",
+      "2027-01-07T17:00:00Z"
+    ],
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4218e9/mmf/up/ep07-nike.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4218e9/mmf/up/ep07-nike_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4218e9/mmf/up/ep07-nike_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4218e9/mmf/up/ep07-nike_thumb.png"
+  },
+  {
+    "slug": "ep08-zara",
+    "company": "Zara (Inditex)",
+    "status": "ready",
+    "publish_at": "2027-01-09T17:00:00Z",
+    "short_dates": [
+      "2027-01-12T17:00:00Z",
+      "2027-01-14T17:00:00Z"
+    ],
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f03042c/mmf/up/ep08-zara.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f03042c/mmf/up/ep08-zara_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f03042c/mmf/up/ep08-zara_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f03042c/mmf/up/ep08-zara_thumb.png"
+  },
+  {
+    "slug": "ep09-rolex",
+    "company": "Rolex",
+    "status": "ready",
+    "publish_at": "2027-01-16T17:00:00Z",
+    "short_dates": [
+      "2027-01-19T17:00:00Z",
+      "2027-01-21T17:00:00Z"
+    ],
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0d5e057/mmf/up/ep09-rolex.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0d5e057/mmf/up/ep09-rolex_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0d5e057/mmf/up/ep09-rolex_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0d5e057/mmf/up/ep09-rolex_thumb.png"
+  },
+  {
+    "slug": "ep10-red",
+    "company": "Red Bull",
+    "status": "ready",
+    "publish_at": "2027-01-23T17:00:00Z",
+    "short_dates": [
+      "2027-01-26T17:00:00Z",
+      "2027-01-28T17:00:00Z"
+    ],
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/beecef9/mmf/up/ep10-red_thumb.png"
+  },
+  {
+    "slug": "ep11-spotify",
+    "company": "Spotify",
+    "status": "ready",
+    "publish_at": "2027-01-30T17:00:00Z",
+    "short_dates": [
+      "2027-02-02T17:00:00Z",
+      "2027-02-04T17:00:00Z"
+    ],
+    "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify.mp4",
+    "short_urls": [
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_short0.mp4",
+      "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_short1.mp4"
+    ],
+    "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/4b55d21/mmf/up/ep11-spotify_thumb.png"
+  },
+  {
+    "slug": "ep12-nintendo",
+    "company": "Nintendo",
+    "status": "doing",
+    "publish_at": "2027-02-06T17:00:00Z",
+    "short_dates": [
+      "2027-02-09T17:00:00Z",
+      "2027-02-11T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep13-toyota",
+    "company": "Toyota",
+    "status": "todo",
+    "publish_at": "2027-02-13T17:00:00Z",
+    "short_dates": [
+      "2027-02-16T17:00:00Z",
+      "2027-02-18T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep14-starbucks",
+    "company": "Starbucks",
+    "status": "todo",
+    "publish_at": "2027-02-20T17:00:00Z",
+    "short_dates": [
+      "2027-02-23T17:00:00Z",
+      "2027-02-25T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep15-amazon",
+    "company": "Amazon",
+    "status": "todo",
+    "publish_at": "2027-02-27T17:00:00Z",
+    "short_dates": [
+      "2027-03-02T17:00:00Z",
+      "2027-03-04T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep16-google",
+    "company": "Google",
+    "status": "todo",
+    "publish_at": "2027-03-06T17:00:00Z",
+    "short_dates": [
+      "2027-03-09T17:00:00Z",
+      "2027-03-11T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep17-microsoft",
+    "company": "Microsoft",
+    "status": "todo",
+    "publish_at": "2027-03-13T17:00:00Z",
+    "short_dates": [
+      "2027-03-16T17:00:00Z",
+      "2027-03-18T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep18-tesla",
+    "company": "Tesla",
+    "status": "todo",
+    "publish_at": "2027-03-20T17:00:00Z",
+    "short_dates": [
+      "2027-03-23T17:00:00Z",
+      "2027-03-25T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep19-samsung",
+    "company": "Samsung",
+    "status": "todo",
+    "publish_at": "2027-03-27T17:00:00Z",
+    "short_dates": [
+      "2027-03-30T17:00:00Z",
+      "2027-04-01T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep20-sony",
+    "company": "Sony",
+    "status": "todo",
+    "publish_at": "2027-04-03T17:00:00Z",
+    "short_dates": [
+      "2027-04-06T17:00:00Z",
+      "2027-04-08T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep21-cocacola",
+    "company": "Coca-Cola",
+    "status": "todo",
+    "publish_at": "2027-04-10T17:00:00Z",
+    "short_dates": [
+      "2027-04-13T17:00:00Z",
+      "2027-04-15T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep22-adidas",
+    "company": "Adidas",
+    "status": "todo",
+    "publish_at": "2027-04-17T17:00:00Z",
+    "short_dates": [
+      "2027-04-20T17:00:00Z",
+      "2027-04-22T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep23-hm",
+    "company": "H&M",
+    "status": "todo",
+    "publish_at": "2027-04-24T17:00:00Z",
+    "short_dates": [
+      "2027-04-27T17:00:00Z",
+      "2027-04-29T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep24-ferrari",
+    "company": "Ferrari",
+    "status": "todo",
+    "publish_at": "2027-05-01T17:00:00Z",
+    "short_dates": [
+      "2027-05-04T17:00:00Z",
+      "2027-05-06T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep25-uber",
+    "company": "Uber",
+    "status": "todo",
+    "publish_at": "2027-05-08T17:00:00Z",
+    "short_dates": [
+      "2027-05-11T17:00:00Z",
+      "2027-05-13T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep26-airbnb",
+    "company": "Airbnb",
+    "status": "todo",
+    "publish_at": "2027-05-15T17:00:00Z",
+    "short_dates": [
+      "2027-05-18T17:00:00Z",
+      "2027-05-20T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep27-disney",
+    "company": "Disney",
+    "status": "todo",
+    "publish_at": "2027-05-22T17:00:00Z",
+    "short_dates": [
+      "2027-05-25T17:00:00Z",
+      "2027-05-27T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep28-nvidia",
+    "company": "Nvidia",
+    "status": "todo",
+    "publish_at": "2027-05-29T17:00:00Z",
+    "short_dates": [
+      "2027-06-01T17:00:00Z",
+      "2027-06-03T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep29-meta-facebook",
+    "company": "Meta (Facebook)",
+    "status": "todo",
+    "publish_at": "2027-06-05T17:00:00Z",
+    "short_dates": [
+      "2027-06-08T17:00:00Z",
+      "2027-06-10T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep30-youtube",
+    "company": "YouTube",
+    "status": "todo",
+    "publish_at": "2027-06-12T17:00:00Z",
+    "short_dates": [
+      "2027-06-15T17:00:00Z",
+      "2027-06-17T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep31-tiktok",
+    "company": "TikTok",
+    "status": "todo",
+    "publish_at": "2027-06-19T17:00:00Z",
+    "short_dates": [
+      "2027-06-22T17:00:00Z",
+      "2027-06-24T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep32-shein",
+    "company": "Shein",
+    "status": "todo",
+    "publish_at": "2027-06-26T17:00:00Z",
+    "short_dates": [
+      "2027-06-29T17:00:00Z",
+      "2027-07-01T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep33-temu",
+    "company": "Temu",
+    "status": "todo",
+    "publish_at": "2027-07-03T17:00:00Z",
+    "short_dates": [
+      "2027-07-06T17:00:00Z",
+      "2027-07-08T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep34-ryanair",
+    "company": "Ryanair",
+    "status": "todo",
+    "publish_at": "2027-07-10T17:00:00Z",
+    "short_dates": [
+      "2027-07-13T17:00:00Z",
+      "2027-07-15T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep35-volvo",
+    "company": "Volvo",
+    "status": "todo",
+    "publish_at": "2027-07-17T17:00:00Z",
+    "short_dates": [
+      "2027-07-20T17:00:00Z",
+      "2027-07-22T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep36-peloton",
+    "company": "Peloton",
+    "status": "todo",
+    "publish_at": "2027-07-24T17:00:00Z",
+    "short_dates": [
+      "2027-07-27T17:00:00Z",
+      "2027-07-29T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep37-mercedes-benz",
+    "company": "Mercedes-Benz",
+    "status": "todo",
+    "publish_at": "2027-07-31T17:00:00Z",
+    "short_dates": [
+      "2027-08-03T17:00:00Z",
+      "2027-08-05T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep38-canon",
+    "company": "Canon",
+    "status": "todo",
+    "publish_at": "2027-08-07T17:00:00Z",
+    "short_dates": [
+      "2027-08-10T17:00:00Z",
+      "2027-08-12T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep39-dyson",
+    "company": "Dyson",
+    "status": "todo",
+    "publish_at": "2027-08-14T17:00:00Z",
+    "short_dates": [
+      "2027-08-17T17:00:00Z",
+      "2027-08-19T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep40-garmin",
+    "company": "Garmin",
+    "status": "todo",
+    "publish_at": "2027-08-21T17:00:00Z",
+    "short_dates": [
+      "2027-08-24T17:00:00Z",
+      "2027-08-26T17:00:00Z"
+    ]
+  },
+  {
+    "slug": "ep41-logitech",
+    "company": "Logitech",
+    "status": "todo",
+    "publish_at": "2027-08-28T17:00:00Z",
+    "short_dates": [
+      "2027-08-31T17:00:00Z",
+      "2027-09-02T17:00:00Z"
+    ]
+  }
 ]
