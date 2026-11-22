@@ -1,0 +1,14 @@
+{
+ "title": "How a Sewing Machine Works in 60 Seconds 🧵🪡 #shorts",
+ "description": "A sewing machine doesn't sew like a hand. It ties two threads together: the needle pushes a loop of top thread through the fabric, a spinning hook swings that loop around the bobbin, and a lever pulls the knot tight inside the cloth. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#sewingmachine #sewing #howitworks",
+ "tags": ["sewing machine", "how a sewing machine works", "lockstitch", "bobbin", "rotary hook", "needle", "feed dogs", "take-up lever", "sewing", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Industrial sewing machines can make about *5,000 stitches* every minute.", "stat": "5,000", "statsub": "STITCHES / MIN"},
+  {"label": "Two threads", "text": "Every stitch uses *two threads*: one from the top spool, and one from a small *bobbin* below."},
+  {"label": "Needle", "text": "The *needle* pushes the top thread through the fabric, then rises a little to open a *loop*."},
+  {"label": "Spinning hook", "text": "A spinning *hook* grabs that loop and swings it all the way around the *bobbin*."},
+  {"label": "Lock", "text": "The *take-up lever* pulls the thread tight, locking both threads inside the fabric."},
+  {"label": "Feed", "text": "Then little toothed *feed dogs* push the fabric forward for the *next stitch*."},
+  {"label": "Recap", "text": "Loop, hook, *lock*. Follow Inside 60 for more."}
+ ]
+}
