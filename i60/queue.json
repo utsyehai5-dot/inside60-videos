@@ -174,8 +174,10 @@
  {
   "slug": "s025-diesel-engine",
   "topic": "Diesel engine",
-  "status": "doing",
-  "publish_at": "2026-12-16T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-16T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/139610cdede9a4f7f500bce08ec371f878d0cf2a/i60/up/s025-diesel-engine.mp4",
+  "last_error": null
  },
  {
   "slug": "s026-bicycle-gears",
