@@ -500,8 +500,9 @@
  {
   "slug": "s071-power-bank",
   "topic": "Power bank",
-  "status": "doing",
-  "publish_at": "2027-01-31T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-31T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/72c7ebe4dc4331f5daf4d7d70a62fa2819afe310/i60/up/s071-power-bank.mp4"
  },
  {
   "slug": "s072-electric-scooter",
