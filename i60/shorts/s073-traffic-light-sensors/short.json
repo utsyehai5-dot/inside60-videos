@@ -1,0 +1,50 @@
+{
+ "title": "How Traffic Light Sensors Work in 60 Seconds 🚦🚗 #shorts",
+ "description": "Many traffic lights know a car is waiting thanks to an inductive loop: a coil of wire cut into the road. A detector runs alternating current through it, and a car's metal underside changes the loop's inductance and frequency, so the controller knows to give you a green light. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#trafficlight #engineering #howitworks",
+ "tags": [
+  "traffic light sensors",
+  "how traffic lights work",
+  "inductive loop",
+  "loop detector",
+  "traffic signal",
+  "vehicle detection",
+  "magnetic field",
+  "electromagnetism",
+  "engineering",
+  "science",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "That traffic light may know you're waiting because of a *wire loop* buried in the road."
+  },
+  {
+   "label": "Loop",
+   "text": "Thin cuts in the asphalt hold a few turns of wire, forming a big *coil*."
+  },
+  {
+   "label": "Field",
+   "text": "A detector sends *alternating current* through it, making a *magnetic field* above the road."
+  },
+  {
+   "label": "Car",
+   "text": "A car's *metal underside* disturbs that field, so the loop's *frequency* shifts."
+  },
+  {
+   "label": "Bikes",
+   "text": "Bicycles have less metal, so many loops have a marked *sweet spot* — stop right on top of the *wire*."
+  },
+  {
+   "label": "Signal",
+   "text": "The detector spots the shift and tells the *controller* a car is waiting. Time for *green*."
+  },
+  {
+   "label": "Recap",
+   "text": "Loop, field, *green light*. Follow Inside 60 for more."
+  }
+ ]
+}
