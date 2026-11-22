@@ -102,8 +102,9 @@
  {
   "slug": "s015-wind-turbine",
   "topic": "Wind turbine",
-  "status": "doing",
-  "publish_at": "2026-12-06T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2026-12-06T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/d16f1b59b6025a9a04b828fdd18982670cc12111/i60/up/s015-wind-turbine.mp4"
  },
  {
   "slug": "s016-hydroelectric-dam",
