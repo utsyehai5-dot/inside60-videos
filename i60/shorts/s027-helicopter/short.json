@@ -1,0 +1,14 @@
+{
+ "title": "How a Helicopter Works in 60 Seconds 🚁🌀 #shorts",
+ "description": "Every helicopter rotor blade is a wing, spinning hundreds of times a minute. The pilot climbs by twisting all blades at once, steers by tilting the whole rotor disc, and the tail rotor stops the body from spinning the other way. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#helicopter #howitworks #shorts",
+ "tags": ["helicopter", "how a helicopter works", "rotor blades", "swashplate", "tail rotor", "collective", "cyclic", "aviation", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A helicopter has *spinning wings*. Its rotor blades whirl around hundreds of times every minute."},
+  {"label": "Lift", "text": "Each blade is shaped like a wing. As it slices through the air, it pushes air *down*, and the helicopter goes up."},
+  {"label": "Collective", "text": "To climb, the pilot raises the *collective*. Every blade twists to a steeper angle at once, making more lift."},
+  {"label": "Swashplate", "text": "Below the rotor sits the *swashplate*. Rods from this tilting plate change each blade's angle as it spins."},
+  {"label": "Cyclic", "text": "Push the *cyclic* stick and the whole rotor disc tilts. Lift now leans forward, and so does the helicopter."},
+  {"label": "Tail rotor", "text": "Spinning the rotor tries to twist the body the *opposite way*. The tail rotor pushes sideways to stop it."},
+  {"label": "Recap", "text": "Spin, tilt, *balance*. Follow Inside 60 for more."}
+ ]
+}
