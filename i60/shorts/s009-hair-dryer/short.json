@@ -1,0 +1,49 @@
+{
+ "title": "How a Hair Dryer Works in 60 Seconds 💨🔥 #shorts",
+ "description": "A hair dryer is just a small fan blowing air over red-hot wire. A motor spins a fan that pulls air in at the back, coils of nichrome wire heat it up, and the hot, fast air evaporates the water in your hair. A thermal cutoff switches the heat off if things get too hot. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#hairdryer #howitworks #shorts",
+ "tags": [
+  "hair dryer",
+  "how a hair dryer works",
+  "blow dryer",
+  "nichrome",
+  "heating element",
+  "electric motor",
+  "how it works",
+  "physics",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "The Secret",
+   "text": "A hair dryer is really just a tiny *fan* blowing air over red-hot wire."
+  },
+  {
+   "label": "Motor & Fan",
+   "text": "A small motor spins a *fan* that pulls air in through the back."
+  },
+  {
+   "label": "Heating Coil",
+   "text": "The air flows over coils of *nichrome* wire, which glow hot when current runs through them.",
+   "stat": "~1,800",
+   "statsub": "WATTS"
+  },
+  {
+   "label": "Hot Air",
+   "text": "Warm, fast air blasts out the front and *evaporates* the water in your hair."
+  },
+  {
+   "label": "Settings",
+   "text": "Switches change the *fan speed* and how much current reaches the coil."
+  },
+  {
+   "label": "Safety",
+   "text": "A *thermal cutoff* shuts off the heat if the dryer gets too hot."
+  },
+  {
+   "label": "Recap",
+   "text": "Spin, heat, blow, *dry*. Follow Inside 60 for more."
+  }
+ ]
+}

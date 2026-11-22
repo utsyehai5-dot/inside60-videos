@@ -1,0 +1,14 @@
+{
+ "title": "How an Electric Kettle Works in 60 Seconds ☕⚡ #shorts",
+ "description": "Your kettle knows when to stop without any computer. A heating element under the base heats the water, convection spreads the heat, and at boiling point steam is guided to a bimetallic disc. The two metals expand differently, the disc snaps, and the switch clicks off. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#kettle #howitworks #shorts",
+ "tags": ["electric kettle", "how a kettle works", "bimetallic strip", "thermostat", "boiling water", "convection", "how it works", "physics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "Your kettle knows when to stop, with no computer. Just *steam* and a clever piece of metal."},
+  {"label": "Heating Element", "text": "Hidden under the base, a *heating element* turns electric current into heat."},
+  {"label": "Convection", "text": "Hot water rises and cooler water sinks, so the water *circulates* and heats evenly."},
+  {"label": "Boiling", "text": "At boiling point, bubbles of *steam* burst up from the bottom.", "stat": "100°C", "statsub": "AT SEA LEVEL"},
+  {"label": "Steam Channel", "text": "Some steam is guided down a small channel to a *bimetallic* disc by the switch."},
+  {"label": "Click", "text": "Two metals expand by different amounts, so the disc *snaps* and pushes the switch off."},
+  {"label": "Recap", "text": "Heat, boil, steam, *click*. Follow Inside 60 for more."}
+ ]
+}

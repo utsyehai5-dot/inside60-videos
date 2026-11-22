@@ -1,0 +1,14 @@
+{
+ "title": "How a Vacuum Cleaner Works in 60 Seconds 🌀🧹 #shorts",
+ "description": "A vacuum cleaner doesn't really suck up dirt. A motor spins a fan tens of thousands of times a minute, throwing air out the back and leaving low pressure inside. Outside air rushes in through the nozzle to fill the gap, carrying dust with it, and a filter traps the dirt. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#vacuumcleaner #howitworks #shorts",
+ "tags": ["vacuum cleaner", "how a vacuum cleaner works", "suction", "air pressure", "electric motor", "fan", "how it works", "physics", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "The Secret", "text": "A vacuum cleaner doesn't really suck. The air outside *pushes* the dirt in."},
+  {"label": "Motor & Fan", "text": "An electric motor spins a *fan* more than twenty thousand times a minute.", "stat": "20,000+", "statsub": "RPM"},
+  {"label": "Low Pressure", "text": "The fan throws air out the back, leaving *low pressure* inside the machine."},
+  {"label": "Air Rushes In", "text": "Room air rushes into the nozzle to fill the gap, and it carries the *dust* along."},
+  {"label": "Brush Roll", "text": "A spinning *brush* knocks dirt loose from the carpet, so the airflow can grab it."},
+  {"label": "Filter", "text": "A bin and *filter* trap the dirt, and clean air blows out the exhaust."},
+  {"label": "Recap", "text": "Spin, low pressure, rush, *trap*. Follow Inside 60 for more."}
+ ]
+}
