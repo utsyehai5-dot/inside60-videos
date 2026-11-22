@@ -549,8 +549,9 @@
  {
   "slug": "s078-windshield-wipers",
   "topic": "Windshield wipers",
-  "status": "doing",
-  "publish_at": "2027-02-07T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-07T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/6302423463d1349810148c2e0e39e898333ff2b4/i60/up/s078-windshield-wipers.mp4"
  },
  {
   "slug": "s079-car-air-conditioning",
