@@ -402,8 +402,9 @@
  {
   "slug": "s057-face-id",
   "topic": "Face ID",
-  "status": "doing",
-  "publish_at": "2027-01-17T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-01-17T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/9c4382a83a9e611ca8bb8d163cf9c482b851b42e/i60/up/s057-face-id.mp4"
  },
  {
   "slug": "s058-smoke-detector",
