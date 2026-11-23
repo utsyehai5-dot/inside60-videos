@@ -1,0 +1,14 @@
+{
+ "title": "How an Air Compressor Works in 60 Seconds 💨⚙️ #shorts",
+ "description": "A small shop compressor can pack air into its tank at around 150 PSI, about ten times normal air pressure. A motor drives a piston that pulls air in, squeezes it, and pushes it through a one-way valve into the tank. A pressure switch turns the motor off at the limit and back on when the pressure drops. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#aircompressor #engineering #howitworks",
+ "tags": ["air compressor", "how an air compressor works", "piston compressor", "check valve", "pressure switch", "compressed air", "psi", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A small air compressor can pack air to *150 PSI*, about ten times normal air pressure.", "stat": "150 PSI", "statsub": "≈10× AIR PRESSURE"},
+  {"label": "Motor", "text": "An electric motor spins a *crankshaft*, driving a piston up and down in a cylinder."},
+  {"label": "Intake", "text": "As the piston drops, an *intake valve* opens and fresh air rushes in."},
+  {"label": "Squeeze", "text": "As it rises, the air is *squeezed* and heats up, then pushed through a one-way *check valve*."},
+  {"label": "Tank", "text": "The *tank* stores that air, and the pressure climbs with every stroke."},
+  {"label": "Switch", "text": "At the limit, a *pressure switch* stops the motor, then restarts it when the pressure drops."},
+  {"label": "Recap", "text": "Suck, squeeze, *store*. Follow Inside 60 for more."}
+ ]
+}
