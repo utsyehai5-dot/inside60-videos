@@ -1,0 +1,14 @@
+{
+ "title": "How a Welding Torch Works in 60 Seconds 🔥⚙️ #shorts",
+ "description": "An oxy-acetylene torch burns at about 3,500°C, hot enough to melt steel. Oxygen and acetylene flow from two tanks, mix inside the torch, and burn at the tip in a sharp blue cone. The heat melts metal edges into a puddle that fuses as it cools. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#welding #metalwork #howitworks",
+ "tags": ["welding torch", "how a welding torch works", "oxy acetylene", "gas welding", "neutral flame", "cutting torch", "metalworking", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "This flame burns at about *3,500 degrees* Celsius, hot enough to melt steel.", "stat": "3,500°C", "statsub": "OXY-ACETYLENE FLAME"},
+  {"label": "Tanks", "text": "Two tanks feed the torch: *oxygen* and *acetylene* fuel, each through its own regulator and hose."},
+  {"label": "Mixing", "text": "Two valves on the handle set each flow, and the gases blend in a *mixing chamber*."},
+  {"label": "Flame", "text": "Lit at the tip, a balanced flame shows a sharp *inner cone*. The hottest spot is just past its tip."},
+  {"label": "Weld", "text": "That heat melts both metal edges into a *molten puddle*, and a *filler rod* adds extra metal."},
+  {"label": "Fuse", "text": "As the puddle *cools*, the two pieces freeze into one solid joint."},
+  {"label": "Recap", "text": "Mix, ignite, *melt*. Follow Inside 60 for more."}
+ ]
+}
