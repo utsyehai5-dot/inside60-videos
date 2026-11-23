@@ -619,8 +619,9 @@
  {
   "slug": "s088-x-ray-machine",
   "topic": "X-ray machine",
-  "status": "doing",
-  "publish_at": "2027-02-17T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-17T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/202b4a647214384ec273c2fffee61a85e599350a/i60/up/s088-x-ray-machine.mp4"
  },
  {
   "slug": "s089-lawn-mower",
