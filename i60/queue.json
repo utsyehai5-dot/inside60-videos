@@ -563,8 +563,9 @@
  {
   "slug": "s080-hydraulic-press",
   "topic": "Hydraulic press",
-  "status": "doing",
-  "publish_at": "2027-02-09T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-09T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c8227b1ffad9f8c7622c9843164509aeaac23cb5/i60/up/s080-hydraulic-press.mp4"
  },
  {
   "slug": "s081-crane",
