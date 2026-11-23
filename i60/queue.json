@@ -763,8 +763,9 @@
  {
   "slug": "s108-gas-boiler",
   "topic": "Gas boiler",
-  "status": "doing",
-  "publish_at": "2027-03-09T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-09T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/af12d8dd324d2ee0fef4716b71084fca0ba8ad24/i60/up/s108-gas-boiler.mp4"
  },
  {
   "slug": "s109-fireplace-chimney",
