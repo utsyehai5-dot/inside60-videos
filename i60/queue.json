@@ -668,8 +668,9 @@
  {
   "slug": "s095-angle-grinder",
   "topic": "Angle grinder",
-  "status": "doing",
-  "publish_at": "2027-02-24T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-24T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/a46ec2c264eb6b7ccfcf0ccc3938140b134b60e3/i60/up/s095-angle-grinder.mp4"
  },
  {
   "slug": "s096-welding-torch",
