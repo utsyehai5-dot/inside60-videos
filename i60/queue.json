@@ -626,8 +626,9 @@
  {
   "slug": "s089-lawn-mower",
   "topic": "Lawn mower",
-  "status": "doing",
-  "publish_at": "2027-02-18T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-18T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/8a1e7a78095ea4e3ef717bfb1d2307c8ba4f69fe/i60/up/s089-lawn-mower.mp4"
  },
  {
   "slug": "s090-chainsaw",
