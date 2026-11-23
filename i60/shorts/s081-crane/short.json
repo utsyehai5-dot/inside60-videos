@@ -1,0 +1,14 @@
+{
+ "title": "How a Crane Works in 60 Seconds 🏗️⚖️ #shorts",
+ "description": "A crane is really three simple machines working together: a lever (the boom), pulleys (the hoist) and a heavy counterweight that stops it tipping over. Every extra rope line around the pulleys cuts the pulling force, but the winch has to reel in more rope. The biggest crawler cranes can lift over 3,000 tonnes. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#crane #engineering #howitworks",
+ "tags": ["crane", "how a crane works", "mobile crane", "counterweight", "pulley", "block and tackle", "lever", "construction", "engineering", "physics", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "The biggest crawler cranes can lift over *3,000 tonnes*. That's like lifting *2,000 cars* at once.", "stat": "3,000 t", "statsub": "TEST LIFT: 3,371 t"},
+  {"label": "Boom", "text": "The long *boom* is a giant lever, and a cable runs over a pulley at its tip down to the hook."},
+  {"label": "Pulleys", "text": "The cable loops through *several pulleys*. With four lines holding the hook, the winch pulls with only *a quarter* of the force.", "stat": "1/4", "statsub": "THE PULLING FORCE"},
+  {"label": "Trade-off", "text": "The catch: the winch must reel in *four times more rope* to lift the load."},
+  {"label": "Counterweight", "text": "Behind the cab, heavy *counterweight* blocks balance the load, so the crane doesn't *tip over*."},
+  {"label": "Slew", "text": "A big ring bearing lets the whole top *swing around*, and outriggers or wide tracks keep it steady."},
+  {"label": "Recap", "text": "Lever, pulleys, *balance*. Follow Inside 60 for more."}
+ ]
+}
