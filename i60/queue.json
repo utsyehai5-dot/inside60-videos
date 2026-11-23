@@ -791,8 +791,9 @@
  {
   "slug": "s112-robot-vacuum",
   "topic": "Robot vacuum",
-  "status": "doing",
-  "publish_at": "2027-03-13T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-13T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/b9dcb3c528d539e1a1d823c131e91fd97e6e5247/i60/up/s112-robot-vacuum.mp4"
  },
  {
   "slug": "s113-air-purifier",
