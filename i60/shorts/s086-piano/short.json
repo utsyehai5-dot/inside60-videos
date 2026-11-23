@@ -1,0 +1,14 @@
+{
+ "title": "How a Piano Works in 60 Seconds 🎹🔨 #shorts",
+ "description": "A piano is a percussion instrument: every key throws a felt hammer at steel strings. About 230 strings pull on a cast-iron frame with around 18 tons of tension. An escapement lets the hammer bounce right off so the string can ring, and a damper stops it when you let go. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#piano #music #howitworks",
+ "tags": ["piano", "how a piano works", "piano action", "piano hammer", "escapement", "damper", "soundboard", "piano strings", "music", "physics", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Inside a piano, about *230 strings* pull with nearly *18 tons* of force.", "stat": "18 t", "statsub": "STRING TENSION"},
+  {"label": "Key", "text": "A key is a *lever*. Press the front, and the back end *lifts up*."},
+  {"label": "Hammer", "text": "That throws a *felt hammer* up at the strings. A piano is really a *percussion* instrument."},
+  {"label": "Escapement", "text": "The *escapement* lets the hammer *bounce right off*, so the string can ring freely."},
+  {"label": "Soundboard", "text": "The string's vibration flows into a big wooden *soundboard*, which makes it *loud*."},
+  {"label": "Damper", "text": "Let go of the key, and a felt *damper* drops on the string and *stops the sound*."},
+  {"label": "Recap", "text": "Lever, hammer, *string*. Follow Inside 60 for more."}
+ ]
+}
