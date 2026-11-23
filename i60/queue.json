@@ -633,14 +633,16 @@
  {
   "slug": "s090-chainsaw",
   "topic": "Chainsaw",
-  "status": "doing",
-  "publish_at": "2027-02-19T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-19T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/f84ff8625714f5b78a2f52b590a166e474b9e88b/i60/up/s090-chainsaw.mp4"
  },
  {
   "slug": "s091-leaf-blower",
   "topic": "Leaf blower",
-  "status": "doing",
-  "publish_at": "2027-02-20T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-20T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/6c5a4a31dcd9a2bdf4c3c5d252c9f35dd1842ca7/i60/up/s091-leaf-blower.mp4"
  },
  {
   "slug": "s092-electric-drill",
