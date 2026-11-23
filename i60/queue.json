@@ -770,8 +770,9 @@
  {
   "slug": "s109-fireplace-chimney",
   "topic": "Fireplace chimney",
-  "status": "doing",
-  "publish_at": "2027-03-10T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-10T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/fda31fb5974c6405e65fd8adc6b61b93d0d718f8/i60/up/s109-fireplace-chimney.mp4"
  },
  {
   "slug": "s110-clothes-dryer",
