@@ -570,8 +570,9 @@
  {
   "slug": "s081-crane",
   "topic": "Crane",
-  "status": "doing",
-  "publish_at": "2027-02-10T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-10T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/297886e26081882b5804211dfaed9162f6be834b/i60/up/s081-crane.mp4"
  },
  {
   "slug": "s082-excavator",
