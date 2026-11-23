@@ -1,0 +1,14 @@
+{
+ "title": "How a Steam Iron Works in 60 Seconds 👔💨 #shorts",
+ "description": "A steam iron is a hot metal plate with a tiny water tank on top. A heating element warms the soleplate, a bimetallic thermostat keeps it at the right temperature, and water dripping onto the hot plate flashes into steam that pushes through the holes into the fabric. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#iron #laundry #howitworks",
+ "tags": ["steam iron", "how an iron works", "soleplate", "thermostat", "bimetallic strip", "ironing", "home appliances", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A steam iron is a hot metal plate that turns water into steam in a *split second*.", "stat": "200°C", "statsub": "LINEN SETTING"},
+  {"label": "Heater", "text": "A *heating element* is cast right into the metal soleplate and heats it up."},
+  {"label": "Thermostat", "text": "A *bimetallic strip* bends as it heats and clicks the power off, then on again."},
+  {"label": "Water tank", "text": "Water from the *tank* drips through a small valve into a chamber in the soleplate."},
+  {"label": "Steam", "text": "The hot metal flashes each drop into *steam* instantly."},
+  {"label": "Fabric", "text": "Steam shoots out the *holes*, loosening the fibres while the heavy plate presses them flat."},
+  {"label": "Recap", "text": "Heat, drip, *steam*, press. Follow Inside 60 for more."}
+ ]
+}
