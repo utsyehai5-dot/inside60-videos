@@ -612,8 +612,9 @@
  {
   "slug": "s087-mri-scanner",
   "topic": "MRI scanner",
-  "status": "doing",
-  "publish_at": "2027-02-16T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-16T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/a31695193da9fb99f3de9b25693c6eb1aadad63a/i60/up/s087-mri-scanner.mp4"
  },
  {
   "slug": "s088-x-ray-machine",
