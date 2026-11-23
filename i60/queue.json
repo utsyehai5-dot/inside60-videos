@@ -654,14 +654,16 @@
  {
   "slug": "s093-impact-wrench",
   "topic": "Impact wrench",
-  "status": "doing",
-  "publish_at": "2027-02-22T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-22T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/923aade5a58556f7e5ffa866e07f5e763765560b/i60/up/s093-impact-wrench.mp4"
  },
  {
   "slug": "s094-circular-saw",
   "topic": "Circular saw",
-  "status": "doing",
-  "publish_at": "2027-02-23T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-23T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/923aade5a58556f7e5ffa866e07f5e763765560b/i60/up/s094-circular-saw.mp4"
  },
  {
   "slug": "s095-angle-grinder",
