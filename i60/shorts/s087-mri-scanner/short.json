@@ -1,0 +1,14 @@
+{
+ "title": "How an MRI Scanner Works in 60 Seconds 🧲🩻 #shorts",
+ "description": "An MRI scanner wraps you in a superconducting magnet tens of thousands of times stronger than Earth's field, cooled by liquid helium to about -269 °C. It lines up the hydrogen in your body, knocks it with radio pulses, and listens to the signal it sends back. Gradient coils tag every spot so a computer can build a slice image. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#mri #science #howitworks",
+ "tags": ["mri", "how mri works", "mri scanner", "magnetic resonance imaging", "superconducting magnet", "liquid helium", "hydrogen protons", "gradient coils", "medical imaging", "physics", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "An MRI magnet is about *30,000 times* stronger than Earth's magnetic field.", "stat": "1.5 T", "statsub": "TYPICAL MRI FIELD"},
+  {"label": "Magnet", "text": "It's a *superconducting coil*, chilled by liquid helium to about *minus 269* degrees."},
+  {"label": "Protons", "text": "Your body is full of *hydrogen*. Inside the magnet, those tiny protons *line up*."},
+  {"label": "Radio pulse", "text": "A *radio pulse* knocks them out of line. As they snap back, they *send a signal*."},
+  {"label": "Gradients", "text": "*Gradient coils* tweak the field spot by spot. That's the *loud knocking* you hear."},
+  {"label": "Image", "text": "A computer turns all those signals into a *slice image* of your body."},
+  {"label": "Recap", "text": "Magnet, radio, *picture*. Follow Inside 60 for more."}
+ ]
+}
