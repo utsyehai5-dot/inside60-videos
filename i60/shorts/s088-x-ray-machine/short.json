@@ -1,0 +1,14 @@
+{
+ "title": "How an X-Ray Machine Works in 60 Seconds ☢️🦴 #shorts",
+ "description": "An X-ray tube fires electrons from a hot filament into a spinning tungsten target at high voltage. Only about 1% of that energy becomes X-rays; the rest turns into heat. Bones absorb more X-rays than soft tissue, so they leave a bright shadow on the detector. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#xray #science #howitworks",
+ "tags": ["x-ray", "how x-ray works", "x-ray machine", "x-ray tube", "tungsten anode", "cathode", "radiography", "bones", "medical imaging", "physics", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "In an X-ray tube, about *99 percent* of the energy turns into *heat*.", "stat": "1%", "statsub": "BECOMES X-RAYS"},
+  {"label": "Filament", "text": "A tiny *filament* glows white hot and boils off a cloud of *electrons*."},
+  {"label": "Voltage", "text": "Huge *voltage* slams those electrons across a vacuum toward a *tungsten* target."},
+  {"label": "X-rays", "text": "As they crash and brake, they throw off *X-rays*. The target *spins* so it won't melt."},
+  {"label": "Body", "text": "X-rays pass through *soft tissue*, but dense *bone* blocks far more of them."},
+  {"label": "Detector", "text": "A *detector* behind you catches what gets through, so bones show up *bright*."},
+  {"label": "Recap", "text": "Electrons, target, *shadow*. Follow Inside 60 for more."}
+ ]
+}
