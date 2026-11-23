@@ -1,0 +1,14 @@
+{
+ "title": "How Car Air Conditioning Works in 60 Seconds ❄️🚗 #shorts",
+ "description": "Your car's AC doesn't make cold, it moves heat out of the cabin. A compressor squeezes refrigerant into a hot gas, the condenser up front dumps that heat into the outside air, and an expansion valve drops the pressure so the liquid gets icy. In the evaporator behind the dash it boils, soaking up heat from the air the fan blows into the car. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#caraircon #ac #howitworks",
+ "tags": ["car ac", "car air conditioning", "how car ac works", "refrigerant", "compressor", "condenser", "evaporator", "expansion valve", "engineering", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Your car's AC doesn't make cold. It *moves heat* out of the car."},
+  {"label": "Compressor", "text": "The engine spins a *compressor* that squeezes refrigerant into a *hot, high-pressure gas*."},
+  {"label": "Condenser", "text": "Up front, the *condenser* dumps that heat into the outside air, and the gas turns *liquid*."},
+  {"label": "Valve", "text": "An *expansion valve* suddenly drops the pressure, and the liquid gets *icy cold*."},
+  {"label": "Evaporator", "text": "Behind the dash it boils in the *evaporator*, around *minus 30 degrees* at low pressure.", "stat": "-30°C", "statsub": "REFRIGERANT BOILING POINT"},
+  {"label": "Fan", "text": "A *fan* blows cabin air across the cold fins, and *cool air* comes out the vents."},
+  {"label": "Recap", "text": "Squeeze, cool, *boil*. Follow Inside 60 for more."}
+ ]
+}
