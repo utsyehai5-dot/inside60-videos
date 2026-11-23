@@ -310,12 +310,14 @@ def v_bars(d, t, title, rows):
     mx = max(r[1] for r in rows)
     for i, (lab, val, disp) in enumerate(rows):
         b = seg(t, .4 + i * .6, 1.0)
-        y = 400 + i * (190 if len(rows) <= 3 else 140)  # 4 rows: keep clear of captions
-        d.text((200, y), lab, font=F(FB, 44), fill=A(GREY, min(1, b * 2)), anchor="lm")
+        five = len(rows) >= 5
+        y = (330 + i * 112) if five else 400 + i * (190 if len(rows) <= 3 else 140)  # 4-5 rows: keep clear of captions
+        d.text((200, y), lab, font=F(FB, 40 if five else 44), fill=A(GREY, min(1, b * 2)), anchor="lm")
         wmax = 1100
         w = max(8, wmax * val / mx) * b
-        d.rounded_rectangle([200, y + 40, 200 + w, y + 110], radius=12, fill=A(GOLD if i == 0 else BLUE if i == 1 else GREEN, 1 if b > 0 else 0))
-        d.text((220 + w + 10, y + 75), disp, font=F(FB, 50), fill=A(WHITE, b), anchor="lm")
+        bh = 90 if five else 110
+        d.rounded_rectangle([200, y + 36, 200 + w, y + bh], radius=12, fill=A(GOLD if i == 0 else BLUE if i == 1 else GREEN, 1 if b > 0 else 0))
+        d.text((220 + w + 10, y + (63 if five else 75)), disp, font=F(FB, 50), fill=A(WHITE, b), anchor="lm")
 
 
 def v_pie(d, t, pct, label):
