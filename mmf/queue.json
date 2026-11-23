@@ -325,12 +325,18 @@
  {
   "slug": "ep21-cocacola",
   "company": "Coca-Cola",
-  "status": "doing",
+  "status": "ready",
   "publish_at": "2027-04-10T17:00:00Z",
   "short_dates": [
    "2027-04-13T17:00:00Z",
    "2027-04-15T17:00:00Z"
-  ]
+  ],
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/9e540f2/mmf/up/ep21-cocacola.mp4",
+  "short_urls": [
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/9e540f2/mmf/up/ep21-cocacola_short0.mp4",
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/9e540f2/mmf/up/ep21-cocacola_short1.mp4"
+  ],
+  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/9e540f2/mmf/up/ep21-cocacola_thumb.png"
  },
  {
   "slug": "ep22-adidas",
