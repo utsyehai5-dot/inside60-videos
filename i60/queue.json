@@ -696,20 +696,23 @@
  {
   "slug": "s099-garage-door-opener",
   "topic": "Garage door opener",
-  "status": "doing",
-  "publish_at": "2027-02-28T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-28T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/d0d36df103f4a59f4e86ce9d9bad0426902ced99/i60/up/s099-garage-door-opener.mp4"
  },
  {
   "slug": "s100-door-lock-smart",
   "topic": "Door lock (smart)",
-  "status": "doing",
-  "publish_at": "2027-03-01T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-01T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/d0d36df103f4a59f4e86ce9d9bad0426902ced99/i60/up/s100-door-lock-smart.mp4"
  },
  {
   "slug": "s101-doorbell-camera",
   "topic": "Doorbell camera",
-  "status": "doing",
-  "publish_at": "2027-03-02T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-02T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/d0d36df103f4a59f4e86ce9d9bad0426902ced99/i60/up/s101-doorbell-camera.mp4"
  },
  {
   "slug": "s102-security-camera-night-vision",
