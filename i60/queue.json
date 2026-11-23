@@ -805,8 +805,9 @@
  {
   "slug": "s114-humidifier",
   "topic": "Humidifier",
-  "status": "doing",
-  "publish_at": "2027-03-15T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-15T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/58c6eb4c9fe7e1e0267f00d9fde0b24a149e2627/i60/up/s114-humidifier.mp4"
  },
  {
   "slug": "s115-dehumidifier",
