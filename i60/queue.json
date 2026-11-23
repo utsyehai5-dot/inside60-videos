@@ -675,8 +675,9 @@
  {
   "slug": "s096-welding-torch",
   "topic": "Welding torch",
-  "status": "doing",
-  "publish_at": "2027-02-25T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-25T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/cc97b1c8c765a87d279a9340a5fc7047b155265d/i60/up/s096-welding-torch.mp4"
  },
  {
   "slug": "s097-air-compressor",
