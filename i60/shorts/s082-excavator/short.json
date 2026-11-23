@@ -1,0 +1,14 @@
+{
+ "title": "How an Excavator Works in 60 Seconds 🚜💪 #shorts",
+ "description": "An excavator digs with liquid, not muscle. A diesel engine spins hydraulic pumps that push oil at around 4,500 psi into cylinders on the boom, stick and bucket, while hydraulic motors swing the cab a full 360 degrees and drive each track. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#excavator #hydraulics #howitworks",
+ "tags": ["excavator", "how an excavator works", "hydraulics", "hydraulic cylinder", "digger", "construction", "heavy equipment", "boom", "bucket", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A mid-size excavator's bucket can dig with about *18 tons* of force. And it does it with *oil*.", "stat": "18 t", "statsub": "BUCKET DIGGING FORCE"},
+  {"label": "Pump", "text": "A *diesel engine* spins hydraulic pumps that squeeze oil to about *4,500 psi*.", "stat": "4,500", "statsub": "PSI"},
+  {"label": "Cylinders", "text": "That oil pushes pistons in *three cylinders*: one for the boom, one for the stick, one for the bucket."},
+  {"label": "Dig", "text": "The joysticks open valves, so oil flows in, and the arm *curls and scoops* like an elbow and wrist."},
+  {"label": "Swing", "text": "A hydraulic motor turns a big gear ring, so the whole cab can *swing 360 degrees*."},
+  {"label": "Tracks", "text": "Each track has its *own motor*. Run them opposite ways and the machine *spins in place*."},
+  {"label": "Recap", "text": "Pump, push, *dig*. Follow Inside 60 for more."}
+ ]
+}
