@@ -1,0 +1,14 @@
+{
+ "title": "How a Forklift Works in 60 Seconds 📦⚖️ #shorts",
+ "description": "A forklift is a giant seesaw on wheels. The front axle is the pivot, a heavy iron counterweight in the back balances the load on the forks, and a hydraulic cylinder pushes the mast up while chains carry the forks. Steering happens at the rear wheels, so it can turn in tight aisles. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#forklift #warehouse #howitworks",
+ "tags": ["forklift", "how a forklift works", "counterweight", "counterbalance forklift", "stability triangle", "hydraulics", "warehouse", "lever", "physics", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A forklift is really a *giant seesaw*. Lift 2.5 tons, and the front axle carries almost *6 tons*.", "stat": "6 t", "statsub": "ON THE FRONT AXLE"},
+  {"label": "Lever", "text": "The *front wheels* are the pivot. The load sits on one side, and the truck's weight sits on the other."},
+  {"label": "Counterweight", "text": "That's why the back hides a huge block of *cast iron*, the *counterweight*."},
+  {"label": "Lift", "text": "A *hydraulic cylinder* pushes the mast up, and steel *chains* lift the forks along with it."},
+  {"label": "Stability", "text": "It stays upright while its center of gravity stays inside the *stability triangle*, so keep loads *low and close*."},
+  {"label": "Steering", "text": "The *rear wheels* steer, so the forklift can swing around in *tight aisles*."},
+  {"label": "Recap", "text": "Pivot, balance, *lift*. Follow Inside 60 for more."}
+ ]
+}
