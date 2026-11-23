@@ -647,8 +647,9 @@
  {
   "slug": "s092-electric-drill",
   "topic": "Electric drill",
-  "status": "doing",
-  "publish_at": "2027-02-21T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-21T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/682d1a16a5e5710be35cac1e5f033924a804d180/i60/up/s092-electric-drill.mp4"
  },
  {
   "slug": "s093-impact-wrench",
