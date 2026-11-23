@@ -1,0 +1,14 @@
+{
+ "title": "How a Robot Vacuum Works in 60 Seconds 🤖🧹 #shorts",
+ "description": "A robot vacuum maps your room with a spinning laser, sweeps dirt in with side brushes, and sucks it into a bin. Infrared cliff sensors underneath stop it falling down the stairs, and it drives home to charge on its own. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#robotvacuum #smarthome #howitworks",
+ "tags": ["robot vacuum", "how a robot vacuum works", "lidar", "cliff sensor", "smart home", "robot cleaner", "home appliances", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A robot vacuum draws a *map* of your home with a spinning laser.", "stat": "360°", "statsub": "LASER SCAN"},
+  {"label": "Lidar", "text": "The turret fires *laser* pulses and times how long they take to bounce back."},
+  {"label": "Map", "text": "Thousands of distances become a *map*, so it cleans in neat lines."},
+  {"label": "Brushes", "text": "Spinning *side brushes* flick dirt from corners toward the main brush."},
+  {"label": "Suction", "text": "A fan sucks the dirt up into the *dust bin*."},
+  {"label": "Cliff sensors", "text": "Infrared *cliff sensors* underneath spot the stairs, so it backs away. When the battery is low, it drives home to charge."},
+  {"label": "Recap", "text": "Scan, sweep, *suck*. Follow Inside 60 for more."}
+ ]
+}
