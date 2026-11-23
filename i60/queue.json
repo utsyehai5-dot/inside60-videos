@@ -717,20 +717,23 @@
  {
   "slug": "s102-security-camera-night-vision",
   "topic": "Security camera night vision",
-  "status": "doing",
-  "publish_at": "2027-03-03T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-03T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/5b9138a6932dad458eeac494612fd2b19cb00e51/i60/up/s102-security-camera-night-vision.mp4"
  },
  {
   "slug": "s103-motion-sensor-light",
   "topic": "Motion sensor light",
-  "status": "doing",
-  "publish_at": "2027-03-04T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-04T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/5b9138a6932dad458eeac494612fd2b19cb00e51/i60/up/s103-motion-sensor-light.mp4"
  },
  {
   "slug": "s104-ceiling-fan",
   "topic": "Ceiling fan",
-  "status": "doing",
-  "publish_at": "2027-03-05T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-05T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/5b9138a6932dad458eeac494612fd2b19cb00e51/i60/up/s104-ceiling-fan.mp4"
  },
  {
   "slug": "s105-space-heater",
