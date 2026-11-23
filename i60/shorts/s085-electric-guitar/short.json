@@ -1,0 +1,14 @@
+{
+ "title": "How an Electric Guitar Works in 60 Seconds 🎸⚡ #shorts",
+ "description": "An electric guitar body barely makes any sound. Under the steel strings sit pickups: magnets wrapped in thousands of turns of hair-thin copper wire. A vibrating string disturbs the magnetic field and induces a tiny electric signal, which the amplifier makes loud. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#electricguitar #guitar #howitworks",
+ "tags": ["electric guitar", "how an electric guitar works", "guitar pickup", "magnetic pickup", "electromagnetic induction", "amplifier", "humbucker", "physics", "music", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Unplugged, an electric guitar is *almost silent*. The sound is made by *magnets*."},
+  {"label": "Strings", "text": "The strings are *steel*, so they can disturb a *magnetic field*."},
+  {"label": "Pickup", "text": "Under them sit *pickups*: magnets wrapped in thousands of turns of *copper wire*.", "stat": "7000+", "statsub": "TURNS OF WIRE"},
+  {"label": "Induction", "text": "A vibrating string wiggles the field, and that *induces a tiny voltage* in the coil."},
+  {"label": "Signal", "text": "The voltage swings at the same speed as the string, so it *copies the note*."},
+  {"label": "Amp", "text": "A cable carries this weak signal to the *amplifier*, which makes it *loud*."},
+  {"label": "Recap", "text": "Steel, magnet, *coil*. Follow Inside 60 for more."}
+ ]
+}
