@@ -1,0 +1,51 @@
+{
+ "title": "How an Electric Drill Works in 60 Seconds 🔩⚡ #shorts",
+ "description": "A cordless drill's motor can spin around 20,000 RPM, far too fast and weak to drive a screw. A planetary gearbox trades that speed for torque, a spring-loaded clutch slips when the screw is tight, and a three-jaw chuck grips the bit dead center. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#drill #engineering #howitworks",
+ "tags": [
+  "electric drill",
+  "how a drill works",
+  "cordless drill",
+  "planetary gearbox",
+  "drill clutch",
+  "torque",
+  "chuck",
+  "power tools",
+  "engineering",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "The motor inside a cordless drill can spin about *20,000 times* a minute.",
+   "stat": "~20,000",
+   "statsub": "MOTOR RPM"
+  },
+  {
+   "label": "Trigger",
+   "text": "Squeeze the *trigger* harder, and more battery *power* flows to the motor."
+  },
+  {
+   "label": "Gears",
+   "text": "That's too fast to drive a screw, so small *planet gears* slow it down and multiply the *torque*."
+  },
+  {
+   "label": "Speeds",
+   "text": "A switch picks the gear: about *450 RPM* for power, or up to *2,000* for speed."
+  },
+  {
+   "label": "Clutch",
+   "text": "The numbered collar is a *clutch*. When the screw gets tight, spring-loaded balls *slip* so you don't strip it."
+  },
+  {
+   "label": "Chuck",
+   "text": "Up front, three *jaws* close together to grip the bit *dead center*."
+  },
+  {
+   "label": "Recap",
+   "text": "Spin, gear down, *grip*. Follow Inside 60 for more."
+  }
+ ]
+}
