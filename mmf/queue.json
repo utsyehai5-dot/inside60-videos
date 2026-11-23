@@ -42,13 +42,13 @@
    "2026-12-08T17:00:00Z",
    "2026-12-10T17:00:00Z"
   ],
-  "last_error": "2026-11-21 20:5xZ (3rd run): Zapier YouTube upload throttled again ('throttled without retry') on long video, connection 023660ab; nothing uploaded. Build OK (8.3 min, shorts 45s/46s). Task usage fine (146/1000) - so it's a rate/flood limit, likely from many upload attempts today (Inside 60 routine also throttled). Retry tomorrow. | set to ready by main chat: files hosted at commit 168e1b1, meta.json in episodes/ep03-costco — just upload",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco.mp4",
+  "last_error": "rebuilt 2026-11-23 in new photo style, re-hosted at 50408b2",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/50408b2/mmf/up/ep03-costco.mp4",
   "short_urls": [
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_short0.mp4",
-   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_short1.mp4"
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/50408b2/mmf/up/ep03-costco_short0.mp4",
+   "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/50408b2/mmf/up/ep03-costco_short1.mp4"
   ],
-  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/168e1b1/mmf/up/ep03-costco_thumb.png"
+  "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/50408b2/mmf/up/ep03-costco_thumb.png"
  },
  {
   "slug": "ep04-lego",
