@@ -1,0 +1,14 @@
+{
+ "title": "How a Chainsaw Works in 60 Seconds 🪵⚙️ #shorts",
+ "description": "A chainsaw is a tiny one-cylinder engine driving a loop of about 30 hardened steel teeth around a long guide bar. A centrifugal clutch keeps the chain still at idle and grabs only when the engine revs up, and oil keeps the chain sliding while it chews through wood. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#chainsaw #engineering #howitworks",
+ "tags": ["chainsaw", "how a chainsaw works", "centrifugal clutch", "two stroke engine", "guide bar", "saw chain", "cutting wood", "power tools", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A chainsaw is a *saw blade* with no ends, a loop of about *30 steel teeth*.", "stat": "~30", "statsub": "HARDENED STEEL TEETH"},
+  {"label": "Engine", "text": "Inside sits a tiny *one-cylinder* engine, often a two-stroke, revving thousands of times a minute."},
+  {"label": "Clutch", "text": "At idle, the chain stays still. Rev up, and *spinning weights* fly outward and grab the *clutch drum*."},
+  {"label": "Sprocket", "text": "The drum turns a *sprocket*, which drags the chain around a long steel *guide bar*."},
+  {"label": "Teeth", "text": "Each sharp *tooth* bites off a chip of wood, and the next one follows right behind it."},
+  {"label": "Oil", "text": "Oil drips onto the bar so the chain *slides* instead of *overheating*."},
+  {"label": "Recap", "text": "Rev, grab, *chew*. Follow Inside 60 for more."}
+ ]
+}
