@@ -749,8 +749,9 @@
  {
   "slug": "s106-heat-pump",
   "topic": "Heat pump",
-  "status": "doing",
-  "publish_at": "2027-03-07T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-07T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/39acf5336ae88c6e6a928ff49eb1a50ba6549c3b/i60/up/s106-heat-pump.mp4"
  },
  {
   "slug": "s107-radiator-heating",
