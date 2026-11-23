@@ -742,8 +742,9 @@
  {
   "slug": "s105-space-heater",
   "topic": "Space heater",
-  "status": "doing",
-  "publish_at": "2027-03-06T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-06T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/68551c4857720f10002fd26a8407c094500b96c7/i60/up/s105-space-heater.mp4"
  },
  {
   "slug": "s106-heat-pump",
