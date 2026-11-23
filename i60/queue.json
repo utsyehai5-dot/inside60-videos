@@ -584,8 +584,9 @@
  {
   "slug": "s083-forklift",
   "topic": "Forklift",
-  "status": "doing",
-  "publish_at": "2027-02-12T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-12T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/7956d0b2d5d3474f3680022376b9354e9037115e/i60/up/s083-forklift.mp4"
  },
  {
   "slug": "s084-drone",
