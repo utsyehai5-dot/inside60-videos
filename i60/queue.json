@@ -784,8 +784,9 @@
  {
   "slug": "s111-iron-steam",
   "topic": "Iron (steam)",
-  "status": "doing",
-  "publish_at": "2027-03-12T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-12T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/68943938e0c31477c959edf833426d88ff33f477/i60/up/s111-iron-steam.mp4"
  },
  {
   "slug": "s112-robot-vacuum",
