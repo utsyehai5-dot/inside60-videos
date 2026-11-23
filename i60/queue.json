@@ -556,8 +556,9 @@
  {
   "slug": "s079-car-air-conditioning",
   "topic": "Car air conditioning",
-  "status": "doing",
-  "publish_at": "2027-02-08T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-08T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/290273b3c58444ff3367790780f5293904e82d39/i60/up/s079-car-air-conditioning.mp4"
  },
  {
   "slug": "s080-hydraulic-press",
