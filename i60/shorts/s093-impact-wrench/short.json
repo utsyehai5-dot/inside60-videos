@@ -1,0 +1,52 @@
+{
+ "title": "How an Impact Wrench Works in 60 Seconds 🔧💥 #shorts",
+ "description": "An impact wrench breaks loose stubborn lug nuts without twisting your arm. Inside, the motor spins a heavy hammer that stores energy, then slams it into the anvil that holds the socket, usually twice every turn. Because the force arrives in short blows, almost no torque kicks back into your wrist. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#impactwrench #engineering #howitworks",
+ "tags": [
+  "impact wrench",
+  "how an impact wrench works",
+  "hammer and anvil",
+  "impact mechanism",
+  "lug nuts",
+  "torque",
+  "power tools",
+  "engineering",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "An impact wrench spins off rusted lug nuts that you can't budge by hand, *without twisting* your arm.",
+   "stat": "1935",
+   "statsub": "FIRST PATENT"
+  },
+  {
+   "label": "Motor",
+   "text": "Pull the trigger, and the electric motor spins a heavy metal *hammer* inside the nose."
+  },
+  {
+   "label": "Wind-up",
+   "text": "The hammer spins freely at first, picking up speed and *storing energy*, like winding up a punch."
+  },
+  {
+   "label": "Strike",
+   "text": "Then its lugs slam into the *anvil*, the output shaft that holds the socket, in one sharp blow."
+  },
+  {
+   "label": "Repeat",
+   "text": "A *ramp* lifts the hammer off, a *spring* snaps it back, and it strikes again.",
+   "stat": "2×",
+   "statsub": "BLOWS PER TURN"
+  },
+  {
+   "label": "No kick",
+   "text": "The force comes in short, quick hits, so *very little torque* ever kicks back into your wrist."
+  },
+  {
+   "label": "Recap",
+   "text": "Spin, store, *strike*. Follow Inside 60 for more."
+  }
+ ]
+}

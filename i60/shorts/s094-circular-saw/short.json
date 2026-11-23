@@ -1,0 +1,55 @@
+{
+ "title": "How a Circular Saw Works in 60 Seconds 🪚⚙️ #shorts",
+ "description": "A standard circular saw spins a 7¼-inch blade at around 5,500 RPM. Carbide-tipped teeth chip the wood while gullets carry sawdust out, the blade cuts upward from below, and a spring-loaded guard covers it when you're done. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#circularsaw #woodworking #howitworks",
+ "tags": [
+  "circular saw",
+  "how a circular saw works",
+  "saw blade",
+  "carbide teeth",
+  "blade guard",
+  "bevel cut",
+  "woodworking",
+  "power tools",
+  "engineering",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "A standard circular saw blade is just *7¼ inches* across, yet it slices a board in seconds.",
+   "stat": "7¼ in",
+   "statsub": "STANDARD BLADE"
+  },
+  {
+   "label": "Motor",
+   "text": "The motor spins the blade at roughly *5,500 RPM* with no load.",
+   "stat": "~5,500",
+   "statsub": "RPM NO LOAD"
+  },
+  {
+   "label": "Teeth",
+   "text": "Each *carbide-tipped tooth* chips off a little wood, and the gaps between teeth, called *gullets*, carry the sawdust out."
+  },
+  {
+   "label": "Upcut",
+   "text": "The blade cuts *upward* from below, which pulls the board up against the saw's flat base plate."
+  },
+  {
+   "label": "Guard",
+   "text": "A clear *spring-loaded guard* slides back as you push into the cut, then snaps shut over the blade."
+  },
+  {
+   "label": "Adjust",
+   "text": "The base sets the cut *depth*, and tilts up to *45 degrees* for bevels.",
+   "stat": "45°",
+   "statsub": "MAX BEVEL"
+  },
+  {
+   "label": "Recap",
+   "text": "Spin, chip, *guard*. Follow Inside 60 for more."
+  }
+ ]
+}
