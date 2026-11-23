@@ -598,8 +598,9 @@
  {
   "slug": "s085-electric-guitar",
   "topic": "Electric guitar",
-  "status": "doing",
-  "publish_at": "2027-02-14T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-14T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c8b78f125d1e26cb97cc34804f2232c2e7e0d56e/i60/up/s085-electric-guitar.mp4"
  },
  {
   "slug": "s086-piano",
