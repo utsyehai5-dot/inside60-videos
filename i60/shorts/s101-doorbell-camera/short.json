@@ -1,0 +1,14 @@
+{
+ "title": "How a Doorbell Camera Works in 60 Seconds 🔔📹 #shorts",
+ "description": "A doorbell camera knows you're there before you press the button. A passive infrared sensor spots body heat and tells the camera to start recording, while a wide lens sees up to 180 degrees. The clip travels over Wi-Fi to your phone, with two-way audio and infrared night vision. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#doorbellcamera #smarthome #howitworks",
+ "tags": ["doorbell camera", "how a video doorbell works", "video doorbell", "pir sensor", "night vision", "two-way audio", "wifi camera", "smart home", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A doorbell camera can see you *before* you ring, across up to *180 degrees*.", "stat": "180°", "statsub": "WIDE-ANGLE VIEW"},
+  {"label": "Heat", "text": "A *PIR sensor* watches for *infrared* heat from a person walking up."},
+  {"label": "Record", "text": "When the heat pattern changes, it signals the *camera* to start recording."},
+  {"label": "Wi-Fi", "text": "The video travels over *Wi-Fi* and an *alert* pops up on your phone."},
+  {"label": "Talk", "text": "A *microphone* and *speaker* let you talk to the visitor from anywhere."},
+  {"label": "Night", "text": "In the dark, *infrared LEDs* light the scene in black and white, invisible to us."},
+  {"label": "Recap", "text": "Sense, record, *alert*. Follow Inside 60 for more."}
+ ]
+}
