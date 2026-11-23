@@ -20,9 +20,11 @@
  {
   "slug": "s003-electric-motor",
   "topic": "Electric motor",
-  "status": "ready",
+  "status": "done",
   "publish_at": "2026-11-24T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/13a71ad773c3aefbae5152b38d4154a58a012905/i60/up/s003-electric-motor.mp4"
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/13a71ad773c3aefbae5152b38d4154a58a012905/i60/up/s003-electric-motor.mp4",
+  "video_id": "ToxnzE3IUY0",
+  "uploaded_on": "2026-11-23"
  },
  {
   "slug": "s004-smartphone-touchscreen",
@@ -740,19 +742,19 @@
  {
   "slug": "s105-space-heater",
   "topic": "Space heater",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-06T17:05:00Z"
  },
  {
   "slug": "s106-heat-pump",
   "topic": "Heat pump",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-07T17:05:00Z"
  },
  {
   "slug": "s107-radiator-heating",
   "topic": "Radiator heating",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-08T17:05:00Z"
  },
  {
