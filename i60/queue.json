@@ -798,8 +798,9 @@
  {
   "slug": "s113-air-purifier",
   "topic": "Air purifier",
-  "status": "doing",
-  "publish_at": "2027-03-14T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-14T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/efaf1ca7ce5598e88ef7d3b43c338a7e882798ba/i60/up/s113-air-purifier.mp4"
  },
  {
   "slug": "s114-humidifier",
