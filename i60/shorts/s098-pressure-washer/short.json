@@ -1,0 +1,14 @@
+{
+ "title": "How a Pressure Washer Works in 60 Seconds 💦⚙️ #shorts",
+ "description": "A garden hose delivers roughly 50 PSI, but a home pressure washer can reach about 3,000. A motor drives small pistons that squeeze the water, and a tiny nozzle turns it into a fast, narrow jet. When you release the trigger, an unloader valve sends the water back around the pump. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#pressurewasher #cleaning #howitworks",
+ "tags": ["pressure washer", "how a pressure washer works", "power washer", "axial pump", "unloader valve", "nozzle", "psi", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A garden hose gives about *50 PSI*. A home pressure washer can hit about *3,000*.", "stat": "3,000 PSI", "statsub": "VS ~50 PSI HOSE"},
+  {"label": "Pump", "text": "Hose water flows into a *pump*, driven by an electric motor or a gas engine."},
+  {"label": "Pistons", "text": "Inside, a tilted *wobble plate* pushes small *pistons* that squeeze the water in rapid pulses."},
+  {"label": "Nozzle", "text": "At the end of the wand, a tiny *nozzle* forces the water out as a fast, thin jet."},
+  {"label": "Tips", "text": "Swap the tip to change the spray: *narrow* for power, *wide* for gentle cleaning."},
+  {"label": "Unloader", "text": "Let go of the trigger, and an *unloader valve* sends the water back around the pump."},
+  {"label": "Recap", "text": "Pump, squeeze, *blast*. Follow Inside 60 for more."}
+ ]
+}
