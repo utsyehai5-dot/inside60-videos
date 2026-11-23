@@ -754,8 +754,9 @@
  {
   "slug": "s107-radiator-heating",
   "topic": "Radiator heating",
-  "status": "doing",
-  "publish_at": "2027-03-08T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-08T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/51d4d5b51fbfd6eac385466d47a2be85bca0058d/i60/up/s107-radiator-heating.mp4"
  },
  {
   "slug": "s108-gas-boiler",
