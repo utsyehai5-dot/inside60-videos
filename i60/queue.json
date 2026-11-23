@@ -591,8 +591,9 @@
  {
   "slug": "s084-drone",
   "topic": "Drone",
-  "status": "doing",
-  "publish_at": "2027-02-13T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-13T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/719422c7d3648251a941071349f1e3fae7b3fe38/i60/up/s084-drone.mp4"
  },
  {
   "slug": "s085-electric-guitar",
