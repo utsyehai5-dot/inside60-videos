@@ -11,9 +11,11 @@
  {
   "slug": "s002-car-engine",
   "topic": "Car engine",
-  "status": "ready",
+  "status": "done",
   "publish_at": "2026-11-23T17:05:00Z",
-  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/451c5b786d233d59bfdfe4ce22c517192c3325f9/i60/up/s002-car-engine.mp4"
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/451c5b786d233d59bfdfe4ce22c517192c3325f9/i60/up/s002-car-engine.mp4",
+  "video_id": "wJrDhxdqo2I",
+  "uploaded_on": "2026-11-23"
  },
  {
   "slug": "s003-electric-motor",
