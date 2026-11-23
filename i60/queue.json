@@ -682,8 +682,9 @@
  {
   "slug": "s097-air-compressor",
   "topic": "Air compressor",
-  "status": "doing",
-  "publish_at": "2027-02-26T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-26T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c1ba04085b2ec5b10a68d66d7dae6fd13c3d9165/i60/up/s097-air-compressor.mp4"
  },
  {
   "slug": "s098-pressure-washer",
