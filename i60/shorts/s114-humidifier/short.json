@@ -1,0 +1,14 @@
+{
+ "title": "How a Humidifier Works in 60 Seconds 💧🌫️ #shorts",
+ "description": "An ultrasonic humidifier has no heater at all. A small ceramic disc under the water vibrates more than a million times a second, shaking the surface into a cool fog of tiny droplets that a fan blows into the room. A sensor stops it once the air is comfortable. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#humidifier #ultrasonic #howitworks",
+ "tags": ["humidifier", "how a humidifier works", "ultrasonic humidifier", "cool mist", "piezoelectric", "humidity", "home appliances", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "This cool mist is made by a disc shaking over a *million times a second*.", "stat": "1,000,000+", "statsub": "VIBRATIONS PER SECOND"},
+  {"label": "Tank", "text": "Water flows from the *tank* into a shallow basin."},
+  {"label": "Disc", "text": "Under it sits a *piezo disc*, a ceramic that flexes when electricity hits it."},
+  {"label": "Mist", "text": "Its vibrations rip the surface into *tiny droplets*, a cold fog with no heat."},
+  {"label": "Fan", "text": "A small *fan* pushes the fog up the nozzle and into the room."},
+  {"label": "Sensor", "text": "A *humidity sensor* stops it around 30 to 50 percent, the comfortable range."},
+  {"label": "Recap", "text": "Shake, *mist*, blow. Follow Inside 60 for more."}
+ ]
+}
