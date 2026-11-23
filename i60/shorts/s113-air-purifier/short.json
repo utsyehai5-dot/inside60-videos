@@ -1,0 +1,14 @@
+{
+ "title": "How an Air Purifier Works in 60 Seconds 🌬️✨ #shorts",
+ "description": "An air purifier is a fan pushing room air through layers of filters. A pre-filter catches hair and dust, activated carbon soaks up odours, and a true HEPA filter traps 99.97% of particles as small as 0.3 microns before clean air blows back out. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#airpurifier #hepa #howitworks",
+ "tags": ["air purifier", "how an air purifier works", "hepa filter", "activated carbon", "pre-filter", "clean air", "home appliances", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A true HEPA filter traps *99.97%* of particles as small as 0.3 microns.", "stat": "99.97%", "statsub": "AT 0.3 MICRONS"},
+  {"label": "Fan", "text": "A *fan* pulls room air in through the sides."},
+  {"label": "Pre-filter", "text": "A coarse *pre-filter* catches hair, lint and big dust first."},
+  {"label": "Carbon", "text": "*Activated carbon* is full of tiny pores that soak up smells and gases."},
+  {"label": "HEPA", "text": "Then a dense, pleated mat of *glass fibres* snags pollen, dust and smoke."},
+  {"label": "Clean air", "text": "*Clean air* blows out of the top, and the room cycles through again and again."},
+  {"label": "Recap", "text": "Pull, *filter*, push. Follow Inside 60 for more."}
+ ]
+}
