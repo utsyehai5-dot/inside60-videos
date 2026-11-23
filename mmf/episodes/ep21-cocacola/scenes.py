@@ -1,0 +1,115 @@
+# Money Machine Files — Ep 21: How Coca-Cola Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "2.2 BILLION", "servings of its drinks, every single day"),
+      t="Every day, people around the world drink about *two point two billion* servings of Coca-Cola company drinks. That is in more than two hundred countries and territories."),
+ dict(v=("quote", "It sells the drink. It doesn't make most of it.", ""),
+      t="But here is the strange part. The Coca-Cola Company does not bottle most of those drinks. It does not own most of the trucks, or most of the factories. So how does Coca-Cola *really* make money?"),
+ dict(v=("brand", "FILE #021  ·  COCA-COLA"),
+      t="This is the money machine behind Coca-Cola. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "Nine Drinks a Day"),
+      t="Chapter one. Nine drinks a day."),
+ dict(v=("timeline", "MAY 8, 1886", "A new syrup is first sold at Jacobs' Pharmacy, Atlanta"),
+      t="On May eighth, 1886, a pharmacist in *Atlanta* named *John Pemberton* brought a new syrup to Jacobs' Pharmacy. Mixed with carbonated water, it was sold at the soda fountain."),
+ dict(v=("stat", "5 CENTS", "the price of one glass in 1886", "Sold at the soda fountain"), photo="old pharmacy interior shelves",
+      t="One glass cost *five cents*. His partner and bookkeeper, *Frank Robinson*, suggested the name Coca-Cola, and wrote it out in the flowing script that is still used today."),
+ dict(v=("stat", "9 PER DAY", "average glasses sold in the first year", "A slow start"),
+      t="And the first year? Sales averaged only about *nine drinks a day*. One of the most famous brands on Earth started as a drink almost nobody bought."),
+ dict(v=("timeline", "1888–1891", "Asa Candler takes full control, for a total of $2,300"), photo="atlanta historic downtown building",
+      t="Pemberton sold his share before he died in 1888. A businessman named *Asa Candler* gathered up the rights, and by 1891 he owned the whole thing. The total cost: about *two thousand three hundred dollars*."),
+ dict(v=("timeline", "JANUARY 31, 1893", "The Coca-Cola trademark is registered"),
+      t="Candler was a born salesman. He pushed the name hard, set up The Coca-Cola Company, and registered the *trademark* in 1893. He understood early that the name was worth more than the recipe."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "The Deal That Built the Machine"),
+      t="Chapter two. The deal that built the machine."),
+ dict(v=("timeline", "1899", "Two men from Chattanooga get the bottling rights"), photo="antique glass soda bottles",
+      t="In 1899, two men from Chattanooga, *Benjamin Thomas* and *Joseph Whitehead*, came to Candler with an idea. Put the drink in *bottles*, so people could drink it anywhere, not only at a soda fountain."),
+ dict(v=("compare", "CANDLER", ["Keeps the formula", "sells the syrup", "Owns the brand"], "THE BOTTLERS", ["Build the plants", "bottle and deliver", "Take the risk"]),
+      t="Candler was focused on soda fountains. So he gave them the exclusive right to bottle Coca-Cola in nearly the whole United States. They would build the factories and take the risk. He would *sell them the syrup*."),
+ dict(v=("stat", "2 → 1,000+", "bottling plants, 1899 to about 1919", "First plant: Chattanooga, 1899"), photo="old brick factory building",
+      t="It worked better than anyone expected. The first plant opened in Chattanooga in 1899. Within about *twenty years*, there were more than *one thousand* bottling plants."),
+ dict(v=("timeline", "1916", "The contour bottle is approved"),
+      t="To stop copycats, the bottlers approved a special *contour bottle* in 1916, made by the Root Glass Company in Indiana. A shape so famous that it was later registered as a *trademark* itself."),
+ dict(v=("flow", "The franchise idea", ["Coca-Cola", "Bottlers", "Shops"], ["sells concentrate", "sell bottled drinks"],
+         "Coca-Cola sells the secret ingredient  →  partners do the heavy work", "Coca-Cola"),
+      t="This was the birth of the *Coca-Cola system*. The company makes the secret ingredient and builds the brand. Partners do the heavy, expensive work of bottling, trucks and delivery."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "A Formula in a Vault"),
+      t="Chapter three. A formula in a vault."),
+ dict(v=("timeline", "1919", "Candler family sells the company for $25 million"), photo="old bank vault door",
+      t="In 1919, the Candler family sold the company for *twenty-five million dollars* to a group led by an Atlanta businessman, *Ernest Woodruff*. To help pay for it, Woodruff took out a loan, and used the secret *formula* itself as security."),
+ dict(v=("timeline", "1925", "The formula returns to Atlanta, into a bank vault"),
+      t="The recipe was written down and kept in a bank vault in New York until the loan was paid off in 1925. Then it came back to Atlanta, into another bank vault, where it stayed for more than *eighty-six years*."),
+ dict(v=("timeline", "DECEMBER 8, 2011", "The vault moves to the World of Coca-Cola museum"),
+      t="In December 2011, the company moved it into a vault at its own museum in Atlanta. Visitors can see the *vault*, but not what is inside. The secret itself became part of the *show*."),
+ dict(v=("quote", "The mystery is marketing.", ""),
+      t="And that is the lesson. A secret recipe is useful. But a secret recipe that everyone talks about is *priceless marketing*."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "Everywhere, for Everyone"),
+      t="Chapter four. Everywhere, for everyone."),
+ dict(v=("timeline", "1923", "Robert Woodruff becomes president"),
+      t="In 1923, Ernest Woodruff's son, *Robert Woodruff*, became president. His big goal was to put a Coca-Cola within reach of everyone, everywhere."),
+ dict(v=("timeline", "WORLD WAR II", "A Coca-Cola for 5 cents, for every American soldier"), photo="vintage bottles crate wooden",
+      t="During the Second World War, the company promised that every American serviceman would get a Coca-Cola for *five cents*, wherever he was stationed. The drink travelled with the troops, and when the war ended, the taste had friends all over the world."),
+ dict(v=("timeline", "1985", "New Coke: the taste change that backfired"),
+      t="The company also learned how strong that bond was. In 1985 it changed the recipe and launched *New Coke*. Fans protested so loudly that the company soon brought the original back as *Coca-Cola Classic*."),
+ dict(v=("quote", "People weren't buying a taste. They were buying a feeling.", ""),
+      t="That mistake proved something powerful. People were not only buying a taste. They were buying a *memory* and a feeling. And a feeling is very hard for a rival to copy."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "Where the Money Comes From"),
+      t="Chapter five. Where the money comes from."),
+ dict(v=("stat", "$47.9 BILLION", "Coca-Cola net revenues, 2025", "Up 2%. Organic revenues up 5%"),
+      t="In 2025, the Coca-Cola Company had net revenues of about *forty-seven point nine billion dollars*. That was up two percent, or five percent without the effect of currencies and deals."),
+ dict(v=("stat", "33.8 BILLION", "unit cases sold through the system, 2025", "84% of them outside the United States"), photo="bottles on conveyor belt factory",
+      t="Through its system, it sold about *thirty-three point eight billion* unit cases of drinks. And here is a surprise for an American icon. About *eighty-four percent* of that volume was sold outside the United States."),
+ dict(v=("flow", "The concentrate machine", ["Coca-Cola", "200+ bottlers", "You"], ["sells concentrate", "mix, bottle, deliver"],
+         "The company sells concentrate and the brand  →  bottlers do the rest", "Coca-Cola"),
+      t="So how does the money flow? The company mainly sells *concentrate* and syrup to more than two hundred bottling partners. They mix it, bottle it, and deliver it from more than nine hundred and fifty plants. The company also spends heavily on *marketing*, which makes the drinks sell."),
+ dict(v=("compare", "CONCENTRATE", ["Small factory", "high gross margin", "Asset light"], "FINISHED DRINKS", ["Plants and trucks", "lower gross margin", "Heavy work"]),
+      t="Selling concentrate brings in less revenue than selling finished drinks. But it needs far fewer factories and trucks, and it has much *higher margins*. The partners carry most of the heavy costs."),
+ dict(v=("pie", "31.2%", "comparable operating margin, 2025"), photo="soda fountain drink glass ice",
+      t="That is why the margins look so strong. In 2025, Coca-Cola's comparable operating margin was about *thirty-one percent*. Out of every dollar of revenue, roughly thirty-one cents was left as operating profit, before unusual items."),
+ dict(v=("timeline", "63 YEARS", "of dividend increases in a row (to 2025)"),
+      t="And much of that cash goes back to shareholders. In 2025 the company paid about *eight point eight billion dollars* in dividends. It has raised its dividend for *sixty-three years* in a row."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "Selling the Factories"),
+      t="Chapter six. Selling the factories."),
+ dict(v=("bars", "Bottling investments, share of net revenues", [("2015", 52, "52%"), ("2025", 12, "12%")]),
+      t="Here is the secret most people never notice. Over the years, Coca-Cola had bought many struggling bottlers. In 2015, its own bottling business made up *fifty-two percent* of its net revenues. By 2025, that was down to just *twelve percent*."),
+ dict(v=("flow", "Refranchising", ["Company-owned bottler", "Local partner", "Coca-Cola"], ["sold to partners", "buys concentrate"],
+         "Sell the heavy plants  →  keep selling the concentrate", "Coca-Cola"),
+      t="The company *sold* those bottling plants back to independent partners. Revenue went down on paper, but the business became lighter and more profitable. Coca-Cola went back to doing what it does best: the *brand* and the concentrate."),
+ dict(v=("list", "The five biggest bottling partners", ["Coca-Cola FEMSA", "Coca-Cola Europacific Partners", "Coca-Cola HBC", "Arca Continental", "Swire Coca-Cola"]),
+      t="Today, just five big independent bottlers, from Mexico to Europe to Asia, handle about *forty-four percent* of all the drinks in the system. Coca-Cola does not control them. It needs them, and they need it."),
+
+ # ---------- CH 7 ----------
+ dict(v=("chapter", "7", "The Newest Numbers"),
+      t="Chapter seven. The newest numbers."),
+ dict(v=("compare", "JULY–SEPT 2025", ["32.0%", "operating margin", "a year earlier"], "JULY–SEPT 2026", ["$13.4 billion", "net revenues, +7%", "33.4% operating margin"]),
+      t="Now the newest numbers. From July to September 2026, net revenues grew *seven percent* to about thirteen point four billion dollars. Operating income rose twelve percent, and the operating margin climbed to *thirty-three point four percent*."),
+ dict(v=("bars", "Unit case volume growth, July–Sept 2026", [("Latin America", 6, "+6%"), ("Asia Pacific", 6, "+6%"), ("Europe, Mid. East, Africa", 5, "+5%"), ("North America", 0.3, "0%")]),
+      t="Total volume grew *five percent*, led by *India*, China, Mexico and Brazil. Latin America and Asia Pacific grew six percent. Europe, the Middle East and Africa, five. But North America was flat."),
+ dict(v=("stat", "+16%", "Coca-Cola Zero Sugar volume, July–Sept 2026", "Trademark Coca-Cola: +5%"),
+      t="And look at what people are choosing. *Coca-Cola Zero Sugar* grew sixteen percent. The whole Coca-Cola trademark grew five percent. The old brand is finding new drinkers with *less sugar*."),
+ dict(v=("quote", "Full-year 2026 free cash flow: at least $13 billion.", "Raised guidance, October 2026"),
+      t="The company raised its forecast for 2026, and now expects at least *thirteen billion dollars* of free cash flow. But there are risks. Sugar taxes, health worries and currency swings never go away, and a brand is only as strong as the next generation's love for it."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The Coca-Cola money machine", ["Sell concentrate, not heavy bottles", "Let 200+ partners bottle and deliver", "Spend big on the brand", "Sell the plants, keep the margins"]),
+      t="Sell *concentrate*, not heavy bottles. Let more than two hundred partners do the bottling and delivery. Spend big on the *brand*, so the drinks keep selling. And sell off the factories, but keep the high margins."),
+ dict(v=("quote", "It started at nine drinks a day. Now it's 2.2 billion.", ""),
+      t="It started with nine drinks a day at a pharmacy in Atlanta. Today it is two point two billion servings a day, made mostly by other companies. The big question: can a sugary drink stay this powerful in a healthier world?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind Coca-Cola. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
