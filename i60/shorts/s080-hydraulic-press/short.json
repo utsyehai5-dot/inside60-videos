@@ -1,0 +1,14 @@
+{
+ "title": "How a Hydraulic Press Works in 60 Seconds 💪🔩 #shorts",
+ "description": "A hydraulic press lets a small push create a huge crushing force, an idea Joseph Bramah patented in 1795. Pressure in a trapped liquid spreads equally everywhere (Pascal's principle), so a big piston with 100 times the area of the small one pushes with 100 times the force. The trade-off: the small piston must move 100 times farther. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#hydraulicpress #physics #howitworks",
+ "tags": ["hydraulic press", "how hydraulic press works", "pascal's principle", "hydraulics", "pistons", "force", "physics", "engineering", "science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A hydraulic press turns a *small push* into a *crushing force*. Joseph Bramah patented it in *1795*."},
+  {"label": "Oil", "text": "Two pistons sit on the same *sealed tube of oil*, one small and one big."},
+  {"label": "Pascal", "text": "Push the small piston, and the *pressure spreads equally* through all the oil."},
+  {"label": "Big piston", "text": "The big piston has *100 times the area*, so it pushes with *100 times the force*.", "stat": "100x", "statsub": "MORE FORCE"},
+  {"label": "Trade-off", "text": "The catch: the small piston must travel *100 times farther*."},
+  {"label": "Crush", "text": "A pump repeats those small strokes, and the ram slowly *crushes* whatever is below."},
+  {"label": "Recap", "text": "Push, spread, *multiply*. Follow Inside 60 for more."}
+ ]
+}
