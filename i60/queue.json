@@ -696,19 +696,19 @@
  {
   "slug": "s099-garage-door-opener",
   "topic": "Garage door opener",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-02-28T17:05:00Z"
  },
  {
   "slug": "s100-door-lock-smart",
   "topic": "Door lock (smart)",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-01T17:05:00Z"
  },
  {
   "slug": "s101-doorbell-camera",
   "topic": "Doorbell camera",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-02T17:05:00Z"
  },
  {
