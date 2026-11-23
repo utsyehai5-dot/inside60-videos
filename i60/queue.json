@@ -689,8 +689,9 @@
  {
   "slug": "s098-pressure-washer",
   "topic": "Pressure washer",
-  "status": "doing",
-  "publish_at": "2027-02-27T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-27T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/a658e474d5f875607f1bf44e19a0e219eaa5e13e/i60/up/s098-pressure-washer.mp4"
  },
  {
   "slug": "s099-garage-door-opener",
