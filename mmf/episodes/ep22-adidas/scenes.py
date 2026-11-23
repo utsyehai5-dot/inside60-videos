@@ -1,0 +1,107 @@
+# Money Machine Files — Ep 22: How Adidas Really Makes Money
+# Each scene: narration text + visual spec (+ optional photo query). *word* = highlighted caption keyword.
+
+SCENES = [
+ # ---------- COLD OPEN ----------
+ dict(v=("title", "€24.8 BILLION", "adidas revenue in 2025, a new record"),
+      t="In 2025, adidas sold shoes, shirts and footballs worth about *twenty-four point eight billion euros*. It was the biggest year in the company's history."),
+ dict(v=("quote", "Two years earlier, it lost money for the first time in three decades.", ""),
+      t="But just two years before that, adidas posted its first yearly *loss* in about thirty years. A partnership worth billions had collapsed overnight. So how does adidas *really* make money, and how did it climb back so fast?"),
+ dict(v=("brand", "FILE #022  ·  ADIDAS"),
+      t="This is the money machine behind adidas. Let's open the file."),
+
+ # ---------- CH 1 ----------
+ dict(v=("chapter", "1", "Two Brothers, One Laundry Room"),
+      t="Chapter one. Two brothers, one laundry room."),
+ dict(v=("timeline", "1924", "Gebrüder Dassler Schuhfabrik, Herzogenaurach"), photo="old cobbler workshop tools leather",
+      t="The story begins in *Herzogenaurach*, a small town in Bavaria, Germany. After the First World War, *Adi Dassler* started making shoes in his mother's *laundry room*. In 1924 he and his brother *Rudolf* registered the Dassler Brothers shoe factory."),
+ dict(v=("stat", "4 GOLD", "medals at the 1936 Berlin Olympics", "Won by an athlete in Dassler shoes"), photo="vintage running track spikes",
+      t="Their big break came at the 1936 Olympics in Berlin. The American sprinter *Jesse Owens* ran in a pair of Dassler shoes, and won *four gold medals*. Suddenly, the small workshop had the whole sports world's attention."),
+ dict(v=("compare", "ADI", ["adidas, from August 1949", "One side of the river", "Three stripes"], "RUDOLF", ["Ruda, then Puma, 1948", "The other side", "A big cat"]),
+      t="But the brothers fell out. In 1948 they split the company in two. Rudolf set up a firm on one side of the *Aurach* river, first called Ruda, soon renamed *Puma*. Adi stayed on the other side, and built his own brand."),
+ dict(v=("timeline", "AUGUST 18, 1949", "adidas is born, with 47 employees"), photo="small town river bridge germany",
+      t="On the eighteenth of August 1949, adidas was born, with just *forty-seven employees*. The name joined Adi's first and last names. The rivalry split the town in two, and the brothers never really made peace."),
+ dict(v=("stat", "59,000+", "adidas employees worldwide (2024)", "From 47 people in 1949"),
+      t="That tiny company of forty-seven people grew into a global group. By 2024, adidas employed more than *fifty-nine thousand* people around the world. And, in a small twist of fate, staff from adidas and Puma finally played a friendly football match together in 2009."),
+
+ # ---------- CH 2 ----------
+ dict(v=("chapter", "2", "The Three Stripes Go Global"),
+      t="Chapter two. The three stripes go global."),
+ dict(v=("timeline", "1954", "Screw-in studs and a World Cup win in Bern"), photo="football boots studs grass",
+      t="In 1954, West Germany reached the World Cup final in Bern, Switzerland. Adidas helped make *screw-in studs* popular, so players could change them for a wet pitch. Germany won, and the brand with the *three stripes* became famous around the world."),
+ dict(v=("quote", "Put the product on the winners. The world will copy them.", ""),
+      t="That moment taught adidas its oldest lesson. If the best athletes wear your shoes on the biggest stage, millions of ordinary people will want the *same pair*."),
+ dict(v=("stat", "€3.1 BILLION", "marketing and point-of-sale spending, 2025", "12.4 cents of every euro of sales"),
+      t="Today that lesson has a price tag. In 2025, adidas spent about *three point one billion euros* on marketing and point-of-sale, around twelve cents of every euro it took in. Teams, leagues, athletes and shop displays."),
+ dict(v=("timeline", "2026", "Trionda: the official ball of the FIFA World Cup 26"), photo="soccer ball stadium grass",
+      t="And the biggest stage of all is still football. The official match ball of the 2026 World Cup in the United States, Canada and Mexico was an adidas ball, called *Trionda*. Billions of people saw it."),
+
+ # ---------- CH 3 ----------
+ dict(v=("chapter", "3", "Where the Money Comes From"),
+      t="Chapter three. Where the money comes from."),
+ dict(v=("bars", "adidas revenue by product, 2025", [("Footwear", 14232, "€14.2 bn"), ("Apparel", 8764, "€8.8 bn"), ("Accessories", 1815, "€1.8 bn")]),
+      t="So what does adidas actually sell? Mostly *shoes*. In 2025, footwear brought in about fourteen point two billion euros. Clothing, about eight point eight billion. Balls, bags and other accessories, about one point eight billion."),
+ dict(v=("pie", "60%", "of 2025 sales went through other shops (wholesale)"),
+      t="And here is the first surprise. Adidas sells most of its products *through other shops*. About *sixty percent* of 2025 sales came from wholesale: sports chains, department stores and partners all over the world."),
+ dict(v=("flow", "How a pair of shoes makes money", ["Suppliers", "adidas", "Shops & online", "You"], ["make", "brand", "sell"],
+         "adidas designs and markets  →  shops sell about 60% of it", "adidas"),
+      t="The other forty percent is *direct to consumer*: its own stores and its website and apps. At the end of 2025, adidas ran about two thousand and twenty-two shops of its own. Its two biggest sourcing countries were *Vietnam* and *Indonesia*."),
+ dict(v=("stat", "51.6%", "gross margin, 2025", "Up from 50.8% in 2024"), photo="sneakers shoe store wall display",
+      t="Now the margin. In 2025, adidas kept about *fifty-one point six percent* of its revenue after paying for the products themselves. So roughly half of every euro is left to pay for marketing, stores, staff and everything else."),
+ dict(v=("compare", "2024", ["€1.34 billion", "operating profit", "5.6% margin"], "2025", ["€2.06 billion", "operating profit", "8.3% margin"]),
+      t="After all those costs, operating profit in 2025 was about *two point one billion euros*. That is roughly *eight cents* of profit on every euro of sales. Up from under six cents a year earlier."),
+ dict(v=("compare", "WHOLESALE", ["€14.8 billion", "sold through other shops", "Big volume, lower margin"], "DIRECT", ["€9.9 billion", "own stores, website & apps", "Higher margin, more control"]),
+      t="Why sell through other shops at all? Because wholesale brings *huge volume* and puts the three stripes in front of shoppers everywhere, without adidas paying for every shop. Selling direct earns more per pair, and gives adidas its own *data* about customers. The company wants both."),
+
+ # ---------- CH 4 ----------
+ dict(v=("chapter", "4", "The Partnership That Blew Up"),
+      t="Chapter four. The partnership that blew up."),
+ dict(v=("timeline", "OCTOBER 2022", "adidas ends its Yeezy partnership"), photo="sneaker boxes stacked warehouse",
+      t="For years, one of adidas's hottest products was *Yeezy*, a sneaker line made with the rapper Ye, formerly Kanye West. Then, in October 2022, after his offensive public remarks, adidas *ended the partnership*. Overnight, a huge pile of shoes could not be sold."),
+ dict(v=("stat", "−€513 MILLION", "net loss, Oct–Dec 2022", "Around €600 million of sales lost in that quarter alone"),
+      t="The damage was instant. In the last three months of 2022, adidas lost about *five hundred and thirteen million euros*. Around six hundred million euros of sales simply disappeared."),
+ dict(v=("stat", "−€58 MILLION", "net loss for 2023", "First yearly loss since 1992"),
+      t="And 2023 ended in the red too. A net loss of about *fifty-eight million euros*. Small, but symbolic. It was adidas's first full-year loss since *1992*."),
+ dict(v=("list", "What adidas did with the shoes", ["Sold them in batches from May 2023", "About €750 million of sales in mid-2023", "Donated part of the proceeds", "March 2025: \"not one Yeezy shoe left\""]),
+      t="So what do you do with billions of euros of shoes you cannot promote? Adidas chose to *sell them off* in batches from May 2023, and gave part of the money to groups fighting antisemitism. By March 2025, the finance chief said there was *not one Yeezy shoe left*."),
+ dict(v=("quote", "Never let one partner become the whole machine.", ""),
+      t="The lesson was painful. When one partner becomes too big a part of the business, a single headline can wipe out hundreds of millions of euros. Adidas had to rebuild its growth on many products, not just one *celebrity line*."),
+
+ # ---------- CH 5 ----------
+ dict(v=("chapter", "5", "The Comeback Shoe"),
+      t="Chapter five. The comeback shoe."),
+ dict(v=("timeline", "JANUARY 2023", "Bjørn Gulden becomes CEO"),
+      t="At the start of 2023, adidas hired a new boss, *Bjørn Gulden*. He had previously run Puma, the company founded by Rudolf Dassler across the river. History has a sense of humour."),
+ dict(v=("list", "The comeback plan", ["Old terrace classics: Samba, Gazelle", "Fewer discounts, more full-price sales", "Decide locally, not only in Germany", "Lean on football and running"]),
+      t="The rescue did not come from a new superstar deal. It came from old shoes. Classic low sneakers like the *Samba* and the *Gazelle*, designs that are decades old, suddenly became the fashion item of the moment. They helped hold up sales while Yeezy faded out."),
+ dict(v=("stat", "+13%", "adidas brand growth in 2025, currency-neutral", "The second year in a row of +13%"), photo="white sneakers three stripes",
+      t="And it worked. Without counting Yeezy, the adidas brand grew *thirteen percent* in 2025, after currency effects, for the *second year in a row*. Revenue hit that record of twenty-four point eight billion euros."),
+ dict(v=("stat", "€1 BILLION", "share buyback in 2026", "Shares bought back and cancelled"),
+      t="The company felt confident enough to start a *one billion euro* share buyback in 2026. It has now been completed, and the bought shares were cancelled."),
+
+ # ---------- CH 6 ----------
+ dict(v=("chapter", "6", "The Newest Numbers"),
+      t="Chapter six. The newest numbers."),
+ dict(v=("stat", "€7.25 BILLION", "revenue, July–Sept 2026: a quarterly record", "Up 9%. Currency-neutral: +7%"),
+      t="From July to September 2026, adidas had its biggest quarter ever. Revenue was about *seven point two five billion euros*, up nine percent."),
+ dict(v=("stat", "€2.5 BILLION", "marketing spend, Jan–Sept 2026", "Up 11%, timed around the World Cup"),
+      t="Behind that record was heavy spending. In the first nine months of 2026, adidas spent about *two point five billion euros* on marketing and point-of-sale, up eleven percent, and timed much of it around the *World Cup*. The oldest lesson, still at work."),
+ dict(v=("stat", "€1.0 BILLION", "operating profit in one quarter, July–Sept 2026", "Up 37%. Margin: 13.9%"),
+      t="For the first time, operating profit in a single quarter passed *one billion euros*, up thirty-seven percent. Part of the boost was a one-off: a *tariff refund* of about two hundred million euros helped the gross margin jump to fifty-four point three percent."),
+ dict(v=("bars", "Growth by region, Q3 2026", [("Japan / S. Korea", 19, "+19%"), ("Latin America", 16, "+16%"), ("Greater China", 13, "+13%"), ("North America", 12, "+12%"), ("Europe", 0.4, "−4%")]),
+      t="Every region grew by double digits except one. Japan and South Korea grew nineteen percent, Latin America sixteen, Greater China thirteen, North America twelve. But *Europe* fell four percent, partly because a new computer system delayed deliveries to shops."),
+ dict(v=("compare", "APPAREL", ["+19%", "clothing growth, Q3 2026", "Football & Originals"], "FOOTWEAR", ["Flat", "shoe growth, Q3 2026", "Lifestyle cooled"]),
+      t="And look at the mix. Clothing jumped *nineteen percent*, pushed by football shirts in a World Cup year. But footwear was *flat*. The Samba wave is cooling, and adidas needs the next big shoe."),
+ dict(v=("quote", "2026 operating profit: about €2.5 billion.", "Raised outlook, October 2026"),
+      t="Adidas now expects about *two point five billion euros* of operating profit for 2026, with sales up nine to ten percent before currency effects. The risks: tariffs, a weaker Europe, and fashion that can turn as fast as it came."),
+
+ # ---------- OUTRO ----------
+ dict(v=("chapter", "", "The Money Machine"),
+      t="So let's put the whole machine together."),
+ dict(v=("list", "The adidas money machine", ["Design and brand the product", "Put it on the best athletes", "Sell 60% through other shops", "Keep about half of each euro", "Spend 12 cents of it on marketing"]),
+      t="Adidas designs the product and builds the *brand*. It puts the shoes on the best athletes on the biggest stages. It sells most of them through other shops, keeps about half of every euro after product costs, and pours a big slice of that back into *marketing*, so the cycle starts again."),
+ dict(v=("quote", "It started in a laundry room. Its comeback started with a 1950s-style shoe.", ""),
+      t="It started in a laundry room in a small German town. It nearly stumbled over one broken partnership. And it came back with a classic shoe its founder would have recognised. The question now: can adidas find the next Samba before the trend runs out?"),
+ dict(v=("end", "", ""),
+      t="That's the money machine behind adidas. If you want to see how another giant really makes its money, subscribe to Money Machine Files, and tell me in the comments which company we should open next."),
+]
