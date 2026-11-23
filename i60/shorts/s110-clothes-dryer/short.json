@@ -1,0 +1,14 @@
+{
+ "title": "How a Clothes Dryer Works in 60 Seconds 👕🌀 #shorts",
+ "description": "A tumble dryer doesn't bake your clothes. It heats air, tumbles the clothes through it, and lets that hot air carry the water away as vapour, through the lint filter and out the vent. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#dryer #laundry #howitworks",
+ "tags": ["clothes dryer", "tumble dryer", "how a dryer works", "lint filter", "dryer vent", "laundry", "home appliances", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A clothes dryer doesn't bake your clothes. It carries the water away in *hot air*.", "stat": "60°C+", "statsub": "HOT AIR IN THE DRUM"},
+  {"label": "Heater", "text": "Air is drawn in and heated by an *electric coil* or a gas flame."},
+  {"label": "Drum", "text": "The *drum* turns, tumbling the clothes so hot air reaches every side."},
+  {"label": "Evaporation", "text": "Heat turns the water in the fabric into *vapour*, and the air soaks it up."},
+  {"label": "Lint filter", "text": "A fan pulls the damp air through the *lint filter*. Clean it after every load."},
+  {"label": "Vent", "text": "Then the moist air blows out the *vent* to the outside."},
+  {"label": "Recap", "text": "Heat, tumble, *vent*. Follow Inside 60 for more."}
+ ]
+}
