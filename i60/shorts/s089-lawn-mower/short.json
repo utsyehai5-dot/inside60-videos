@@ -1,0 +1,14 @@
+{
+ "title": "How a Lawn Mower Works in 60 Seconds 🌱⚙️ #shorts",
+ "description": "A rotary mower spins one steel blade at roughly 3,000 RPM, and safety rules cap the blade tip at 19,000 feet per minute, over 200 mph. The blade's tips are bent up into wings that suck grass upright and throw clippings into the bag. Raising the wheels sets how tall the lawn stays. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#lawnmower #engineering #howitworks",
+ "tags": ["lawn mower", "how a lawn mower works", "rotary mower", "mower blade", "blade tip speed", "grass cutting", "small engine", "gardening", "engineering", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A mower blade tip can move at over *200 miles per hour*.", "stat": "19,000", "statsub": "FT/MIN TIP SPEED LIMIT"},
+  {"label": "Engine", "text": "A small *engine* or motor turns a vertical shaft about *3,000 times* a minute."},
+  {"label": "Blade", "text": "One steel *blade* bolts to that shaft, spinning flat just above the *grass*."},
+  {"label": "Cut", "text": "It doesn't slice like scissors. The fast edge *whacks* each blade of grass *clean off*."},
+  {"label": "Lift", "text": "Bent-up *wings* on the blade suck air up, standing the grass tall and *blowing clippings* into the bag."},
+  {"label": "Height", "text": "Raise or lower the *wheels*, and you set how *tall* your lawn stays."},
+  {"label": "Recap", "text": "Spin, whack, *bag*. Follow Inside 60 for more."}
+ ]
+}
