@@ -717,19 +717,19 @@
  {
   "slug": "s102-security-camera-night-vision",
   "topic": "Security camera night vision",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-03T17:05:00Z"
  },
  {
   "slug": "s103-motion-sensor-light",
   "topic": "Motion sensor light",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-04T17:05:00Z"
  },
  {
   "slug": "s104-ceiling-fan",
   "topic": "Ceiling fan",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-05T17:05:00Z"
  },
  {
