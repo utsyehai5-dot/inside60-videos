@@ -577,8 +577,9 @@
  {
   "slug": "s082-excavator",
   "topic": "Excavator",
-  "status": "doing",
-  "publish_at": "2027-02-11T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-02-11T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/978a707bd600729104adc770702b683d74cf8e23/i60/up/s082-excavator.mp4"
  },
  {
   "slug": "s083-forklift",
