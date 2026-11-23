@@ -777,8 +777,9 @@
  {
   "slug": "s110-clothes-dryer",
   "topic": "Clothes dryer",
-  "status": "doing",
-  "publish_at": "2027-03-11T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-11T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/29c8012a68d99e4df90d53b3e4c11635034144e6/i60/up/s110-clothes-dryer.mp4"
  },
  {
   "slug": "s111-iron-steam",
