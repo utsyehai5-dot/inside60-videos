@@ -1,0 +1,14 @@
+{
+ "title": "How a Motion Sensor Light Works in 60 Seconds 💡🚶 #shorts",
+ "description": "A motion sensor light doesn't see movement, it feels body heat. A Fresnel lens splits the yard into zones, and a pyroelectric sensor with two halves notices when a warm body moves from one zone to the next. A daylight sensor keeps it off during the day and a timer switches it off when you leave. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#motionsensor #securitylight #howitworks",
+ "tags": ["motion sensor light", "pir sensor", "how motion sensor works", "passive infrared", "fresnel lens", "security light", "outdoor lighting", "smart home", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A motion sensor light can't actually see you. It *feels* your *body heat*.", "stat": "PIR", "statsub": "PASSIVE INFRARED"},
+  {"label": "Heat", "text": "Every warm body gives off *infrared* energy, invisible to our eyes."},
+  {"label": "Lens", "text": "A bumpy *Fresnel lens* splits the yard into many invisible *zones*."},
+  {"label": "Sensor", "text": "Behind it, a *pyroelectric* sensor has two halves that compare heat."},
+  {"label": "Trigger", "text": "Walk from one zone to the next and the halves *disagree*, so the lamp *switches on*."},
+  {"label": "Timer", "text": "A *daylight sensor* keeps it off by day, and a *timer* turns it off after you leave."},
+  {"label": "Recap", "text": "Heat, zones, *light*. Follow Inside 60 for more."}
+ ]
+}

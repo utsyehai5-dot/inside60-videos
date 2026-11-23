@@ -1,0 +1,14 @@
+{
+ "title": "How Security Camera Night Vision Works in 60 Seconds 🌙📷 #shorts",
+ "description": "Security cameras see in total darkness by lighting the scene with infrared light our eyes can't see. A light sensor notices dusk, a tiny IR-cut filter slides away, and a ring of infrared LEDs floods the area, so the sensor records a black-and-white image. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#nightvision #securitycamera #howitworks",
+ "tags": ["night vision", "security camera", "how night vision works", "infrared camera", "ir led", "ir cut filter", "cctv", "home security", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Security cameras see in *total darkness* by using light your eyes *can't see*.", "stat": "850 nm", "statsub": "INFRARED LIGHT"},
+  {"label": "Dusk", "text": "A small *light sensor* on the front notices when the sun goes down."},
+  {"label": "Filter", "text": "A tiny *IR-cut filter* slides away from the sensor with a quiet *click*."},
+  {"label": "LEDs", "text": "A ring of *infrared LEDs* switches on and floods the scene with invisible light."},
+  {"label": "Bounce", "text": "That light *bounces* off objects and back into the lens to the *image sensor*."},
+  {"label": "B&W", "text": "Infrared carries no color, so the picture turns *black and white*."},
+  {"label": "Recap", "text": "Sense, switch, *illuminate*. Follow Inside 60 for more."}
+ ]
+}

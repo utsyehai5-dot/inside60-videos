@@ -1,0 +1,14 @@
+{
+ "title": "How a Ceiling Fan Works in 60 Seconds 🌀🏠 #shorts",
+ "description": "A ceiling fan doesn't make the room colder, it cools you. A capacitor helps the motor create a rotating magnetic field, an outer rotor spins the tilted blades, and the moving air speeds up evaporation from your skin. Flip the direction in winter to gently push warm air down. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#ceilingfan #homehacks #howitworks",
+ "tags": ["ceiling fan", "how a ceiling fan works", "ceiling fan direction", "fan capacitor", "induction motor", "wind chill", "energy saving", "home", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A ceiling fan doesn't cool the room at all. It *cools you*.", "stat": "4°F", "statsub": "FEELS COOLER"},
+  {"label": "Motor", "text": "Inside, a *capacitor* shifts the current so the coils make a *rotating* magnetic field."},
+  {"label": "Rotor", "text": "That field drags the *outer rotor* around, and the blades are bolted to it."},
+  {"label": "Blades", "text": "Each blade is *tilted*, so it scoops air and pushes a column *downward*."},
+  {"label": "Breeze", "text": "Moving air speeds up *evaporation* from your skin, so you feel *cooler*."},
+  {"label": "Winter", "text": "Flip it to *clockwise* in winter and it gently pushes *warm air* down."},
+  {"label": "Recap", "text": "Spin, push, *breeze*. Follow Inside 60 for more."}
+ ]
+}
