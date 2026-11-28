@@ -893,8 +893,9 @@
  {
   "slug": "s126-freezer",
   "topic": "Freezer",
-  "status": "doing",
-  "publish_at": "2027-03-27T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-27T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e2e200a1a2751dc681f29a6b1526806f0e2901e5/i60/up/s126-freezer.mp4"
  },
  {
   "slug": "s127-juicer",
