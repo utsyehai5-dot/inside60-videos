@@ -844,20 +844,19 @@
  {
   "slug": "s119-rice-cooker",
   "topic": "Rice cooker",
-  "status": "todo",
-  "publish_at": "2027-03-20T17:05:00Z",
-  "last_error": "2026-11-28: stuck in doing since 2026-11-23 (run ended early), reset to todo"
+  "status": "doing",
+  "publish_at": "2027-03-20T17:05:00Z"
  },
  {
   "slug": "s120-slow-cooker",
   "topic": "Slow cooker",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-21T17:05:00Z"
  },
  {
   "slug": "s121-air-fryer",
   "topic": "Air fryer",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-22T17:05:00Z"
  },
  {
