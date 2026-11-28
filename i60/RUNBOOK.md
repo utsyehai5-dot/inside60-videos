@@ -1,3 +1,13 @@
+# >>> PRODUCTION PAUSED (28 Nov, owner approved in main chat) <<<
+Enough videos are stored (Inside 60 until ~25 Mar 2027, Money Machine Files until ~24 Apr 2027) and the owner's
+Claude usage limit was being hit, which made uploads and Instagram posts fail. Until the owner says otherwise:
+- Do NOT make new items (no research, no rendering). Only UPLOAD "ready" items, earliest publish_at first,
+  max 6 YouTube uploads per UTC day across both channels (throttle rules below still apply).
+- Before 2026-12-02 (Zapier trial): upload as many as the cap allows, in date order (this overrides the older
+  "1 per day" / "up to 19 Dec" upload rules). Items whose publish_at is already in the past: set status "skip",
+  note "missed date".
+- Keep each run short: clone, upload, update queue, push, stop.
+
 # Inside 60 — Shorts production runbook (for Claude)
 
 Channel: Inside 60 (@Inside60HQ). Vertical 3D "how it works in 60 seconds" Shorts, English, Andrew voice.
