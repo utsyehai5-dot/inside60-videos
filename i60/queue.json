@@ -3,9 +3,8 @@
   "slug": "s001-toaster",
   "topic": "Toaster",
   "status": "ready",
-  "publish_at": "2026-11-22T17:05:00Z",
+  "publish_at": "2027-01-22T17:05:00Z",
   "note": "scene.js and short.json exist; timer shot was fixed after the sample, so re-render then upload",
-  "last_error": "2026-11-22 08:45 UTC: Zapier YouTube 'throttled without retry' on first attempt (throttle had just expired). Still ready; publish_at 2026-11-22T17:05Z will likely pass before next try - may need a new date.",
   "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/0e89c77/i60/up/s001-toaster.mp4"
  },
  {
@@ -30,21 +29,21 @@
   "slug": "s004-smartphone-touchscreen",
   "topic": "Smartphone touchscreen",
   "status": "ready",
-  "publish_at": "2026-11-25T17:05:00Z",
+  "publish_at": "2027-09-06T17:05:00Z",
   "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/43bc6fab3d38e2a85b07b87c462a4ea2dec4da32/i60/up/s004-smartphone-touchscreen.mp4"
  },
  {
   "slug": "s005-washing-machine",
   "topic": "Washing machine",
   "status": "ready",
-  "publish_at": "2026-11-26T17:05:00Z",
+  "publish_at": "2027-09-07T17:05:00Z",
   "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/307146f638118d86f7d80bdc8c7ff1c614af5c17/i60/up/s005-washing-machine.mp4"
  },
  {
   "slug": "s006-dishwasher",
   "topic": "Dishwasher",
   "status": "ready",
-  "publish_at": "2026-11-27T17:05:00Z",
+  "publish_at": "2027-09-08T17:05:00Z",
   "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/65d0b83263a5e4c131739e4cb1d08f60b083f135/i60/up/s006-dishwasher.mp4"
  },
  {
