@@ -368,13 +368,12 @@
  {
   "slug": "ep23-hm",
   "company": "H&M",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-04-24T17:00:00Z",
   "short_dates": [
    "2027-04-27T17:00:00Z",
    "2027-04-29T17:00:00Z"
-  ],
-  "last_error": "2026-11-28: stuck in doing since 2026-11-23 (run ended early), reset to todo"
+  ]
  },
  {
   "slug": "ep24-ferrari",
