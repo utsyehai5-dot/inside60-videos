@@ -64,7 +64,7 @@
  {
   "slug": "ep04-lego",
   "company": "LEGO",
-  "status": "ready",
+  "status": "done",
   "publish_at": "2026-12-12T17:00:00Z",
   "short_dates": [
    "2026-12-15T17:00:00Z",
@@ -77,7 +77,17 @@
   ],
   "thumb_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/1f0c68c/mmf/up/ep04-lego_thumb.png",
   "long_id": "7HxQ4nO5grk",
-  "uploaded_on": "2026-11-28"
+  "uploaded_on": "2026-11-28",
+  "shorts": [
+   {
+    "id": "MPllUrOZDkA",
+    "publish_at": "2026-12-15T17:00:00Z"
+   },
+   {
+    "id": "0OmuG3YGVlo",
+    "publish_at": "2026-12-17T17:00:00Z"
+   }
+  ]
  },
  {
   "slug": "ep05-apple",
