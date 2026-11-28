@@ -837,9 +837,9 @@
  {
   "slug": "s118-garbage-disposal",
   "topic": "Garbage disposal",
-  "status": "doing",
+  "status": "ready",
   "publish_at": "2027-03-19T17:05:00Z",
-  "note_run": "2026-11-28 reclaimed (stale doing since 11-23)"
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/14aa59430c3eb36e048801862b287caa0a7789da/i60/up/s118-garbage-disposal.mp4"
  },
  {
   "slug": "s119-rice-cooker",
