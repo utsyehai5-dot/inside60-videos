@@ -851,8 +851,9 @@
  {
   "slug": "s120-slow-cooker",
   "topic": "Slow cooker",
-  "status": "doing",
-  "publish_at": "2027-03-21T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-21T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/1e8f853e66c4647688d2f7cf6e84f0e8a8398190/i60/up/s120-slow-cooker.mp4"
  },
  {
   "slug": "s121-air-fryer",
