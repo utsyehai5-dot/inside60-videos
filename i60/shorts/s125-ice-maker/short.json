@@ -1,0 +1,49 @@
+{
+ "title": "How an Ice Maker Works in 60 Seconds 🧊❄️ #shorts",
+ "description": "A fridge ice maker makes ice all by itself. A valve fills a tray with water, a thermostat waits until it freezes, a tiny heater loosens the cubes, and a rotating arm pushes them into the bin. A wire arm stops the cycle when the bin is full. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#icemaker #howitworks #shorts",
+ "tags": [
+  "ice maker",
+  "refrigerator ice maker",
+  "how an ice maker works",
+  "ice cubes",
+  "freezer",
+  "kitchen science",
+  "appliance",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "Your fridge makes ice *all by itself*, batch after batch, and you never touch a tray.",
+   "stat": "0 HANDS",
+   "statsub": "FULLY AUTOMATIC"
+  },
+  {
+   "label": "Fill",
+   "text": "First, an electric *water valve* opens for a few seconds and fills a curved metal tray."
+  },
+  {
+   "label": "Freeze",
+   "text": "Freezing air chills the tray, while a *thermostat* waits until the water is solid ice."
+  },
+  {
+   "label": "Loosen",
+   "text": "Then a small *heater* under the tray warms it just enough to free the cubes."
+  },
+  {
+   "label": "Eject",
+   "text": "A little motor turns *ejector arms* that lift the cubes out and sweep them into the bin."
+  },
+  {
+   "label": "Full",
+   "text": "A *wire arm* rests on top of the ice. When the bin is full, it lifts and stops the cycle."
+  },
+  {
+   "label": "Recap",
+   "text": "Fill, freeze, *eject*. Follow Inside 60 for more."
+  }
+ ]
+}
