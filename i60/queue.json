@@ -830,9 +830,9 @@
  {
   "slug": "s117-water-softener",
   "topic": "Water softener",
-  "status": "doing",
+  "status": "ready",
   "publish_at": "2027-03-18T17:05:00Z",
-  "note_run": "2026-11-28 reclaimed (stale doing since 11-23)"
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/ab4a0ff20b4a5f1726c9288816d05f48a4e6ae21/i60/up/s117-water-softener.mp4"
  },
  {
   "slug": "s118-garbage-disposal",
