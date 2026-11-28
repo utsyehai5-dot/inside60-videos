@@ -1,0 +1,14 @@
+{
+ "title": "How an Oven Thermostat Works in 60 Seconds 🌡️🔥 #shorts",
+ "description": "Your oven never holds one exact temperature. A sensor probe inside measures the heat, and the control switches the heating element on below your setting and off just above it. The result is a gentle wave of temperature around the number you picked. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#oven #howitworks #shorts",
+ "tags": ["oven thermostat", "how an oven thermostat works", "oven temperature sensor", "baking science", "heating element", "kitchen science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "Your oven never holds one temperature. It *clicks on and off* the whole time.", "stat": "ON / OFF", "statsub": "ALL BAKE LONG"},
+  {"label": "Sensor", "text": "A metal *sensor probe* sits inside, measuring the hot air."},
+  {"label": "Resistance", "text": "As it heats up, its electrical *resistance* rises, so the control can read the temperature."},
+  {"label": "Heat on", "text": "Below your setting, a switch sends power, and the *heating element* glows."},
+  {"label": "Heat off", "text": "Just past the target, it *cuts the power*, and the oven slowly cools."},
+  {"label": "Cycle", "text": "Then it heats again, so the temperature *waves* up and down around your number."},
+  {"label": "Recap", "text": "Sense, switch, *repeat*. Follow Inside 60 for more."}
+ ]
+}
