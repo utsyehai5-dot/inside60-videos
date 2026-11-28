@@ -872,8 +872,9 @@
  {
   "slug": "s123-gas-stove-burner",
   "topic": "Gas stove burner",
-  "status": "doing",
-  "publish_at": "2027-03-24T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-24T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/c040126c6986c6c707a2685b9d9d3c86bf8e77d7/i60/up/s123-gas-stove-burner.mp4"
  },
  {
   "slug": "s124-bread-maker",
