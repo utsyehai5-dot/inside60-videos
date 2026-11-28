@@ -886,8 +886,9 @@
  {
   "slug": "s125-ice-maker",
   "topic": "Ice maker",
-  "status": "doing",
-  "publish_at": "2027-03-26T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-26T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/932a054074bc8c003451e1afd67ccb7c0af8275b/i60/up/s125-ice-maker.mp4"
  },
  {
   "slug": "s126-freezer",
