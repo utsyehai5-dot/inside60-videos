@@ -900,8 +900,9 @@
  {
   "slug": "s127-juicer",
   "topic": "Juicer",
-  "status": "doing",
-  "publish_at": "2027-03-28T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-28T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/dd71ac7112f16619e9ffe09152701dc534436ded/i60/up/s127-juicer.mp4"
  },
  {
   "slug": "s128-stand-mixer",
