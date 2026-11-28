@@ -886,19 +886,19 @@
  {
   "slug": "s125-ice-maker",
   "topic": "Ice maker",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-26T17:05:00Z"
  },
  {
   "slug": "s126-freezer",
   "topic": "Freezer",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-27T17:05:00Z"
  },
  {
   "slug": "s127-juicer",
   "topic": "Juicer",
-  "status": "todo",
+  "status": "doing",
   "publish_at": "2027-03-28T17:05:00Z"
  },
  {
