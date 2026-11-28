@@ -879,8 +879,9 @@
  {
   "slug": "s124-bread-maker",
   "topic": "Bread maker",
-  "status": "doing",
-  "publish_at": "2027-03-25T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-25T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/2e289342e3c874cc5c1dd144ac2e43374317607d/i60/up/s124-bread-maker.mp4"
  },
  {
   "slug": "s125-ice-maker",
