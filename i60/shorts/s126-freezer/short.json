@@ -1,0 +1,50 @@
+{
+ "title": "How a Freezer Works in 60 Seconds ❄️🥶 #shorts",
+ "description": "A freezer doesn't add cold, it pumps heat out. Liquid refrigerant boils inside cold coils and soaks up heat, a compressor squeezes the hot vapor, and coils outside dump that heat into your kitchen. A fan and thermostat keep the box near minus 18 degrees Celsius. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#freezer #howitworks #shorts",
+ "tags": [
+  "freezer",
+  "how a freezer works",
+  "refrigerant",
+  "compressor",
+  "evaporator",
+  "condenser",
+  "refrigeration cycle",
+  "kitchen science",
+  "how it works",
+  "3d animation",
+  "inside 60",
+  "shorts"
+ ],
+ "steps": [
+  {
+   "label": "Hook",
+   "text": "A freezer doesn't actually make cold. It *pumps heat out* of the box, all day long.",
+   "stat": "-18°C",
+   "statsub": "0°F TARGET"
+  },
+  {
+   "label": "Evaporator",
+   "text": "Inside, liquid *refrigerant* boils in cold coils and soaks up the heat from your food."
+  },
+  {
+   "label": "Compressor",
+   "text": "A *compressor* then squeezes that vapor, making it hot and high pressure."
+  },
+  {
+   "label": "Condenser",
+   "text": "Coils on the outside *release the heat* into your kitchen, and the vapor turns back into liquid."
+  },
+  {
+   "label": "Valve",
+   "text": "A tiny *expansion valve* drops the pressure, so the liquid gets icy cold again."
+  },
+  {
+   "label": "Thermostat",
+   "text": "A *fan* spreads the cold air, and a thermostat switches the compressor on and off."
+  },
+  {
+   "label": "Recap",
+   "text": "Absorb, squeeze, *release*. Follow Inside 60 for more."
+  }
+ ]
+}
