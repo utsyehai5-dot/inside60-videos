@@ -844,8 +844,9 @@
  {
   "slug": "s119-rice-cooker",
   "topic": "Rice cooker",
-  "status": "doing",
-  "publish_at": "2027-03-20T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-20T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/498750a2b29d54bb5e8c678759c11d5dbda323f1/i60/up/s119-rice-cooker.mp4"
  },
  {
   "slug": "s120-slow-cooker",
@@ -856,8 +857,9 @@
  {
   "slug": "s121-air-fryer",
   "topic": "Air fryer",
-  "status": "doing",
-  "publish_at": "2027-03-22T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-22T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/498750a2b29d54bb5e8c678759c11d5dbda323f1/i60/up/s121-air-fryer.mp4"
  },
  {
   "slug": "s122-oven-thermostat",
