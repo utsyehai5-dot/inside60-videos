@@ -816,9 +816,9 @@
  {
   "slug": "s115-dehumidifier",
   "topic": "Dehumidifier",
-  "status": "doing",
+  "status": "ready",
   "publish_at": "2027-03-16T17:05:00Z",
-  "note_run": "2026-11-28 reclaimed (stale doing since 11-23)"
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/a5398e281c4a05c860e71d2c8aa797e0caf8d03b/i60/up/s115-dehumidifier.mp4"
  },
  {
   "slug": "s116-water-filter",
