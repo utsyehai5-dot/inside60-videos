@@ -865,8 +865,9 @@
  {
   "slug": "s122-oven-thermostat",
   "topic": "Oven thermostat",
-  "status": "doing",
-  "publish_at": "2027-03-23T17:05:00Z"
+  "status": "ready",
+  "publish_at": "2027-03-23T17:05:00Z",
+  "file_url": "https://raw.githubusercontent.com/utsyehai5-dot/inside60-videos/e4bb4ee706813831a8e7c34a8194498d62a21c8f/i60/up/s122-oven-thermostat.mp4"
  },
  {
   "slug": "s123-gas-stove-burner",
