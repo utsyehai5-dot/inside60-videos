@@ -1,0 +1,14 @@
+{
+ "title": "How a Rice Cooker Works in 60 Seconds 🍚🧲 #shorts",
+ "description": "A simple rice cooker knows when rice is done using physics, not a timer. While water is left, the pot can't go above 100°C. Once the water is absorbed, the temperature climbs, a magnet in the thermostat loses its pull, and the cooker drops to warm. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#ricecooker #howitworks #shorts",
+ "tags": ["rice cooker", "how a rice cooker works", "curie point", "thermostat", "boiling point", "magnet", "kitchen science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "A basic rice cooker has *no timer*. It uses a *magnet* to know when rice is done.", "stat": "100°C", "statsub": "THE MAGIC NUMBER"},
+  {"label": "Heater", "text": "Press the switch, and a *heating plate* under the inner pot gets very hot."},
+  {"label": "Boiling", "text": "Water can't get hotter than *100°C* while it boils, so the pot stays stuck there."},
+  {"label": "Absorbed", "text": "The rice *soaks up* the water. With no water left, the pot finally climbs past 100°C."},
+  {"label": "Magnet", "text": "A magnet in the thermostat *loses its pull* when it gets that hot, and lets go."},
+  {"label": "Click", "text": "A spring snaps the switch with a *click*, and the cooker drops to *keep warm*."},
+  {"label": "Recap", "text": "Boil, absorb, *click*. Follow Inside 60 for more."}
+ ]
+}

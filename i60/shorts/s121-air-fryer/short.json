@@ -1,0 +1,14 @@
+{
+ "title": "How an Air Fryer Works in 60 Seconds 🍟🌀 #shorts",
+ "description": "An air fryer doesn't fry at all. It's a small convection oven: a heating element and a powerful fan blast hot air around the food in a perforated basket. Fast-moving hot air dries the surface and triggers browning reactions for a crispy crust with little oil. Follow Inside 60 for a new \"how it works\" explained in 60 seconds.\n\n#airfryer #howitworks #shorts",
+ "tags": ["air fryer", "how an air fryer works", "convection", "maillard reaction", "crispy fries", "hot air", "kitchen science", "how it works", "3d animation", "inside 60", "shorts"],
+ "steps": [
+  {"label": "Hook", "text": "An air fryer doesn't fry. It's really a tiny, *super-fast oven*.", "stat": "200°C", "statsub": "HOT AIR"},
+  {"label": "Element", "text": "At the top, a coiled *heating element* glows red hot."},
+  {"label": "Fan", "text": "Right above it, a strong *fan* blasts that heat down and around the food."},
+  {"label": "Basket", "text": "Holes in the *basket* let hot air swirl underneath, so every side gets hit."},
+  {"label": "Dry surface", "text": "Fast-moving air whips moisture off the surface, so it *dries* instead of steaming."},
+  {"label": "Crispy", "text": "A dry, hot surface browns through the *Maillard reaction*, making a crispy crust with *little oil*."},
+  {"label": "Recap", "text": "Heat, fan, *crunch*. Follow Inside 60 for more."}
+ ]
+}
