@@ -844,8 +844,9 @@
  {
   "slug": "s119-rice-cooker",
   "topic": "Rice cooker",
-  "status": "doing",
-  "publish_at": "2027-03-20T17:05:00Z"
+  "status": "todo",
+  "publish_at": "2027-03-20T17:05:00Z",
+  "last_error": "2026-11-28: stuck in doing since 2026-11-23 (run ended early), reset to todo"
  },
  {
   "slug": "s120-slow-cooker",
